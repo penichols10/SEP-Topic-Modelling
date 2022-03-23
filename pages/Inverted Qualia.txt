@@ -1,0 +1,1301 @@
+Qualia (singular ‘quale’), in a common modern usage, are
+properties of experiences that type them in phenomenological respects.
+Imagine seeing three colored patches against a neutral background in
+good light, one after the other. In particular, imagine seeing a
+vermilion patch, then a crimson patch, and finally a turquoise patch.
+(Those with poor imaginations may consult Figure 1.)
+Figure 1:
+vermilion, crimson, and turquoise patches
+Three experiences of the imagined sort differ in their
+phenomenology, or in “what it’s like” to undergo them. What
+it’s like to see the crimson patch is not the same as what it’s like to
+see the turquoise patch, for example. Further—assuming you have
+normal color vision—seeing the crimson patch is more similar,
+in phenomenological respects, to seeing the vermilion patch than it is
+to seeing the turquoise patch.
+Thus your experience of the crimson patch has a quale (call it
+‘\(Q_{C}\)’) that your experiences of
+the vermilion and turquoise patches lack. Your experience of the
+vermilion patch has a quale \((Q_{V})\) that your
+experiences of the crimson and turquoise patches lack; likewise, your
+experience of the turquoise patch has quale
+\(Q_{T}\). What about an experience of all three
+patches, as when viewing the whole of figure 1? Which of
+\(Q_{C}, Q_{V}\), and
+\(Q_{T}\) does that have? The answer usually
+implicit in the literature is ‘All three’ (as opposed to
+ ‘None’).[1]
+ This is probably the more natural way of
+understanding qualia terminology, given the explanation so far, and is
+the one adopted in this article.
+In addition to the quale \(Q_{C}\), your
+experience of the crimson patch has quale
+\(Q_{R}\) which it shares with your experiences
+of the vermilion patch, blood, fire trucks, strawberries, ripe
+tomatoes, and so on. Your experience of the turquoise patch (in
+isolation) lacks \(Q_{R}\).
+It must be emphasized that
+‘\(Q_{C}\)’, for example, is not
+explicitly defined using color terminology.
+‘\(Q_{C}\)’ is not stipulated to be
+an abbreviation of ‘the property of being an experience of
+something’s looking crimson’, for instance. Rather, the role of
+descriptions like the latter is simply to draw attention to the salient
+property that ‘\(Q_{C}\)’ is supposed
+to be a name for, in much the same way that one might introduce the
+unfamiliar name ‘Eugene Cernan’ by saying that it refers to
+the last man to walk on the moon. In the jargon, the description
+‘the property of being an experience of something’s looking
+crimson’ can be used to fix the reference of
+‘\(Q_{C}\)’. (See the entry on
+ reference.)
+Qualia terminology can be introduced in a similar manner for other
+sorts of visual experiences (seeing differently shaped patches, for
+instance), for other perceptual modalities, for bodily sensations, and
+for thoughts, imagery, emotions, and so forth. It is controversial
+whether some of these mental events/states have qualia—in
+particular, episodes of conscious thought, at least some of which seem
+devoid of
+ phenomenology.[2]
+One might wonder why some special terminology is required.
+Admittedly ‘\(Q_{R}\)’, for example,
+is not defined in terms of ‘red’, but isn’t
+\(Q_{R}\) in fact the property of being an
+experience of something’s looking
+ red?[3]
+ And if it is, why
+introduce another name? However, as discussed later (subsection 3.2),
+there is an argument against this identification.
+‘Qualia’ is an especially confusing piece of
+terminology, even by the standards of the profession that brought us
+‘realism’. In the sense just explained, the claim that
+experiences have qualia seems fairly
+ harmless.[4]
+ The innocent student
+might well be puzzled, then, to learn of Frank Jackson’s controversial
+“knowledge argument for qualia” (Jackson 1982), and
+Dennett’s attempt to dismiss qualia as a philosopher’s invention
+(Dennett 1988). But on closer examination, much of this apparent
+disagreement is merely terminological. On Jackson’s use of the term,
+qualia are properties of mental states “which no amount of purely
+physical information includes” (1982, 273); on Dennett’s, they
+are “ineffable”, “intrinsic”,
+“private”, and “directly or immediately apprehensible
+in consciousness” (1988, 229; cf. Tye 2002, 447). And none of
+this is part of the official explanation of ‘qualia’ in the
+previous section.
+Another use of ‘qualia’ that is particularly important
+to distinguish from the present one is Dretske’s. According to Dretske,
+qualia include colors—properties of objects like
+tomatoes, not experiences. This is because he explains qualia as
+“the ways objects phenomenally appear or seem” (1995, 73),
+and red is one way that tomatoes
+ appear.[5]
+ Qualia, on Dretske’s
+use, are properties of objects of experiences; in this article
+qualia are properties of experiences.
+The American pragmatist C. I. Lewis introduced ‘qualia’
+into contemporary
+ philosophy.[6]
+ Qualia, he explains in Mind and the
+World Order, are “recognizable qualitative characters of the
+given” (1929, 121). According to Lewis, what is
+“given” in experience are sense-data (although Lewis
+himself preferred other terminology: see 55–7), not objects like
+tomatoes. Goodman’s well-known discussion of qualia in The
+Structure of Appearance (1951) follows Lewis’s use. Among
+Jackson, Dennett, and Dretske, Dretske’s use of ‘qualia’ is
+the closest to Lewis’s. Restricting attention to the case of veridical
+perception, we may think of Dretske as basically agreeing with Lewis
+about the characterization of qualia, but disagreeing with Lewis about
+the given. When one sees that a tomato is red, according to Lewis a
+sense-datum, not the tomato, is given; according to Dretske what is
+given is the tomato. So, since a “recognizable qualitative
+character” of the tomato is its color, Dretske thinks that colors
+are examples of
+ qualia.[7]
+Let us say that a scenario is a (more-or-less detailed)
+story, which may be possible or impossible. (So, for example, there is
+a scenario in which someone squares the circle.) Corresponding to a
+scenario is what we can call a hypothesis: that the scenario
+is possible. So, for example, the hypothesis corresponding to
+a circle-squaring scenario is false. There are a variety of
+“inverted qualia” scenarios in the literature—almost 
+always involving color perception—whose corresponding
+hypotheses differ in plausibility. These hypotheses are used as
+premises in a number of philosophical arguments, discussed in section 3
+below.
+Consider the hue circle in figure 2, taken from the Natural Color
+System color space, which is organized around the four hues red, green,
+blue, and
+ yellow.[8]
+ These are the unique hues:
+they have shades that are not perceptual mixtures of any other hue. For
+example, there is a shade of green that is neither bluish nor
+yellowish. The other hues are binary: all of their shades are
+perceptual mixtures of two unique hues. For example, every shade of
+purple is bluish and reddish. The four unique hues—yellow, red,
+blue, green—come in two opponent pairs: red-green and
+blue-yellow. Red is opposed to green in the sense that there are no
+reddish-greens or greenish-reds; likewise there are no bluish-yellows
+or yellowish-blues. The unique hues are equally spaced around the NCS
+circle, and the other hues are spaced according to their perceptible
+proportion of the unique hues. So, for example, the orange patch
+equidistant from the unique yellow pole and unique red pole is equally
+similar to both.
+Figure 2:
+NCS hue circle[9]
+Let \(I\) be the function that takes each shade to its opposing
+shade, thus rotating the hue circle 180°. \(I\) maps reds to
+greens, blues to yellows, bluish-greens to yellowish-reds, and so on
+(see figure 3).
+Figure 3:
+the function \(I\)
+Introduce another perceiver, Invert (you are Nonvert). Imagine you
+are looking at scene \(S\): an arrangement of some fruits (see the
+left-hand part of figure 4). Now take the apparent hues of objects in
+\(S\), and transform them using the function \(I\). Use this
+transformation to create a new scene \(S_{I}\), exactly
+like the old scene \(S\) except that it looks to have differently
+colored “inverted” fruits (etc.). That is, if a banana
+originally looks to have hue \(h\), in \(S_{I}\) it
+looks to have hue \(I(h)\). (See the right-hand part of
+figure 4; notice that the greens in \(S\) are rather yellowish,
+and hence get mapped to bluish-reds.) Then one simple inverted qualia
+scenario is this: what it’s like for Invert to look at \(S\) is
+exactly the same as what it’s like for Nonvert (i.e., you) to look at
+\(S_{I}\), and similarly for all other scenes that Invert
+encounters. According to this scenario, if you look at the right-hand
+part of figure 4, your experience is phenomenologically the same as
+Invert’s experience when she looks at the left-hand part of figure 4.
+In qualia terminology: if an object \(O_{1}\) looks to
+have hue \(h\) to Nonvert (with \(Q\) being the corresponding
+quale of her experience), and \(O_{2}\) looks to have hue
+\(I(h)\) (with corresponding quale \(Q^*\)), then
+Invert’s experience of \(O_{1}\) has quale \(Q^*\) and
+her experience of \(O_{2}\) has quale \(Q\). In this
+sense Invert’s qualia are ‘inverted’ with respect to
+Nonvert’s.
+Figure 4:
+180° hue inversion
+Because the example concerns color qualia, this sort of inverted
+qualia scenario is usually described as a case of “spectrum
+inversion”. (Note that the 180° inversion takes unique hues
+to unique hues, and binary hues to binary hues. An inversion scenario
+produced by a rotation of 45° would take the unique hue red to the
+binary hue orange; and so presumably would be behaviorally detectable:
+see subsection 2.3.1 below.)
+Philosophy is stuck with the terminology of ‘spectrum
+inversion’, but it is potentially
+ misleading.[10]
+ First, a
+spectrum inversion scenario sounds like one which inverts either the
+spectrum or the colors of objects, but it actually inverts neither. In
+a typical spectrum inversion scenario, the spectral band 650–700nm
+remains red, and lemons remain
+ yellow.[11]
+Second, even when properly taken as an inversion of experiences, one
+might suppose that the “spectrum inversion” function
+corresponds to flipping the spectrum over. That is, using the
+traditional names for the spectral bands, one might suppose the
+function maps red to violet, orange to indigo, yellow to blue, green to
+green, blue to yellow, indigo to orange, and violet to red. However,
+this is not the usual sort of inversion scenario (red is not mapped to
+green, for example). Further, this function is not defined for all
+hues. Many hues—in particular, a large range of
+“extra-spectral” purples—are not found in the
+spectrum.
+Locke appears to have been the first to formulate explicitly an
+inverted spectrum scenario. (An immediate precursor is 
+Malebranche.[12]) 
+In the chapter of the Essay titled
+Of True and False Ideas, Locke writes:
+Locke’s description of this inverted spectrum scenario is laden with
+his own commitment to “Ideas”, which (on one
+interpretation) are sense-data, some of which possess both color and
+ shape.[13]
+ On this view, spectrum inversion is a case
+of “sense-datum inversion”: when Invert looks at a violet
+she becomes acquainted with the kind of sense-datum Nonvert is
+acquainted with when he looks at a marigold. Setting this tendentious
+theoretical gloss aside, Locke’s scenario has three notable features.
+First, it is a case of spectrum inversion from birth. Second,
+it is a case of inversion within the same linguistic
+community. Third, it is (or is naturally read as being) a case in
+which Invert and Nonvert are behaviorally alike—a
+behaviorally undetectable spectrum inversion.
+Locke does not fill in the details of his scenario, so it is left
+unclear whether, for example, the leaves of marigolds and violets would
+produce “Red Ideas” in the mind of the inverted subject.
+But suppose, reasonably enough, that Locke’s scenario involved a
+rotation of the hue circle. Locke evidently thought that the hypothesis
+corresponding to his scenario was true: that his scenario is possible.
+Was he right?
+If we assume that Invert is otherwise like a normal human perceiver,
+then a major asymmetry in color space shows that Locke was incorrect.
+Hue (red, green, bluish-red, etc.) is not the only perceptually salient
+dimension along which colors can vary: there are (usually taken to be)
+two other dimensions, saturation and
+ lightness.[14]
+ A color is saturated to the extent to
+which its hue is intense or vivid: pastels are desaturated, and
+achromatic colors (blacks, whites, and grays) have no saturation.
+Colors become lighter as they become less grayish or blackened.
+Arranging the colors along these three dimensions produces a color
+solid, an example of which is shown in figure 5:
+Figure 5:
+3D color space: the Munsell color solid[15]
+The lightness dimension corresponds to the central vertical axis,
+with white at the top. The hue and saturation dimensions correspond,
+respectively, to the angle around the vertical axis, and to the
+distance from it. Thus the shades of maximum saturation are on the
+outside of the solid. Notice that the yellows have their maximum
+saturation at higher levels of lightness than the reds and the blues.
+So, assuming that Invert’s judgments of the relations between colors
+are—modulo the inversion—normal, a possible Lockean
+180° hue rotation scenario would be behaviorally detectable. Invert
+would judge the maximally saturated colors she calls ‘shades of
+blue’ to be lighter than the maximally saturated colors she calls
+‘shades of yellow’. Further, there are more distinguishable
+hue steps between blue and red than there are between yellow and 
+green—a fact that is reflected in the Munsell space, whose hue circle
+has five hues equally spaced: red, yellow, green, blue, purple.
+(Contrast the NCS space mentioned in the previous subsection.) Hence
+the Lockean inversion function \(I\), assuming it is defined on
+all hues, would map some distinct hues (in particular, some bluish
+reds) to the same hue (in particular, the same yellowish green). The
+range of \(I\) would therefore contain fewer hues than its domain.
+Invert would not be able to distinguish some stimuli (those she calls
+‘bluish red’) that Nonvert could tell apart, and so again
+the inversion would be behaviorally detectable.
+As discussed in section 3 below, inverted spectrum scenarios have a
+wide range of philosophical uses, and come in a correspondingly wide
+range of flavors. It is not always required, for example, that Invert
+and Nonvert are behaviorally alike. But suppose that a behaviorally
+undetectable scenario is needed, and moreover one that is genuinely
+possible. With the assumption that Invert is otherwise normal, we just
+saw that Locke’s behaviorally undetectable scenario is not possible.
+Without relaxing the simple assumption about Invert, can we find one
+that is?
+Suppose we stay with the full range of normal human color
+experience, and so with the color solid as illustrated in figure 5. The
+discussion of Locke’s scenario shows that a scenario corresponding to a
+rotation of the color solid around the lightness axis should be
+avoided. However, as Palmer points out (1999a, 926), there are three
+inversion scenarios that at least solve the problem posed by the light
+and saturated yellows. These three scenarios correspond to,
+respectively, a reversal of the red-green axis; a reversal of the
+blue-yellow and black-white axes; and the previous two reversals taken
+together: a reversal of the red-green, blue-yellow, and black-white
+axes. These three scenarios are (approximately) illustrated in Figure 6
+below.
+Figure 6:
+three inversions: red-green (top right); blue-yellow/black-white (bottom left);
+red-green/blue-yellow/black-white (bottom right)
+As noted in the previous subsection, there are more perceptually
+distinguishable shades between red and blue than there are between
+green and yellow, which would make red-green inversion behaviorally
+ detectable.[16]
+ And there are yet further asymmetries.
+Dark yellow is brown (qualitatively different from yellow), whereas
+dark blue is blue (see figure 6). Similarly, desaturated bluish-red is
+pink (qualitatively different from saturated bluish-red), whereas
+desaturated greenish-yellow is similar to saturated greenish-yellow.
+Again, red is a “warm” color, whereas blue is
+“cool”—and perhaps this is not a matter of learned
+associations with temperature (see Hardin 1997, 297–7). In any event,
+there is clearly scope to resist the claim that one of Palmer’s three
+inversions would be behaviorally
+ undetectable.[17]
+Faced with these difficulties, philosophers seeking a clearly
+possible behaviorally undetectable inversion scenario have either
+considered a perceiver with limited color vision (for instance
+black-white vision), or else a perceiver with alien/quasi color vision,
+where any alien/quasi color space that represents perceptible
+similarities and differences is stipulated to have appropriate
+symmetries. Here is Shoemaker trying the first strategy:
+For some responses, see Tye 1995, 205, and Hilbert and Kalderon 2000,
+206. “Black-white” inversion is also discussed by Clark
+(1996) (Other Internet Resources), Myin (2001) and Broackes (2007), and was briefly
+mentioned by Wittgenstein (1977,
+ III-84).[18]
+ For a short autobiography of a complete
+achromat (someone with only black-white rod vision) who is also a
+vision scientist, see Nordby 1996 (Other Internet
+ Resources).[19]
+Here is Block trying the second strategy:
+For some doubts about the second strategy, see Hardin 1997,
+299–300.
+Hilbert and Kalderon argue that “every possible quality space
+must be asymmetrical” (2000, 204) (that is, must lack
+any symmetries); if so, both strategies are misguided (see also Dennett
+1991, 389–98; 1993, 927; 1994).
+If a behaviorally undetectable spectrum inversion scenario is
+possible, how do we know it does not actually obtain? There is a
+temptation to say that we do not know—moreover, that we cannot
+know. (For more discussion, see subsection 3.6 below.) And if we cannot
+verify or falsify the claim that such a scenario does not obtain, then
+according to the verificationist theory of meaning held by the logical
+positivists (Ayer 1959) the scenario is meaningless. Indeed, the
+logical positivists sometimes gave spectrum inversion as an example of
+an unverifiable claim (Schlick 1932/3, 93, quoted in Shoemaker 1982,
+339; see also Ayer 1936, 173–4, and Wittgenstein 1958, §272).
+The allegedly meaningless scenario is a case of
+interpersonal (or intersubjective) spectrum inversion: Invert
+is spectrally inverted with respect to another person, Nonvert. But
+there is another sort of inversion scenario, in which a single person’s
+qualia are inverted with respect to her qualia at an earlier time. As
+Shoemaker notes (1982, 327), a case of intrapersonal (or
+intrasubjective) spectrum inversion appears to have been first
+discussed by Wittgenstein:
+Although Wittgenstein seems to have thought that a behaviorally
+undetectable interpersonal spectrum inversion scenario is not possible
+(arguably for verificationist reasons), Shoemaker claims that once the
+possibility of a Wittgensteinian intrapersonal inversion is
+granted, there is an inexorable slide to the possibility of a
+behaviorally undetectable interpersonal scenario:
+We can think of this sort of argument as proceeding in four steps
+(see Block 1990, Shoemaker 1996b):
+Step 1: this is possible: an
+“overnight” intrapersonal inversion, as in the quotation
+from Wittgenstein.
+Step 2: if (Step 1), then this is possible: an
+“overnight” inversion followed by semantic adaptation
+(applying ‘red’ to glowing coal, ‘blue’ to the
+sky, etc.), but with memory of one’s experiences before the inversion.
+That is, one (re)learns to use color terminology like a normal person,
+while remembering that one’s experiences of glowing coal (etc.) used to
+be very different. The inversion remains detectable, because one
+asserts, for example, that one’s experiences have drastically
+changed.
+Step 3: if (Step 2), then this is possible: an
+“overnight” inversion followed by semantic adaptation,
+followed by amnesia about one’s past experiences, with the result that
+one’s pre- and post- inversion behavioral dispositions are the same. At
+this step, one’s behavior is just as it would have been if one had
+simply been stricken with amnesia, with no prior inversion.
+Step 4: if (Step 3), then this is possible: a
+“from birth” behaviorally undetectable
+interpersonal inversion scenario.
+Similar arguments starting from a Wittgensteinian intrapersonal
+scenario can be given for the other kinds of interpersonal inversion
+hypotheses discussed in section 3 below.
+One might think that at least step 4 is unproblematic. However,
+according to the “Frege-Schlick view” (Shoemaker 1982,
+339), interpersonal comparisons of qualia (unlike
+intrapersonal comparisons) do not make sense. The
+Frege-Schlick view could be supported on verificationist grounds; for
+a more interesting line of defense, see Stalnaker 1999, 2006, and
+Shoemaker 2006b and Block 2007, 103–7, for discussion. Since it makes
+perfect sense (and indeed is often true) to say that tomatoes look red
+to most people, a proponent of the Frege-Schlick view must deny, for
+example, that \(Q_{R}\) is the property of being
+an experience of something’s looking red (see section 1 above and
+Stalnaker 1999, 225).
+Asymmetries in color space pose problems for step 3 of the previous
+argument. But—especially for those with verificationist
+sympathies—step 3 is problematic even if these concerns are
+waived. Why be so sure that the “total adaptation”
+(semantic adaptation plus amnesia) doesn’t reinvert the qualia? After
+all, if you imagine being the subject yourself, after the period of
+amnesia you have no sense that anything is amiss—so perhaps
+nothing is. Similar doubts can be raised about step 2: suppose you use
+color terminology exactly as you did before the step 1 
+inversion—that is, spontaneously on the basis of how things 
+look—but you seem to recall that your past experiences were radically
+different. Would you be confident that you hadn’t misremembered your
+past experiences? (See Dennett 1988; 1991, Ch. 12; 1993; 1994; and Rey
+1992.)
+Although Block thinks “that these criticisms can be defeated
+on their own terms” (1990, 61), his “Inverted Earth”
+scenario is designed to sidestep them. (See Block 1990, 1996a,
+ 2003.)[22]
+ Instead of considering an
+“overnight” inversion and the consequent confusion,
+semantic adaptation and amnesia, your eyes are fitted with “color
+inverting lenses” and you are transported to another 
+planet—Inverted Earth. This is a place just like Earth except that
+each object has “the complementary color of [its counterpart] on
+Earth. The sky is yellow, grass is red, fire hydrants are green,
+etc.” (1990, 60). The inhabitants also speak Color Inverted
+English (‘red’ means green, ‘blue’
+means yellow, etc.). The right hand part of figure 4 above
+displays a photograph of fruits taken on Inverted Earth with an
+ordinary Earthly camera. (Despite the yellow sky, the illumination on
+Inverted Earth is the same as it is on Earth. Note that achromatic
+colors are not inverted—on Inverted Earth snow is white and
+coal is
+ black.)[23]
+ Because of the inverting lenses—and 
+ignoring complications such as those mentioned in subsection 
+2.3.1—when you arrive on Inverted Earth you notice no visible change.
+Your experience when you look at an arrangement of fruits on Inverted
+Earth is phenomenologically the same as your previous experience of the
+counterpart arrangement on Earth (see the left hand part of figure 4),
+and conversation with the locals proceeds just as smoothly as it did
+back on Earth. This scenario is therefore the converse of typical
+inverted spectrum scenarios: instead of keeping the environment fixed
+and varying the internal constitution of the subject, Inverted Earth
+varies the environment and (due to the inverting lenses) keeps the
+subject’s internal constitution fixed. Block uses Inverted Earth in an
+argument against functionalism and representationalism (see subsections
+3.1 and 3.2
+ below).[24]
+The qualia inversion scenarios discussed so far are merely
+hypothetical—more cautiously, we do not know whether any of
+them
+ obtain.[25]
+ There are, however, “shifted”
+qualia scenarios that actually obtain. And, in fact, many of
+the philosophical arguments that appeal to the possibility of an
+inversion scenario can make do instead by appealing to the actual
+shifted qualia scenario, hence avoiding potentially controversial
+claims about possibility.
+The shifted qualia scenario that is usually discussed 
+concerns—unsurprisingly—color vision. There is a substantial
+amount of variation between people classified as having
+“normal” color vision by standard tests, due to differences
+in the lens of the eye and photoreceptor pigments, among other factors.
+In one experiment, introduced into the philosophical literature by
+Hardin (1993, 79–80), Hurvich et al. (1968) found that the apparent
+location of unique green for spectral lights among 50 subjects varied
+from 490 to
+ 520nm.[26]
+ This is a large range: 15nm either side of
+unique green looks distinctly bluish or yellowish. For example, when
+Smith looks at the third patch in figure 7 (in isolation), his
+experience might have the quale that Jones’s experience has when she
+looks at the fourth patch in Figure 7, keeping the viewing
+circumstances fixed. And when Smith looks at the fourth patch, his
+experience might have the quale that Jones’s experience has when she
+looks at the fifth patch. Thus—at least over a small
+range of hues—Jones’s and Smith’s color qualia are
+“shifted” with respect to each other. Accordingly, this
+sort of scenario can be described as a case of “shifted spectra”
+(Block 1999). (NB: here we are assuming that the Frege-Schlick view
+mentioned in subsection 2.3.2 is incorrect.)
+Figure 7:
+five patches: yellowish-green to bluish-green
+Notice that if a behaviorally undetectable scenario is wanted, an
+actual case of shifted spectra will not fit the bill.
+Inversion scenarios—in particular, spectrum 
+inversion—turn up in a wide range of philosophical arguments, which we
+are now in a position to examine.
+Behaviorism in the philosophy of mind is the view that the
+mental is nothing over and above behavior (including dispositions to
+behave). Any version of behaviorism implies that the mental supervenes
+on behavior. That is: necessarily, two creatures who are behaviorally
+alike are also mentally alike. Likewise, any version of
+functionalism or physicalism implies that the mental
+supervenes on, respectively, functional organization and physical
+makeup. For the purposes of this subsection, it is not necessary to
+get into the details of these theories. However, two points should be
+noted. First, it should not be assumed that either behavior,
+functional organization, or physical makeup is an intrinsic 
+matter—the relevant sorts of behavioral, functional, and physical
+properties may be extrinsic.
+ In other words,
+perfect duplicates may differ in behavioral, functional, or physical
+ respects.[27]
+ Second, as these theories are usually
+understood, difference in behavioral respects implies difference in
+functional respects, which in turn implies difference in physical
+respects; none of the converse implications
+ holds.[28]
+ So the three
+supervenience theses just mentioned are related as follows: the
+behaviorist supervenience thesis implies the functionalist thesis,
+which in turn implies the physicalist thesis.
+If some behaviorally undetectable inverted spectrum hypothesis is
+correct, then there could be a pair of creatures who are behaviorally
+alike but mentally different: Invert and Nonvert are in different
+mental states when they each look at a tomato, and are behaviorally
+alike. Hence, if the inverted spectrum hypothesis is correct,
+behaviorism is false. This gives us an argument against
+behaviorism:
+Since P1a implies that the mental does not supervene on
+behavior:
+Since behaviorism is not a popular position these days, this
+application of an inverted qualia scenario is perhaps not so
+interesting. And given the complications discussed in subsection 2.3.1,
+there is even room for a behaviorist to resist. However, of
+considerably more interest are similar arguments against functionalism
+(and physicalism). Block and Fodor (1972), who invented the terminology
+of ‘inverted qualia’, were the first to formulate an
+inverted spectrum argument against functionalism, specifically Turing
+machine functionalism as defended in Putnam
+ 1967.[30]
+ Ignoring the details
+of particular functionalisms, the argument is exactly parallel to the
+one against behaviorism. (Similar remarks go for the inverted spectrum
+argument against physicalism.) According to functionalism, mental
+states are functional states: states defined by their causal role with
+respect to inputs, outputs, and other states. So, according to
+functionalism, necessarily, two creatures who are functionally alike
+are also mentally alike. In order to complete the argument, an
+appropriate inverted spectrum hypothesis must be established, where
+Invert and Nonvert are functional duplicates.
+The anti-functionalist analogue of argument Aa is:
+Since P1b implies that the mental does not supervene on functional
+organization:
+The possibility of a behaviorally undetectable inversion scenario
+(P1a) can be motivated by appeal to the sorts of considerations
+discussed in 2.3.1 above. However, in order to refute functionalism a
+stronger inversion hypothesis (P1b) is needed. As Block and Fodor point
+out, functionalism allows us to deny that “two organisms
+are in the same psychological state whenever their behaviors and/or
+behavioral dispositions are identical” (1972, 86), hence avoiding
+the stock objections to behaviorism. The functionalist, then, has no
+problem with behaviorally undetectable inversions. But why should she
+concede the possibility of a functionally undetectable
+inversion? The question can be made more pointed by observing that (a)
+no one has ever articulated a detailed functionalist theory of any
+mental state, and (b) any realistic version of such a theory would be
+extremely
+ complicated.[31]
+ In favor of the possibility of a
+functionally undetectable inversion, Block and Fodor offer its
+“conceptual coherence”:
+Block and Fodor’s apparent move from the “conceptual
+coherence” of the inversion scenario to its possibility can be
+questioned. Even though one cannot know a priori that not-p (that is, p
+is conceptually coherent), p may yet be impossible. For example, one
+cannot know a priori that gold does not have the atomic number 79, but
+it is a necessary truth that gold has this atomic number. (This sort of
+separation between conceptual coherence and possibility is not
+uncontroversial, but is commonly
+ accepted.[32])
+In any case, there are other conceptually coherent scenarios that are
+considerably more straightforward than an inverted spectrum scenario,
+for example a scenario containing a conscious subject and a functional
+duplicate who is not conscious at all (a “zombie”, in the
+philosophical sense). So if the move from conceptual coherence to
+possibility is in fact legitimate, functionalism may be refuted by a
+simpler argument that does not have an inversion hypothesis as a
+premise. (Shoemaker is a notable dissenter on this point; he holds
+that while inverted spectrum scenarios are conceptually coherent,
+zombie scenarios are not. See Shoemaker 1975a, 1981, 1991.)
+A defender of the utility of an inversion scenario in an argument
+against functionalism might reply that the scenario’s possibility does
+not merely rest on its conceptual coherence. In addition—this
+reply continues—there is a positive “Cartesian
+intuition” that such an inversion scenario is possible (a
+“clear and distinct idea” of the scenario, perhaps), and
+this is prima facie evidence that it \(is\) possible.
+However, Cartesian intuition, just like conceptual coherence, is not
+a very discriminating weapon, tending to spread possibility over a wide
+landscape (cf. Tye 2003, section 4). Cartesian intuition also tends to
+certify the possibility of scenarios containing zombies, thinking
+rocks, entirely disembodied minds (not even embodied in ectoplasm), and
+so forth—all impossibilities, according to the
+functionalist. So, as with conceptual coherence, any inverted spectrum
+argument against functionalism that relies on Cartesian intuitions can
+be converted into an equally plausible and simpler argument that makes
+no mention of the inverted spectrum.
+There is one other defense of the utility of inversion scenarios in
+anti-functionalist arguments, namely that some of them are
+biologically possible—and hence not as far fetched as
+scenarios containing zombies or thinking rocks. If this is right, then
+spectrum inversion would be of special significance, since we have a
+firmer grip on possibilities that are closer to home.
+Here is it is helpful to examine Block’s Inverted Earth argument
+against functionalism, which at a superficial glance might not seem to
+stray beyond the constraints of Earthly biology. As we saw in
+subsection 2.3.3, the Inverted Earth scenario is designed to avoid
+certain objections to the usual argument from intrapersonal inversion
+hypotheses to interpersonal inversion hypotheses. How is the scenario
+turned into an argument against functionalism?
+The brand of functionalism (about qualia) that Block sets out to
+refute is this:
+Block then tries to establish that after a suitable period of time
+on Inverted Earth, your beliefs and judgments about the colors of
+things would be correct: like the locals, you would believe
+that fire hydrants are green, the sky is yellow, and so on:
+(We can also add that you know that you are on Inverted Earth, and
+make an effort to speak the local language; see Block 1996a, 42;
+2003.)
+This step of the argument appeals to externalism about
+mental content (Putnam 1975, Burge 1979), specifically some sort of
+causal covariational theory (see the entry
+ externalism about mental content).
+Putting the basic idea crudely: after a while on Inverted Earth certain
+of your inner states that on Earth were reliably caused by the presence
+of red things and thereby represented redness will instead be reliably
+caused by the presence of green things, and thereby will come to
+represent greenness.
+This gives us an apparent counterexample against the “long
+arm” functionalist theory. On Inverted Earth your experiences
+have the functional role that the functionalist theory says is
+necessary and sufficient for possessing
+\(Q_{R}\): they are “caused by red things in the
+right circumstances, and used in thought about red things and action
+with respect to red things rightly”. But on Inverted Earth your
+experiences with this functional role have
+\(Q_{G}\), not (or not always)
+\(Q_{R}\).
+If we insist that the Inverted Earth scenario is constrained by
+actual biology, can it still be maintained that your experiences caused
+by red things on Inverted Earth have the
+\(Q_{R}\)-role? That is not clear, even if we
+grant Block’s claim about the “shift in intentional
+contents” without a corresponding change in qualia. The problem
+is twofold. First, because of asymmetries in color space and additional
+complications (see footnote 23),
+ to say nothing of the details of the
+“inverting lenses”, your total functional organization
+would certainly change in various respects after traveling to a
+biologically possible Inverted Earth. Second, Block’s description of
+the long-arm functional theory is highly schematic. It may be that a
+suitably sophisticated and developed form of this theory would not have
+the consequence that, on a biologically possible Inverted Earth, your
+experiences caused by red things have the
+\(Q_{R}\)-role. Similar points go for an argument
+against functionalism using a traditional inverted spectrum
+scenario.
+Unsurprisingly, Block does not rest very much—if 
+any—weight on the biological possibility of the Inverted Earth
+scenario:
+This response concedes that the Inverted Earth argument against
+functionalism may need to appeal to more-or-less outlandish
+possibilities. And if it does, then since other possibilities not
+involving inversions, and arguably no more outlandish, will do just as
+well, it is doubtful that Inverted Earth-type scenarios have an
+essential role to play in arguments against
+ functionalism.[34]
+The anti-physicalist inverted spectrum argument is:
+Since P1c implies that the mental does not supervene on physical
+makeup:
+Although there is some controversy about just how science-fictional
+anti-functionalist inversion scenarios need to be,
+anti-physicalist inversion scenarios are usually supposed to
+be very remote from actuality, and their possibility is hotly disputed.
+Almost uncontroversially: if an inverted spectrum argument against
+physicalism works at all, then a simple zombie scenario will equally
+serve the
+ purpose.[35]
+It is widely held that perceptual experiences represent the
+perceiver’s environment as being a certain way. For example, the
+experience of someone with normal color vision looking at figure 1
+represents (inter alia) her environment as containing a crimson,
+vermilion, and turquoise square. In the terminology of Chalmers 2004
+(slightly adapted), a representational property is a property
+of a mental state/event that specifies (perhaps only in part) the
+state/event’s representational content. For example, the property of
+being a visual experience that represents that there is a crimson
+square before one is a representational property (for a taxonomy of
+representational properties, see Chalmers 2004, section 2). The basic
+idea of representationalism or intentionalism is that
+qualia are representational properties, or at least supervene on
+representational properties. One advantage of representationalism is
+that it appears to reduce “phenomenal consciousness” (Block
+1995) to a certain kind of intentionality. Since the problem of
+providing a naturalistic account of intentionality is often thought to
+be tractable, representationalism brings the possibility of a
+naturalistic account of consciousness (see, e.g., Dretske 1995, Lycan
+1996, Tye 2000, and Speaks 2015).[36]
+Spectrum inversion scenarios help to focus the dispute between
+representationalists and their critics. (Actual cases of shifted
+spectra can also serve: see Block 1999.) Any version of
+representationalism is committed to the following thesis. Consider a
+case of red-green spectrum inversion, and imagine Invert and Nonvert
+are both looking at the red peppers depicted in figure 6, against a
+neutral background. Nonvert’s experience has
+\(Q_{R}\), while Invert’s experience has
+\(Q_{G}\). Because the two experiences have
+different qualia, any version of representationalism implies that, if
+this scenario is possible, the two experiences differ in
+representational content. Hence, if the foregoing scenario can be
+filled out so that (a) the two experiences have the same
+content and (b) the scenario is possible, then representationalism is
+refuted.
+How can these two desiderata be satisfied? Fortunately for the
+anti-representationalist—or phenomenist (Block 
+2003)—the usual ways of trying to secure (a) do not require Invert
+and Nonvert to be behavioral duplicates (or, for that matter,
+functional duplicates). The anti-representationalist can therefore
+dismiss concerns that a behaviorally undetectable inversion scenario is
+impossible.
+The description of the anti-representationalist scenario is
+typically completed with the following three features. First, Invert is
+able to use her color vision to reidentify objects, distinguish objects
+from their backgrounds, etc., with more-or-less the facility of
+Nonvert. In Locke’s phrase, Invert “would be able as regularly to
+distinguish Things for [her] Use by those Appearances”. Second,
+Invert has been spectrally inverted from birth (or at least for a long
+period of time). Third, Nonvert and Invert belong to the same
+linguistic community: in particular, they use color vocabulary in the
+same way, applying ‘red’ to tomatoes, ‘yellow’
+to bananas, and so forth.
+Assume that this scenario is possible (for an argument that it isn’t,
+see Sundström 2002 and Gibbons 2005; for a reply see Littlejohn
+2009). The three features just mentioned are intended to support the
+view that this scenario is one in which, when Invert and Nonvert both
+look at the fruits depicted in figure 6, their experiences have
+the same representational properties. In particular (glossing
+over a complication to be discussed in subsection 3.3 below), the
+banana looks yellow to both Invert and Nonvert, the
+strawberries look red to both, and so on. So, assuming that
+bananas are yellow, strawberries are red, etc., neither Invert nor
+Nonvert is suffering from some global color illusion. If this inverted
+spectrum hypothesis is correct, then qualia do not supervene on
+representational properties, and therefore representationalism is
+false.
+(Here is one way of putting the Inverted Earth version of this
+argument (see subsections 2.3.3 and 3.1). After first arriving on
+Inverted Earth, your word ‘red’ means red, and to
+you the green peppers on Inverted Earth look red. But after a period of
+acclimatization, you come to speak the language of the locals, and your
+experiences come to represent correctly the colors of things—green 
+peppers on Inverted Earth look green. Now compare your present
+experience of a green pepper on Inverted Earth with your previous
+experience of peppers of exactly that shade back on Earth. Same
+content, but different qualia. Alternatively, the
+anti-representationalist argument can proceed by exhibiting an example
+of the converse: same qualia, but different content—see Block
+1990, 64–7.)
+The three features of the anti-representationalist scenario can
+motivate the conclusion that Invert is not systematically misperceiving
+the colors of things as follows. First, because Invert’s color vision
+is as useful as Nonvert’s for discriminating and identifying objects,
+surely it would be arbitrary to suppose that Invert’s color vision, but
+not Nonvert’s, is the source of pervasive illusions. Second, because
+Nonvert has been inverted since birth, a complicated system of causal
+connections between the colors of objects in her environment and states
+of her visual system has been in place for a long period. In
+particular, there is a reliable causal connection between the presence
+of a red object before Invert’s eyes and a certain neural event
+occurring in Invert; this sort of causal connection is plausibly
+sufficient to bestow the property of representing redness on this type
+of neural event. Third, because Invert and Nonvert belong to the same
+linguistic community, Invert’s word ‘red’ means
+red. So when Invert says (as she does), ‘Strawberries
+look red to me’, she means that strawberries look red to
+her. So, if strawberries do not look red to her, Invert is
+systematically in error about how things look, and this result is not
+ credible.[37]
+Naturally, each of these reasons for thinking that Invert is not
+misperceiving the colors of objects can be questioned. Against the
+first, one might dispute the claim that it would be arbitrary to
+convict only Invert of error—after all, for all that’s been
+said, Nonvert and Invert might differ functionally, which is presumably
+a relevant difference. Against the second, there are well-known
+problems for the “causal covariational” account of mental
+content that it assumes (see, e.g., Fodor 1992, Ch. 3). Finally,
+against the third, it may be argued that the consequence that Invert is
+mistaken about the content of her experience is not unacceptable (Tye
+2002,
+ 451).[38]
+It will be useful to set out the anti-representationalist argument
+more carefully. Assume as a suppressed premise that the inverted
+spectrum scenario just described is possible, and suppose that Invert
+and Nonvert are both looking at a ripe tomato in good light:
+Hence:
+Hence, from C1 and P3:
+Some of the dialectic surrounding P1 has been described. In the
+following three subsections, other ways of resisting the argument will
+be discussed.
+If Argument B is sound, tomatoes look red to both Invert and
+Nonvert, although the corresponding qualia are different. This is why
+spectrum inversion was not described in subsection 2.1 as a case where
+tomatoes look green to Invert (and look red to
+Nonvert). If spectrum inversion is explained in these terms, the
+thought experiment is quite unsuitable for anti-representationalist
+purposes.
+According to the (orthodox) representationalist, an experience has
+\(Q_{B}\), say, just in case it is an experience
+that represents blue. According to the phenomenist who endorses
+Argument B, an experience has \(Q_{B}\) just in
+case it has a certain non-representational property. Let us
+stipulate that ‘\(B\)’ refers to this non-representational property,
+if such a thing exists. Then the two views may be put as follows:
+Phenomenism
+\(Q_{B} = B\) (a certain nonrepresentational
+property).
+Orthodox representationalism
+\(Q_{B}\) = property of visually representing
+blue (i.e., being an experience of something’s looking blue).
+The sense-datum theory is usually taken to be a form of phenomenism;
+it will be treated as such
+ here.[39]
+ According to the sense-datum theorist, sense-data that are associated
+with experiences of seeing the sky, lapis lazuli, cobalt glass, etc.,
+have a distinctive property; the traditional sense-datum theorist took
+this property to be the color blue (see, e.g., Moore 1953, 30, n.2),
+but let us speak more neutrally and call it ‘blue\('\)’
+(Peacocke 1983, Ch. 1). Then, according to the sense-datum theorist,
+the phenomenist equation can be spelled out more informatively
+thus:
+Sense-data theory
+\(Q_{B} = B\) = being a sensing of a
+blue\('\) sense-datum.
+Orthodox phenomenists (for instance Block and Levine) have
+no truck with sense-data, and typically leave the phenomenist equation
+unadorned. However, the sense-datum theorist can offer the following
+consideration in her favor.
+Imagine two experiences: first, an experience (call it
+‘\(e_{1}\)’) of a blue triangle next to a red
+square; second, an experience \((e_{2})\) of
+a red triangle next to a blue square. \(e_{1}\) has color
+qualia \(Q_{B}\) and
+\(Q_{R}\), and also “spatial qualia”,
+which we can label ‘\(Q_{Tr}\)’ and
+‘\(Q_{Sq}\)’. The reference of these
+four bits of qualia terminology
+(‘\(Q_{B}\)’,
+‘\(Q_{R}\)’,
+‘\(Q_{Tr}\)’, and
+‘\(Q_{Sq}\)’) has been fixed by, respectively,
+experiences of blue objects, experiences of red objects, experiences of
+triangles, and experiences of squares. \(e_{2}\), of
+course, also has \(Q_{B},
+Q_{R}, Q_{Tr}\), and
+\(Q_{Sq}\). Yet \(e_{1}\) and
+\(e_{2}\) differ phenomenologically, and therefore differ
+in qualia. So more qualia terminology is required: in particular, a
+quale name whose reference is fixed by experiences of blue triangles
+and red squares, and another name whose reference is fixed by
+experiences of red triangles and blue squares. In a useful notation,
+the first quale name is
+‘\(Q_{Rx \amp Sq(x) \amp By \amp Tr(y)}\)’,
+ and the second is
+‘\(Q_{Rx \amp Tr(x) \amp By \amp Sq(y)}\)’.
+ Obviously further qualia names with ever-more complicated subscripts will be
+needed.
+Now notice that there are many entailment relations between
+qualia-statements—for example, ‘\(e\) has
+\(Q_{Rx \amp Sq(x)}\)’
+entails ‘\(e\) has \(Q_{Rx}\)’,
+and ‘\(e\) has
+\(Q_{Rx \amp Tr(x) \amp By \amp Sq(y)}\)’
+ entails ‘\(e\) has
+\(Q_{Rx \amp Sq(y)}\)’,
+and so on. The orthodox representationalist and the sense-datum
+theorist have simple accounts of these entailments in terms of the
+structure of the objects of experiences (apparent
+structure, for the representationalist; actual structure, for
+the sense-datum theorist). Assuming representationalism:
+‘\(e\) has
+\(Q_{Rx \amp Sq(x)}\)’
+(equivalently, ‘\(e\) is an experience of something’s
+looking red and square’) clearly entails ‘\(e\) has
+\(Q_{Rx}\)’ (equivalently, ‘e is an
+experience of something’s looking red’). Assuming the sense-datum
+theory: ‘\(e\) has
+\(Q_{Rx \amp Sq(x)}\)’
+(equivalently, ‘\(e\) is a sensing of a red and square
+sense-datum’) clearly entails ‘\(e\) has
+\(Q_{Rx}\)’ (equivalently,
+‘\(e\) is a sensing of a red sense-datum’). The
+orthodox phenomenist cannot give a similar explanation of these
+entailments, and it is not clear whether she is entitled to them at
+ all.[40]
+Return to the anti-representationalist argument of the previous
+subsection:
+Hence:
+Hence, from C1 and P3:
+Representationalists usually resist P1. But there are other options.
+According to Shoemaker, the flaw in the argument is not P1, but rather
+P3. In addition to representing colors, Shoemaker thinks that visual
+experiences represent other (“colorlike”) properties that
+we do not have words for in English, and which he calls appearance
+ properties.[41]
+ On this view, both Invert and Nonvert’s
+experiences represent the tomato as red. However, Invert’s
+experience also represents the tomato as having a certain salient
+appearance property (call it
+‘\(AP_{G}\)’), while Nonvert’s
+experience represents the tomato as having a certain salient appearance
+property \((AP_{R})\). It is this
+representational difference between Invert and Nonvert that accounts
+for the phenomenological difference between their experiences. One may,
+then, view Shoemaker’s main argument for appearance properties as
+proceeding from P1, P2, and representationalism (i.e., not-C2), to the
+conclusion that P3 is false.
+What are the appearance properties \(AP_{G}\)
+and \(AP_{R}\)? Since Shoemaker thinks that it
+is implausible that Invert is systematically misperceiving the colors,
+it is not surprising that he also thinks that neither Nonvert nor
+Invert is systematically misperceiving the appearance properties. The
+tomato, then, has both \(AP_{G}\) and
+\(AP_{R}\). In Shoemaker 1994b,
+\(AP_{R}\) is said to be (where
+\(Q_{R}\) “is the quale that characterizes
+[Nonvert’s] experience of red things”) the property of
+“currently producing [a \(Q_{R}\)]
+experience in someone related to it in a certain way, namely someone
+viewing it under normal lighting conditions” (254), and
+similarly for \(AP_{G}\) (see also Shoemaker
+1994a). This secures the result that the tomato has
+\(AP_{R}\) when Nonvert is looking at it; as
+Shoemaker notes, it implies that the tomato lacks
+\(AP_{R}\) when it is not being perceived. This
+account of appearance properties has been substantially revised and
+developed in Shoemaker’s later work. According to Shoemaker 2002,
+appearance properties include dispositions to produce certain
+experiences in certain perceivers (a suggestion that was considered
+but rejected in Shoemaker 1994a, b). Shoemaker 2006a revises the
+account further; for discussion, see Egan 2006 and Speaks 2015, ch. 22.
+Thau (2002, Ch. 5) holds a similar view, but there are some
+important differences. First, Thau’s argument does not turn on the need
+to secure spectrum inversion without misrepresentation, and instead
+deploys an adaptation of Jackson’s (1982) thought experiment concerning
+black-and-white Mary. (See the entry on
+ qualia: the knowledge argument.)
+ Second, because Thau is not concerned to
+ensure that neither Invert nor Nonvert is misperceiving the tomato, he
+does not try to argue that the tomato has both
+\(AP_{G}\) and \(AP_{R}\),
+leaving the question unexamined. Third, Thau’s argument for appearance
+properties commits him to the view that they cannot be named (222–5);
+Shoemaker is not so committed. Finally, Thau does not think, unlike
+Shoemaker, that colors are visually represented (211). According to
+Thau, beliefs about the colors of things are based on experiences that
+represent objects as having appearance properties. These beliefs are
+justified, Thau argues, because there is a correlation between an
+object’s having color \(C\) and its looking to have
+AP\(_{C}\) (235–6).
+An illustration of “Frege’s puzzle” is this. It is
+apparently possible to believe that Michael Caine is a Cockney, while
+not believing that Maurice Micklewhite is a Cockney. But how can this
+be, since Michael Caine and Maurice Micklewhite are the same
+individual?
+According to many philosophers, appearances are not misleading, and
+the two beliefs really are different: specifically, they represent the
+very same individual, the beloved star of Alfie, in different
+ways, or under different modes of presentation. On this view, the
+propositional content of a belief is a Fregean Thought, with modes of
+presentation as constituents—as opposed to a structured
+Russellian proposition, with objects and properties as
+ constituents.[42]
+ Put differently but connectedly, the
+example shows that the names ‘Michael Caine’ and
+‘Maurice Micklewhite’ have different Fregean
+senses—their semantic values cannot simply be their
+referents.
+A similar issue arises in the philosophy of perception (see, e.g.,
+Boghossian and Velleman 1991, Peacocke 2001, Thau 2002). When one looks
+at a cucumber, does the propositional content of one’s experience have
+a constituent that is a “mode of presentation” of greenness
+(a neo-Fregean view) or does it instead simply contain the property
+greenness itself? Using the familiar ordered pair notation for
+propositional content (see, e.g., Thau 2002, 83), and ignoring issues
+about whether the cucumber itself is associated with a mode of
+presentation, the dispute may be put as follows. On the neo-Fregean
+view, the content of one’s experience of the cucumber is \(\langle\)the
+cucumber, \(\mathrm{MOP_{greenness}} \rangle\); on the neo-Russellian view, the
+content of one’s experiences is \(\langle\)the cucumber, greenness\(\rangle\).
+Recall the third premise of argument B (see the previous two
+subsections):
+As explained in subsection 3.3, one may resist P3 by claiming that
+color experience represents appearance properties. That
+amounts to a defense of representationalism by introducing a
+distinction “at the level of reference”. However, P3 may
+also be denied by introducing a distinction “at the level of
+sense”. On this view, the difference between Invert and Nonvert
+is like the difference—as the Fregean has it—between
+Ian, who believes that Michael Caine is a Cockney, and Nan, who
+believes that Maurice Micklewhite is a Cockney. On this Fregean view of
+the content of perception, the difference between Invert’s and
+Nonvert’s experiences is that they represent the very same property,
+namely redness, in different ways, or under different modes of
+presentation.
+Thau 2002 argues against modes of presentation (and also points out
+the close connections between the inverted spectrum and Frege’s
+puzzle). Chalmers 2004 and Block 2007 defend a Fregean view.
+We are not quite finished with Argument B:
+Hence:
+Hence, from C1 and P3:
+So far, reasons to reject P1 and P3 have been discussed. But one
+might also question the step from P1 and P2 to C1. As an analogy,
+suppose that Hare is on a train, looking at a tomato in his lunchbox,
+and that Tortoise is on the platform, looking at the tomato as the
+train speeds by. Both Hare and Tortoise have normal vision, in
+particular, normal visual motion perception. Consider the following
+argument.
+Hence:
+Since the tomato is moving relative to Tortoise, and is not
+moving relative to Hare, if P2* is true, it must not be taken
+to mean that the tomato is moving relative to Hare. Assume, then, that
+P2* is given the following true interpretation: the tomato is moving
+relative to Tortoise. However, Hare does not have to perceive that the
+tomato is moving relative to Tortoise in order to perceive (correctly)
+the tomato’s motion—perceiving it as not moving
+relative to himself will also suffice. Hence, Hare’s and Tortoise’s
+experiences can both be veridical, despite representing the tomato’s
+motion differently, which is to say that Argument B* is invalid.
+One might diagnose a similar mistake in Argument B, and thus endorse
+relativism about color. According to relativism the tomato is
+not red simpliciter: rather, it is red relative to Nonvert
+(not green relative to Nonvert), and green relative to Invert (not red
+relative to Invert). In other words, the tomato is simultaneously
+red-for-Nonvert and green-for-Invert. Since, on this
+view, the tomato looks red-for-Nonvert to Nonvert, and red-for-Invert
+to Invert, both their experiences are veridical, despite representing
+the tomato differently.
+What is this property of being red-for-Nonvert? The usual answer is
+something along the lines of the account of appearance properties in
+Shoemaker 2002: something is red-for-Nonvert iff it is disposed to
+cause experiences with \(R\) in perceivers of Nonvert’s kind. And
+this, of course, is essentially the “secondary quality”
+account of color that many find in Locke. Sometimes relativism is
+combined with representationalism (McGinn 1983, Tye 1994), but it
+arguably fits more naturally with phenomenism (McLaughlin 2003, Cohen
+2004).
+Shoemaker did not block Argument B in this straightforward fashion
+because he finds relativism implausible. As he puts it in a review of
+McGinn 1983:
+Like the argument for appearance properties, the argument for
+relativism can be made by appeal to shifted spectra (see, in
+particular, Cohen 2004). Averill 1992 argues for a version of
+relativism using physically possible intrapersonal shifted spectra
+scenarios, involving a slight change in the eye, or in the
+ atmosphere.[43]
+The “inverted spectrum” quotation from Locke in
+subsection 2.2 above continues:
+It is regrettable that Locke did not trouble his Reader, because it
+is not at all clear what reasons may be offered. Malebranche was of the contrary opinion: 
+Let \(p\) be the claim that when others look at ripe tomatoes, their
+experiences have \(Q_{R}\). Let \(S\) be a
+spectrum inversion scenario with the following simple feature: when
+others look at ripe tomatoes, their experiences have
+\(Q_{G}\), not \(Q_{R}\).
+(So \(p\) and \(S\) are incompatible.) Consider the following
+skeptical argument:
+Therefore:
+Although philosophers have generally not been impressed by similar
+arguments for skepticism about the external world, there is little
+consensus on the status of arguments along the above lines. For
+example, Block writes: “I claim we simply do not know whether
+spectrum inversion obtains or not” (1990, 57). Argument C is less
+threatening than some other skeptical arguments because, even if sound,
+generalizations of it to skepticism about other kinds of mental states
+are implausible. For example, a parallel argument against one’s
+knowledge of other’s beliefs would have a dubious first premise.
+P1 will be denied by an orthodox representationalist. Setting a
+controversial skepticism about testimony aside, presumably one can know
+on the basis of testimony that tomatoes look red to many people. (See
+Shoemaker 1982, 334.) So, since orthodox representationalism equates
+\(Q_{R}\) with the property of being an
+experience of something’s looking red, one may know on the basis of
+testimony that when others look at tomatoes, their experiences have
+\(Q_{R}\).
+Some philosophers think that the fact that others are biologically
+similar to oneself is an important piece of evidence for their mental
+similarity (see, e.g., Hill 1991, Ch. 9), and P2 might be denied on
+these grounds (see, e.g., Papineau 2002, 132). For more discussion, see
+Block
+ 2002.[44]
+Many philosophers think there is an “explanatory gap”
+(Levine 1983, 2001) between physical facts and facts about conscious
+experience. On this view, even if consciousness is a physical
+phenomenon, it cannot be given a physical explanation. Inverted
+spectrum scenarios often play a role in arguments for the gap:
+The argument for the gap suggested by Levine 1983 can be set out as
+follows:
+Hence:
+Notice that Argument D does not have as a premise a spectrum
+inversion hypothesis—that a certain spectrum inversion
+scenario is possible. All the argument requires is that the
+spectrum inversion scenario is imaginable. Indeed, since
+Levine is a physicalist, he thinks that this scenario is not
+possible.
+What is the intended interpretation of ‘imagine’ in P1
+and P2? (In the literature ‘conceive’ is used
+interchangeably.) The usual answer (Levine 2001, Ch. 2) is this:
+\(p\) is imaginable iff not-\(p\) is not a priori.
+On this interpretation, P1 amounts to this: it is a priori
+that if the explanans holds, so does the explanandum; that is, that the
+explanans a priori entails the explanandum. This can be
+motivated by appeal to the “deductive-nomological” model of
+explanation (see Hempel 1965, and the entry on
+ scientific explanation);
+ this
+model is controversial, and in fact Levine rejects it, but he argues
+that there is a broader motivation:
+One might resist Argument D by denying P2 (for some ammunition, see
+Hardin 1987; 1993, 134–42; for a reply see Levine 1991; see also Hardin
+1991). A much more common response is to deny P1 (Block and Stalnaker
+1999; for a reply see Chalmers and Jackson 2001).
+One exegetical complication is that Levine himself now denies P1,
+while continuing to maintain the existence of the explanatory gap on
+the basis of an argument related to Argument D, although somewhat more
+complicated (2001, Ch. 3). And in any case, just like the inverted
+spectrum argument against behaviorism, functionalism and physicalism
+(see subsection 3.1 above), inverted spectrum scenarios are not playing
+an essential role in the case for the gap, and indeed Levine 2001 leans
+more heavily on “absent qualia” scenarios: “The
+conceivability of zombies…is the principal manifestation of the
+explanatory gap” (79).
+The introduction of ‘\(Q_{R}\)’,
+‘\(Q_{G}\)’, and so forth, at the
+start of this article might have occasioned some suspicion. Assume
+that spectrum inversion does not occur, and consider a
+counterfactual situation in which, as Block puts it,
+“spectrum inversion is rife” (1990, 55). Suppose
+that philosophers in this counterfactual situation introduced qualia
+terminology in the way it was introduced in section 1. If their qualia
+terminology is meaningless, then it is hard to see why our terminology
+is better off—we use
+‘\(Q_{R}\)’ just as it is used in
+the counterfactual situation. If, on the other hand, their qualia
+terminology is meaningful, then presumably
+‘\(Q_{R}\)’, as they use it, refers
+to something other than a quale. (Since spectrum inversion is rife,
+their use of ‘\(Q_{R}\)’ is not
+associated with any particular quale.) Again, given the overlap in
+use, why suppose that our word
+‘\(Q_{R}\)’ is any different? Either
+way: ‘\(Q_{R}\)’ does not refer to a
+quale. There is a threat, then, that qualia cannot be named in a
+public language—that they are ineffable (cf. Dennett
+1988, 228–9). Indeed, that seems to be Block’s opinion: “if an
+inverted spectrum is possible, then experiential contents that can be
+expressed in public language (for example, looking red) are
+not qualitative contents, but rather intentional contents”
+(1990, 55; see also Block 2007, 73–4). (“Qualitative
+contents” are qualia that are not representational properties:
+see subsection 3.2.)
+Frege held a version of the ineffability view. One of his theses in
+The Foundations of Arithmetic is that arithmetic is
+“objective”, which he explains as follows:
+This is an inverted spatial qualia scenario. According to Frege, the
+inversion would not show up in the semantics of words: both Nonvert and
+Invert use the word ‘point’ with the same meaning, despite
+associating very different “intuitions” with it. In the
+next paragraph, Frege makes a similar claim about color
+terminology.
+Although Frege seems to concede that sometimes a color word
+“signifies our subjective sensation”, the general drift of
+the argument points to a much stronger conclusion, that our subjective
+sensations are simply not “expressible in words”. A related
+example is Wittgenstein’s “beetle in the box”:
+(Notice that Wittgenstein imagines “absent beetles”,
+corresponding to an “absent qualia” scenario.)
+Here is one argument suggested by these passages.
+Suppose that Humbert is semantically (and otherwise) competent, has
+normal color vision, is a member of our linguistic community, and uses
+qualia terminology (‘\(Q_{R}\)’,
+‘\(Q_{G}\)’, etc.), as introduced in
+section 1 above. Further suppose that spectrum inversion does not in
+fact occur.
+Now consider a counterfactual spectrum inversion scenario in which
+“spectrum inversion is rife”. Invert has been spectrally
+inverted with respect to some other members of his community since
+birth, all of whom use color terminology in much the same way. Nonvert
+is spectrally inverted with respect to his neighbor Invert, but—comparing 
+this scenario with the actual scenario described in the
+previous paragraph—is not spectrally inverted with respect to
+Humbert. Further suppose that Nonvert and his neighbor Invert use
+qualia terminology as introduced in section 1 above. Assume as a
+suppressed premise that this scenario is possible.
+Let ‘\(X\)’ abbreviate the definite description ‘the quale
+distinctive of Humbert’s experiences of red things’ (by hypothesis,
+this definite description is coextensive with ‘the quale
+distinctive of Nonvert’s experiences of red things in the
+counterfactual inversion scenario’).
+Hence:
+Hence, from C1 and P3:
+Since the rest of us are in no better position than Humbert, C2
+leads inevitably to the conclusion that
+‘\(Q_{R}\)’,
+‘\(Q_{G}\)’, etc., as introduced in
+the manner of section 1, do not in fact refer to qualia. One might view
+Argument E as showing that certain salient aspects of our mental lives
+are linguistically elusive (as Frege apparently did); alternatively,
+one might follow Wittgenstein and conclude that the very idea of qualia
+rests on a conceptual confusion.
+In fact, C2 does not imply that qualia are completely
+unspeakable—it does not, that is, imply that \(no\)
+expression refers to \(X\) (i.e., the quale distinctive of
+Humbert’s experiences of red things). Indeed, if the sentence to the
+right of ‘C2’ succeeds in expressing a truth, then
+‘\(X\)’ (and so ‘the quale distinctive of Humbert’s
+experiences of red things’) refers to \(X\). If Argument E
+is as far as we can go, then the moral seems to be that particular
+qualia can only be picked out ‘by description’—they
+cannot be referred to by semantically simple expressions, such as
+‘\(Q_{R}\)’ and
+ ‘\(Q_{G}\)’.[45]
+ But—bearing
+in mind Wittgenstein’s remark that “the box might even be
+empty”—one might attempt to extend the argument to show
+that even the word ‘qualia’ itself is devoid of
+significance.
+However, Argument E is not obviously sound. The premise in need of
+most defense is
+ P3.[46]
+ When qualia terminology was introduced in
+section 1, it was tacitly presupposed that spectrum inversion was
+not rife. In Invert’s and Nonvert’s community, that
+presupposition is false, and so it should not be surprising if the
+attempt to introduce ‘\(Q_{R}\)’ into
+their public language fails. But in Humbert’s community the
+presupposition is true; so why wouldn’t
+‘\(Q_{R}\)’, as the members of this
+community use it, successfully refer to the quale distinctive of
+Humbert’s experiences of red
+ things?[47]
+Externalism about beliefs and other propositional
+attitudes, and also about perceptual experiences, was alluded to in
+subsections 3.1 and 3.2. Premise P1 of our much-scrutinized 
+Argument B—‘Neither Invert nor Nonvert is misperceiving the color of
+the tomato’—was supported, in part, by a particular
+externalist theory of perceptual content. According to the externalist,
+some representational properties of subjects, like the property of
+believing that water is wet, or that arthritis is painful, or the
+property of having an experience of something’s looking red, are
+extrinsic: these properties are not necessarily shared between perfect
+duplicates (or even less-than-perfect duplicates with perfectly
+duplicated
+ brains).[48]
+ Smith may believe that water is wet, yet
+twin-Smith on Putnam’s Twin Earth does not believe that water is wet.
+The tomato may look red to Jones, yet not to twin-Jones on Inverted
+Earth. (In an alternative scenario, twin-Jones has just been created by
+happenstance in a swamp: see Davidson 1987.)
+It is also widely held that qualia are intrinsic (see,
+e.g., Block 1990, 68). (More exactly: properties of subjects like
+having an experience with quale Q, are intrinsic.) If Jones is
+having an experience with quale \(Q\), then there is no possible
+world w in which twin-Jones is not having an experience with quale
+\(Q\).
+Finally, representationalism (see subsection 3.2 above) is—if 
+not as popular as the previous two claims—at least defended
+by many contemporary philosophers.
+Now consider the following argument (cf. Byrne and Hilbert 1997b,
+271–2):
+Consider the representational property of having an experience of
+something’s looking red. By P1, this property is extrinsic, and so
+there is a possible world \(w\) in which a subject \(x\) has
+this property and \(y\)—a perfect duplicate of 
+\(x\)—lacks it. Solely for illustration, we may take \(w\) to be
+a possible world in which Nonvert and his twin Invert are both looking
+at a tomato in a white bowl (but perhaps the twins are on different
+planets). Nonvert is having an experience of something’s looking red,
+and Invert is not; more specifically: (i) the tomato looks red, and
+nothing looks green, to Nonvert; (ii) the tomato looks green, and
+nothing looks red, to Invert. By P2, Nonvert’s experience has
+\(Q_{R}\) (and not
+\(Q_{G})\); conversely for Invert. So Nonvert and
+Invert are twins whose experiences do not share qualia; in other words,
+qualia are not intrinsic. By P3, contradiction. Hence:
+Notice that Argument F does not assume the possibility of a scenario
+in which duplicate perceivers are spectrally inverted. This spectrum
+inversion hypothesis is ruled out by P3, and P3 is of course consistent
+with Argument F’s conclusion.
+Argument F shows that either content-externalism, representationalism,
+or qualia-internalism should be rejected. For a discussion of this
+problem, see Egan and John 2003 (Other Internet Resources); Dretske
+(1995, Ch. 5) argues against P3 (see also Tye 1995, 150–5; 2002,
+Ch. 6; Lycan 1996, 115–7; and Noë 2005, Ch. 7); P1 is
+denied in Chalmers 2004.
+Relatedly, McGinn (1989, 58–94) runs a “spatially Inverted
+Earth” argument against what he calls ‘strong
+externalism’ about perceptual content (a particular kind of
+externalism); Davies (1997) adapts McGinn’s example to argue for
+externalism about perceptual content. Both sides of the
+“externalism/internalism” debate as encapsulated in
+Argument F presuppose that it is possible to keep a perceiver’s
+internal constitution fixed while greatly varying the environment; this
+assumption is critically examined in Hurley 1998, Chs. 7, 8, and Myin
+2001.

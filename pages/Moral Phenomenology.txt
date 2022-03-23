@@ -1,0 +1,1370 @@
+There is a very narrow conception of the sorts of mental states and
+events that could be the subject matter of phenomenological inquiry,
+namely, “feeling” mental states and events, including, as
+paradigm cases, types of physical and psychological pain. Because this
+is not how the subject matter is understood by those working on moral
+phenomenology, we put this narrow sense aside.
+According to a much broader conception of its subject matter,
+phenomenology as a field of inquiry is focused on the experiential
+aspects of all types of experience that are accessible to first-person
+inquiry, including, for example, all forms of sensory experience,
+emotional experience, and so on. According to the tradition associated
+with analytic philosophy of mind, the type of first-person inquiry in
+question is introspection (see the entry on
+ introspection).
+ Moral phenomenology, done in this tradition, then, focuses on the
+experiential aspects of various types of moral experience
+that are accessible to introspection. As a field of inquiry, its
+central aim is to accurately describe those aspects of moral
+experience that may be investigated by the use of introspection. As
+such, it is largely an empirically grounded inquiry into the
+experiential aspects of types of moral experience.
+According to the tradition derived from Husserl,
+ Phenomenology[1]
+ is focused on essential structures of the intentionality—the
+directedness to an object—proper to various kinds of experience.
+Moral phenomenology, understood in this sense, (1) focuses on what is
+essential to the first-personal, intentional directedness of moral
+experiences, (2) aims to articulate the essences of types of moral
+experience, and (3) employs a distinctive a priori
+methodology.
+These two conceptions of moral phenomenology as fields of inquiry
+differ somewhat in their aims and methodology, although they share a
+common subject matter. Let us begin with what they share in
+common.
+Here we wish to propose in a somewhat preliminary way a general
+taxonomy of types of moral experience—a taxonomy that is
+intended to cover the territory well enough and is useful for thinking
+about the subject matter of moral phenomenology.
+Moral perception includes moral experiences that crucially
+involve the use of one’s perceptual faculties, ocular and
+auditory being the most obvious. An example of visual moral perception
+is seeing someone gleefully torture a helpless animal and experiencing
+that action as morally wrong. Hearing someone utter a deliberately
+insulting remark and recognizing it as such is an example of a moral
+experience grounded in auditory perception. Understood more narrowly
+(and quite literally) moral perception, as understood by its
+defenders, involves (what appears to one as) an instantiated moral
+property (i.e., an instance of a moral property possessed by an object
+of moral evaluation) being presented in one’s perceptual
+experience, as when one’s visual perceptual experience presents
+the injustice of a perceived action (see, for example, Audi
+ 2013).[2]
+ Moral perception, so understood, is to be distinguished (at least
+prima facie) from spontaneous, perceptually grounded moral
+belief as when one sees someone slap a small child triggering the
+belief that the slapping was morally wrong. Arguably, the content of
+one’s visual experience need not include the presentation of the
+property wrongness. (For further discussion of this issue, see
+ section 2.1.)
+Moral emotions, both positive (e.g., gratitude, respect,
+admiration) and negative (e.g., shame, guilt, indignation) are mental
+states of moral significance that often have, when occurrent, a
+robust, arguably complex, phenomenal character. In the empirical
+literature, for example, one finds experimental studies of the
+differences in people’s experiences of envy compared to
+ jealousy,[3]
+ of guilt compared to
+ shame,[4]
+ as well as studies of people’s experiences of gratitude, of
+generosity, of disrespect, and other emotions. Note that if, as many
+theoreticians of emotion suppose, moral judgments are embedded in
+these emotions (or some instances of them), then the phenomenology of
+moral emotion will overlap with the phenomenology of moral judgment.
+For theorists who liken the emotions to perception, the phenomenology
+of moral emotion will overlap with the phenomenology of moral
+perception. Of course, for many theorists, the phenomenology of moral
+emotion will intersect both moral perception and moral judgment.
+Moral judgment is understood as occurrent experiences of
+thinking a moral proposition, whether it is about oneself, including
+one’s actions, past, present, or in prospect, or about
+one’s character, past, present, or future, or whether it is
+about the actions or character of others, or whether it is about the
+structures and behaviors of institutions. Within this category, many
+further divisions of phenomenological significance are called for. On
+phenomenological grounds, Maurice Mandelbaum (1955) distinguished what
+he referred to as “direct” from “removed”
+moral judgments—intended to capture the difference in the
+phenomenologies of perspective between first and third-person moral
+judgment. He also found reason on phenomenological grounds to
+distinguish judgments of obligation (and deontic judgments generally)
+from judgments of value. One might also suppose that spontaneous moral
+judgments (intuitions) typically have a different experiential aspect
+to them compared to moral judgments that are the deliverances of moral
+ deliberation.[5]
+Moral deliberation includes formulating moral propositions
+and considering their plausibility (e.g., mulling them over, thinking
+about reasons for and against), typically aimed at reaching a moral
+verdict about some issue. This category focuses on the conscious
+process often leading up to forming a moral judgment or leading up to
+a decision to act based on one’s deliberations—both
+typical products of this process.
+Moral agency involves exercising one’s capacity to act,
+including the experience of making moral decisions (an exercise of
+will), as well as experiences of planning, trying, striving, and
+acting in ways that have moral significance. Julia Annas (2008)
+discusses the experiences of a virtuous agent that she describes in
+terms of the sort of “flow” experience that is extensively
+explored in the work of Csikszentmihalyi (1990). Hubert and Stuart
+Dreyfus discuss what they call “ethical comportment”, a
+developed skill-like capacity in which an agent who has reached the
+requisite level of moral expertise can see “intuitively what to
+do without applying rules and making judgments at all” (1990:
+ 243).[6]
+Notice two things about this taxonomy. First, these categories of
+moral experience are porous, as indicated in what we have noted about
+the possible involvement of moral judgment in experiencing moral
+emotions. Moral deliberation most often includes moral judgments that
+one may or may not bring to mind in mulling over some moral issue to
+reach a verdict about that issue. Second, as indicated in the remarks
+about moral judgment, there are more fine-grained distinctions one
+might draw within and across the basic types of moral experience we
+have just presented (e.g., direct vs. removed moral judgments) that
+may be of phenomenological significance. The above taxonomy represents
+only a rough guide to the most general types of moral experience. In
+ section 3
+ and
+ 4,
+ we return to the work that has been done investigating some of these
+species of moral experience as it bears on issues in metaethics and
+normative ethics.
+The methodology of phenomenological inquiry is first-personal.
+However, as noted at the outset of this section, the two
+traditions—analytic and Phenomenological—differ
+fundamentally. The former is an empirically grounded, a
+posteriori philosophical science that proceeds by inductive and
+abductive methods. It aims to achieve general, psychological truths
+about the first-personal character of moral experiences. The latter is
+an a priori philosophical science that proceeds via a
+systematic consideration of the various parts and aspects of an
+experience in order to identify which of them are essential to the
+experience being the kind of experience it is. It achieves
+(presumptively) necessary truths about the correlation between the
+intentionally directed experience and its object just as experienced
+(see below), including the first-personal character of its
+experiential dimension and the structural components of the object and
+its significance for the subject. Let us consider these differences in
+more detail.
+Phenomenological inquiry in the analytic tradition relies on
+introspection as the basis for observing aspects of one’s moral
+experience, which can then be used for making psychological
+generalizations about such experience. Here, it is important to
+distinguish two uses of introspectionist methodology. One use is
+direct: one attends to some aspect of one’s ongoing experience
+in order to describe what one observes. By turning one’s
+attention inward, as it were, one can attend to the pain in
+one’s thumb and describe it as, say, dull or sharp. Likewise, by
+attending to one’s occurrent emotional experience, one can
+immediately determine that one is experiencing anger directed toward
+some wrongful behavior one just witnessed.
+However, this use of introspection is of limited value when it comes
+to addressing certain philosophical controversies. One such
+controversy in the philosophy of perception is whether visual
+perceptual experiences have “rich contents”. According to
+a rich content view, visual experiences can and often do present the
+instantiation in perceptual awareness not just of lower-level physical
+properties such as colors, shapes, illumination, and motion, but also
+such experiences can and typically do also present the instantiation
+of higher-level properties including, for instance, properties that
+categorize objects (cars, cacti, clouds), actions (starting a car,
+planting a cactus, pointing to a cloud) and causal relations. But as
+Susanna Siegel (2011: chap. 3), a defender of the rich content view,
+points out, the controversy over this view cannot be settled by the
+direct use of introspection; one cannot reliably tell just by
+attending carefully to one’s visual experience whether its
+perceptual contents are rich. But this does not mean that
+introspection is of no use. Rather, it figures importantly in
+phenomenal contrast arguments. There is a variety of such arguments
+that differ importantly in their probative power that need not concern
+us
+ here.[7]
+ Generally speaking, such arguments draw a conclusion about the
+phenomenal character of a certain type of experience, by appealing to
+a phenomenal difference of some sort between two experiences being
+compared. For example, in defending the claim that visual experiences
+present one with object kinds, Siegel contrasts one’s visual
+experience of pine trees, situated among other trees in a forest,
+before acquiring the disposition to easily recognize pine trees, with
+one’s visual experience of the forest after acquiring the
+disposition. Siegel points to a “feeling of familiarity”
+in one’s overall phenomenology in the second experience that is
+salient to introspection. This introspectable difference figures in a
+premise in an abductive argument (i.e., inference to the best
+explanation) for the claim that one’s visual experience after
+gaining the appropriate recognitional disposition includes the
+presentation of pine tree, an instance supporting the rich content
+view, which then generalizes to a wide range of visual experiences.
+Introspection plays an ineliminable role in phenomenal contrast
+arguments. However, at least as employed by Siegel in defending the
+rich content view, its use is to reveal something reliably detectable
+about one’s contrasting experiences, which can then provide the
+basis for an argument to a conclusion about phenomenal character.
+Turning for a moment to moral experience, one controversy (which we
+discuss below in
+ section 2),
+ is whether certain types of moral perceptual experience purport to
+present instantiated moral properties. If so, and if one takes such
+experience to bear on philosophical disputes over moral metaphysics,
+then one can appeal to such experiences as providing presumptive
+evidence for some form of moral realism. Suppose, though, that one
+cannot reliably tell by directly introspecting one’s moral
+experiences whether they have such realist purport. One might then
+hope to provide evidence that such experiences do have such purport by
+employing a phenomenal contrast argument.
+Of course, there are important questions about the nature and
+reliability of introspectionist methodology. (We refer readers to the
+entries on introspection and on self-knowledge for relevant
+discussions.) The important points for present purposes are these.
+First, the role introspection plays in addressing
+philosophical disputes may vary, the basic division being between
+direct methods and the method that employs phenomenal contrast
+arguments. Second, the uses of introspection in the analytic tradition
+are intended to yield empirically grounded psychological claims about
+the phenomenal character of moral experiences, employing, inductive
+and abductive methods. As we have already noted, this empirically
+grounded methodology and its aims differ sharply from the methods and
+aims one finds in the Phenomenological tradition to which we now
+turn.
+The methodology of Phenomenology as initiated by Husserl involves
+three key aspects: (1) a specification of the main theme for
+phenomenological reflection, namely, intentionality (the feature of
+experience whereby it is directed upon an object); (2) a description
+aimed at revealing the necessary constituents of the correlation
+between intentionally directed experiences and their objects just as
+experienced, that is, in their significance for the subject , and (3)
+a methodology involving imaginative variation, governed by a
+whole-part logic, of the parts and aspects of the correlation.
+The specification of the main theme of phenomenology as intentionality
+is a result of exercising the “phenomenological reduction”
+(Husserl 1913: §§30–84). Without entering into the
+various debates about the possibility, extent, and significance of the
+reduction—all of which are disputed—the minimal sense of
+the reduction common to Phenomenologists is the suspension of
+one’s participation in the belief in the existence of the world
+(and the objects therein), a belief characteristic of our
+straightforward, everyday experience of the world. Husserl (1913:
+§31) also uses the term “bracketing” in speaking of
+the reduction, and this provides a useful metaphor. Just as absolute
+two, represented as [2], is the number two without a positive or
+negative index, the reduced experience—say, [perceiving the
+table]—is the experience along with its object as meant, as
+significant for us in a particular manner, without the index of
+existence or non-existence. Some Phenomenologists (e.g., Scheler
+1913/1916) reject the deployment of the reduction because they wish to
+preserve a strong realism regarding the existence of values, and they
+believe the reduction commits one to a form of metaphysical
+idealism.
+Alternatively and more generally, we can say the reduction focuses
+attention upon the object intended in experience simply as
+experienced. Either formulation captures the correlation of experience
+and its object. The reduction, in other words, is a reflective turn
+that leads our attention away from the object as given in everyday
+experience back (re-ducere) to the correlation—what we
+call the “intentional correlation”—between the
+experience intending the object and the object just in the manner it
+is experienced. It leads our attention back to the experiences in
+which objects have meaning for us. At the same time, the reduction
+reveals the correlational inseparability of the phenomenal content
+proper to the experiential, subjective side of the correlation and the
+intentional content proper to the objective side of the
+ correlation.[8]
+The second and third aspects of the Phenomenological method are joined
+in the idea of descriptive analysis carried out in terms of a
+whole-part logic that (1) identifies the parts or aspects of the
+experience, its object, and the correlation itself, and (2)
+imaginatively varies the whole by thinking away different parts or
+aspects of the whole to determine which of them must be
+present for the experience or object to remain the kind of experience
+or object that it is. Stated more formally, imaginative variation
+systematically varies the whole under consideration (W) by
+trying to imagine it first without part A, then without part
+B, then without part C, and so forth. If W
+can be imagined without part A and still be considered a
+W, then A is a “piece” that does not
+belong necessarily and universally to Ws. If, by contrast,
+W cannot be imagined without part B, then B
+is a “moment” of W and belongs necessarily and
+universally to Ws. The existence of any W entails
+the presence of B (Husserl 1900–1901 [2001:
+2:5–7]). The deployment of this methodology yields a
+priori truths regarding the necessary and universal features of
+the intentionality proper to different kinds of experiences.
+The inability to imagine the separate existence of a moment is not
+merely a psychological limitation of the human imagination. It is
+instead a rational inability to separate specific logical (conceptual)
+contents from one another. The necessity of moments supplementing and
+complementing one another in the formation of a whole arises out of a
+necessity in the nature of the things themselves, a necessity in the
+sense of the moments themselves (Husserl 1900–1901 [2001:
+2:11]). Consider, for example, the moral emotion of guilt: guilt
+involves distressing feelings about something one has done and knows
+or thinks to be wrong. If one tries to think away the feelings of
+distress, one would not recognize the emotion as guilt, and if one
+tries to think away the knowledge or thought that what one did was
+wrong, one would again not recognize the emotion as guilt. Feelings of
+distress and the recognition of wrongdoing are moments of—that
+is, essential to—guilt.
+The majority of Phenomenologists do not engage in the kind of detailed
+methodological reflections that Husserl did. However, virtually all
+Phenomenologists employ something like the minimal notion of the
+phenomenological turn to the intentional correlation as the whole that
+is under investigation and seek to identify the essential constituents
+of experience and its objects as experienced. Moreover, virtually all
+Phenomenologists utilize an analysis of whole-part relations, even if
+they do not use the terms, in order to discover essential features of
+the correlation itself, as well as of its experiential and objective
+moments. Since the whole under investigation is not a psychological
+subject—that is, a particular worldly subject—but any
+possible subject, and since the method discloses necessary and
+universal structures that make the experiences the kind of experience
+they are, the result is an a priori Phenomenology.
+Metaethics addresses second-order questions about morality, including
+metaphysical, epistemological, and semantic questions (see the entry
+on
+ metaethics).
+ Phenomenological questions about moral experience significantly
+impact views on these topics. If, for instance, some form of moral
+experience has as an aspect of its presentational
+ content[9]
+ putatively instantiated moral properties (e.g., wrongness) or
+relations (e.g., fittingness), this would be some evidence in favor of
+a realist moral
+ metaphysics.[10]
+ Also, such experiences would arguably provide an experiential basis
+for justified moral belief and perhaps moral knowledge. And, if moral
+experience presents such properties and relations as aspects of their
+content, this would invite a moral semantics according to which
+judgments in which a moral property or relation is predicated of some
+item of moral evaluation are truth-apt. Such issues bear on the
+question of whether ethics is or can be an “objective”
+enterprise.
+In the remainder of this section, we review some of the debates
+concerning the bearing of moral phenomenology on metaethical issues.
+We organize our review according to what we identified earlier as
+major types of moral experience, beginning with moral perception.
+Moral perception has recently become a major topic of interest among
+analytic philosophers and, in this sub-section, we will confine our
+remarks to how it has been discussed in such circles. In the following
+sub-sections, we focus primarily on the Phenomenological
+tradition.
+As noted earlier, the phenomenological issue concerning moral
+perception is whether human beings can perceive instantiated moral
+properties or relations, in the sense that such properties and
+relations are presented in experience as part of the content of what
+an individual literally sees or hears (to pick two sense
+ modalities).[11]
+To clarify the topic under consideration, three comments are in order.
+First, our use of “moral perception” in this sub-section
+is confined to modes of perception associated with the five senses
+plus proprioception and excludes consideration of other mental
+phenomena such as emotions which, on some accounts, are perceptual or
+quasi-perceptual states. (Moral emotions are taken up in the following
+sub-section.) Second, contemporary discussion of moral perception
+centers on whether it is possible to perceive moral properties without
+postulating a special moral sense for detecting moral
+ properties.[12]
+ Third, it is assumed (though by no means uncontroversial) that
+perceptual experience has informational content understood as
+providing accuracy conditions of one’s perceptual experience,
+analogous to truth conditions for beliefs (see the entry on the
+ contents of perception).
+ Thus, if I’m having a visual experience as of a red object
+spatially located on the table in front of me, then my visual
+experience includes as part of its content the presentation of the
+property redness and is thus accurate in this regard just in case the
+object I am looking at is red.
+Turning now to moral perception, earlier we alluded to a now-famous
+example from Gilbert Harman:
+If you round a corner and see a group of hoodlums pour gasoline on a
+cat and ignite it, you do not need to conclude that what they
+are doing is wrong; you do not need to figure anything out; you can
+see that it is wrong. (Harman 1977: 4)
+There are at least two ways to understand Harman’s remark. One
+may take it as the claim that the property of wrongness is part of the
+presentational content of one’s visual experience, alongside
+one’s visual experience of seeing the group of hoodlums pour
+gasoline on a cat and igniting it. This understanding commits one to
+what we will call the thesis of moral perception (MP, for
+short) according to which at least some moral properties can figure in
+the presentational contents of ordinary veridical perception. On this
+view, it is possible to see the wrongness of what those kids
+are doing. Moral perception is not restricted to visual perception,
+but examples of such putative perception dominate the literature.
+An alternative understanding of Harman’s cat example is that one
+does not perceive the wrongness in question, rather what one sees in
+rounding the corner are the non-moral descriptive properties one
+witnesses (e.g., the kids pouring gasoline) that spontaneously
+triggers the response “that’s wrong!” However, the
+property of wrongness is not part of the content of one’s visual
+perception. On this interpretation, then, saying that one sees
+that what those kids are doing is wrong should be understood as a
+kind of intellectual seeing, i.e., a matter of intellectually (and, in
+the example, spontaneously) apprehending the relation between what one
+sees and the wrongness of the act—a mental act downstream (or at
+least distinct) from one’s visual experience.
+In twentieth century analytic metaethics it was long accepted that
+moral properties cannot be perceived, even if they are instantiated in
+actions, persons, institutions, and other items of moral evaluation.
+Thus, we find W. D. Ross remarking:
+Rightness is always a resultant attribute, an attribute that an act
+has because it has another. It is not an attribute that its subject is
+just directly perceived in experience to have, as I perceive a
+particular extended patch to be yellow, or a particular noise to be
+loud. (Ross 1939: 168)
+Suppose, following Ross, moral properties (assuming they are ever
+instantiated) are higher-order resultant properties—properties
+whose instantiation depends on descriptive base properties. In this
+picture, it is in virtue of such descriptive properties as the
+hoodlums intending to torture the cat and igniting it that what they
+are doing instantiates the property of wrongness. Further, suppose
+Ross is correct in claiming that moral properties, even if they are
+sometimes instantiated, are not presented in visual experience (to
+pick one sensory modality) as are low-level properties such as color
+and sound. Might it still be true that one’s visual experience
+includes as part of its presentational content resultant moral
+properties even if they aren’t perceived in the way one
+perceives color and sound? Recent work on perception gives the
+defender of moral perception some reason to be optimistic.
+In
+ section 1.2
+ on methodology, we mentioned the method of phenomenal contrast and
+how it is used by some in defense of the rich content view of ordinary
+visual perception. On this view, what is or can be presented in
+ordinary visual experience is not restricted to lower-level properties
+such as shape, color, illumination, and motion, but may include the
+presentation of higher-level descriptive properties including object
+kinds, causal relations, and actions. (Siegel’s pine tree
+example is often cited as an example of how the method is deployed in
+defense of the rich content view.) This recent development in the
+philosophy of perception has figured in some recent defenses of
+ MP.[13]
+The question in the context of recent developments in the philosophy
+of perception, then, is whether this rich content view can be extended
+to moral properties—higher-order normative moral
+properties (and perhaps to normative and evaluative properties
+generally). The matter is controversial, as one might expect. For
+example, Preston Werner (2016) employs the contrast method
+(à la Siegel) in defense of MP. He considers two
+individuals witnessing the Harman cat incident and differing in their
+overall resulting phenomenology because one of them (Pathos) lacks the
+capacity for emotional empathic responses to cases like Harman’s
+cat that the other person (Norma) has. Werner then proceeds to argue
+that from among the candidate explanations for the interpersonal
+difference in the experiences of Pathos and Norma, the hypothesis that
+the visual experience of Norma includes as part of its presentational
+content the property of wrongness (presumably not present in the
+visual experience of Pathos) best explains the phenomenological
+difference in question. Werner’s defense of MP is opposed by
+Pekka Väyrynen (2018) who advances a two-pronged reply. First,
+even if Norma’s experience of witnessing the cat immolation
+includes a presentation of the property of wrongness as part of the
+content of her overall experience, Werner’s argument
+does not show that the property is an element of the presentational
+content of her visual experience that is included as a part
+of her overall experience, i.e., it doesn’t show that she
+sees the wrongness. Second, Väyrynen proposes a
+competing hypothesis according to which Norma undergoes a spontaneous
+inferential transition from non-moral perceptual input (together with
+background beliefs with moral content, training, and habituation) to
+her moral judgment about the hoodlums (this spontaneous response
+lacking in Pathos). He then argues that this hypothesis is overall
+simpler, more unified, and enjoys greater explanatory power compared
+to the MP hypothesis. (For pertinent details, readers may consult the
+articles by Werner and Väyrynen.) This particular dispute, we
+note, is far from settled; questions may be raised about the alleged
+superiority of Väyrynen’s proposal over MP.
+Further questions about moral perception loom large, including whether
+so-called thick moral properties, e.g., honesty, are better candidates
+for figuring in the presentational contents of perceptual experiences
+than are “thin” moral properties like rightness and
+wrongness. After all, concepts like honesty are at least partly
+descriptive (making them “thick”) and partly evaluative or
+normative. For instance, knowingly witnessing someone’s action
+of interpersonal verbal communication as honest is (in part) to be
+presented with specific descriptive information about the
+action—that it was neither a lie nor in some way deceptive. As
+such, the property of honesty is capable of being presented
+auditorily. Insofar as honesty is a right-making property of actions,
+experiencing the honesty with the understanding that it is
+right-making, would seem to be a case of experiencing a moral
+property; the moral property is presented in experience by way of its
+descriptive content.
+Another looming question is whether one would be able to perceive
+moral properties were they non-natural properties. Robert Audi (2013),
+for example, defends a non-naturalist view of moral properties as
+being (in his terminology) “perceptible”. (See Crow 2016
+for a critical discussion of Audi and related views of moral
+perception.) Finally, another question, fundamental to the debate over
+the thesis of moral perception, is whether it is possible to determine
+by introspectionist methodology alone (including the method of
+contrast) whether at least some perceptual experiences include as part
+of their content the presentation of moral properties—whether as
+Terry Horgan and Mark Timmons put it, such experiences have
+“realist purport”. In a series of articles (2008b, 2010b,
+2017, 2018a,b, 2019), they defend a “neutrality thesis”
+according to which for a variety of types of moral experience it is
+not possible to determine by introspectionist methodology
+alone whether such experiences have realist purport. Their
+point, if cogent, arguably generalizes to all types of moral
+experience, including perceptual experience of the sort featured in
+Harman’s cat example, even if such experiences do have realist
+purport.
+In the remainder of this section, our central focus will be on the
+Phenomenological tradition, with some mention of the work by analytic
+philosophers.
+Some Phenomenologists approach the analysis of feelings and emotions
+through the theory of value (axiology) [e.g., Edmund Husserl
+(1908–9/1911/1914, 1920/1924, 1916–35), Nicolai Hartmann
+(1926), Alexius Meinong (1917), Adolf Reinach (1912/1913), Max Scheler
+(1913/1916), Edith Stein (1917), and Dietrich von Hildebrand (1916,
+1922, 1953)]. (For additional information, see the entries on
+ Edmund Husserl,
+ phenomenology,
+ the phenomenology of the Munich and Göttingen Circles,
+ Nicolai Hartmann,
+ Alexius Meinong,
+ Adolf Reinach,
+ Max Scheler,
+ and
+ Edith Stein.)
+ For these Phenomenologists moral perception and moral emotion merge
+in experiencing value properties in general and moral properties in
+particular. They agree that only beings capable of feelings or
+emotions can grasp values and the significance attaching to them.
+Harman’s cat example illustrates this. It is clear that we see
+the cat and someone performing actions that seriously injure the
+helpless animal. This is an ordinary perception of the features and
+actions of worldly beings. We also “see” the wrongness of
+these actions in the disgust or horror that we feel. This is what
+axiological Phenomenologists mean when they claim that the value is
+“perceived” by an intentional feeling or an emotion.
+These Phenomenologists also agree that intentional feelings or
+emotions grasp value-objects independent of those feelings, in the
+sense that neither a thing’s being valuable nor the truth or
+falsity of value attributions is reducible to or solely dependent upon
+the intentional feeling. There are important differences, however, in
+how Phenomenologists understand the relation between the
+“mere” perceiving of material things and experiencing the
+value property and how they understand the independence of the
+value-object. These differences are tied to different understandings
+of the German term
+ wertnehmen,[14]
+ which parallels wahrnehmen, to perceive. Focusing on the
+aspect of “taking”—nehmen—common to
+perceiving and valuing emphasizes their relation. A taking is a
+single, unified experience having two distinguishable aspects, a
+taking as true and a taking as valuable. The truth-taking and the
+value-taking occur together even as they remain distinguishable.
+Although their focus is on value in general, these Phenomenologists
+agree that the emotions have moral relevance and that our choices are
+in some manner rooted in the emotional disclosure of the value of both
+the ends at which the agent aims and the actions conducive to those
+ends. By extension, therefore, and despite differing accounts of the
+experience of value, they also view themselves as moral realists (see
+the entry on
+ moral realism).
+On one view—a “weak” or response-dependent value
+realism—to perceive a value (wertnehmen) is for an
+intentional feeling or
+ emotion[15]
+ to grasp an entity (e.g., a thing, state of affairs, action, event,
+person, institution) as valued—or, as in the case of
+Harman’s cat example, disvalued. Someone’s horror upon
+seeing the boys burning the cat takes the burning of the cat by the
+boys as dastardly. The (dis)value of the boys’ action is
+grounded in the particular, non-axiological features involved (the
+boys’ pouring gasoline on the cat and igniting the gasoline),
+which, relative to the experiential history, interests, concerns, and
+commitments (including moral) of the subject, are taken to be
+(dis)valuable. Just as the perception of a thing S takes
+S as p (the cat as having gasoline poured
+on it and ignited by the group of boys), the feeling-apprehension or
+emotional apprehension takes Sp as v (the
+cat’s being burned by the boys as horrible). The non-axiological
+property p psychologically motivates the experience of the
+emotion with its correlative value property, and p also
+epistemically (and, contra Väyrynen 2018,
+non-inferentially) justifies the value-attribution. And just as the
+perceptual taking of S as p (the cat as
+having gasoline poured on it and ignited by the group of boys)
+includes the naive belief in the existence of Sp (has realist
+purport), the feeling or emotional apprehension of Sp as v
+(the cat’s having been burned by the boys as horrible) includes
+the naive belief in the existence of Sp along with its
+value-attribute v. Feelings and emotions, in other words, are
+a kind of axiological perception revelatory of value-properties.
+The notion of taking something as valuable, on this view, entails that
+a value is in the first instance just the object experienced as
+valuable rather than the value-property alone or an abstract
+value-object of some kind. Finally, since these takings are
+pre-predicative, the term “value-perception” or
+“value-taking” (Wertnehmung) further entails that
+feelings and emotions as evaluative experiences need not involve
+propositional content (although they can and, perhaps more often than
+not, do). In other words, a belief or judgment (even a value judgment)
+can provide the underlying basis for an (additional) experience of
+value, in which case the feeling-apprehension or emotion takes
+[that S is p] as
+ v.[16]
+ For more detailed discussion of this view, see Drummond 1995, 2013,
+2017; Husserl 1908–9/1911/1914; Loidolt 2010, 2011, 2018; Melle
+1991, 1992, 1997, 2007; Peucker 2011; Rinofner-Kreidl 2013; and
+Vendrell Ferran 2008, 2013. For analyses along these lines of
+particular moral emotions, see Drummond 2018a, 2020b; Heinämaa
+2014, 2018; M. Kelly 2016a, 2016b, 2016c; Ozar 2009, 2010, 2018;
+Rinofner-Kreidl 2014a, 2014b, 2018; and Vendrell Ferran 2018a.
+A second view—a “strong” or response-independent
+value realism—holds that intentional feelings directly apprehend
+a priori values ontologically and epistemologically prior to
+experiencing any particular object as a bearer of value (Scheler
+1913/1916; Hartmann 1926; Mulligan 2010; Steinbock 2014, von
+Hildebrand 1916). On this view, intentional feelings and emotions
+separate. Intentional feelings apprehend the a priori value
+itself; they provide access to the domain of values and to their
+hierarchy, which—to use Scheler’s example (1913/1916
+[1973: 86–100])—ascends from sensory values (the agreeable
+and the disagreeable) to vital values (e.g., the noble and the
+vulgar), spiritual values (e.g., the beautiful and the ugly, the true
+and the false), and, at the apex, the holy and the unholy. Values and
+this hierarchy “flash before us” (Scheler 1913/1916 [1973:
+68]) in loving and hating (the two basic feelings) and in preferring
+and placing behind or after. Emotions, by contrast, do not reveal
+value in the way intentional feelings do. They are the subject’s
+responses to the felt value. Von Hildebrand makes the point
+clearly:
+I see a child mistreated on the street and a terrible outrage rises
+within me. I am outraged by the vulgarity and brutality of this
+behavior. The outrage is clearly […] a response to these
+qualities with which I am already familiar (emphasis added).
+(von Hildebrand 1916 [1973: 137])
+The feeling-apprehension of the a priori (dis)value underlies
+the grasp of an object as a good (or bad). The felt value is the
+good-making characteristic of the object valued as good or the
+bad-making characteristic of the object valued as bad. Contra
+the “weak” view, however, the value itself does not depend
+on the features of the object that is the bearer of the value. While
+valued objects (goods), considered as objects of desire, are
+empirical, variable, and subjective, the values themselves are not;
+they are a priori, immutable, and objective ideals. The
+perceptual experience of the bearer is only contingently related
+to—that is, is the occasion for—the feeling-apprehension
+of the value. Aspects of this view are analyzed and developed in
+Barber 1993; Bartky 1997; Blosser 1987, 1995, 2005, 2012; Davis 2009,
+2012; Frings 1996, 1997; E. Kelly 1977, 2011; Schneck 1987; Spader
+2002; Steinbock 2007, 2013, 2014, 2016; and Vendrell Ferran 2018b.
+The difference between the two views of moral emotion can be
+characterized as follows: On the first view, being outraged at the
+mistreatment of the child just is to see the treatment of the child
+with its non-axiological features as vulgar and brutal. On the second
+view, seeing the mistreatment of the child and feeling the disvalues
+“vulgar” and “brutal”, I respond with outrage
+directed at the child’s mistreatment.
+Finally, in the analytic tradition, one also finds views featuring
+affect (Johnston 2001), moral emotion (Döring 2003), desires
+(Oddie 2005), and experiences of pain (Bain 2013) as modes of
+experiential access to moral properties, and so in this respect such
+views are allied with the Phenomenological work just surveyed.
+We have seen in the preceding section that Phenomenologists understand
+a feeling’s or moral emotion’s apprehension of a value as
+tied to the perception of an entity under a certain aspect or under a
+certain description, for example, the boys’ torturing the cat.
+The moral emotion, in other words, apprehends the boys’
+torturing the cat as wrong. The as—what
+Phenomenologists often call the “hermeneutic
+as”—demarcates the entity and the value-aspect
+under which it is experienced. Focusing attention on the aspect or
+description under which the object is experienced, the subject
+recognizes it as a feature of the object or as belonging to the object
+and, conversely, recognizes that the object is as described
+or has the feature in question. In short, the as
+points to an is or a has; seeing the torturing
+as wrong points to the judgment that the torturing
+is wrong. It is the attending to the aspect and the explicit
+recognition of it as an aspect that produces the judgment affirming
+the relation between the entity and the aspect. The judgment thus
+introduces a new sense beyond what is contained in the moral emotion.
+There is an affirmation of the distinction between and the unity of
+the entity and its aspect, that is, an explicit affirmation of the
+object’s being a certain way and as having value on the
+ground of its being that way (Husserl 1900–1901 [2001:
+2:278–280, 286–289]). There is a shift from
+seeing the boys’ wrongfully torturing the cat (that is,
+seeing their torturing the cat as wrong) to seeing
+that the boys’ torturing the cat is wrong. The
+shift is from an attributive mode of experience to a predicative one.
+(Husserl 1900–1901 [2001: 2:273]), and the boys torturing the
+cat is now explicitly brought under the concept
+“wrong”.
+One question about the phenomenology of moral judgment is whether
+experiences of making a moral judgment have a phenomenal essence in
+the sense that there is some phenomenal property (or properties) that
+such experiences have in common and that serves to distinguish them
+from experiences of making non-moral judgments. Mandelbaum, whose work
+in ethics links the Phenomenological and analytic traditions, defended
+this kind of essentialism. As noted earlier, he drew a
+phenomenological distinction between “direct” moral
+experiences of obligation and “removed” moral experiences.
+The former type is where one judges that one is morally obligated to
+either do or refrain from performing an action that is called for in
+one’s immediate circumstances. Mandelbaum describes this
+phenomenon as involving a “reflexive felt demand”
+emanating from one’s immediate circumstances (rather than from
+one’s antecedent preferences) directed toward oneself and
+grounded in one’s sense of a particular response best fitting
+the circumstances. Because the source of the felt demand is
+one’s circumstances and not one’s preferences, judgments
+grounded in this kind of demand are experienced as objective. Removed
+moral judgments, by contrast, are of two sorts and include judgments
+of obligation about one’s past self and about others, as well as
+judgments about the goodness and badness of character traits (virtues
+and vices). Supposing that direct and removed kinds of moral
+experience exhaust the realm of judgment-involving moral experiences,
+the question is whether there is something essential to all such
+experiences that unifies and distinguishes them from experiences
+involving non-moral judgments.
+Mandelbaum argued that
+all moral judgments are grounded in our apprehension of relations of
+fittingness or unfittingness between the responses of a human being
+and the demands which inhere in the situation by which he is
+faced.
+They constitute, as he says, a “single genus”
+(1955: 181). He thus apparently thought that the realm of
+judgment-involving moral experiences enjoys a phenomenological
+signature—an essence. Of course, even if Mandelbaum is mistaken
+about the entire range of judgment-involving moral experiences, it
+might be true that, for example, direct moral experiences enjoy a
+phenomenal essence. For recent discussions of Mandelbaum on this issue
+of essence, see Horgan and Timmons 2005, 2008a; Gill 2008;
+Sinnott-Armstrong 2008; and Glasgow 2013.
+Mandelbaum considered his phenomenological approach to moral
+theorizing crucial for uncovering universally correct moral norms
+without begging questions for or against competing views about such
+norms. His phenomenological description as of direct moral obligations
+coming from one’s external circumstances as opposed to being
+experienced as grounded in one’s desires and aversions, favored
+some form of moral
+ realism.[17]
+ Mandelbaum also took his phenomenological inquiry to favor a
+deontological normative ethical theory, about which we say more below
+in
+ section 3.
+For the Phenomenological axiologists, deliberation bridges the
+axiological and practical spheres. It begins in the evaluation of the
+(apparent) goods we might pursue in action and of the (possible)
+actions conducive to them. Most importantly, deliberation identifies
+those ends that appear as ones to which an agent might commit herself
+in order to give meaning and significance to her life as a whole.
+Deliberation terminates in the choice to pursue particular ends and to
+undertake particular actions in that pursuit. Deliberation involves
+reflection and reason. The subject deliberatively determines which
+end(s) she will pursue given her abilities, interests, and concerns as
+well as which actions best conduce to the chosen ends given the
+particulars of the situation in which she is to act.
+Ricoeur (1950 [2007: 137ff.]) speaks of decision as having a
+“history” and points to what he calls
+“hesitation” as central to this history. From one point of
+view, the capacity for choice manifests itself in hesitation, the
+wavering between different possibilities for projects or for actions.
+From another point of view, hesitation is an
+“in-decision”, as a “falling short of choice”,
+as a being-on-the-way to a choice, which, as of yet, is absent or
+deferred. “Hesitation”, Ricoeur says, “is a
+perplexed willing seeking to orient itself” (1950 [2007: 138]).
+The decision identifies one of these possibilities as my
+project, as the possibility I will pursue in my voluntary,
+self-motivated action that executes the decision. The decision
+articulates a project, but the project is different from the voluntary
+bodily action that realizes it. Although a decision can be separated
+in time from the action, in which case it is the capability of acting
+in conformity with the project that makes it an authentic decision, an
+action can also be spontaneous. The spontaneous action, however, is
+genuinely a voluntary action only insofar as the agent could have
+projected it in a situation to which the action is suitable or with
+which it is compatible. Put another way, the action is voluntary only
+when the agent can recognize an implicit decision in it, a decision
+with its history of hesitation that could be affirmed as the potential
+project of the action in question.
+Such descriptions are well suited to explicit deliberation concurrent
+or continuous with the action, and they are well suited to means-ends
+arguments about what to do. This view of deliberation was embedded in
+a German law that led Adolf Reinach (1912/1913 [1989: 279]) to
+identify some “remarkable antinomies” in our understanding
+of deliberation, one of which is that meritorious actions count as
+less meritorious when done without any deliberation or when done only
+after long deliberation. If the agent takes no time to deliberate, the
+agent acts impetuously; if the agent takes too much time in
+deliberating, the agent is insufficiently attuned to what is right to
+do in certain kinds of circumstances. However, if deliberation is
+viewed less as an occurrent rational calculation, Reinach’s
+paradoxical conclusion can be avoided.
+Not all actions are the result of explicit deliberation. There are
+various ways reasons for action might be at work in action, ways that
+might involve, say, views about the constituents of an end or views
+about what conduces to an end. Moral agents inherit a set of views
+that come to govern their actions without further deliberation. A
+reflective moral agent strives toward confirming for herself these
+inherited judgments, beliefs, and emotional attitudes regarding moral
+goods and moral actions, and on this basis, she adopts, rejects, or
+revises them. They thereby take on the character not merely of
+passively accepted moral beliefs but of justified moral convictions,
+and the agent realizes herself as a person having a particular set of
+convictions for which the appropriate evidence has been secured and
+which now defines her character. These convictions inform her
+subsequent judgments, valuations, and volitions, disposing her to act
+in determinate ways. Having over time already reflectively weighed the
+value of competing goods and the rightness or wrongness of various
+kinds of actions, a reflective agent, just as much as the agent who
+passively accepts beliefs, need not form a means-end argument or
+explicitly deliberate concurrently, but her awareness of her beliefs
+and actions as justified differs from that of the passively accepting
+agent.
+Reasons of this kind dispose the agent to expect certain features in
+certain kinds of situations, to pick out what is salient in those
+situations, to have certain kinds of attitudes toward them, and to act
+in typical ways. In the manner of Aristotle’s brave soldier
+(Nicomachean Ethics 1117a17–22), the agent just
+recognizes the situation and knows what to do without further ado.
+Hence, the claim that an action is considered less meritorious when
+done without occurrent deliberation is false. Prior
+reflection and evaluation yield the sense of a specific
+action—that is, a certain kind of action—as
+appropriate for the particular circumstances in which an agent finds
+herself. It is the perceptual and emotional grasp of those
+circumstances that further determines the agent’s choice to
+follow a particular course of action to achieve her
+ ends.[18]
+The phenomenology of moral deliberation has also been a basis for
+arguing against certain metaethical views including non-cognitivism
+and in favor of a realist moral metaphysics. For example, Jonathan
+Dancy writes:
+In moral choice we struggle to find, not any answer that we can bring
+ourselves to accept, nor any answer that we can accept in consistency
+with previous answers, but the right answer. We present our search to
+ourselves as one governed by a criterion which does not lie in
+ourselves; our fear is that we may make the wrong choice, a fear not
+allayed by the thought that we might make that choice quite happily
+and/or consistently with previous choices. Why otherwise should moral
+choice be so dodgy? Why otherwise should I agonize about what is the
+right thing to do in the circumstances? Non-cognitivism leaves moral
+life too easy, and is inconsistent with the phenomenology. It distorts
+our sense of the authority that the action which we choose as right
+has over us. That authority is one to which our choice must conform,
+and cannot itself depend on our choice; our choice is a recognition of
+an authority which it could not itself create. (Dancy 1986:
+172–173; see also Nagel 1986: 149 and Enoch 2011: 73–75
+for a similar argument)
+Views that attribute realist purport to the phenomenal character of
+moral deliberation as well as to moral emotion, and moral judgment on
+the basis of introspection alone are challenged by Horgan and Timmons
+(2008b, 2019)
+One Phenomenological view of the nature of moral agency derives from
+Husserl (1908–9/1911/1914 [1988: 107]) who calls the (implicit
+or explicit) volitional intention that initiates and governs an action
+the fiat, the “let it be done”. The transition
+from the evaluation of the envisioned end as (apparently) good to the
+fiat is mediated by desire. The envisioned good disclosed by
+the feeling or emotional apprehension is taken as desirable, and the
+fiat directs the agent to that desirable good as something to
+be realized through a bodily performance. The fiat, in other
+words, intends the envisioned good as realizable and is inseparable
+from the action that realizes (or attempts to realize) it (Melle 1997:
+180). At every moment of the action the volitional intention maintains
+itself both as a partially unfulfilled intention that is at the same
+time partially fulfilled (Melle 1997: 181), and the action ordered
+toward the satisfaction of the desire continues just so long as the
+fiat is operative.
+Willing is founded on and inseparable from desire, but it is not
+reducible to desire. Desiring is not willing insofar as it is not
+constrained by practical modalities (e.g., possibility versus
+impossibility) and it is not a determination to undertake an action. I
+can wish for the impossible or for what is past (or both, as in
+“I wish I did not have that second piece of pie at dinner last
+night”), and I can desire some future good but not wish to do
+what is required to obtain that good. Moreover, once one chooses to do
+A, and nothing interferes, one does A. We do not
+resist performing an action once we have willed it, but we do
+regularly resist some desires (Husserl 1908–9/1911/1914 [1988:
+103, 221–224]; Melle 1997: 179; see also Bratman 2012: 73). The
+wishing that is relevant for the will and for action is a wishing for
+what is practically possible, what is realizable in action. This
+wishing takes the form of desire, and the volitional
+intention—the fiat—determines us to act.
+The progressive completion of a volitional intention that initiates
+and controls a physical performance aimed at a desired end is a
+voluntary action. On Ricoeur’s view, the decision indicates a
+present or future voluntary action which depends on me and which is
+within my power. But, as seen above, Ricoeur’s position adopts a
+means-end conception of deliberation and action, and this masks an
+important distinction introduced by Husserl between two kinds of
+volition, namely, the distinction between action-will
+[Handlungswille] and decision-will
+[Entschlußwille]. Actions executing an action-will are
+initiated by a desire for an end that is not explicitly
+intended in the willing. They involve no prior choice and manifest
+themselves in the very performance of the
+ action.[19]
+ We shall call these voluntary actions. Actions executing a
+decision-will, that is a prior choice or intention, are initiated by a
+choice in the light of an end that is explicitly intended in
+the
+ willing.[20]
+ We shall call these chosen actions. Chosen actions differ from
+voluntary actions, then, in that they not only aim at a
+desired end but are explicitly undertaken in the light of
+that end. I might eat a chocolate sundae because, as a matter of
+desire, I like sundaes, but I might choose to snack on a piece of
+fruit (rather than the sundae) for the sake of my health.
+Eating the fruit is chosen as conducive to the end
+(Sokolowski 1985: 11; Drummond 2020a). In chosen action the agent
+wills that the action be done as conducing to an articulated
+end, whereas in merely voluntary action the agent wills that the
+object of desire be realized by acting. While the outcome of
+a merely voluntary action aiming at a particular end and that of a
+chosen action aiming at the same end might be the same, the
+intentional structures of the two volitional experiences and the
+actions undertaken to fulfill them differ.
+Although the early Husserl inherited an idealized utilitarianism from
+Franz Brentano, later in his career he favored a view that
+“absolute loves” generate “absolute oughts”
+(Husserl 1919–20 [2012: 146]; 1916–35 [2014:
+391–392]). For example, a mother’s love for her child
+demands that she protect her child from harm even when sacrificing her
+child is a lesser good for the aggregate and even when saving her
+child leads to harm for others. The central idea is that an objective
+value can become an “individual, subjective value of
+love”, i.e., that “the same value can be infinitely more
+‘significant’ for one person than another” (Husserl
+1919–20 [2012: 146n.]). Such absolute loves—we can also
+think of them as commitments—unconditionally bind that subject
+to honor those commitments regardless of what any purely objective,
+consequentialist calculation might require (Husserl 1916–35
+[2014: 391–392]). These commitments motivate an agent to adopt
+an ethical life-project and to undertake the actions necessary to
+realize that project, a project that is “the deepest ground of
+[her] personal identity and individuality” (Melle 1991: 131;
+2002:
+ 243–244).[21]
+ This view is consistent with and an extension of “weak”
+value-realism. The “absoluteness” of the imperative is
+relative to the committed subject; the imperative, in Kantian terms,
+is a hypothetical imperative binding only on those who satisfy the
+condition of being so committed (Drummond 2018b: 141–42).
+What we have called “strong” value realism, by contrast,
+points to universal imperatives tied, for example, to the hierarchy of
+values mentioned above: sensuous values; vital values; spiritual
+values; and the values of the holy and unholy. This list notably
+includes no moral values. Scheler distinguishes between the purely
+ideal ought-to-be (the value) and the moral ought-to-do (Scheler
+1913/1916 [1973: 203ff.], cf. Blosser 1987). Moral values, then,
+attach to actions that realize the values named in the hierarchy.
+Hartmann is committed to a similar view regarding imperatives. Ideal
+values are experienced as demands, and the gravity of the violation of
+a demand and the merit derived from fulfilling a demand are measured
+by the value’s strength and height. Hartmann acknowledges,
+however, that these categorical demands are problematic. Personal and
+universal values conflict in ways that can never be fully resolved. To
+do what everyone should do in the same circumstances is, in effect, to
+say an agent is replaceable by anyone, and this, for Hartmann, is to
+deny the agent’s individuality as a person (1926 [1963: 357]).
+Appeals to universal principles depend upon a typicality among the
+situations in which we are called upon to act, but any maxim of action
+must be tied to a particular situation and to a particular agent in
+that situation. Hence, on Hartmann’s view, the universality of a
+principle undercuts its applicability to a particular situation that,
+owing to the uniqueness of persons and their interests and
+commitments, is itself unique (Hartmann 1926 [1963: 358–360]).
+Universal principles, in a paradoxical way, just insofar as they fail
+to heed the individual personalities of agents, do not, and cannot,
+offer moral guidance. This conclusion pushes back in the direction of
+the Husserlian position on axiological approaches to the phenomenology
+of action.
+Not all Phenomenologists adopt the axiological approach to moral
+theory. Heidegger (1927 [2010: 97]), for example, was dismissive of
+then-prevalent theories of value, and he turns instead to freedom and
+“authenticity” to characterize ethical subjectivity. By
+“authenticity”, he means a subject’s taking
+responsibility for and ownership over the choices she makes that give
+meaning and value to her life. She thereby lifts herself out of the
+moral complacency that characterizes agents who passively accept
+traditional and cultural conceptions of what “one” does
+(Loidolt 2018: 703–704). It is disputed whether Heidegger thus
+commits himself to a “decisionism”—that is, the view
+that a subject chooses who she will be without recourse to reasons or
+evaluative standards (cf., e.g., Tugendhat 1979, Okrent 1999)—or
+a “deep deliberation”—the view that the subject
+chooses who she will be in a critical reflection on her own identity
+(see Crowell 2007, 2013; Burch 2010).
+If Heidegger is read in the direction of decisionism, however, he
+foreshadows those Phenomenologists who offer a constructivist account
+of value centered on the notion of freedom (e.g., Sartre 1943,
+Beauvoir 1947, and Merleau-Ponty 1945; also see the entry on
+constructivism in metaethics). They believe that values are created
+(“constituted” or “constructed”) in the
+exercise of human freedom. The Phenomenologists who take a
+constructivist approach to value and who claim that values are created
+in the exercise of human freedom adopt somewhat differing accounts of
+freedom. The most radical view (e.g., Sartre 1943) claims that the
+exercise of the freedom definitive of human beings constitutes the
+reality of values in consciously and actively transcending the
+agent’s situation, and that this exercise lacks transcendent
+values to justify it. Freedom, although itself unconstrained,
+nevertheless in its exercise, encounters factical obstacles, including
+most importantly the presence of other autonomous agents. A weaker
+version (e.g., Beauvoir 1947) also places freedom and transcendence at
+the center of her ethical life while recognizing the obstacles freedom
+faces. The goal at which freedom aims “is not fixed once and for
+all” but rather “is defined all along the road which leads
+to it” (Beauvoir 1947 [1948: 153]). For Beauvoir, this
+fundamental ambiguity characterizes human existence. Against the
+stronger view, however, Beauvoir believes that the other’s
+freedom cannot be viewed simply as an obstacle to one’s own
+exercise of freedom. Rather, one’s own freedom and the
+realization of one’s projects requires the cooperative freedom
+of others.
+A third constructivist alternative (see Merleau-Ponty 1945) frames the
+ideas of freedom, transcendence, and ambiguity as analogous to
+artistic expression. Freedom seeks to create value within the
+limitations of a given situation. On this view, the significance and
+value of things is not constituted in the free choices of agents, even
+when unconscious and non-deliberated; instead persons are born into a
+world already permeated with meaning, and freedom is exercised in this
+context. Moral agents take the world as a task to be completed, a task
+of instituting meaning and value wherever and whenever possible
+through action. To create value consists in actively taking up our
+situations of chance, making something out of contingency,
+establishing communicative relationships, and creating and recreating
+values by actively changing the world.
+Yet other Phenomenologists adopt a deontic viewpoint and challenge the
+axiological and constructivist approaches on the ground that values
+are often experienced as prescriptions, norms, imperatives,
+obligations, demands, and requirements. Since values are experienced
+in relation to feelings and emotions, the objection goes, it would
+seem that we are always free to value and choose otherwise, precisely
+because our feelings, interests, and choices can vary. Because of
+that, it is difficult to understand in what sense the values we
+encounter can be thought to impose unconditional obligations.
+One response would be to ascribe a strict necessity and universality
+to at least some moral values such that anyone recognizing those
+values would recognize the duty to realize the value in action.
+Scheler (1913/1916 [1973: 203ff.]), for example, claims that insight
+into the purely ideal ought-to-be (the value) serves as the basis for
+willing and realizing the moral ought-to-do. But there is no clear
+account in Scheler of the transition from the insight into ideal
+value-possibilities to the experience of moral imperatives, and it is
+not clear that the experience of obligation would arise were one not
+to recognize the value. Von Hildebrand, by contrast, thinking that
+Scheler’s view entails that the spontaneous love of value
+motivates action only hypothetically, insists that moral obligation
+has categorical force. The “importance”
+(Bedeutsamkeit) of an object enables it to awaken a
+person’s interest or motivate her action. Value is the kind of
+importance that a thing has in itself (von Hildebrand 1916), and von
+Hildebrand isolates a group of values that are good per se
+apart from any relation to a subject’s interests, needs, and
+wants. In making this move, however, if he gains a ground of
+obligation, he does so at the expense of divorcing these values and
+their attendant demands on us from their importance to the
+agent and thereby their character as motivating the subject to
+act.
+Similarly, the deontic Phenomenologists argue that, since the
+constructivist believes that values are created in the exercise of
+human autonomy, it is difficult to understand how an agent’s
+choices, while self-binding (at least for the moment), can legislate
+universal obligations that an agent would experience as a duty.
+Lacking the view of practical reason found, for example, in Kant,
+constructivism cannot underwrite moral normativity, in particular, the
+experience of universal obligation.
+The deontic Phenomenologists seek to ground the notion of obligation
+independently of any notion of value or volition. On their view, the
+experience of obligation is prior to all acts of evaluation, all
+choices, all projects, and all dictates of reason, and it reveals
+itself in the experience of other persons (the Other). The deontic
+view grounds ethics in intersubjectivity, adopting a
+“second-person perspective” in which encountering the
+“face” of the Other is the ground of obligation (Levinas
+1961; 1974; Løgstrup 1956; cf. Darwall 2006; see the entry on
+ Emmanuel Levinas).
+ The subject encounters an ethical transcendence in
+encountering the face of the Other insofar as the face is expressive
+(Levinas 1961 [1969: 51])—the “revelation” (1961
+[1969: 73]) or “epiphany” (1961 [1969: 194])—of the
+Other. My original ethical access to the Other disrupts my
+subjectivity; the Other “speaks” to me and calls me out of
+my subjectivity. The Other, in short, is encountered as a summons and
+a command, and the only appropriate form of encountering the Other,
+therefore, is to respond. Only to the extent that I acknowledge this
+summons and command do I live in a world with the Other and thereby
+become a person—a moral agent—myself. The Other and I
+exist in an asymmetrical relation wherein the Other’s ethical
+superiority outweighs my egoism, unsettles my conscious
+intentionality, and contests my freedom in such a way that I must
+respond. On this view, moral agency begins with neither my feelings
+and their correlative values nor my (constructive) freedom, but with
+the recognition that my freedom is arbitrarily limited by my
+responsibility to the Other. The experience of the Other is thus from
+the beginning an experience of obligation.
+While metaethics addresses second-order questions about morality,
+normative ethics addresses first-order ethical questions about what to
+do and how to be and divides into applied ethics and ethical (or
+moral) theory. The former, also referred to as “practical
+ethics”, addresses questions about specific ethical issues
+(e.g., abortion, capital punishment) and ethical issues that arise in
+the professions (e.g., medical ethics, business ethics). Normative
+ethical theory (ethical theory henceforth), by contrast, addresses
+general questions about which types of actions are morally
+right or wrong and what kind of person is morally good and
+why. In this section, we focus primarily on the bearing of moral
+phenomenology on ethical theory, in particular theories of right
+conduct (obligation), organized around three “formal”
+issues: (1) deontology vs. consequentialism about the structure of
+ethical theory, (2) monism vs. pluralism about the number of
+fundamental morally relevant factors that determine, e.g., whether an
+action is right or wrong (an action’s deontic status), and (3)
+atomism vs. holism about the significance of morally relevant
+descriptive features in explaining the instantiation of normative or
+evaluative properties. We take these up in order, after which we
+conclude with some remarks about other normative ethical issues that
+have received attention from moral phenomenologists.
+John Rawls describes normative ethical theory as
+the study of substantive moral conceptions, that is, the study of how
+the basic moral notions of the right, the good, and moral worth may be
+arranged to form different moral structures. (1975: 286)
+Each of these basic notions corresponds to a branch of any complete
+ethical theory: theory of right conduct (or obligation), theory of
+value, and theory of moral worth (or virtue). A common way to
+distinguish different ethical theories by their structure is in terms
+of which of these three notions (and corresponding theories) is most
+basic in relation to a theory of right conduct. Consequentialist
+theories explain right conduct in terms of the value of consequences
+associated with an action or with rules for action guidance; they
+represent value-based theories (see the entry on
+ consequentialism).
+ Deontological theories are united in rejecting consequentialism and,
+for instance, appealing to respect for persons as a basis for
+explaining right conduct (see the entry on
+ deontology).
+ Virtue ethical theories take considerations of virtue (e.g., the
+activities of a virtuous agent) as a basis for explaining right
+conduct (see the entry on
+ virtue ethics).
+ Because virtue ethical theories of obligation have emerged relatively
+recently, twentieth century debates in ethical theory were dominated
+by debates between consequentialists (sometimes referred to as
+teleological theories) and deontologists. How might phenomenological
+inquiry be brought to bear on the dispute between these two types of
+theory?
+We have already touched on such debates in the previous section
+(Brentano’s teleological ideal utilitarianism opposed by
+Levinas’s non-teleological ethics). Mandelbaum defended a type
+of deontological view, so-called perceptual intuitionism, according to
+which in both direct and removed moral judgments of obligation, the
+focus of one’s judgment is on the fittingness (or unfittingness)
+of the act in relation to the agent’s circumstances, a relation
+that one directly apprehends—a kind of intellectual perception.
+Although perceptual intuitionism is a kind of deontological theory, in
+arguing for this view on phenomenological grounds Mandelbaum attempted
+to “resolve … the conflict between utilitarianism and
+deontology” (1955: 71). So, for instance, regarding direct moral
+judgments of obligation focused on promoting good consequences,
+Mandelbaum argues that as with felt obligations to keep a promise, or
+express gratitude, whose grounds lie in one’s past, a felt
+obligation to bring about some good state of affairs rests upon
+one’s apprehension that an action one can perform is felt to be
+a fitting response to the envisioned state of affairs in question,
+indeed, that refraining from the action would be unfitting. He thus
+concludes that there is no genuine phenomenological difference between
+finding the ground of obligation in the envisioned end of action (its
+consequences) and finding the ground of this same obligation in the
+fittingness of the action to one’s situation. In this way, he
+claims, one can reconcile the phenomenology associated with
+teleologically focused judgments of direct obligation with the
+phenomenology of direct judgments of obligation whose experienced
+ground is the fittingness of the action to one’s situation. What
+Mandelbaum attempts to thereby show is that the phenomenology of
+judgments of obligation (both direct and removed) have a common
+phenomenological character properly captured in his favored perceptual
+intuitionism—a form of deontology—and thus on
+phenomenological grounds his form of deontology is to be preferred
+over versions of
+ teleology.[22]
+This is but one example of bringing phenomenological considerations to
+bear on ethical theory. We have dwelt on Mandelbaum because of the
+depth and subtlety of his phenomenological analysis which he brings to
+bear on the issue of structure. However, increasingly, philosophers in
+the analytic tradition have been more attentive to the relevance of
+phenomenological considerations in defending ethical theories. For
+instance, T. M. Scanlon defends a “contractualist” ethical
+theory that he finds attractive partly because, “the account it
+offers of moral motivation is phenomenologically more accurate than
+any other I know of” (1998: 187). Specifically, Scanlon argues
+that his contractualism fits with one’s experience of the
+priority and significance of moral reasons for action (compared to
+nonmoral reasons for action) and does so in a way superior to
+competing ethical theories.
+This distinction cuts across the deontology/consequentialism/virtue
+ethics distinctions. A monistic moral theory of right action takes
+there to be a single right-making feature of actions, while pluralist
+views take there to be more than one. According to one sort of
+hedonistic act utilitarian ethical theory, there is a single
+fundamental descriptive property—an action’s utility,
+understood as the net balance of pleasure versus pain it would bring
+about—that explains why some actions are wrong (they fail to
+maximize utility) and others are not. This kind of monistic theory is
+opposed by such pluralist theories as Ross’s ethics of prima
+facie duty, according to which there is a multiplicity of
+basic right (and wrong)-making features; Ross identified
+seven: fidelity, reparation, gratitude, justice, beneficence,
+self-improvement, and non-maleficence. How might considerations of
+moral phenomenology be brought to bear on this dispute?
+One sort of phenomenological argument appeals to the difference
+between experiences of regret and remorse. Assume (along with those
+who marshal this argument) that it makes sense to regret finding
+oneself in circumstances involving difficult moral choices, while it
+makes sense to feel remorse about having acted wrongly. Suppose, then,
+that in the past a co-worker had intervened to save your job from a
+vindictive administrator who unjustly wanted you fired for personal
+reasons not related to how well you did your job. Now, some years
+later you both find yourselves in new positions. You are asked by a
+supervisor your opinion of your co-worker’s suitability for
+their current position and your honest opinion is that they are not
+suitable. On Ross’s ethical theory, both the prima
+facie duty of gratitude and the prima facie duty of
+fidelity apply to this situation and one must choose which of them is
+most stringent in these particular circumstances. Suppose you choose
+to answer truthfully about your colleague’s job performance.
+Besides the regret you feel about finding yourself in this difficult
+situation, on Ross’s view, whichever choice you make, it is
+fitting for you to feel some remorse for not having complied with the
+prima facie duty of gratitude, which was in force when you
+made your decision. By contrast, on a monist theory like hedonistic
+utilitarianism where the only right-making feature of actions is their
+utility, it is not fitting to feel remorse if being truthful in this
+circumstance brings about a higher degree of utility than lying. In
+choosing to truthfully express one’s opinion, one does not leave
+undone a duty that was in force, even if overridden. Thus, on a
+monistic view, the conflict is only apparent, while on a pluralist
+view it is genuine. The argument, then, is that a pluralist view
+accommodates people’s experiences of remorse (not mere regret)
+in such circumstances, thus making sense of agonizing moral decisions
+(as Michael Gill 2012 labels such cases) as they are normally
+experienced (see also McNaughton 1988: chap. 13).
+What Ross’s theory takes for granted is that in any circumstance
+where one might do something out of gratitude (and similarly for all
+of the basic Rossian prima facie duties) the fact that the
+act would be an expression of gratitude is always relevant in
+assessing one’s moral obligations, and always counts as a
+favoring reason for expressing gratitude, even if in some
+circumstances like the one just described, it is overridden. This
+reveals a commitment to what is called “reasons atomism”
+which is opposed by holistic conceptions of reasons, our next
+topic.
+According to an atomistic view, then, some morally relevant reasons
+are invariant in their relevance and their valence. Opposed to this
+view are holists who claim that whether a consideration like pleasure
+is relevant and whether it counts in favor of an action depends on
+what other factors may be present in some set of circumstances.
+Holists claim that in some circumstances a factor that is normally
+relevant is “silenced” and moreover even when relevant its
+valence may be reversed! Although pleasure tends to have a positive
+valence, the pleasure a bully would derive from bullying someone has a
+negative valence, which contributes to the wrongness of the
+bully’s act.
+Mandelbaum used the example from the previous section (his example) to
+argue against Rossian atomism (although the atomism/holism terminology
+had not yet been introduced as labels for the pertinent distinction).
+As we explained, if Ross’s atomistic view is correct, the fact
+that one has a chance to express gratitude is a morally relevant
+consideration that favors lying about your co-worker’s
+competence. In not acting on this consideration, one ought to feel
+some remorse (having failed to comply with a prima facie
+duty), remorse being a proper reaction to wrongness. However, if, upon
+contemplating this scenario and projecting into it, one imagines
+experiencing regret at being in this difficult situation, but not
+remorse, this signifies that one takes considerations of gratitude to
+be irrelevant in deciding what to do in this case. Mandelbaum
+argues that “the essential aspect of the situation” (1955:
+78) is that one has been asked a legitimate question, and the person
+asking it is either unaware of one’s personal tie with the
+co-worker or expects one to put it aside in answering the question.
+Viewed this way, considerations of gratitude are not relevant in the
+situation one confronts. Mandelbaum further reports that he imagines
+feeling regret at being in such a situation, but not remorse for
+telling the truth.
+Thus, while the experiential difference between regret, whose object
+is one’s circumstances, and remorse, whose object is one’s
+action (or omission), is used in defense of pluralism over monism
+regarding the fundamental right- and wrong-making features of actions,
+this same contrast has been marshaled in defense of holism over
+atomism about the relevance and valence of such features.
+Two further issues in normative ethics that deserve mention, if only
+briefly, are these.
+Regarding three of the most prominent types of ethical
+theory—consequentialism, deontology, and virtue
+ethics—phenomenological considerations specific to each can help
+illuminate them. Some versions of consequentialism hold that pleasure
+and pain have positive and negative value respectively that figure in
+determining the deontic status of actions. Since these experiences
+arguably have a phenomenological element to them, one can expect
+phenomenological analysis to help explain the value they do have.
+Taking a Kantian view as a model of deontology with the emphasis on
+respect for persons, the phenomenology of respect for persons will
+bear importantly in fully illuminating this kind of theory (see
+Drummond 2006, Kriegel 2018, Kriegel & Timmons 2021) And, we have
+already noted work on the phenomenology of virtue (Annas 2008) that
+can be brought to bear on virtue ethics. (These points are taken from
+Kriegel 2019).
+Moreover, as touched upon above in
+ section 2.2
+ and
+ section 2.5,
+ Phenomenologists go beyond mere description of the feelings or
+emotions as apprehending value to bring their analyses to bear on
+normative issues. While some, for example, Levinas, adopt a
+straightforward deontic approach, others who adopt an axiological
+approach also address the normative. Recall that for Scheler the
+feeling-apprehension of the ideal, a priori value motivates
+(in an unspecified manner) the awareness of a moral ought-to-do that
+will instantiate the value. Hence, we can think of such thinkers as
+deontologists. Others, however, who adopt a weaker version of value
+realism move in the direction of virtue ethics and an aretaic, rather
+than deontic, conception of “right” action.
+Husserl’s notion of “absolute loves” as generating
+“absolute oughts” is a case in point. The mother’s
+absolute love generates an “ought” in the sense that the
+mother feels she must do her “best” for the child.
+It’s the right action insofar as it is the best action available
+rather than a deontic demand. Drummond (2006, 2010), while claiming
+that respect imposes obligations upon an agent, nevertheless locates
+respect within a eudaimonistic, virtue framework, and Irene McMullin
+(2019) develops an account of the virtues that incorporates
+first-person, second-person, and third-person perspectives.
+Finally, phenomenological evidence has been brought to bear on the
+various roles that morally relevant reasons for action might
+play. Dwelling on the controversial category of the supererogatory,
+Horgan and Timmons (2010a) argue that making sense of the
+supererogatory as it is normally experienced requires recognizing that
+in addition to such reasons playing requiring and justifying roles
+(Gert 2004), we must recognize what they call a
+“merit-conferring” role for reasons—reasons that
+morally favor a course of action without prima facie
+requiring it, let alone requiring it all-things-considered.
+There has been a growing tendency on the part of philosophers to put
+aside the distinction between “Continental” and analytic
+philosophy and to focus on problems of common concern. This
+development is perhaps most evident in the philosophy of mind. See,
+for example, Shaun Gallagher and Dan Zahavi’s The
+Phenomenological Mind (2012), which situates Phenomenology in
+relation to the analytic philosophy of mind and the cognitive
+sciences. Think, too, of the recent explosion in the study of the
+emotions. We have mentioned a number of moral phenomenologists who
+explore the emotions, and their work involves dialogue with others
+working on the emotions who do not explore their moral dimension.
+Drummond and Rinofner-Kreidl’s (2018) collection on emotional
+experiences, for example, has brought together Phenomenological and
+analytic philosophers of mind. More important, if you look at the list
+of references in the separate articles, almost all of them cite
+authors from multiple traditions. Conversely, analytic philosophers of
+mind are looking to Phenomenological thinkers and to new possibilities
+for conceiving moral experience. The work outlined in this
+contribution is an instance of these more inclusive approaches and
+suggests an agenda for further research.

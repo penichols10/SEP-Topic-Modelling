@@ -1,0 +1,885 @@
+The relationship between logic and psychology was fought over most
+intensely in the German-speaking lands between 1890 and 1914. Indeed,
+during this period pretty much all of German-speaking philosophy was
+engulfed in the so-called Psychologismus-Streit (the
+‘psychologism dispute’). This dispute centered on the
+question whether logic (and epistemology) are parts of psychology.
+Gottlob Frege and Edmund Husserl are the best-known figures of this
+controversy. The fact that the psychologism dispute has become closely
+associated with German-speaking philosophy must not, however, blind us
+to the enormous influence of John Stuart Mill upon both sides of the
+controversy. Paradoxically, Mill’s Logic of 1843 was
+not only a key inspiration behind much German-speaking psychologistic
+philosophy, it also contained some crucially important
+anti-psychologistic ideas.
+In what follows, I shall begin with a short summary of Mill’s
+contribution. Subsequently, and turning to the German scene, I shall
+briefly sketch what authors accused of psychologism said on the
+relationship between logic and psychology, before outlining
+Frege’s and Husserl’s arguments against them. I shall
+conclude by presenting a number of objections to Frege’s and
+Husserl’s anti-psychologism. Some of these objections come from
+Frege’s and Husserl’s contemporaries, others are of more
+recent origin.
+(Important papers on the emergence of psychologism in
+nineteenth-century German philosophy are George 1997, Peckhaus 2006
+and Stelzner 2005. The most important monograph is Beiser 2014. Gray
+2008 contains many important observations on early psychologistic
+tendencies in mathematics and logic.) 
+Critics and interpreters of Mill’s philosophy of logic have been
+unable to reach a verdict on the question whether Mill was a
+psychologistic thinker. Recent work by David Godden (2005) provides a
+detailed explanation for this lack of agreement: Mill’s position
+on the relationship between (deductive) logic and psychology is
+“fractured”. Some elements in Mill’s thought push
+him towards a strongly psychologistic viewpoint, other elements pull
+him away from it. In other words, sometimes Mill insists that logic
+depends on psychology, sometimes he denies such dependence. (This
+section is based on Godden’s important re-assessment.)
+As Mill declares as the beginning of his System of Logic,
+logic has two parts: the ‘science of reasoning, as well as an
+art, founded on that science’ (1843, 4). The art of reasoning is
+prescriptive; it provides us with the rules according to which we
+ought to reason. The science of reasoning is a descriptive-explanatory
+psychological discipline and analyses mental processes. The overall
+goal of logic is ‘the guidance of one’s own
+thoughts’ (1843, 6). The crucial question here is of course how
+the dependence of the art of reasoning upon the psychological science
+is to be understood. The mere fact that the art is prescriptive does
+not yet make it independent of psychology.
+At this point it is important to note that Mill’s science of
+reasoning really is, in both subject matter and methodology, a
+psychological discipline. Although the subject matter of the science
+of reasoning is more specific than that of psychology in general
+— the former investigates ‘the operations of the human
+understanding in the pursuit of truth’ (1843, 6) — there
+are, as Mill sees it, no special psychological laws characteristic
+exclusively of the domain of the science of reasoning. Instead,
+‘the general laws of association prevail among these more
+intricate states of mind’ (1843, 856). Moreover, in both the
+general and the more specific domain, the discovery of laws is due to
+‘the ordinary methods of experimental inquiry’ (1843,
+853).
+Mill offers at least three different accounts of the contribution
+which the psychological science of reasoning makes to the art of
+reasoning. On the first account, the prescriptive art of reasoning
+seems prima facie independent of psychological science. In
+this vein Mill writes, for example, that psychology can only offer
+‘the analysis of the mental process which takes place whenever
+we reason’, whereas the art of reasoning must provide ‘the
+rules … for conducting the [reasoning] process correctly’
+(1843, 4). A second account is based on the idea that any successful
+prescription for a given type of thought process must be based on a
+proper and detailed psychological understanding of that process:
+‘A right understanding of the mental process itself … is
+the only basis on which a system of rules, fitted for the direction of
+the process, can possibly be founded’ (ibid.). And
+Mill’s third account goes further still: ‘Its [the Science
+of Logic’s] theoretic grounds are wholly borrowed from
+Psychology, and include as much of that science as is required to
+justify the rules of the art’ (1865, 359). On the third account,
+psychology is essential to the justification of the rules of
+reasoning. Mill provides no clear indications on how these prima
+facie conflicting statements can be reconciled. Clearly the third
+statement will qualifies as psychologistic by everybody’s
+criteria — though doubts have been raised whether, ‘when
+this passage is read in its full dialectical context’, it
+amounts to more than the claim that ‘the logician must formulate
+rules of inquiry in a manner which will be as helpful as possible to
+inquirers, and must draw on the psychology of thought to do so’
+(Skorupski 1989, 166). But even the first two accounts, interpreted
+against the backdrop of Mill’s other views, make prescriptive
+logic dependent upon psychology. Logic cannot begin its task until
+psychology has provided a descriptive analysis of reasoning
+processes.
+We encounter a similar mixture of psychologistic and
+anti-psychologistic motifs also as we turn to Mill’s views on
+how the logician ought to justify logical precepts and principles. For
+Mill, we specify the rules of deductive inference by identifying the
+valid forms of the syllogism (1843, 168). And validity is explained by
+the formula ‘if the premises are true, the conclusion must
+inevitably be so’ (1843, 166). ‘Good inferences’
+have an connection to truth: ‘A reasoning, to be rightly framed,
+must conduct to a true conclusion’ (1865, 365). And hence
+A ‘good’ inference is thus a ‘true inference’,
+an inference ‘grounded in the reality of things’ (1843,
+10–11).
+In line with this consideration, Mill distinguishes between
+act, content and object of a judgement. The
+content of a judgement accounts for its representational connection to
+the external world. And the truth of a judgement depends on its
+object, that is, the state of affairs represented by the content. Thus
+when it comes to identifying valid inferences, logic must focus on
+objects (1843, 87). Mill’s theory of judgements and their truth
+involves a rejection of ‘conceptualism’, the view that the
+objects of judgements are mental, and that ‘a proposition is the
+expression of a relation between two ideas’ (1843, 109). Against
+this view Mill insists that ‘propositions … are not
+assertions respecting our ideas of things, but assertions respecting
+the things themselves’ (1843, 88).
+It is easy to understand why some authors have taken such statements
+as evidence that Mill was defending an anti-psychologistic position of
+sorts. And yet, we must remember that these statements directly
+contradict other of his pronouncements, some of which were quoted
+earlier. Recall only that Mills defines logic as ‘the science of
+the operations of the human understanding in the pursuit of
+truth’ (1843, 6). There is no denying that Mill’s theory
+of logic contains incompatible views.
+Godden (2005) shows convincingly that even Mill’s object-focused
+project eventually circles back towards psychologism. First of all,
+Mill offers affirmative and negative formulations of the Principle of
+the Transitivity of Co-existence as the ultimate foundation of all
+syllogistic reasoning:
+Second, although Mill never seeks in turn to provide a justification
+for the Principle of Transitivity of Co-existence, it is not difficult
+to work out what for him such justification would have to look like.
+The parallel case of geometric axioms is clear enough: ‘It
+remains to inquire, what is the ground for belief in axioms —
+what is the evidence on which they rest? I answer, they are
+experimental truths; generalisations from observation’ (1843,
+231). For Mill all general propositions must ultimately be justified
+by experience:
+Third, Mill reverts to a full-blown form of psychologism when turning
+to the justification of other logical principles, in particular the
+Principle of Non-Contradiction. Mill insists that it too is an
+empirical generalisation over our experience, and especially over our
+inner experience:
+Here again the foundations of logical truths cannot be understood and
+explained independently of psychology. Mill offers a similar analysis
+of the Principle of the Excluded Middle (1843, 278–9).
+Fourth, what pushes Mill back into a psychologistic position is his
+phenomenalism. In his argument with Hamilton, Mill maintains that the
+fundamental logical principles apply not to things in themselves, but
+only to the objects of our experience. The laws of logic are
+‘laws of all Phænomena’ (1865, 381–2).
+Accordingly, the fundamental principles of logic — the
+Principles of Non-Contradiction, the Excluded Middle and Identity,
+And with this claim Mill’s position is once more back in the
+psychologistic camp.
+Although the exact definition of ‘psychologism’ was itself
+part and parcel of the Psychologismus-Streit, most
+German-speaking philosophers, from the 1880s onwards, agreed that the
+following arguments deserved the label ‘psychologistic’ (I
+shall write PA for ‘psychologistic
+argument’):
+Who actually held these views, indeed whether anyone did, was hotly
+contested at the time, but it seems reasonable to attribute PA
+1 to Theodor Lipps (1893) and Gerardus Heymans (1894, 1905),
+PA 2 to Wilhelm Wundt (1880/83), PA 3 to Wilhelm
+Jerusalem (1905) and Christoph Sigwart (1921), PA 4 to
+Theodor Elsenhans (1897), and PA 5 to Benno Erdmann (1892).
+We might also note a couple of quotations that for many authors at the
+time were paradigmatic expressions of psychologism. The bulk of the
+first quotation comes from Mill’s Logic and has already
+been quoted in the last section:
+And Theodor Lipps held that
+Consider first Frege’s Grundlagen der Arithmetik
+(1884). One of Frege’s main thesis is that mathematics and logic
+are not part of psychology, and that the objects and laws of
+mathematics and psychology are not defined, illuminated, proven true,
+or explained by psychological observations and results. One of
+Frege’s central arguments for this thesis is the consideration
+that whereas mathematics is the most exact of all sciences, psychology
+is imprecise and vague (1884, 38). Thus it is implausible to assume
+that mathematics could possibly be based upon, or be a part of,
+psychology. A closely related further point is that we need to
+distinguish between psychological ‘ideas’
+(Vorstellungen) and their objects. This distinction is
+especially important when the latter are objective or ideal. Numbers,
+for example, are objective and ideal entities, and thus they differ
+fundamentally from ideas. Ideas are always subjective and
+idiosyncratic. In this context Frege laments the fact that the term
+‘idea’ has also been used for objective, essentially
+non-sensual, abstract and objective entities (1884, 37). Frege rejects
+psychological or physiological interpretations of the Kantian
+distinctions between the a priori and the a posteriori, and the
+analytic and the synthetic; as Frege has, it these distinctions
+concern different ways in which judgments are justified or proven
+true, not different operations of the human mind (1884, 3). 
+A central theme of the Grundlagen is a detailed criticism of
+Mill’s philosophy of mathematics. Frege argues that mathematical
+truths are not empirical truths and that numbers cannot be properties
+of aggregates of objects. First, Frege denies Mill’s claim that
+mathematical statements are about matters of fact. Frege’s
+objection is that there is no physical fact of the matter to which the
+numbers 0 or 777864 refer. Moreover, someone who learns how to
+calculate does not thereby gain any new empirical knowledge (1884,
+9–11). Second, Frege insists that there is no general inductive
+law from which all mathematical sentences can be said to follow (1884,
+10). Third, while Frege grants Mill that some empirical knowledge may
+well be necessary for us to learn mathematics, he points out that
+empirical knowledge cannot justify mathematical truths (1884, 12).
+Fourth, Frege counters Mill’s claim according to which numbers
+are properties of aggregates of objects with the observations that
+aggregates do not have — in and of themselves —
+characteristic manners in which they can be divided. Frege also points
+out that the numbers 0 and 1 are not aggregates at all. And finally,
+Frege accuses Mill of overlooking that numbers can be predicated of
+both concrete and abstract objects (1884, 31).
+Frege continues his criticism of psychological logic in the
+‘Foreword’ of his Grundgesetze der Arithmetik
+(1893). He begins by pointing out that the word ‘law’ is
+ambiguous: it can refer to descriptive or to prescriptive laws.
+Examples of the former are the laws of physics, examples of the latter
+are moral laws (1893, XV). Frege suggests that every descriptive law
+can be reformulated as a prescription to think in accordance with it.
+For instance, true descriptive laws ought to be accepted. Hence they
+can be prefixed by the prescription: ‘accept the truth of
+…’. In other cases the prescription might be a set of
+instructions on how to reach the truth stated in a descriptive law.
+Frege’s main point in all this is that whereas all
+prescriptive laws can be categorized as ‘laws of thought’
+on the basis that they tell what we ought to think, only one
+kind of descriptive laws deserves to be come under the same heading:
+the set of psychological descriptive laws (ibid.). 
+Frege claims that in the realm of logic we find both descriptive and
+prescriptive laws, with the former being the foundation for the
+latter. The point merits stressing since it is sometimes suggested
+that for Frege the opposition between psychological laws and logical
+laws is the is-ought opposition (e.g. Føllesdal 1958, 49). But
+note that Frege writes:
+Thus logical laws are primarily descriptive laws even though, like
+other descriptive laws, they too can be reformulated or apprehended as
+prescriptive laws. These distinctions allow Frege to distinguish
+between two versions of ‘psychological logicians’: one
+group takes the laws of logic to be descriptive psychological laws,
+the other group interprets the laws of logic as prescriptive laws
+based on descriptive psychological laws. It is the ambiguity of the
+expression ‘law of thought’ that invites these confusions
+(1893, XV).
+Frege’s main criticism of psychological logic is that it
+conflates ‘true’ and ‘being-taken-to-be-true’.
+To begin with, Frege denies that prescriptions based on psychological
+laws can qualify as proper logical laws. Such prescriptions can be no
+more than demands to conform to current thinking habits. But they
+cannot be yardsticks by which these thinking habits can be evaluated
+as to their truth. Moreover, Frege points out that the descriptive
+psychological laws which for the psychological logician provide the
+basis for (psycho-)logical prescriptions are laws of
+‘taking-to-be-true’: they state the conditions under which
+humans accept the truth of judgments or the validity of inferences;
+but they do not determine the conditions under which judgments are
+true and inferences valid. Here Frege is particularly scathing of the
+psychological logician Benno Erdmann who identifies truth with general
+consensus. For Frege this move makes truth dependent upon
+what-is-taken-to-be-true. And it fails to give proper heed to the
+insight that truth is independent of people’s agreement. It
+follows that the laws of logic are not psychological laws: ‘If
+being true is thus independent of being acknowledged by somebody or
+other, then the laws of truth are not psychological laws: they are
+boundary stones set in an eternal foundation, which our thought can
+overflow but never displace’ (1893, XVI). Frege’s attack
+on Erdmann does not end here. Erdmann is also taken to task for his
+suggestion that logical laws might have mere ‘hypothetical
+necessity’, that is, that they are relative to the human
+species. Frege maintains that if we were to encounter creatures who
+deny the laws of logic, we would take them to be insane; and he
+analyses Erdmann’s proposal as reducing, yet again, truth to
+what-is-taken-to-be-true (1893, XVI–XVII). At the same time, Frege
+accepts that the most fundamental logical laws cannot be justified.
+Logical justification comes to an end when we reach these laws.
+However, to argue that our nature or constitution forces us to abide
+by the laws of logic is no longer a logical justification; it
+is to incorrectly shift from logical to psychological or biological
+considerations (1893, XVI–XVII).
+For Frege the opposition between truth and what-is-taking-to-be-true
+is closely linked to the distinction between accepting and rejecting
+the realm of objective and non-real entities. Frege insists that the
+realm of the non-real is not identical with the realm of the
+psychological and subjective. His example of objective,
+non-psychological entities are numbers. Numbers are not ideas since
+they are the same for all subjects (1893, XVIII). Moreover, Frege
+tries to convince us that the denial of the objectivity and
+non-reality of numbers and concepts leads fairly directly into
+idealism and solipsism. Since psychological logicians try so hard to
+break down the distinction between the realms of the objective-ideal
+and the subjective-psychological, they easily are tempted to go
+further and challenge the borderline between the
+subjective-psychological and the objective-real. The resulting
+standpoint is idealism and solipsism: idealism since the only existing
+entities are ideas; solipsism since all ideas are relative to
+subjects. And thus the possibility of communication is a further
+victim of their efforts (1893, XIX). Again Frege is eager to show that
+Erdmann’s logic is guilty of the charges. He therefore points
+out that Erdmann calls both hallucinated objects and numbers
+‘objects of an ideal nature’; that Erdmann fails to
+distinguish between acts and contents of judgments; and that Erdmann
+lacks the conceptual resources to distinguish between ideas and
+realities (1893, XX–XXIII). 
+Frege’s alternative is of course to emphasize that
+coming-to-know is an activity that grasps rather than
+creates objects. This choice of terminology is meant to bring
+out that what we come to know is (usually) independent of us.
+After all, when we grasp a physical object like a pencil, the object
+is independent both of the act of grasping and of the human actor of
+the grasping (1893, XXIV).
+Frege’s third anti-psychologistic discussion is his 1894-review
+of Husserl’s Philosophie der Arithmetik (1891). I shall
+not here enter into the debate over whether it was Frege’s
+criticism that turned Husserl away from psychologism (cf. Kusch 1995,
+12–13). Nor shall I try to adjudicate whether Frege’s
+critique was justified. Suffice it here to point out that
+Frege’s review classifies Husserl as a psychological logician on
+the grounds that Husserl treats the meanings of words, concepts and
+objects as different kinds of ideas (1894, 316); that Husserl provides
+psychological-genetic accounts of the origins of abstract concepts
+(1894, 317); and that Husserl, like Erdmann, equivocates on the notion
+of idea: in some places in his book, concepts and objects are
+understood as subjective, in other places they are taken to be
+objective (1894, 318). In his criticism of Husserl’s
+psychological explanation of the genesis of the number concept, Frege
+does not confine himself to contrasting Husserl’s theory with
+his own account of numbers. He also points out that the various
+psychological processes which Husserl’s theory assumes are
+spurious. For instance, Frege denies that we can combine any arbitrary
+contents into one idea without relating these contents to one another.
+He also rejects Husserl’s claim that we can abstract from all
+differences between two contents and still retain their numerical
+distinctness (1894, 316, 323). 
+Husserl’s criticism of psychologism in the Prolegomena
+of the Logische Untersuchungen was the key text in the
+German-speaking debate over psychologism during the first
+decade-and-a-half of the twentieth century (Husserl 1900). The
+Prolegomena fall roughly into three parts. Part One
+identifies the sense in which logic is a ‘practical-normative
+discipline’ (Kunstlehre) (Chapters 1 and 2). Part Two
+argues at great length that the theoretical foundations of the logical
+practical-normative discipline are not psychological (Chapters 3 to
+10). And Part Three provides an overview over the true foundations of
+logic as a practical-normative discipline (Chapter 11). I have
+reconstructed all three parts in some detail elsewhere (Kusch 1995,
+41–60), here I shall concentrate on Part Two. (Important recent
+discussions of Husserl’s arguments include Carr 2007, Hanna
+2008, Hopkins 2006, Moran 2008, Pelletier et al. 2008.)
+From Part One we here need only two ideas. First, logic as a
+practical-normative discipline vis-à-vis the sciences
+is a theory of science (Wissenschaftslehre). It evaluates the
+methods of scientific justification, and in so doing it addresses the
+questions: Under what (empirical) conditions can valid methods be used
+successfully? What is the internal conceptual structure of each of the
+sciences, and how can they be demarcated from one another? And how can
+scientists avoid making mistakes? (§§5–11) Second,
+normative disciplines have non-normative theoretical foundations
+belonging to one or more non-normative theoretical discipline
+(§§14–16). 
+Husserl begins his discussion of psychologism in Part Two with a
+criticism of what one might call ‘normative
+anti-psychologism’, that is, the view that psychology and logic
+are divided by the is-ought distinction (§17). He sides with the
+proponents of psychologism who maintain that thought as it ought
+to occur is but a special case of thought as it in fact
+occurs. Nor is it right, Husserl thinks, to accuse psychologism
+of circularity; some critics of psychologism had argued that one
+cannot base normative logic on psychology since psychology itself has
+some of its foundations in logic. But this misses an important
+distinction. Psychology can either take the laws of logic as premises
+and axioms of its own theories, or it can rely on the laws of logic
+merely as rules of method in accordance with which psychology
+must proceed. If psychology did the former, psychologism would involve
+a vicious circle. But psychology presupposes laws of logic only in the
+second, weaker, sense. And hence psychologism is not based upon a
+fatal circularity (§19).
+Having dismissed these two older forms of antipsychologism, Husserl
+moves on to present his own arguments. One main train of thought
+centers on the three empiricist consequences of psychologism. They can
+be reconstructed as follows:
+First Consequence: If logical rules were based upon
+psychological laws, then all logical rules would have to be as vague
+as the underlying psychological laws.
+Refutation: Not all logical rules are vague. And therefore
+not all logical rules are based upon psychological laws.
+(§21).
+Second Consequence: If laws of logic were psychological laws,
+then they could not be known a priori. They would be more or less
+probable rather than Valid, and justified only by reference to
+experience.
+Refutation: Laws of logic are a priori, they are justified by
+apodictic self-evidence, and valid rather than probable. And therefore
+laws of logic are not psychological (§21). 
+Third Consequence: If logical laws were psychological laws,
+they would refer to psychological entities.
+Refutation: Logical laws do not refer to psychological
+entities. And therefore logical laws are not psychological laws
+(§23).
+Husserl also claims that psychologism fails to do justice to the idea
+that truths are eternal. It is precisely because truths are eternal
+that logical laws cannot be laws about states of affairs (be they
+mental or physical). Husserl attempts to prove this claim by showing
+that the opposite assumption leads to paradoxes.
+Take a logical law like (*). 
+And then assume (a)–(d):
+(a) Laws about states of affairs are laws about the coming to
+be and passing away of states of affairs.
+(b) (*) is a truth.
+(c) (*) is a law about truths.
+(d) Laws about truths are laws about state of affairs.
+Then two paradoxical conclusions follow:
+(e) Laws about truths are laws about the coming to be and
+passing away of truths.
+(f) Laws about truths are laws about the coming to be and
+passing away of laws about truths (§24; Kusch 1995, 47).
+Husserl also seeks to show that psychological interpretations of the
+basic logical principles and the laws of syllogistics are
+unsatisfactory. As far as the basic principles are concerned, Husserl
+targets for example Spencer’s psychological rendering of the
+Principle of Non-Contradiction. He quotes Spencer as saying that
+In Husserl’s view Spencer’s sentence is a tautology since
+positive and negative modes already form a pair of contradictory
+opposites. However, Husserl insists, the Principle of
+Non-Contradiction is no tautology (§26). Concerning
+psychologistic views of syllogistics, Husserl’s main target is
+the Dutch psychologist and philosopher Gerardus Heymans. On the one
+hand, Husserl points out that if the laws of syllogistics were laws of
+thought, then we would never commit fallacies. On the other hand, a
+psychological interpretation of syllogistics cannot explain
+why some inferences are valid and others invalid
+(§31).
+Like Frege, Husserl ultimately seeks to refute psychologism by linking
+it closely to broader and (at the time) disreputable philosophical
+positions. But for Husserl the focus is less on subjective idealism
+and solipsism and more on skepticism and relativism. Husserl contends
+that all forms of psychologism are forms of ‘species
+relativism’, more precisely ‘anthropologism’. And he
+goes on to argue that such relativism is ‘absurd’. In
+order to get to this general conclusion, Husserl begins by arguing
+against Protagorean relativism. While acknowledging that the true
+Protagorean relativist can never be argued out of his position,
+Husserl holds that we ‘normally disposed’ people can
+nevertheless see what is wrong with the Protagorean viewpoint: the
+same sentence cannot be both true and false, and the Protagorean
+thesis, ‘truth is relative’, cannot itself be merely
+relatively true. (§35). Species relativism (and thus
+anthropologism) is equally absurd, but a little harder to refute.
+Husserl marshals a number of arguments against species relativism; the
+most important are (a) that since the Principle of
+Non-Contradiction is part of the meaning of truth, one and the same
+thought cannot be true for one species and false for another;
+(b) that truth are eternal and thus not temporally and
+spatially determined; and (c) that if truth were relative
+then so would be the existence of the world. This is because the world
+is the correlate of the ideal system of all factual truths. If truth
+were relative then there would be no such ideal system and thus no one
+unique world (§36). 
+Having convinced himself that anthropologism is self-refuting, Husserl
+turns in some detail to showing all forms of psychologism are forms of
+anthropologism (§38). The views of Erdmann and Sigwart receive
+most of his attention. In Sigwart’s case, Husserl criticizes,
+amongst other things, the view according to which it would be wrong to
+assume that a judgment could be true even if no intellect were ever
+thinking this judgment. Husserl objects with the thought that it is
+part of the meaning of the law of gravity that it is true for all
+times (even prior to its discovery) regardless of whether it happens
+to be thought by anyone or not (§39) In Erdmann’s case
+Husserl goes to even greater lengths in order to unearth what he
+regards as fatal flaws and inconsistencies. The central issue for
+Husserl is Erdmann’s claim that logical laws are merely
+hypothetically necessary, that is, that logical laws are necessary
+only for members of the human species up until the present (§40).
+Perhaps the most important argument is that Erdmann’s position
+in inherently unstable: on the one hand, Erdmann argues for the
+hypothetical necessity, or species-relativity, of logical laws be
+insisting that we cannot imagine alternatives to logical laws. On the
+other hand, Erdmann holds that therefore logical laws are
+psychological laws. Husserl objects that these two theses do not fit
+together since we can always imagine alternatives to psychological
+laws (§41).
+The last major step in Husserl’s overall argument is to show
+that psychologism is based upon three — more or less easily
+refutable — ‘prejudices’:
+This is wrong since logical prescriptions are fully grounded in logic
+as a theoretical, non-normative discipline (§41). 
+That this is a prejudice, Husserl argues, can be seen from the fact
+that a similar line of thought would lead one to the claim that
+mathematics is a branch of psychology. And he goes on to suggest that
+mathematical psychologism has already been refuted by the likes of
+Lotze, Riehl, Frege and Natorp (§45).
+To this Husserl replies that purely logical sentences say nothing
+about self-evidence and its conditions. Husserl makes three proposals
+concerning self-evidence. First, self-evidence is the
+experience, or a criterion, of truth. To experience
+that an assertion corresponds to an experienced state of affairs is to
+have self-evidence for that assertion. But self-evidence is no
+additional ingredient of this experience. Second, truths are ideal
+species of the ideal genus truth, that is, truths are ideal
+particulars. These ideal species are independent of whatever humans
+claim to be self-evident. And third, when one person claims that
+p is self-evident, whereas another person claims that
+~p is self-evident, then one of them is wrong. Put
+differently, truth is prior to self-evidence (§51).
+(For other detailed interpretations of Husserl’s arguments see
+Tieszen 2008 and Hanna 2008.) 
+While Frege’s antipsychologism received scant attention,
+Husserl’s Prolegomena were widely discussed in
+German-speaking philosophy between 1901 and 1920. Here I shall only be
+able to present a few of the critical replies (cf. Kusch 1995, Chs. 4
+and 5). While my selection is itself based upon an evaluation —
+I have tried to pick arguments with at least some (initial)
+plausibility — I shall not here try to assess the strengths and
+weaknesses of the various responses. Nor do I have the space to
+describe the more general, and sometimes highly contested,
+philosophical presuppositions upon which the replies are based. 
+The Southwest-German School of Neokantians was particularly critical
+of Husserl’s claim that logic qua normative-practical
+discipline must be based upon logic as a theoretical science. On their
+behalf, Richard Kroner (1909) defended the view that logical laws are
+imperatives, and that these imperatives are founded on values (1909,
+241). Kroner insists that not all ‘ought-sentences’ are
+founded on non-normative, theoretical sentences. Only hypothetical
+imperatives (and their cognate ought-sentences) fit Husserl’s
+analysis. For instance, the hypothetical ought-sentence (a)
+…
+… indeed presupposes the theoretical, non-normative sentence
+(b) …
+However, categorical ought-sentences demand a different
+analysis, Kroner maintains. The categorical ought-sentence
+(a′) …
+… is not based upon the theoretical sentence
+(b′) …
+In the case of categorical ought-sentences, the order of
+presupposition is reversed: the non-normative sentence
+(b′) derives its justification or meaning from the
+normative one (a′). To model the relation between
+(a′) and (b′) on the relation between
+(a) and (b) ‘would be to practice moral
+philosophy in a Socratic fashion, that is, it would imply a one-sided
+intellectualistic interpretation of the concept of value’ (1909,
+242). Kroner thinks that the case of logic is similar to the case of
+morals. The highest logical norm is something like (a″)
+…
+… and this norm is primary with respect to (b″)
+…
+And this analysis of the most basic logical norm also applies to all
+other logical norms (1909, 242). (For important recent discussion of
+the relation between Neokantianism and psychologism, see Anderson
+2005, Beiser 2009, Edgar 2007.) 
+Husserl’s (and Frege’s) arguments for a sharp distinction
+between logical and psychological laws — that that only the
+latter are vague and based on induction — were targeted often;
+especially forcefully by Moritz Schlick (1910):
+Or:
+Husserl’s characterization of logical laws as known a priori
+also met with opposition. According to Gerardus Heymans, all
+epistemology can say, for the time being, with respect to a logical
+law like the Principle of Non-Contradiction is that
+‘probably all human beings reject contradiction’
+(1905, 66). Our knowledge of logical laws is more probable than our
+knowledge of other psychological laws only ‘because we
+experiment, throughout our life, daily and every hour, with these
+elementary relations between phenomena of consciousness’ (1905,
+33).
+Schlick (1910) also challenges Husserl’s claim that laws of
+logic do not imply the existence of matters of fact. Schlick maintains
+that psychological acts of judgment and logical sentences are
+intertwined, such that the logical sentence and its truth
+Defenders of psychologistic renderings of logical principles and
+syllogistic also stood their ground. Recall that Husserl argued
+against Heymans as follows: 
+In his reply, Heymans denies Husserl’s claim according to which
+fallacies are deviations from the laws of syllogistics. For Heymans,
+someone who does not derive the right conclusion from given premises
+is confused about the meaning of the major, middle or minor terms, not
+lacking knowledge of the inference schemes. In the case of fallacies
+the causes of the deviation from the laws of syllogistics are
+Some of Husserl’s case against psychologism rested on showing
+that it is a form of skeptical relativism, and that skeptical
+relativism is self-refuting. The latter claim was first doubted by
+Paul Natorp (1901). In his review of the Prolegomena Natorp
+hints at the possibility that Husserl’s arguments against
+relativism and skepticism are guilty of a petitio:
+Recall that Husserl’s case against psychologism centrally relies
+on the claim that truths exist independently of whether or not they
+are ever grasped by anyone. Schlick (1910) called this assumption
+‘the independence theory of truth’. It was frequently
+attacked. Since Husserl provided the clearest statement of the
+independence theory of truth in the context of his criticism of
+Christoph Sigwart, it seems only fair to start the summary of
+repudiations with this author. In the Prolegomena Husserl
+disagrees with Sigwart’s claim that no judgment can be true
+unless it is actually thought by someone. Husserl regards it as part
+of the meaning of the law of gravity that the law is true for all
+times, that is, even prior to its discovery and regardless of whether
+it is ever formulated by anyone. Sigwart (1921) accuses Husserl of
+conflating truth with reality:
+Schlick (1910) agrees: ‘There is no truth of judgments such that
+this truth is independent of the judgments’ existence in mental
+acts. Only the facts upon which true judgments are based, are
+independent of us’ (403). However, Schlick goes further than
+Sigwart by trying to explain Husserl’s alleged conflation: 
+Husserl’s distinction between the act and content of judgments
+was questioned by other commentators as well. Wilhelm Jerusalem (1905)
+puts his criticism in the context of a defense of species relativism.
+He especially disagrees with Husserl’s claim that ‘the
+same content of a judgment cannot be true for one species and false
+for another’. Jerusalem replies:
+Husserl’s equation of psychologism with species relativism was
+first and foremost targeting Erdmann. In a footnote to the second
+edition of his Logische Elementarlehre (1907), Erdmann
+laments that Husserl has misconstrued his views. And in a footnote he
+gives a new defense of his claim that the laws of logic have only
+hypothetical necessity:
+In Husserl’s overall argument, self-evidence figures in two
+distinct ways. On the one hand, Husserl claims self-evidence for the
+thought that no other species could have a different logic from ours.
+On the other hand, Husserl denies both that purely logical sentences
+say anything about self-evidence and that self-evidence is a criterion
+of truth. 
+Critics of Husserl’s view on self-evidence attacked one or both
+of these lines of thought. Wilhelm Wundt (1910) for example complains
+that Husserl never gives satisfactory definitions of his key terms: in
+Husserl’s Logische Untersuchungen
+Wundt suggests the following explanation for Husserl’s alleged
+inability to define self-evidence:
+Schlick (1910) is especially concerned to point out that
+Husserl’s two treatments of self-evidence contradict one
+another. As Schlick sees it, the second employment contradicts the
+first. Schlick writes:
+Given the central position of Frege’s and Husserl’s work
+in modern analytic and ‘Continental’ philosophy, it is of
+course not surprising that critical re-appraisals of their
+anti-psychologism did not stop when the Psychologismus-Streit
+ended around 1914. Here is a brief glimpse at more recent evaluations.
+Interestingly enough, many recent re-evaluations of
+turn-of-the-century antipsychologism conclude that Frege’s and
+Husserl’s arguments are question-begging. My aim again is to
+give a brief overview of the range of responses, not to offer
+assessments. To do so would demand a much more extensive
+discussion.
+J.J. Katz (1981, 175) agrees with Schlick and other early critics that
+Frege and Husserl are wrong to take psychological laws to be vague and
+inexact. Katz’s criticism echoes Schlick’s petitio
+principii charge: One
+Recent critics also disagree with Frege’s and Husserl’s
+views on the nature of logical laws. In the light of the development
+of philosophy and logic over the past 70 years, it is no longer
+evident that the laws of Frege’s and Husserl’s classical
+logic are necessary and unique. The uniqueness assumption has become
+more and more questionable as logicians have developed more and more
+logics (e.g. intuitionist logic, dialethetic paraconsistent and
+dialectical logic, relevance logic). Not only have Frege and Husserl
+failed to provide procedures for adjudicating between alternative
+logics (Baker and Hacker 1989, 88), but it has also turned out that
+even the Principle of Non-Contradiction which both Frege and Husserl
+regarded as one of those ‘boundary stones set in an eternal
+foundation, which our thought can overflow but never displace’,
+can be violated — without leading to absolute inconsistency.
+Indeed it is violated in every dialethetic system of logic (Massey
+1991, 184).
+While some critics of Frege and Husserl are still willing to regard
+the propositions of logic as ‘paradigms of necessary
+truth’ (Baker and Hacker 1989, 87), others go further and deny
+logical laws the status of necessary truths. A weaker form of this
+denial accepts the notion of necessity as meaningful but holds that
+logic falls short of necessity. A stronger form rejects the notion of
+necessity altogether (cf. Pivcevic 1970, 38–41). 
+The weaker form is sketched in a paper by Gerald Massey (1991). Massey
+suggests that ‘logic and mathematics … forfeited all
+claims to the honorific title sciences of necessary truth when they
+admitted Church’s thesis into their innersanctum’ (1991,
+186). According to Church’s thesis , there is no algorithm that
+is more powerful than a Turing machine. Or, put differently, every
+function that is computable at all, is computable on a Turing machine.
+This thesis is presupposed in establishing very fundamental logical
+results. It is used, for example in order to prove Church’s
+theorem which says that there is no algorithmic decision procedure for
+first-order logic. Yet Church’s thesis is a mere hypothesis, and
+a hypothesis that cannot be proven true. This is because the notion of
+algorithm is not precisely definable; there is no limit to the variety
+that an algorithmic routine might assume. Thus Church’s thesis
+may indeed be false: someone might eventually come up with an
+algorithm that computes some definite function f that no
+Turing machine can compute (Jeffrey 1989, 132; Massey 1991, 186).
+Massey also invokes the stronger form of the claim that logical truths
+are not necessary (1991, 188). According to this criticism, the very
+notion of necessity which is presupposed in calling logical laws
+‘necessary truths’, is beset with difficulties. The
+argument leading to this conclusion was developed in a series of
+well-known papers by Quine. Quine argued that the notions of
+analyticity, necessity and aprioricity stand or fall together and that
+the traditional distinction between analytic and synthetic truths is
+relative rather than absolute. But once this distinction becomes
+relative, necessity and aprioricity go by the board (Quine 1951, Engel
+1991, 268–70). Massey summarises the implications of
+Quine’s arguments succinctly:
+A different line of attack on Frege’s and Husserl’s
+antipsychologism focuses on the premises that both authors share with
+their psychologistic opponents. The most important of such shared
+premises is the idea that the primary cognitive attitude of logic is
+descriptive rather than prescriptive, that is, that logic describes
+objects or objectivities (Sachverhalte). Of course Frege and
+Husserl, on the one hand, and their psychologistic foes, on the other
+hand, disagree over the nature of these objects and objectivities
+— for the psychologicists these are real or psychological,
+whereas for Frege and Husserl they are ideal. But the fact remains
+that both sides in the dispute see logic as essentially descriptive
+(for Husserl, see Gethmann 1989, 197; for Frege, see Baker and Hacker:
+1989, 88–90).
+Central to Frege’s and Husserl’s criticism of psychologism
+is the idea that psychologism turns out to be a relativism of sorts.
+Frege goes no further than to point out this reduction of psychologism
+to relativism, and, for the reasons given above, he makes no attempt
+to refute relativism. However, Husserl marshals a number of arguments
+against both Protagorean relativism and species relativism. If these
+arguments were successful, then psychologism would be unmasked as a
+self-refuting doctrine. A number of critics have tried to show that
+they are not successful. 
+As concerns Husserl’s case against Protagorean relativism,
+Husserl himself admits that his arguments will only be convincing for
+those philosophers who already accept that truth is absolute. Husserl
+is more ambitious with respect to species relativism. He believes that
+it can be shown that species relativism is a self-refuting doctrine
+(cf. Føllesdal 1958, 37–39; Sukale 1977,
+47–48).
+The argument, according to which the species relativist misconstrues
+the meaning of truth by allowing the same judgment to be both true and
+false, is clearly question-begging. Husserl’s argument boils
+down to this: ‘It is contradictory to claim that truth is not
+absolute because truth is absolute’ (Føllesdal 1958, 37).
+Husserl simply takes the absoluteness of truth as self-evident. He
+also overlooks that, properly construed, the relativistic notion of
+truth does not violate the Principle of Non-Contradiction. If truth is
+taken as ‘truth-for-S’ (i.e. truth for a
+species), such that the hyphenisation is irreducible, then one and the
+same judgment can be true-for-S1 and
+false-for-S2 without the Principle of
+Non-Contradiction being violated (Meiland 1977, 571). The further
+argument, according to which truth cannot be relative to species
+because truth is eternal, can obviously be rejected as a petitio
+principii as well. Finally, Husserl claims that if truth were
+relative then so would be the existence of the world. Here too Husserl
+does little more than invoke self-evidence for his position. He takes
+it as self-evident that the existence of the world cannot be relative
+and he does not show that the opposite assumption is
+self-refuting.
+Husserl’s frequent reliance upon ‘apodictic
+self-evidence’ both as a weapon against the species relativist
+and as the source of insight into logical truths is itself beset with
+difficulties. Husserl seems to think that apodictic self-evidence
+takes the philosopher/logician beyond the realm of the factual, and
+even beyond the realm of psychology. But, as pointed out by Arne
+Naess, apodictic self-evidence cannot deliver on this promise:
+“… the assertion that he or any other has this evidence,
+does not belong to pure logic or any other pure or formal science. It
+belongs to a factual science concerning the relation of logicians (and
+others) to pure science. It is not necessary to conceive this to be
+psychology. It is enough … that it is a science of facts or
+more generally, a science about the real rather than the ideal”
+(Naess 1954, 70). And thus, Naess concludes, the program of a pure
+logic as a system of apodictic knowledge is “to be dismissed
+… As soon as a science is said to be science of or about
+something, there is a radical risk of error …” (Naess
+1954, 73).
+Finally, for both Frege and Husserl, Benno Erdmann is the chief
+culprit, that is, the main advocate of a form of psychologism that
+leads to species relativism. Interestingly enough, over the last
+thirty years, the critical re-evaluation of antipsychologism has even
+led to a partial rehabilitation of Erdmann’s
+‘psychologistic’ view of logic. As Jack Meiland (1976)
+construes Erdmann’s philosophy of logic, the psychological
+interpretation of logical principles is meant to explain why we cannot
+conceive of radically different logical systems. The explanation is
+that ‘logical laws express the conditions which govern our
+thinking in the sense of describing the limits of what we can
+think’ (1976, 329). One of Husserl’s central objections to
+this view is that logical principles like the Principle of
+Non-Contradiction can be denied by human individuals, and indeed have
+been denied, for example by Hegel. And thus Husserl concludes that
+logical laws do not describe the limits of what is psychologically
+thinkable. However, Meiland suggests that Erdmann’s position is
+not refuted by this argument. All Erdmann needs to reply is that while
+all human beings are able to utter the words ‘The Principle of
+Non-Contradiction is false’, they do not thereby think contrary
+to the principle or understand what they are saying (1976, 331). 
+The other central Husserlian objection to Erdmann’s psychologism
+is that if logical laws were psychological laws, then they would be
+about mental acts, judgments, ideas and other psychological entities.
+In other words, logical laws should have real content. But obviously,
+logical laws have no such real content, and therefore the
+psychological approach to logic must be false. Again, Meiland provides
+a defense for Erdmann. While it is true that laws of logic do not
+refer to human beings and their psychology, they might still be
+true-for human beings in virtue of their psychology. Put differently,
+we
+Meiland explains this idea by drawing on the relation between gravity
+and the laws of planetary motion:
+Despite his spirited defence of Frege’s and Husserl’s
+favourite whipping boy, Meiland believes that Erdmann’s
+psychologism must overcome some further difficulties before it can
+become fully respectable. The main problem is that Erdmann allows for
+the possibility that the laws of logic could change, that there could
+be a different logic, a logic that conflicts with our present one. Yet
+it is hard to see how Erdmann could be entitled to make such claim. On
+his own premises, our present logic defines the limits of the
+thinkable. And this can only mean that a radically different logic
+must be unthinkable for us. Put differently, Erdmann owes us an
+explanation of how we could ever come to believe that a different
+logic is possible (1976, 337).
+Interestingly enough, the challenge that Meiland directs at Erdmann
+can be met. Remmel Nunn has suggested that Jerry Fodor’s
+functionalism provides us with a method for conceptualizing a
+situation in which an entity is restricted to using one, and only one,
+set of formal principles even though a different set may be operative
+under different conditions. According to functionalism humans can be
+compared to computers. Humans come equipped with a built-in
+‘language of thought’, that is, a language that functions
+like the machine table of a computer. Now a computer is not able to
+compute formulae that are not among those in the vocabulary of its
+machine table. But this does not mean that the machine table of any
+given computer is without alternatives, that ‘there cannot be
+systems of logical laws which are inconsistent with those of a given
+automaton’. Thus we can imagine that a given computer is so
+designed that it systematically makes (what we regard as) a formal
+mistake M. In this case, the machine would be unable to detect the
+mistake M, ‘for M would constitute one of the laws by which the
+automaton detects errors’ (Nunn 1978, 347).
+If we adopt some such analogy between humans and computers, Nunn
+suggests, then we can make sense of the idea that our logic might not
+be universal. If we think of our logic as being a central part of our
+language of thought, and if we thus adopt the view that our logic is
+part of our machine table, then we must accept that our logic might
+not be unique. True, we cannot state what a radically different logic
+would look like. However, in order to vindicate Erdmann it is enough
+that we can — by analogy — make sense of the possibility
+of such a logic (Nunn 1978, 347).
+The prolonged debate in the German-speaking lands over psychologism
+was eventually brought to an end by World War One. The war brought
+with it an intellectual climate in which attacks on one’s
+colleagues were regarded as utterly inappropriate. Moreover, it also
+lead to a clear division of labor between psychologists and
+philosophers: while philosophers concentrated on the ideological task
+of celebrating the German ‘genius of war’, experimental
+psychology focused on the training and testing of soldiers. After the
+war, both academic (anti-naturalistic) philosophy and (experimental)
+psychology had to cope with, and accommodate to, an intellectual
+environment that was hostile to science, rationality, and systematic
+knowledge. The project of a scientifically-minded philosophy with
+experimental psychology as its central pillar quickly lost support.
+And hence the charge of psychologism could no longer play a central
+role.
+Early twentieth-century German-speaking philosophy exerted of course a
+powerful and lasting influence on philosophy in many other countries,
+notably in the Anglo-American world. For a while Frege’s and
+Husserl’s arguments against antipsychologism even rose to the
+status of a paradigmatic achievement in philosophy: ‘There is
+progress in philosophy after all!’ (Musgrave 1972, 606). As I
+have indicated in the last section, this assessment of
+antipsychologism is now widely contested.
+Other countries of course had their own debates over the relation
+between psychology and philosophy. In the UK, for instance, George
+Frederick Stout and James Ward emphasised the philosophical
+significance of psychology; British Idealists like Francis Herbert
+Bradley and Brand Blanshard were sympathetic to psychology even though
+they denied its philosophical credentials; and realists like John Cook
+Wilson, Bertrand Russell, Herbert Joseph, and Harold Arthur Prichard
+insisted on a separation. For Prichard, psychology was not even a
+‘proper science’ (Passmore 1994).
+Throughout the twentieth century, and at the beginning of the
+twenty-first century, psychology exerted and exerts a powerful pull on
+philosophers who wish to put philosophy on the sure path of a science.
+Quine famously called for a return to psychologism in the 1960s. Such
+calls have kept the psychologism accusation alive. Amongst the accused
+one can find the names of Rudolf Carnap, Michael Dummett, Peter Geach,
+Nelson Goodman, Thomas Kuhn, John McDowell, Karl Popper, Wilfrid
+Sellars, and Ludwig Wittgenstein (Kusch 1995, 7). (For an extensive
+discussion of naturalistic and psychologistic positions from the
+perspective on twenty-first-century philosophy of logic, see Pelletier
+et al. 2008. See also Lehan-Streisel 2012.) 

@@ -1,0 +1,1120 @@
+Metaphysical realism is the thesis that the objects, properties and
+relations the world contains, collectively: the structure of the world
+[Sider 2011], exists independently of our thoughts about it or our
+perceptions of it. Anti-realists either doubt or deny the existence of
+the structure the metaphysical realist believes in or else doubt or
+deny its independence from our conceptions of it. Realists about
+numbers, for example, hold that numbers exist mind-independently. This
+view is opposed by Nominalists who deny the existence of abstract
+objects and Intuitionists who agree numbers exist, but as mental
+constructions, denying their mind-independence. Some realists about
+laws of nature, to take an empirical example, hold that laws are
+relations between universals [Armstrong 1983], others that laws are
+ontologically primitive entities [Maudlin 2007]. Anti-realists about
+laws of nature, on the other hand, either deny there are any laws at
+all [Cartwright 1983; van Fraassen 1989] or else discern a dependence
+on human concepts in the nature of these laws, interpreting them as
+expressing certain expectations we have about regularities that we
+unconsciously project onto the world [Blackburn 1986]. 
+Metaphysical realism is not the same as scientific realism. That the
+world’s constituents exist mind-independently does not entail
+that its constituents are as science portrays them. One could adopt an
+instrumentalist attitude toward the theoretical entities posited by
+science, continuing to believe that whatever entities the world
+actually does contain exist independently of our conceptions and
+perceptions of them. For the same reason, metaphysical realists need
+not accept that the entities and structures ontologists posit exist
+mind-independently.
+Henceforth, we shall often just use the term ‘realism’ to
+mean metaphysical realism. Opposition to realism can take many forms
+so there is no single theoretical view denoted by the term
+‘anti-realism’. In particular, anti-realism is not
+Idealism, even though Idealism is its most recognised form. One
+approach, popular in Continental Philosophy, rejects realism on the
+grounds that words can only acquire their meaning
+intra-linguistically, through their semantic relations with
+other words, where these relations are grounded in our linguistic and
+cultural practices, rather than through referential relations to the
+world outside of language. This view, Anti-Representationalism as it
+is sometimes called, has gained traction in analytic philosophy also
+[See Price 2009]. 
+Within the ranks of Analytic Philosophy, Verificationists and
+Pragmatists also reject realism, though for different reasons. We
+shall mainly focus in this entry on the types of criticism voiced by
+these two groups of Analytic philosophers with Michael Dummett
+advocating a certain kind of Verificationism and Hilary Putnam a
+certain kind of Pragmatism. While accepting Representationalism, both
+Dummett and Putnam rejected realism by deploying semantic
+considerations in arguments designed to show that realism is
+untenable. The main goal of this entry is to outline these
+‘semantic’ challenges to realism and to review realist
+responses to them.
+The characterization of realism in terms of mind-independence above is
+not universally accepted. Some object that mind-independence is
+obscure [e.g. Chalmers 2009; for relevant discussion, see the entry
+ ontological dependence].
+ Others maintain that realism is committed, in addition, to a
+distinctive (and tendentious) conception of truth [Putnam 1981, 1985,
+1992; Wright 1993; Button 2013; Taylor 2006] or, more radically, that
+realism just is a thesis about the nature of truth—that truth
+can transcend the possibility of verification, ruling statements for
+which we can gather no evidence one way or the other to be
+determinately either true or false. An example would be “Julius
+Caesar’s heart skipped a beat as he crossed the Rubicon.”
+Thus the realist on this view is one who believes the law of bivalence
+(every statement is either true or false) holds for all meaningful
+(non-vague) statements [Dummett 1978, 1991, 1993]. 
+In the same vein, Crispin Wright [1992a, 2003] presents a nuanced
+alethic analysis according to which discourses may be more or less
+realist depending on which distinctive ‘marks of truth’
+they satisfy. 
+These semantic formulations of metaphysical realism are unacceptable
+to realists who are deflationists about truth, denying that truth is a
+substantive notion that can be used to characterise alternative
+metaphysical views [see the entry on the
+ deflationary theory of truth].
+ Realists collectively complain, with some justice, that the
+anti-realist arguments are really arguments against the correspondence
+(or other substantive) theory of truth rather than realism [Devitt
+1983, 1991; Millikan 1986]. This is an important reason for preferring
+an ontological construal of realism rather than a semantic one. 
+There is, in fact, an obvious worry about using the notion of
+mind-independence to characterise realism: it appears to consign
+mental states and events to irreality. Surely your savouring the taste
+of espresso, say, is dependent on your mind if anything is? Moreover,
+just as certainly the nature and content of the experience of tasting
+espresso depends upon one’s beliefs and expectations. Indeed,
+but this is not what the ‘mind-independence’
+characterisation of realism means to exclude. Rather, it is the
+existence of conscious events that is deemed to be
+independent of the particular opinions or theories we might hold about
+their existence —given conscious events do exist, were our
+descendants to uniformly dismiss them as illusory, they would be
+mistaken. The ‘mind-independence’ at issue is epistemic
+rather than ontological.
+On this understanding of realism, it is an error to identify realism
+with factualism, the view that sentences in some discourse or theory
+are to be construed literally as fact-stating ones. The anti-realist
+views discussed below are factualist about discourse describing
+certain contentious domains. Adopting a non-factualist or
+error-theoretic interpretation of some domain of discourse commits one
+to anti-realism about its entities. Factualism is thus a necessary
+condition for realism. But it is not sufficient. Verificationists such
+as Dummett reject the idea that something might exist without our
+being able to recognize its existence. They can be factualists about
+entities such as numbers and quarks while anti-realists about their
+nature since they deny any entities can exist mind-independently.
+To elaborate the notion of mind-independent existence, consider Peter
+van Inwagen’s argument for the existence of numbers [van Inwagen
+2016], which he describes as “a typical neo-Quinean
+argument”. The argument rests on two Quinean theses, van Inwagen
+relays. Firstly, that there is only one kind of variable, a variable
+that occupies nominal position, the range of which is unrestricted.
+Secondly, that the meanings of the quantifiers are
+ univocal.[1]
+Given these two background assumptions, the argument he gives is this:
+(3) follows from (1) and (2), with the conclusion (5) deducible from
+(1), (2) and (4). Moreover, both (2) and (4) are, if not analytically
+true, simple mathematical truths. (1), on the other hand, is an
+empirical fact, van Inwagen notes. The argument is clearly valid and
+the three premises that support the conclusion are all highly
+plausible. Should we not just accept that numbers exist? Many
+philosophers think so but some philosophers demur. Amongst the latter
+are those who think that the meaning of ‘there exists’
+varies from context to context [Hilary Putnam and Eli Hirsch are two
+prominent advocates whose ideas we review]. There are others who think
+that the existential quantifier carries no ontological import
+[Azzouni, J. 1997]. If one accepts Quine’s two assumptions about
+the existential quantifier, however, and regards the argument as
+sound, hasn’t one thereby accepted realism about numbers? 
+No. For, while the argument establishes the existence of numbers, if
+it is indeed sound, it leaves their nature unspecified. Hence, it does
+not prove that numbers exist independently of human (or other) minds.
+Moreover, since the inferences are intuitionistically valid,
+anti-realists can accept it. The argument gives Intuitionists who
+believe numbers are mental constructs just as much as Platonists who
+believe they are eternal abstract objects a reason to believe numbers
+exist. 
+Why do some find the notion of mind-independent existence inadequate
+for the task of formulating metaphysical realism? The most common
+complaint is that the notion is either obscure, or, more strongly,
+incoherent or cognitively meaningless. An eloquent spokesman for this
+strong view was Rudolf Carnap: “My friends and I have maintained
+the following theses,” Carnap announces [Carnap 1963,
+p.868]:
+In spite of his finding these disputes meaningless, Carnap indicates
+how he thinks we could reconstruct them (sic.) so as to make some
+sense of them: if we were to “replace the ontological theses
+about the reality or irreality of certain entities, theses which we
+regard as pseudo-theses, by proposals or decisions concerning the use
+of certain languages. Thus realism is replaced by the practical
+decision to use the reistic language”.
+Carnap does not have in mind a factualist reformulation of
+metaphysical realism here—his “reistic” language is
+strictly limited to the description of “intersubjectively
+observable, spatio-temporally localized things or events”.
+What matters here is not Carnap’s sense of a commensurability
+between a metaphysical thesis about reality and a practical decision
+to speak only about observable things, but rather that he thinks he
+can explain how the illusion of meaningfulness arises for the
+metaphysical theses he declares “devoid of cognitive
+content”. His explanation has to do with a distinction between
+two types of questions — internal and external
+questions: 
+Whereas internal questions about the existence of physical objects are
+to be answered by observations that confirm or disconfirm sentences
+asserting their existence, existential statements about abstract
+objects are analytic, Carnap contends:
+Having dismissed all external existential questions as devoid of
+cognitive content, Carnap decides that both realism which asserts the
+ontological reality of abstract entities and nominalism which asserts
+their irreality are “pseudo-statements if they claim to be
+theoretical statements” (ibid).
+Where Carnap could make no sense of the notion of mind-independent
+reality, Albert Einstein had no such difficulty. For, together with
+Podolsky and Rosen, Einstein famously proposed a test for elements of
+reality in their EPR paper [Einstein, Podolsky and Rosen 1935:
+777–8]:
+Tim Maudlin [2014, p.7] explains the significance of the EPR criterion
+thus:
+Realists might wish to endorse the EPR criterion as an idealized test
+for the mind-independent reality of (macro-)physical quantities
+— even if we rarely (if at all) are able to “predict with
+certainty” the outcome of an experiment, we can, some would
+argue, approach near-certainty in a significant class of cases without
+disturbing the system. Carnapian anti-realists, however, will deny the
+EPR criterion validates any external notion of mind-independent
+existence, regarding it instead as a means of settling internal
+existence questions about physical quantities.
+The first anti-realist challenge to consider focuses on the use we
+make of our words and sentences. The challenge is simply this: what
+aspect of our linguistic use could provide the necessary evidence for
+the realist’s correlation between sentences and mind-independent
+states of affairs? Which aspects of our semantic behaviour manifest
+our grasp of these correlations, assuming they do hold?
+For your representations of the world to be reliable, there must be a
+correlation between these representations and the states of affairs
+they portray. So the cosmologist who utters the statement “the
+entropy of the Big Bang was remarkably low” has uttered a truth
+if and only if the entropy of the Big Bang was remarkably low.
+A natural question to ask is how the correlation between the statement
+and the mind-independent state of affairs which makes it true is
+supposed to be set up. One suggestive answer is that the link is
+effected by the use speakers make of their words, the statements they
+endorse and the statements they dissent from, the rationalizations
+they provide for their actions and so forth; cognitively, it will be
+the functional role of mental symbols in thought, perception and
+language learning etc. that effects these links.
+However, when we look at how speakers actually do use their sentences,
+anti-realists argue, we see them responding not to states of affairs
+that they cannot in general detect but rather to agreed upon
+conditions for asserting these sentences. Scientists assert “the
+entropy of the Big Bang was remarkably low” because they all
+concur that the conditions justifying this assertion have been
+met.
+What prompts us to use our sentences in the way that we do are the
+public justification conditions associated with those sentences,
+justification conditions forged in linguistic practices which imbue
+these sentences with meaning.
+The realist believes we are able to mentally represent
+mind-independent states of affairs. But what of cases where everything
+that we know about the world leaves it unsettled whether the relevant
+state of affairs obtains? Did Socrates sneeze in his sleep the night
+before he took the hemlock or did he not? How could we possibly find
+out? Yet realists hold that the sentence “Socrates sneezed in
+his sleep the night before he took the hemlock” will be true if
+Socrates did sneeze then and false if he did not and that this is a
+significant semantic fact.
+The Manifestation challenge to realism is to isolate some feature of
+the use agents make of their words, or their mental symbols, which
+forges the link between mind-independent states of affairs and the
+thoughts and sentences that represent them. Nothing in the
+thinker’s linguistic behaviour, according to the anti-realist,
+provides evidence that this link has been forged—linguistic use
+is keyed to public assertibility conditions, not undetectable
+truth-conditions. In those cases, such as the Socrates one, where we
+cannot find out whether the truth-condition is satisfied or not, it is
+simply gratuitous to believe that there is anything we can think or
+say or do which could provide evidence that the link has been set up
+in the first place. So the anti-realist claims [Dummett 1978, 1991,
+1993; Tennant 1987, 1997; Wright 1993].
+Why should we expect the evidence to be behavioural rather than, say,
+neurophysiological? The reason anti-realists give is that the meanings
+of our words and (derivatively for them) the contents of our thoughts
+are essentially communicable and thus must be open for all speakers
+and thinkers to see [Dummett 1978, 1993].
+The second challenge to be considered concerns our acquisition of
+language. The challenge to realism is to explain how a child could
+come to know the meanings of certain sentences within his/her
+language: the ones which the realist contends have undetectable
+truth-makers associated with them. How could the child learn the
+meanings of such sentences if these meanings are determined by states
+of affairs not even competent speakers can detect?
+Consider the sentence (S) once more:
+Realists say (S) is either true or false even though we may (and
+almost certainly will) never know which it is. The state of affairs
+which satisfies (S)’s truth-condition when it is true, its
+‘truthmaker’, and the state of affairs which satisfies the
+truth-condition of the negation of (S) when (S) is false are supposed
+to be able to hold even though competent speakers cannot detect
+whether they do. How could the child ever learn about this
+undetectable relation?
+Suppose God (or nature) had linked our mental representations to just
+the right states of affairs in the way required by the realist. If so,
+this is a semantically significant fact. Anyone learning their native
+language would have to grasp these correspondences between sentences
+and states of affairs. How can they do this if even the competent
+speakers whom they seek to emulate cannot detect when these
+correspondences hold? In short, competence in one’s language
+would be impossible to acquire if realism were true [Dummett 1978,
+1993; Wright 1993]. This is the Language Acquisition challenge.
+This challenge is exacerbated by the anti-realist’s assumption
+that since the linguistic meaning of an expression \(E\) is determined
+solely by competent speakers’ use of \(E\) the child’s
+task in all cases is to infer the meaning of \(E\) from its use. Thus
+Dummett [1978 pp. 216–217], in discussing the meaning of
+mathematical statements, proposes a thesis he argues holds for the
+meanings of every kind of statement:
+The meaning of a mathematical statement determines and is exhaustively
+determined by its use. The meaning of a mathematical statement cannot
+be, or contain as an ingredient, anything which is not manifest in the
+use made of it, lying solely in the mind of the individual who
+apprehends that meaning: if two individual agree completely about the
+use to be made of the statement, then they agree about its meaning.
+The reason is that the meaning of a statement consists solely in its
+role as an instrument of communication between individuals, just as
+the powers of a chess-piece consist solely in its role in the game
+according to the rules.
+W.V.O. Quine is even more insistent on the public nature of linguistic
+meaning. Displaying his unshakable faith in Skinnerian models of
+language-learning he writes [1992, pp. 37–38]:
+According to Hilary Putnam, the metaphysical realist subscribes not
+just to the belief in a mind-independent world but also to the thesis
+that truth consists in a correspondence relation between words (or
+mental symbols) and things in that mind-independent world. Call this
+thesis correspondence truth (after Devitt 1991). More
+importantly, metaphysical realists aver that an ideal theory of the
+world could be radically false, Putnam contends:
+‘radical’ in the sense that all (or
+almost all) of the theory’s theses could fail to hold. Such a
+global failure would result if we were to be
+‘brains-in-a-vat’ our brains manipulated by mad scientists
+(or machines, as in the movie The Matrix) so as to dream of
+an external world that we mistake for reality. Call this thesis
+radical skepticism.
+It is widely believed that states of affairs that are truly
+mind-independent do engender radical skepticism. The skeptic contends
+that for all we could tell we could be brains in a vat—brains
+kept alive in a bath of nutrients by mad alien scientists. All our
+thoughts, all our experience, all that passed for science would be
+systematically mistaken if we were. We’d have no bodies although
+we thought we did, the world would contain no physical objects, yet it
+would seem to us that it did, there’d be no Earth, no Sun, no
+vast universe, only the brain’s deluded representations of such.
+At least this could be the case if our representations derived even
+part of their content from links with mind-independent objects and
+states of affairs. Since realism implies that such an absurd
+possibility could hold without our being able to detect it, it has to
+be rejected, according to anti-realists.
+A much stronger anti-realist argument due to Putnam uses the
+brain-in-a-vat hypothesis to show that realism is internally
+incoherent rather than, as before, simply false. A crucial assumption
+of the argument is semantic externalism, the thesis that the reference
+of our words and mental symbols is partially determined by contingent
+relations between thinkers and the world. This is a semantic
+assumption many realists independently endorse.
+Given semantic externalism, the argument proceeds by claiming that if
+we were brains in a vat we could not possibly have the thought that we
+were. For, if we were so envatted, we could not possibly mean by
+‘brain’ and ‘vat’ what unenvatted folk mean by
+these words since our words would be connected only to neural impulses
+or images in our brains where the unenvatteds’ words are
+connected to real-life brains and real-life vats. Similarly, the
+thought we pondered whenever we posed the question “am I a brain
+in a vat?” could not possibly be the thought unenvatted folk
+pose when they ask themselves the same-sounding question in English.
+But realism entails that we could indeed be brains in a vat. As we
+have just shown that were we to be so, we could not even entertain
+this as a possibility, Putnam concludes that realism is incoherent
+[Putnam 1981]. For this argument to work, however, Putnam must be
+assuming a rather restrictive form of modal rationalism: we could be
+brains in a vat only if in the circumstance that we were envatted, we
+could conceive that we were envatted.
+Putnam’s Model-Theoretic Argument is the most technical of the
+arguments we have so far considered although we shall not reproduce
+all the technicalities here. The central ideas can be conveyed
+informally, although some technical concepts will be mentioned where
+necessary. The argument purports to show that the Representation
+Problem—to explain how our mental symbols and words get hooked
+up to mind-independent objects and how our sentences and thoughts
+target mind-independent states of affairs—is insoluble.
+According to the Model-Theoretic Argument, there are simply too many
+ways in which our mental symbols can be mapped onto items in the
+world. The consequence of this is a dilemma for the realist. The first
+horn of the dilemma is that s/he must accept that what our symbols
+refer to is massively indeterminate. The second horn is that s/he must
+insist that even an ideal theory, whose terms and predicates can
+demonstrably be mapped veridically onto objects and properties in the
+world might still be false, i.e., that such a mapping might not be the
+right one, the one ‘intended’.
+Neither alternative can be defended, according to anti-realists.
+Concerning the first alternative, massive indeterminacy for perfectly
+determinate terms is absurd. As for the second, for realists to
+contend that even an ideal theory could be false is to resort to
+unmotivated dogmatism, since on their own admission we cannot tell
+which mapping the world has set up for us. Such dogmatism leaves the
+realist with no answer to a skepticism which undermines any capacity
+to reliably represent the world, anti-realists maintain.
+Now, in logic theories are treated as sets of sentences and the
+objects (if any) that sentences talk about appear as elements of the
+domain of set-theoretic entities called structures. Associated
+with these structures are interpretation functions that map
+individual constants onto individual objects of the domain and n-place
+predicates onto n-tuples of elements in the domain. When a structure
+makes all the sentences of a given theory true it is called a
+model of the theory. By demonstrating that there is a model of
+T we show theory T is consistent. If T turns out to be true in its
+intended model, then T is true simpliciter. 
+For an informal illustration of the basic ideas of model theory, see
+the supplementary document,
+ Model Theory: Core Ideas.
+ 
+Let us call structures whose domains consist of numbers
+‘numeric’ structures. The nub of Putnam’s
+Model-Theoretic Argument against realism is that the realist cannot
+distinguish the intended model for his/her total theory of the world
+from non-standard interlopers such as permuted models or ones derived
+from numeric models, even when total theory is a rationally optimal
+one that consists, as it must do, of an infinite set of
+sentences and the realist is permitted to impose the most exacting
+constraints to distinguish between models. This is a very surprising
+result if true! How does Putnam arrive at it? 
+Putnam actually uses a number of different arguments to establish the
+conclusion above. Of prime concern to realists, as Taylor (2006)
+emphasises, is the argument based on Gödel’s Completeness
+Theorem, GCT. For, following Lewis [Lewis, 1984], realists might
+concede to Putnam that they cannot single out the intended model or
+distinguish it from various ersatz models, but argue that this is not
+necessary since it suffices that an intended model exists,
+even if we cannot specify it. This response does not answer the GCT
+argument, however. For this argument purports to prove directly that
+an ideal theory of the world could not be false, a conclusion flatly
+inconsistent with realism. See the supplementary document
+ The Model-Theoretic Argument and the Completeness Theorem
+ for an outline of this argument. 
+Putnam has another argument, the Permutation Argument:
+Suppose that the realist is able to somehow specify the intended
+model. Call this intended model \(W''\). Then nothing the realist can
+do can possibly distinguish \(W''\) from a permuted variant \(W^*\)
+which can be specified following Putnam 1994b, 356–357:
+Instead of considering two sentences “A cat is on a mat”
+and “A cat* is on a mat*” now consider only the one
+“A cat is on a mat”, allowing its interpretation to change
+by first adopting the standard interpretation for it and then adopting
+the non-standard interpretation in which the set of cats* are assigned
+to ‘cat’ in every possible world and the set of mats* are
+assigned to ‘mat’ in every possible world. The result will
+be the truth-value of “A cat is on a mat” will not change
+and will be exactly the same as before in every possible world.
+Similar non-standard reference assignments could be constructed for
+all the predicates of a language. [See Putnam 1985, 1994b.] However,
+unlike the GCT argument, the Permutation Argument is susceptible to
+the Lewis-styled reply above.
+According to conceptual pluralists, there can no more be an answer to
+the question “What is the structure of the world?” outside
+of some scheme for classifying entities than there can be an answer to
+the question of whether two events \(A\) and \(B\) are simultaneous
+outside of some inertial frame for dating those events. The objects
+that exist are the objects some conceptual scheme says
+exists—‘mesons exist’ really means ‘mesons
+exist relative to the conceptual scheme of current physics’.
+Realists think there is a unitary sense of ‘object’,
+‘property’ etc., for which the question “what
+objects and properties does the world contain?” makes sense. Any
+answer which succeeded in listing all the objects, properties, events
+etc. which the world contains would comprise a privileged description
+of that totality [Putnam 1981]. Anti-realists reject this. For them
+‘object’, ‘property’ etc., shift their senses
+as we move from one conceptual scheme to another. Some anti-realists
+argue that there cannot be a totality of all the objects the world
+contains since the notion of ‘object’ is indefinitely
+extensible and so, trivially, there cannot be a privileged description
+of any such totality. [For discussions of indefinite extensibility see
+Dummett 1978, 1991; Linnebo 2018; Warren 2017].
+How does the anti-realist defend conceptual relativity? One way is by
+arguing that there can be two complete theories of the world which are
+descriptively equivalent yet logically incompatible from the
+realist’s point of view. For example, theories of space-time can
+be formulated in one of two mathematically equivalent ways: as an
+ontology of points, with spatiotemporal regions being defined as sets
+of points; or as an ontology of regions, with points being defined as
+convergent sets of regions. Such theories are descriptively equivalent
+since mathematically equivalent and yet are logically incompatible
+from the realist’s point of view, anti-realists contend [Putnam
+1985, 1990].
+We now turn to some realist responses to these challenges. The
+Manifestation and Language Acquisition arguments allege there is
+nothing in an agent’s cognitive or linguistic behaviour that
+could provide evidence that s/he had grasped what it is for a sentence
+to be true in the realist’s sense of ‘true’. How can
+you manifest a grasp of a notion which can apply or fail to apply
+without you being able to tell which? How could you ever learn to use
+such a concept?
+One possible realist response is that the concept of truth is actually
+very simple, and it is spurious to demand that one always be able to
+determine whether a concept applies. As to the first part, it is often
+argued that all there is to the notion of truth is what is given by
+the formula “‘\(p\)’ is true if and only if
+\(p\)”. The function of the truth-predicate is to disquote
+sentences in the sense of undoing the effects of quotation—thus
+all that one is saying in calling the sentence “Yeti are
+vicious” true is that Yeti are vicious.
+It is not clear that this response really addresses the
+anti-realist’s worry, however. It may well be that there is a
+simple algorithm for learning the meaning of ‘true’ and
+that, consequently, there is no special difficulty in learning to
+apply the concept. But that by itself does not tell us whether the
+predicate ‘true’ applies to cases where we cannot
+ascertain that it does. All the algorithm tells us, in effect, is that
+if it is legitimate to assert \(p\) it is legitimate to assert that
+‘\(p\)’ is true. So are we entitled to assert
+‘either Socrates did or did not sneeze in his sleep the night
+before he took the hemlock’ or are we not? Presumably that will
+depend on what we mean by the sentence, whether we mean to be
+adverting to two states of affairs neither of which we have any
+prospect of ever confirming.
+Anti-realists follow verificationists in rejecting the intelligibility
+of such states of affairs and tend to base their rules for assertion
+on intuitionistic logic, which rejects the universal applicability of
+the Law of Bivalence (the principle that every statement is either
+true or false). This law is thought to be a foundational semantic
+principle for classical logic. However, some question whether
+classical logic requires bivalence [e.g. Sandqvist 2009]. Others
+dispute the idea that acceptance or rejection of bivalence has any
+metaphysical (rather than meaning-theoretic) consequences
+[Edgington, 1981; McDowell 1976; Pagin 1998; Gaiffman 1996]. There is,
+in addition, a question as to whether the anti-realist’s
+preferred substitute for realist truth-conditions in
+verification-conditions (or proof-conditions) satisfies the
+requirement of exhaustive manifestability [Pagin 2009]. 
+A more direct realist response to the Manifestation challenge points
+to the prevalence in our linguistic practices of realist-inspired
+beliefs to which we give expression in what we say and do [McDowell
+1976]. We assert things like “either there were an odd or an
+even number of dinosaurs on this planet independently of what anyone
+believes” and all our actions and other assertions confirm that
+we really do believe this. Furthermore, the overwhelming acceptance of
+classical logic by mathematicians and scientists and their rejection
+of intuitionistic logic for the purposes of mainstream science
+provides very good evidence for the coherence and usefulness of a
+realist understanding of truth [Edgington 1981; Burgess 1984; Hellman
+1989, 1992]. 
+Anti-realists reject this reply. They argue that all we make manifest
+by asserting things like “either there were an odd or an even
+number of dinosaurs on this planet independently of what anyone
+believes” is our pervasive misunderstanding of the notion of
+truth. They apply the same diagnosis to the realist’s belief in
+the mind-independence of entities in the world and to counterfactuals
+which express this belief. We overgeneralize the notion of truth,
+believing that it applies in cases where it does not, they contend
+[Tennant 1987, 1997; Wright 1993]. 
+An apparent consequence of their view is that reality is indeterminate
+in surprising ways—we have no grounds for asserting that
+Socrates did sneeze in his sleep the night before he took the hemlock
+and no grounds for asserting that he did not and no prospect of ever
+finding out which. Does this mean that for anti-realists the world
+contains no such fact as the fact that Socrates did one or the other
+of these two things? Not necessarily. For anti-realists who subscribe
+to intuitionistic principles of reasoning, the most that can be said
+is that there is no present warrant to assert \(S \lor \neg S\): that
+Socrates either did or did not sneeze in his sleep the night before he
+took the hemlock.
+Perhaps anti-realists are right. But if so, they need to explain how a
+practice based on a pervasive illusion can be as successful as modern
+science. Anti-realists perturbed by the manifestability of realist
+truth are revisionists about parts of our linguistic practice, and the
+consequence of this revisionist stance is that mathematics and science
+require extensive and non-trivial revision. The debate about whether
+classical logic should (or can) be rejected on meaning-theoretic
+grounds is ongoing: Burgess 1984, Hellman 1989, Michael 1999 and Read
+2000 are critical of Dummett’s case for rejecting classical
+logic, whereas Cogburn 2005, Cozzo 1994, Prawitz 1977, 1987, 1994 and
+Tennant 1997 are, in varying degrees, supportive. 
+The challenge to realism posed by language acquisition is to explain
+how a child (or novice) could come to know the meanings of certain
+sentences within his/her language: the ones the realist contends have
+undetectable truth-makers associated with them. How could the child
+learn the meanings of such sentences if these meanings are determined
+by states of affairs not even competent speakers can detect?
+A straightforward realist reply is that knowledge of the meanings of
+sentences with undetectable truth-conditions is acquired in the same
+way as knowledge of the meanings of sentences with recognisable
+truth-conditions: namely, compositionally by acquiring knowledge of
+the lexicon and the relevant compositional principles [Pagin
+ 2009].[2]
+ Anti-realists respond by contesting the interpretation of the
+compositional principles that generate sentences with undetectable
+truth-conditions — where realists assert \(S \lor \neg S\) is
+true (\(S\) being the Socrates sentence), anti-realists maintain there
+is no ground for asserting this disjunction [e.g. Tennant 1987].
+Some realists reject the publicity of meaning principle as it applies
+to language learning. While many accept that the meaning of a word is
+determined by its use in a given language, not all do [e.g. Chomsky
+1986; Fodor and Lepore 2002]. Realists who think of semantic
+understanding as a mental state reject the idea that a speaker’s
+understanding of meaning is exhaustively manifest in its use as an
+instrument of communication rather than in its internal use in
+expressing thought. If Dummett’s manifestation requirement is a
+demand for a behaviouristic reduction of semantic knowledge, they
+argue, it should be rejected [Burgess 1984; Chomsky 1986]. However,
+some sympathetic to the demand for full manifestability of semantic
+knowledge reject the behaviouristic construal and instead justify it
+on conceptual grounds [e.g. Shieh 1998, McGee
+ 2015].[3]
+The Acquisition Challenge is a vexed one for realists because Dummett
+shares little common ground with the many (realist) philosophers,
+linguists and cognitive scientists who believe language acquisition is
+effected by a dedicated language module [Fodor 1975, 1983, 2008;
+Chomsky 1986, 2006; Crain 2012; Pinker 1994] or even with those who
+disavow modularity but agree that semantic knowledge is partly
+unconscious. Thus, Dummett rejected Chomsky’s thesis that
+speakers have unconscious knowledge of the rules of Universal Grammar
+on the Wittgensteinian grounds that it was, at best “an
+explanatory hypothesis, not a systematisation of facts open to
+view.” [Dummett 1981]. Dummett apparently took this
+“systemisation of facts” to be satisfied by an account
+that pairs knowledge of meaning with recognitional
+ abilities.[4]
+It is worth noting that evidence from developmental psychology
+indicates some meaning is pre-linguistic and that some pre-linguistic
+meaning or conceptual content relate to situations that are not
+detectable by the child. For example, psychologists have discovered
+systems of core knowledge activated in infancy that govern the
+representation of, inter alia concrete objects and human
+agents [see Spelke 2003; Spelke and Kinzler 2007]. An interesting
+finding from preferential gaze experiments suggests 4 month old
+infants represent occluded objects as continuing behind their
+ barriers.[5]
+While these findings do not by themselves show that the meanings of
+mental symbols is not determined by public use, they do provide
+evidence that ‘verification-transcendent’ conceptual
+content is laid down in the earliest stages of cognitive development.
+The Brains-in-a-Vat argument purports to show that, given semantic
+externalism, realism is incoherent on the grounds that it is both
+committed to the genuine possibility of our being brains in a vat and
+yet entails something that anti-realists judge to be inconsistent with
+this: namely, that were we to be so envatted we could not possibly
+have the thought that we were.
+Realists have three obvious responses.
+As for (i), one might question the coherence of the idea of our being
+brains in a vat on the grounds that the skeptical hypothesis uses
+terms which derive their meaning from successful theory to pose a
+problem which, if intelligible, would rob those very terms of meaning.
+What of option (ii)—denying semantic externalism? Is this really
+a live prospect for realists? Semantic externalism no longer commands
+the consensus amongst realists that it did when Putnam formulated his
+Brains-in-a-Vat argument. David Lewis, a prominent realist, rejected
+externalism in favour of a sophisticated semantic internalism based on
+a ‘Two-Dimensional’ analysis of modality proposed by
+Stalnaker [Lewis 1994]. Frank Jackson [Jackson 2000] contributed to
+the development of internalist 2D semantics and used it to formulate a
+version of materialism grounded on conceptual analysis that provides a
+useful model of a physicalistic realist’s metaphysics.
+Other realists reject externalism because they think that the
+Representation Problem is just a pseudo-problem. When we say things
+like “‘cat’ refers to cats” or
+“‘quark’ refers to quarks” we are simply
+registering our dispositions to call everything we consider
+sufficiently cat-like/quark-like,
+‘cat’/’quark’ [Horwich, 1990; Resnick,
+1990].
+According to these semantic deflationists, it is just a confusion to
+ask how the link was set up between our use of the term ‘the Big
+Bang’ and the event of that name which occurred some fourteen
+billion years ago. Yet, if all there is to the story are our
+linguistic dispositions and the conditions to which they are presently
+attuned, the case has effectively been ceded to the anti-realist who
+denies it is possible to set up a correlation between our utterances
+or thoughts and mind-independent states of affairs. 
+Perhaps the most effective realist rejoinder is (iii). We shall return
+to this response after we have reviewed Putnam’s Brains-in-a-Vat
+Argument, BIVA.
+How does Putnam prove we can know we are not brains in a vat? To
+understand Putnam’s argument, we need to first recall the
+‘Twin-Earth’ considerations used to support Semantic
+Externalism: on Twin-Earth things are exactly as they are here on
+Earth except for one difference—whereas for Earthly humans water
+has the chemical composition H2O, for our
+döppelgangers on Twin-Earth, twumans, water is instead composed
+of some substance unknown to us on Earth, XYZ. Now when you and your
+twuman counterpart say (or think) “‘Water’ refers to
+water” both of you utter (or think) truths. But which truth you
+both think or utter differs. For humans “‘Water’
+refers to water” expresses the truth that the term
+‘water’ in English refers to that substance whose chemical
+composition is H2O. For our twuman Twin-Earth counterparts,
+however, their sentence “‘Water’ refers to
+water” expresses the truth that their term ‘water’
+in Twenglish refers to that substance whose chemical composition is
+XYZ.
+With these points about Externalism in mind, consider Putnam’s
+BIVA [we follow the formulation section 7 of the entry
+ skepticism and content externalism].
+ Let us call whatever it is that an envatted brain’s symbol
+‘tree’ refers to, if it refers at all,
+\(v\)-trees. Then the BIVA is: 
+Now (1) seems correct: if I am a brain-in-a-vat then, given
+externalism, my symbol ‘tree’ cannot refer to trees since
+there aren’t any trees in the vat-world—a BIV’s
+‘tree’ symbol refers to \(v\)-trees, not
+trees. But what reason do we have to believe (2)? If we are BIVs
+won’t our ‘tree’ symbols refer to v-trees rather
+than trees? Crispin Wright [1992b] argues that all language-users,
+whether humans or brains-in-a-vat, can be certain of (2) since they
+can know they use language meaningfully and thus can know that their
+language disquotes. Graeme Forbes [1995] questions Wright’s
+argument. 
+Discussion of the brains-in-a-vat hypothesis has been extensive. Early
+contributions by Brueckner 1986, 1992; David 1991; Ebbs 1992; Forbes
+1995 reconstruct Putnam’s argument and assess it from a realist
+perspective. Important defences of the BIVA are provided by Wright
+1992b; Tymoczko 1989; Button 2013, 2015. Some recent discussions bring
+Bayesian [Huemer 2016] or psychological [Jackson 2015] considerations
+to bear on Putnam’s BIV hypothesis. A valuable collection of
+essays is Goldberg 2015.
+Even if it were to turn out that the BIVA is not sound, Putnam’s
+challenge to the realist remains unanswered. This was to show how
+realism could be coherent if it is committed both to:
+and to the consequence that:
+While it is usually not remarked upon, there is no logical
+incoherence in accepting both (I) and (II)—as the figure below
+illustrates. There is thus no logical incoherence in believing both
+that it is possible that one is a BIV and that if one is a BIV one
+could never come to know this. 
+Figure. Consider a universe of 4 worlds.
+If we are not in fact brains-in-a-vat (so that the hypothesis
+\(v\) that we are brains in a vat is false, \(\neg v\) is true at
+\(w^*\), the actual world) we can nonetheless entertain \((E)\), the
+hypothesis that we are (so that \(Ev\) is true at \(w^*\)),
+recognizing as we do so that were we to inhabit a world such as \(w'\)
+in which we are brains-in-a-vat (\(v\) holds at \(w'\)), we would lack
+the semantic resources to articulate thoughts reflecting our own
+envatted state so that we could not so much as entertain the
+thought that we were brains-in-a-vat (\(\neg Ev\) holds not only at
+\(w'\) but at all those worlds ( \(w''\), \(w'''\)) accessible from
+\(w'\)).
+Nick Bostrom has recently argued it is quite likely that we humans are
+actually virtual humans: computer simulations of flesh and
+blood creatures. Bostrom reasons that if our mental lives can be
+simulated then it is highly probable that our distant descendants
+(more intelligent or at least more technologically advanced
+‘post-human’ successors) will eventually create such a
+simulation in which case it is more likely that we are the unwitting
+denizens of a simulated world than the flesh and blood inhabitants of
+the real world we take ourselves to be. At least this will be so
+unless the chances that creatures of our intelligence are doomed to
+become extinct before reaching the technological sophistication to
+create simulations are overwhelmingly large or else almost no such
+technologically capable civilizations have any interest in simulating
+minds like ours in the first place [Bostrom, N., 2003]. 
+Bostrom’s position owes nothing to skepticism, he is concerned
+solely with the question of whether virtual humans are empirically
+possible and, if so, how likely it is that we might be such beings.
+His argument, if sound, makes it look very doubtful that we can know
+a priori that we are not brains-in-a-vat,
+when BIVs are understood to be virtual humans in a
+ simulation.[6]
+ If Bostrom is correct, Putnam’s attempt to prove we cannot
+be BIVs must be flawed. However, the Simulation Argument is
+nothing if not controversial: it has provoked interest from
+cosmologists as well as philosophers [For discussion of the Simulation
+Hypothesis see Bostrom, 2005; Brueckner 2008; Chalmers 2010;
+Weatherson 2003]. 
+If metaphysical realism is to be tenable, it must be possible for even
+the best theories to be mistaken. Or so metaphysical realists have
+thought. Whence, such realists reject the Model-Theoretic Argument MTA
+which purports to show that this is not possible. Here is an informal
+sketch of the MTA due to van Fraassen [1997]:
+Here ‘TRUE(SAT)’ means “true relative to a mapping
+of the terms of the language of \(T\) onto (sets of) items in the
+world”.
+But why should we interpret ‘true’ as TRUE(SAT)? Because
+truth is truth in an intended model and, Putnam argues, amongst all
+the models of \(T\) that make all its theses come out true there is
+guaranteed to be at least one that passes all conceivable constraints
+we can reasonably impose on a model in order for it to be an intended
+model of \(T\). 
+Realists have responded to the argument by rejecting the claim that a
+model \(M\) of the hypothetical ideal theory \(T\) passes every
+theoretical constraint simply because all of the theory’s theses
+come out true in it. For there is no guarantee, they claim, that terms
+stand in the right relation of reference to the objects to which \(M\)
+links them. To be sure, if we impose another theoretical constraint,
+say:
+then \(M\) (or some model based on it) can interpret this RRC
+constraint in such a way as to make it come out true.
+But there is a difference between a model’s making some
+description of a constraint come out true and its actually conforming
+to that constraint, metaphysical realists insist [Devitt 1983, 1991;
+Lewis 1983, 1984].
+For their part, anti-realists have taken the metaphysical
+realist’s insistence on a Right Reference Constraint to be
+‘just more theory’—what it is for a model to conform
+to a constraint is for us to be justified in asserting that it does.
+Unfortunately, this has led to something of a stand-off. Metaphysical
+realists think that anti-realists are refusing to acknowledge a clear
+and important distinction. Anti-realists think realists are simply
+falling back on dogmatism at a crucial point in the argument.
+On the face of it, the Permutation Argument presents a genuine
+challenge to any realist who believes in determinate reference. But it
+does not refute metaphysical realism unless such realism is committed
+to determinate reference in the first place and it is not at all
+obvious that this is so.
+Realist responses to this argument vary widely. At one extreme are the
+‘determinatists’, those who believe that Nature has set up
+significant, determinate referential connections between our mental
+symbols and items in the world. They contend that all the argument
+shows is that the distribution of truth-values across possible worlds
+is not sufficient to determine reference [van Cleve 1992].
+At another extreme are ‘indeterminatists’, realists who
+concede the conclusion, agreeing that it demonstrates that word-world
+reference is massively indeterminate or ‘inscrutable’. The
+locus classicus for inscrutability of reference is Quine 1964 [See
+also Quine 1969, 1992; Davidson 1979]. 
+Some infer from this that reference could not possibly consist in
+correspondences between mental symbols and objects in the world. For
+them all that makes ‘elephant’ refer to elephants is that
+our language contains the word ‘elephant’. This is
+Deflationism about reference. Vann McGee presents a strong case for
+inscrutability on a deflationary view of reference, one that is
+grounded in a “… peculiarly egocentric conception of
+semantics—questions of others’ meanings are settled by
+asking what I mean by the words of my language” [McGee
+2015].
+In between these two extremes are those prepared to concede the
+argument establishes the real possibility of a significant and
+surprising indeterminacy in the reference of our mental symbols but
+who take it to be an open question whether other constraints can be
+found which pare down the range of reference assignments to just the
+intuitively acceptable
+ ones.[7]
+The simplest and most direct response to the MTA questions its
+validity. Thus Devitt and Lewis claim that Putnam’s alternative
+model \(M\) has not been shown to satisfy every theoretical
+constraint merely by making some description of each
+theoretical constraint true.
+Skolem’s Paradox in set theory seems to present a striking
+illustration of Lewis’s distinction. The Löwenheim-Skolem
+Theorem states that every consistent, countable set of first-order
+formulae has a denumerable model, in fact a model in the set of
+integers \(\mathbb{Z}\). Now in ZF one can prove the existence of sets
+with a non-denumerable number of elements such as the set
+\(\mathbb{R}\) of real numbers. Yet the ZF axioms comprise a
+consistent, countable set of first-order formulae and thus by the
+Löwenheim-Skolem Theorem has a model in \(\mathbb{Z}\). So
+ZF’s theorem \(\phi\) stating that \(\mathbb{R}\) is
+non-denumerable will come out true in a denumerable model \(\mu\) of
+ZF.
+How can this be? One explanation is that \(\mu\) makes \(\phi\) true
+only at the cost of re-interpreting the term
+‘non-denumerable’ so that it no longer means
+non-denumerable. Thus \(\mu\) is not the intended model
+\(M^*\) of ZF. It looks as if the metaphysical realist has a clear
+illustration of Lewis’s distinction at hand in set theory.
+Unfortunately for the realist, this is not the only explanation. In
+fact, Putnam used this very example in an early formulation of the
+MTA. Just because there are different models that satisfy \(\phi\) in
+some of which \(\mathbb{R}\) is non-denumerable but in others of which
+(such as \(\mu\)) \(\mathbb{R}\) is denumerable, Putnam argued, it is
+impossible to pin down the intended interpretation of
+‘set’ via first-order axioms. Moreover, well before
+Putnam, Skolem and his followers had taken the moral of Skolem’s
+Paradox to be that set-theoretic notions are indeterminate [For
+further discussion, see the entry on
+ Skolem’s paradox].
+The question of how to interpret Skolem’s Paradox merely raises
+anew the question of what it is for a theory such as the hypothesized
+ideal theory \(T\) to satisfy a right reference constraint, (RRC).
+Putnam [1985] regards it as simply question-begging for a realist to
+assume her notion of an intended model is determinate: i.e. that terms
+such as ‘satisfaction’ or ‘correspondence’
+refer to those relations to which she wishes them to refer. That her
+term ‘refers’ refers to her desired reference relation is
+‘just more theory’. Realists have responded that Putnam is
+wilfully re-interpreting their semantic terms as he sees
+ fit.[8]
+Is there some independent way to validate Lewis’s distinction?
+Michael Resnick thinks so [Resnick 1987]. Putnam maintained that
+\(M\), the model he constructs of the ideal theory \(T\), is an
+intended model because it passes every operational and theoretical
+constraint we could reasonably impose. It passes every theoretical
+constraint, he argues, simply because it makes every thesis of \(T\)
+true. But unless the Reflection Principle (RP) below
+holds, Resnick argues, this inference is just a
+non-sequitur:
+However, this principle is false. The simplest counterexample to it,
+Resnick points out, is Tarskian truth. Suppose we impose on
+\(T\)’s model \(M\) a condition \(f^*\) that \(M\) makes all of
+\(T\)’s theses come out true. Then, unless \(T\) is either
+inconsistent or too weak to express elementary arithmetic no truth
+predicate will be definable in \(T\). Whence there will be no
+condition \(C\) expressible in \(T\) corresponding to this condition
+\(f^*\) on \(T\)’s model(s) \(M\).
+Resnick concludes (ibid):
+The philosophical consensus appears to be that Lewis and Resnick are
+right. Apart from the authors already discussed, important criticisms
+of the MTA were advanced in Hale and Wright 1997, van Cleve 1992 and
+Bays 2008. However, some very sophisticated anti-realist attempts to
+buttress the Model-Theoretic Argument against Lewis-styled criticisms
+have appeared. Igor Douven reconstructs Putnam’s argument,
+defending it against standard objections [Douven 1999]. Barry Taylor
+presents a detailed explication and defence of Putnam’s Just
+More Theory reply [Taylor 2006], as does Tim Button [Button 2013].
+Whether these newer formulations of the MTA succeed in answering the
+Lewis/Resnick objection is an open
+ question.[9]
+To the extent it makes the existence of all things relative to the
+classificatory skills of minds, conceptual relativism appears highly
+counter-intuitive to realists. Whilst it may seem plausible to some
+that moral values or perhaps even colours might disappear with the
+extinction of sentient life on Earth, it is not at all plausible to
+think that trees, rocks and microbes would follow in their train. 
+This is not how Putnam understands his idea of conceptual relativity,
+however, which thesis he distinguishes from conceptual relativism. As
+he sees things, we accept a theory which licenses us to assert
+“Electrons exist” and also licenses us to assert “if
+humans were to disappear from this planet, electrons need not follow
+in their train” since the theory assures us that the existence
+of electrons in no way causally depends on the existence of humans.
+For the anti-realist our well-founded practices of assertion ground at
+one and the same time our conception of the world and our conception
+of humanity’s place within it.
+Realists might still worry that whether there are to be any electrons
+in the anti-realist’s ontology apparently depends upon the
+conceptual schemes humans happen to chance upon and Putnam himself
+encourages this interpretation: “‘objects’ do not
+exist independently of conceptual schemes” [Putnam 1981]. The
+relativity of existence to conceptual scheme is, in this respect,
+quite unlike the relativity of simultaneity to frame of reference.
+Still, anti-realists maintain that there are actual instances of
+conceptual schemes that explain the same phenomena equally well,
+schemes which, they aver, realists must judge to be logically
+incompatible. The earlier example of competing theories of space-time
+was a case in point. On one theory, \(T_1\), space-time consists of
+unextended spatiotemporal points and regions of space-time are sets of
+these points. According to the second theory, \(T_2\), space-time
+consists of extended spatiotemporal regions and points are logical
+constructions—convergent sets of regions. Realists will judge
+that only one of the two theories can be true if they really are
+logically incompatible. Anti-realists respond that the two theories
+\(T_1\) and \(T_2\) cannot differ in truth-value since they are
+descriptively equivalent. 
+Anti-realists regard two theories as descriptively equivalent if each
+theory can be interpreted in the other and both theories explain the
+same phenomena. Is there nothing more to the notion of descriptive
+equivalence than this? Realists might not accept that there
+isn’t.
+Consider our two competing theories of space-time \(T_1\) and \(T_2\)
+again. Are \(T_1\) and \(T_2\) descriptively equivalent? At the stroke
+of midnight Cinderella’s carriage changes into a
+pumpkin—it is a carriage up to midnight, a pumpkin thereafter.
+According to the region-based theory \(T_2\) which takes temporal
+intervals as its primitives, that’s all there is to it. But if
+there are temporal points, instants, as \(T_1\) affirms, there is a
+further issue left undecided by this story—viz, at the moment of
+midnight is the carriage still a carriage or is it a pumpkin?
+So does the region-based theory fail to recognize certain facts or are
+these putative facts merely artefacts of the punctate theory’s
+descriptive resources, reflecting nothing in reality? We cannot
+declare the two theories \(T_1\) and \(T_2\) descriptively equivalent
+until we resolve this question at least.
+In fact, there is no reason why realists cannot agree with
+anti-realists in regarding the conflict between a punctate geometry
+and a region-based geometry as merely apparent. Thomas
+William Barrett and Hans Halvorson argue that the two theories “
+… are simply convenient ways of expressing the geometric facts that
+are more fully expressed by a comprehensive theory” that
+quantifies over both points and lines. \(T_1\) and \(T_2\) cannot be
+incompatible according to Barrett and Halvorson because they are in
+essence the same theory [Barrett and Halvorson 2017].
+However, the geometric case is a rather special one.
+Consider another Putnam-styled case [Putnam 2004]. Ernie looks into
+his bag and sees there are 3 coins and nothing else and announces
+“There are exactly 3 objects in my bag.” Maxi looks into
+Ernie’s bag and shakes her head “No Ernie there are 7
+objects in your bag!” she corrects him. The Carnapian pluralist
+feels she can defuse the conflict and accommodate both points of view
+by maintaining that whilst 3 objects exist-in-\(E\) (where \(E\) is
+Ernie’s everyday framework), 7 objects exist-in-\(M\) (with
+\(M\) Maxi’s mereological framework). But even if Maxi can
+endorse both of these claims (since the mereological objects include
+Ernie’s 3 coins), it is not at all certain Ernie can do so. If
+Ernie is unpersuaded that mereological fusions of objects are
+themselves objects, then Maxi’s putative truthmaker for her
+framework-relative existence claim “7 objects
+exist-in-\(M\)” will be unconvincing to him.
+For this case, the pluralist’s suggestion that 3 objects
+exist-in-\(E\) but 7 objects exist-in-\(M\) is not clearly warranted.
+There are simpler explanations: one is that by ‘object’
+Ernie means ordinary object, by ‘object’ Maxi means
+mereological object. Nothing deeper than that is required to explain
+their disagreement. Rather than existence or truth that is
+relativized, the meanings of their terms differ. On this account,
+pluralists have mistaken a plurality of meanings for a plurality of
+modes of being. However, other explanations are also possible: for
+instance, it may be that Ernie and Maxi do mean the same thing by
+‘object’ but hold incompatible theories about what counts
+as an object. More importantly, as a reviewer noted, the debate
+need not turn on the notion of an object: it can proceed with
+quantifiers, for example. The disagreement then would arise from
+divergent interpretations of those quantifiers.
+Putnam’s pluralism has provoked very different reactions from
+realists. Some argue that conceptual pluralism is consistent with
+realism [Lynch 1998; Horgan and Timmons 2002; Sosa 2003], others take
+Putnam’s pluralism to amount to the claim that ontological
+expressions are either indeterminate or that alternative ontologies
+are equally good, both alternatives being problematic [Eklund 2008].
+Realists cannot make sense of the Carnapian idea that existence and
+truth are relative to a conceptual scheme [Brueckner 1998]. Peter van
+Inwagen provides a trenchant criticism of Putnam’s claims [van
+Inwagen 2002]: 
+Recently, however, some impressive neo-Carnapian defences of
+conceptual pluralism have been proposed that bring new considerations
+to bear on these debates. We briefly review some of these in section
+5.
+Debates in meta-ontology (analytic ontology) over the last twenty
+years have sparked renewed interest in realism. They have also seen a
+marked shift in how realism, i.e. ontological realism, is understood.
+“The central question of metaontology”, Theodore Sider, a
+prominent ontological realist, contends, “is that of whether
+there are many equally good quantifier meanings, or whether there is a
+single best quantifier meaning.” [Sider 2009, p.397]. Where
+Sider argues for a single best quantifier meaning, Eli Hirsch believes
+there are a multiplicity of possible quantifier meanings that are
+equally good, a thesis he calls Quantifier Variance. This
+meaning-theoretic focus is something
+ new.[10]
+It is no surprise, then, to find that the positions marked out as
+‘realist’ and ‘anti-realist’ by those engaged
+in ontological disputes do not always coincide with realism and
+anti-realism as we have explained these metaphysical
+ views.[11]
+A more significant division is between metaontologists who accept a
+robust conception of ontology, and deflationists about
+ontology who don’t. Sider defends robust ontology [Sider 2009,
+385–386]:
+Neo-Carnapians such as Putnam, Eli Hirsch, David Chalmers, Amie
+Thomasson, and Huw Price are ontological deflationists who embrace
+conceptual pluralism about ontological matters. Hirsch, however,
+thinks conceptual pluralism is perfectly consistent with realism
+[Hirsch, E. 2002]. Matti Eklund understands Hirsch to mean that he
+considers the world to be an amorphous lump [Eklund, M., 2008] (citing
+Michael Dummett), a ‘lump’ that alternative and equally
+feasible conceptual schemes serve to make intelligible. For Sider, in
+contrast, rejecting an intrinsic structure to the world is to reject
+ realism.[12]
+Competing views about temporal persistence do not seem to be semantic
+in nature. While Perdurantists believe that things persist through
+time by virtue of having temporal parts that perdure,
+Endurantists reject the notion of temporal parts as incoherent
+—things persist by enduring: they are wholly present
+whenever they exist. As observed in the entry on
+ temporal parts:
+Eli Hirsch is not convinced, however:
+How can this be? Endurantists think perdurantists are guilty of
+spatializing time when they talk about temporal parts; perdurantists
+think enduring objects cannot explain change. How can there be a
+rapprochement of the sort Hirsch has in mind?
+Hirsch’s novel and intriguing idea is that what makes the
+endurantist/perdurantist temporal parts debate and the
+nihilist/universalist mereological debate merely verbal ones is the
+fact that the protagonists in these debates mean different things by
+their quantifiers, in particular their existential quantifiers, in
+their ontological assertions. While both protagonists speak a common
+language, here English, in which certain ontological claims such as
+‘there are tables’ happen to come out true, this is a
+superficial socio-linguistic fact about English that might not have
+been so: we and they could just as easily have spoken English* (an
+ontological nihilist language) in which the sentence ‘there are
+tables’ came out false. Protagonists in these ontological
+disputes are, unwittingly, engaged in a ‘merely verbal’
+debate and are thus talking past each
+ other.[13]
+How does the deflationist tell that an ontological dispute is a
+‘merely verbal’ one? Hirsch thinks that when we interpret
+the words of another, we assign truth-conditions to their sentences by
+matching those sentences with sets of possible worlds, guided by the
+metasemantic maxim that the speaker’s assertion of those
+sentences should come out true. The maxim applies to ontological
+disputes such as the Ernie/Maxi dispute about mereology — there
+are possible languages in which both speakers’ assertions come
+out true. Hirsch contends: “speakers of either language should
+allow that speakers of the other language assert sentences that have
+the same characters (DK: functions from contexts of utterance to
+truth-conditions) and the same truth-values as they themselves
+assert.” [Hirsch 2009, p.242]. 
+In this way Ernie should attribute the same set of possible worlds
+(intensions) to Maxi’s sentence ‘There are seven objects
+in your bag’ as he associates with his own sentence ‘There
+are three objects in my bag’ and Ernie should interpret Maxi as
+uttering a truth in so doing. Ernie and Maxi are asserting the very
+same proposition but are using different words to express it. They
+are, as a result, simply talking past each other. 
+Hirsch’s doctrine of quantifier variance QV dominates current
+metaontological debate. Some have questioned whether interpreters on
+one side of an ontological dispute can admit that the language of
+those on the other side is possible. For to do so each interpreter
+must be able to provide a Tarskian semantics for the other’s
+language. But an Endurantist won’t be able to do this for the
+Perdurantist’s sentence such as ‘Alicet is a
+temporal part of Alice’ since the predicate ‘is a temporal
+part of’ has an empty extension in the Endurantist’s
+language [Hawthorne 2006; Eklund 2009]. Others suspect QV is an
+internally unstable position: how can an Endurantist speaking her
+language E allow that a sentence like ‘Alicet is a
+temporal part of Alice’ is a true sentence of the
+Perdurantist’s language P without admitting that there are
+temporal parts [e.g. Hale and Wright 2009; Dorr 2014]? Warren 2015
+provides a convincing QV response to this ‘Collapse’
+argument. An important resource, containing papers by some of the
+authors cited, is the collection of essays anthologised in Chalmers et
+al 2009 [For background on mereology see the entry
+ mereology
+ and for discussion of whether there are composite objects, see the
+entry
+ material constitution
+ and the entry
+ ordinary objects].
+ 
+The meaning-theoretic focus on Quantifier Variance in metaontology
+represents a fascinating development. The implications for ontological
+realism are as yet undecided.
+We have considered a number of challenges to realism, the thesis that
+the objects and properties that the world contains, its nature and
+structure, exist independently of our conception or perception of
+them. Historically, these challenges came from two camps: (1)
+neo-verificationists led by Dummett who assimilate belief in
+mind-independent world to a belief in a verification-transcendent
+conception of truth which they profess to find unintelligible, and (2)
+pragmatists and pluralists led by Putnam who also question the
+intelligibility of the realist’s mind-independent world but for
+reasons independent of any commitment to verificationism. While
+neo-verificationism today claims few adherents, within the ranks of
+analytic ontologists, pluralism and Carnap’s version of it in
+particular, has enjoyed something of a revival. Today, the most active
+and engaging debates about realism are meta-ontological ones that
+involve neo-Carnapian pluralists and their ontological realist
+opponents. 
+Both the historical debate between realists and their anti-realist
+opponents and the meta-ontological debate are still very much open. If
+realists could provide a plausible theory about how correspondences
+between mental symbols and the items in the world to which they refer
+might be set up, many of these challenges could be met. Alternatively,
+if they could explain how, consistently with our knowledge of a
+mind-independent world, no such correspondences are required to begin
+with, many of the anti-realist objections would fall away as
+irrelevant. In the absence of such explanations it is still entirely
+reasonable for realists to believe that the correspondences are in
+place, however, and there can, indeed, be very good evidence for
+believing this. Ignorance of Nature’s reference-fixing mechanism
+is no reason for denying it exists.

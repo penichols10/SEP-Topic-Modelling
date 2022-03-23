@@ -1,0 +1,575 @@
+Abū Bakr Muḥammad ibn Zakariyyāʾ
+al-Rāzī made his fame mostly as a doctor. As his name
+“al-Rāzī” indicates, he hailed from the Persian
+city of Rayy, near modern-day Tehran. His biographers report that he
+ran a hospital there, and another in Baghdad. He received patronage
+from Abū Ṣāliḥ al-Manṣūr (d. 914),
+the governor of Rayy, to whom al-Rāzī dedicated a
+substantial medical treatise, The Book for
+al-Manṣūr. We have a variety of anecdotes about
+al-Rāzī’s medical practice, some found in his own
+works and some in his medieval biographers, for instance that
+al-Rāzī would deal only with patients whose condition
+stumped his students. We also know, because he tells us himself, that
+he suffered from eye problems and a hand injury from copious reading,
+copying, and writing.
+This latter piece of information is found in The Philosophical Way
+of Life, which is a good first text to read by al-Rāzī
+(Arabic edition in al-Rāzī
+ RF;
+ English translation in al-Rāzī
+ PWL).
+ In it he rebuts accusations that he is a hypocrite for claiming to
+model his lifestyle on that of Socrates, when in fact Socrates was
+rigorously ascetic and al-Rāzī is not (see Strohmaier 1974).
+Al-Rāzī responds by saying that reports of Socrates’
+asceticism, which unbeknownst to him go back to a confusion in the
+sources between Socrates and Diogenes the Cynic, do not tell the whole
+story. In fact Socrates adopted a lifestyle of moderation as he
+matured, and it is this model that al-Rāzī imitates.
+This is one of only two complete surviving works by al-Rāzī
+devoted solely to a philosophical topic; the other one also deals with
+ethics. This is The Spiritual Medicine (Arabic edition in
+al-Rāzī RF; English translation in al-Rāzī
+ SPR
+ and for discussion Adamson 2016), a longer book of ethical advice
+presented to his patron al-Manṣūr as a complement to the
+aforementioned medical treatise. Here al-Rāzī offers
+treatment for the soul, following on his overview of treatments for
+the body (Adamson 2019). Apart from this, the most significant
+surviving work for his philosophy is his Doubts about Galen
+(Arabic critical edition and translation by Koetschet in
+al-Rāzī
+ DG).
+ Al-Rāzī considered Galen the greatest of medical
+authorities, but on the basis of Galen’s own critical attitude
+towards esteemed predecessors, felt free to critique weak points in
+the extensive corpus of Galenic works that had been translated into
+Arabic. While a number of these points naturally concern medicine, the
+Doubts also touches on a wide range of philosophical issues,
+as discussed below.
+Beyond this, the extant writings have to do mostly with medicine,
+including a number of smaller treatises, like a celebrated text on the
+difference between smallpox and measles (English translation in
+al-Rāzī
+ SM), and the by no means small Comprehensive Book, a
+staggeringly huge collection of notes on medicine that was compiled by
+al-Rāzī’s students after his death. The
+Comprehensive Book is sometimes said to present
+al-Rāzī’s “case notes”. But, while it is
+true that he reports on his own medical experiences, the work is more
+accurately described as a collection of excerpts from Greek and Arabic
+medical sources. When he does introduce “case notes” this
+is to provide counterexamples and amplifications for the textual
+evidence (Savage-Smith 2012). Broadly speaking, despite his often
+harsh diatribe against Galen’s failures in the Doubts,
+al-Rāzī’s own medical theories fall broadly within the
+Galenic framework, and thus deploy such standard concepts as the four
+humors, the natural powers of the body, and the role of
+pneuma in explaining animal sensation and motion.
+A final group of works that come down to us from al-Rāzī
+discuss alchemy (Ruska 1935). He was evidently a practicing alchemist
+and describes in detail a wide variety of chemical procedures, all
+aimed towards the goal of manufacturing valuable minerals and stones,
+or likenesses thereof. It may be that al-Rāzī’s
+atomist theory of matter provided him with a basis for understanding
+these processes. Chemical transformation would involve breaking down
+complex substances to more primitive particles and then recombining
+them in other proportions to produce the desired result (Kraus
+1942–3: vol. 2, 10–11; Adamson 2021: 96–98).
+Beyond these extant works we have reports on the full range of
+al-Rāzī’s writings by later authors who recorded lists
+of their titles. These confirm that he wrote much on medicine,
+philosophy, and alchemy, as well as mathematics, logic, and poetry.
+Most eye-catching here, though, are works in which he discussed
+religion and, especially, prophecy. The latter bear titles like On
+the Tricks of Supposed Prophets and On the Necessity of the
+Prophetic Mission. That could just show that he was concerned to
+refute the claims of spurious prophets, while accepting the legitimacy
+of true prophets. But in reports by still other authors, we are given
+a picture of al-Rāzī as a fundamentally anti-religious
+author who rejected all revelation and prophecy. This is especially
+the case with al-Rāzī’s contemporary, also from Rayy,
+Abū Ḥātim al-Rāzī (d. 934). In a treatise
+called The Proofs of Prophecy, Abū Ḥātim
+recounts face-to-face debates he had with al-Rāzī and then
+summarizes, and elaborately refutes, a treatise by al-Rāzī
+that supposedly sought to unmask the falsehoods of all revelatory
+religious traditions (see
+ AHR
+ in the bibliography).
+Along with Abū Ḥātim, two other sources are crucial
+for reconstructing al-Rāzī’s cosmology. These are
+Naṣīr-e Khosraw (d. 1088), who explained this cosmology in
+order to refute it in his Persian work Provision for the
+Traveler (hereafter
+ NK,
+ selective trans. into Arabic in al-Rāzī RF), and yet
+another al-Rāzī, this time the famous theologian-philosopher
+Fakhr al-Dīn al-Rāzī (d. 1210), in his Exalted
+Topics (hereafter
+ FDR).
+ From these and a few other sources, we can piece together the details
+of a remarkable account of the creation of the world, which invokes
+five factors that have always existed and come together to produce the
+cosmos: God, Soul, matter, time, and place. Abū Ḥātim
+and Naṣīr-e Khosraw both present this as an appalling
+departure from Islam, since it involves postulating four eternal
+principles alongside God.
+Some reports suggest that al-Rāzī saw his five principles as
+having a systematic structure: God and Soul are active and alive,
+matter passive and non-living, and time and place neither active, nor
+passive, nor alive. But the scheme does not seem to be motivated by
+its ability to satisfy all logical possibilities. Rather,
+al-Rāzī argues specifically for each of the five principles.
+God’s existence is demonstrated on the basis of the good design
+of the universe; more contentious are the other four.
+While the Soul is invoked as the source of life in bodies, its primary
+function in al-Rāzī’s philosophy is to facilitate a
+distinctive theodicy. The presence of great suffering in the world,
+alongside the aforementioned good design of that world, shows that it
+cannot have been created directly by God. Furthermore,
+al-Rāzī is concerned with a traditional argument against the
+eternity of the universe, namely that a perfectly wise and rational
+God could not arbitrarily choose a moment for the universe to begin
+existing. Both problems are solved by postulating a Soul which is
+“foolish” where God is wise. The Soul conceives of a
+desire or even passion (ʿishq) to be “mixed”
+with matter, which initiates the process of the world’s
+creation. God intervenes to make the world as good as it can be, but
+our bodily life is still inevitably full of pain.
+One question that arises here is why God would not prevent the Soul
+from mixing with matter, if this is such a bad idea.
+Al-Rāzī’s explanation is that God allows it to happen
+as a learning experience for the Soul (Goodman 1975). God bestows upon
+the Soul the gift of reason or intellect (ʿaql), and
+Soul can use this to realize that it should be working to free itself
+from its unwise bond with matter (Druart 1996). We have reports of
+parables used by al-Rāzī to explain this. A wise father
+might allow his inexperienced child to venture to a dangerous country,
+but send with him a good advisor (namely the intellect; Fakhr
+al-Dīn al-Rāzī, FDR: vol. 4, 416). Similarly, a wise
+father might allow his foolish child to go into an alluring garden
+full of thorns and stinging insects, so as to teach the child a lesson
+(Abū Ḥātim al-Rāzī, AHR: 18–19). This
+theodicy points the way towards a conception of our ultimate end,
+namely to escape from the material world, achieving
+“liberation” through moderate lifestyle and the practice
+of philosophy.
+As for matter, time, and place, these principles are required in order
+that the universe may be created at all (for an overview see Fakhry
+1968). First, al-Rāzī thinks that there must already be some
+material before the cosmos exists, out of which it is constructed. As
+Nāṣir-e Khosraw (NK: 75) complains, al-Rāzī
+believed that creation ex nihilo was impossible. He argued
+for this on the grounds that we constantly see things being produced
+through lengthy processes of development, even though instantaneous
+manifestation would be far easier and involve less suffering: he gives
+the example of the need for childbirth and growth to maturity. His
+point is that God would not cause this to happen, if He could just
+make humans exist from nothing. Time and place are needed for an
+analogous reason. Time cannot be created, since creation must occur
+at a time, and place cannot be created, because there would
+already need to be somewhere to put it.
+Al-Rāzī’s conception of matter is unusual among
+falāsifa, that is, thinkers of the Islamic world who
+respond primarily to the Greek philosophical tradition. More or less
+all of them, from al-Kindī (d. after 870) to
+al-Fārābī (d. 950), Ibn Sīnā (Avicenna, d.
+1037), and Ibn Rushd (Averroes, d. 1198), endorse a broadly
+Aristotelian understanding of bodies as potentially subject to
+indefinite division. By contrast, al-Rāzī is an atomist
+(Pines 1936 [1997], Baffioni 1982, Langermann 2009). He believes that
+the four elements (or possibly five: our sources are not clear as to
+whether he thinks the heavens are constituted from a distinct fifth
+element) differ in their properties because of variations in the ratio
+of atoms to void. Thus earth, which has little or no void in it, is
+dark, cold, dense, and moves downward; fire is luminous, hot, subtle,
+and moves upward. Actually these are not strictly
+“elements” but only the most basic compounds of atoms,
+which are truly fundamental. Though contemporary Islamic theologians
+were also atomists (Dhanani 1994), al-Rāzī’s theory
+differs from theirs in some respects, and we know that he debated the
+topic of matter with a theologian named
+al-Miṣmaʿī.
+Al-Rāzī referred to atoms as “absolute
+(muṭlaq) matter”, a locution echoed in his
+characterizations of the last two principles, namely “absolute
+time” and “absolute place”. These are also known,
+respectively, as “eternity (dahr)” or
+“duration (mudda)” and “void
+(khalāʾ)”. As we learn from the report of the
+debate with Abū Ḥātim, al-Rāzī was concerned
+to stress the independence of time and place from bodies, that is,
+from composites of atoms (Abū Ḥātim al-Rāzī,
+AHR: 12). Time in itself is simply eternal duration, with events
+(including the creation of the world) and motions happening within
+that duration. Similarly, place in itself is an infinite void, into
+which the bounded physical cosmos is placed. As already explained,
+void also exists (at least at the microscopic level) within the
+cosmos, since its admixture into bodies explains the variation between
+the elements.
+Al-Rāzī’s theories may be usefully contrasted to those
+of Aristotle; we know he was familiar with Aristotle’s
+Physics because he tells us as much in his Philosophical
+Way of Life. For Aristotle, time and place are dependent or
+supervenient phenomena: place is the inner boundary of the body that
+contains the body that is in place, while time is the number of
+motion. Al-Rāzī by contrast makes space-time independent.
+For instance he proposed a thought experiment that, if the universe
+were taken away, its place would remain (a similar idea is proposed by
+Philoponus in Phys. 574, translated in Philoponus
+ CPV:
+ 36). However his attitude towards Aristotelian physics is more
+nuanced than straightforward rejection (Adamson 2021: ch.5). For he
+accepts that one may speak of “relative” time and place,
+which would be the time and place of a particular motion and
+particular body, respectively. For example a year would be a
+demarcated segment of eternal duration that measures the sun’s
+motion along the ecliptic, while the place of a ball would be the
+limit of the region of void occupied by the ball. Likewise,
+al-Rāzī includes the Aristotelian elements, earth, water,
+air, fire, and perhaps ether, in his cosmology but does not accept
+that these are fundamental. As just seen, the real
+“element” that underlies them is atomic.
+Thus Aristotle managed to articulate genuine principles of physics,
+but only “relative” ones that need to be understood within
+a more basic framework. It was Plato who, in al-Rāzī’s
+opinion, had gotten closest to putting forward that framework.
+Abū Ḥātim says that al-Rāzī told him as
+much: “what Plato says is hardly different from what I believe
+concerning time, and this, according to me, is the best thing that has
+been said about it” (Abū Ḥātim
+al-Rāzī, AHR: 13). The text he must have in mind is
+Plato’s Timaeus, which he would have known through the
+intermediary of Galen (see Galen,
+ CTP
+ for the Arabic translation of his paraphrase of the dialogue). The
+Timaeus likewise postulates a pre-existing matter that is
+formed into the cosmos; it can also be read as suggesting that time
+and place in some sense pre-exist the cosmos. Furthermore, Plato puts
+forward an atomic theory in the Timaeus. In fact,
+al-Rāzī rises to the defense of that theory in Doubts
+about Galen (al-Rāzī, DG: §15.1-6). So there is
+good reason to believe that al-Rāzī was modeling his
+cosmology primarily on Plato’s, as he understood it, albeit with
+adjustments.
+On the other hand, Naṣīr-e Khosraw tells us that
+al-Rāzī plagiarized this whole theory from his teacher,
+Īrānshahrī. He is an obscure figure whose works are
+lost, though al-Bīrūnī (d. ca. 1050) does speak of him
+as an expert in astronomy and the diversity of religions. Another
+witness, Abū l-Maʿālī (fl. 1092), has
+Īrānshahrī claiming to have been a prophet who had
+received revelation from an angel, like the Prophet Muhammad did. He
+reports that for Īrānshahrī, all religions put forth a
+single teaching, an idea which might be thought to resonate with
+al-Rāzī’s own irenic, rationalist approach to
+revelation. If Naṣīr-e Khosraw is right to trace the Razian
+cosmology to this shadowy teacher, then perhaps we should think of
+al-Rāzī’s project as a creative fusion of
+Īrānshahri’s ideas and Plato’s.
+From the foregoing discussion of al-Rāzī’s theodicy it
+may seem obvious that his ethical teaching would focus on the goal of
+liberation from the body and its concerns. But as mentioned already,
+his Philosophical Way of Life defends a lifestyle of
+moderation, and distances itself from outright asceticism.
+Furthermore, in this text he says that bodily pleasure may licitly be
+sought so long as one does not transgress what he calls a “limit
+past which one may not go”. This limit dictates that we should
+partake of no pleasures
+that can be attained only by engaging in evildoing, murder, and in
+general anything that displeases God, when the judgment of intellect
+and justice is that it is unnecessary. All else is permitted.
+(al-Rāzī, RF: 106–7)
+On the other hand, in the Spiritual Medicine he seems to take
+a dim view of pleasures, and offers advice for resisting the allure of
+food, drink, sex, and luxury. One point made in both works is that it
+is a violation of reason to enjoy things that entail more pain than
+pleasure in the long run, like overeating. In the Spiritual
+Medicine al-Rāzī tells the story of how he chastized a
+man who gobbled down a plate of dates, warning him that it would lead
+to illnesses, and thus “many times more pain than the pleasure
+you have had” (al-Rāzī, RF: 71).
+Two interpretations have been offered to explain
+al-Rāzī’s position on pleasure. According to Lenn E.
+Goodman (1971, 1999, followed by Groff 2014), al-Rāzī was
+defending an Epicurean ethic in which pleasure should be maximized. On
+this account, his rationale for moderation is that it is the way to
+have the most pleasure: going too far with pleasures turns out to be
+more painful in the long run. This interpretation has been criticized
+by Adamson (2008a, 2021), on the grounds that it ignores
+al-Rāzī’s own theory of pleasure. According to this
+theory, which is clearly based on the Timaeus, pleasure can
+be had only as the result of a process of removing a harmful state.
+For example, drinking is pleasant because it eliminates thirst. On
+this account of pleasure, as Plato himself pointed out, hedonism is an
+attempt to win at a zero-sum game: you can only have pleasure to the
+extent that you have suffered pain, or at least harm. (Not all harm is
+felt as pain, just as not all restoration is felt as pleasure, because
+only fast changes are noticeable.) Furthermore, al-Rāzī says
+himself in the Doubts about Galen (DG: §7.7) that
+pleasure is not the good to be sought in itself, which is a
+direct rejection of the sort of hedonism adopted in Epicureanism.
+On this latter reading, much of al-Rāzī’s advice for
+readers focuses on helping non-philosophers work towards a moderate
+lifestyle, which will prepare them for the more serious and important
+undertaking of adopting a “philosophical way of life” that
+will ultimately lead to liberation from the body. Al-Rāzī
+himself seems to accept this distinction between
+“pre-philosophical” and “philosophical” ethics
+(Druart 1997, Adamson 2016), for example in the aforementioned passage
+about the glutton who loves dates. Al-Rāzī says he
+threatened the man with stomach aches and illness because
+this and other such remarks are of more benefit to someone who has not
+engaged in philosophical training than proofs built on philosophical
+principles.
+As for the truly philosophical life, it resides in the Platonic ideal
+of imitating God (Theaetetus 176b), realized through the
+pursuit of wisdom and justice towards all living things. In a
+remarkable passage of the Philosophical Way of Life,
+al-Rāzī stresses the importance of not mistreating beasts of
+burden and other non-rational animals (Adamson 2012). This would
+explain the “upper limit” placed on the pursuit of
+justice: that limit does not derive from the need to maximize pleasure
+and minimize pain, but from the injunction to avoid “displeasing
+God” by engaging in injustice.
+In more recent publications this interpretive dispute seems to be
+moving towards agreement. Goodman (2015) now concedes that
+al-Rāzī, unlike Epicurus, does not make pleasure the highest
+good and sole criterion in ethics. He does however adopt a therapeutic
+approach to ethics, which is characteristic of Epicureanism, as of
+course is the advice to avoid things that bring pain than pleasure all
+things considered. Adamson accepts this (2021: 6), but suggests that
+the resonances with Epicureanism may rather reflect a more general
+reception of Hellenistic ethics by al-Rāzī, again through
+the intermediary of Galen (see also Bar-Asher 1989).
+As yet, al-Rāzī’s extensive medical corpus has barely
+been explored with a view to its philosophical significance. An
+account of the human body and its primary organs in the Spiritual
+Life—here ascribed to Plato—echoes what he says on
+this topic in medical works (Adamson 2021: 57–58). His view,
+following both Galen and the Timaeus, is that humans have
+three general powers or faculties (quwan), the rational,
+animal or irascible, and vegetative or desiderative, associated
+respectively with the brain, heart, and liver. The rational soul is
+not really seated in the brain, as the other two faculties are seated
+in their organs; it uses the brain only as an instrument. In medical
+contexts al-Rāzī makes the same three organs to be the seats
+of these powers, albeit that the power in the brain is instead called
+“psychic (nafsānī)”, perhaps to
+acknowledge the fact that its powers of voluntary self-motion and
+sensation also belong to irrational animals.
+Al-Rāzī’s views on medical epistemology are also
+Galenic, and presuppose that the best doctor should understand the
+human body at a theoretical level while also drawing on a wealth of
+experience (Pormann 2008). This provides a methodological context for
+understanding the aforementioned Comprehensive Book, which as
+mentioned collects book-learning on medical theory, but uses
+al-Rāzī’s own empirical observations to confirm or
+disconfirm those theories.
+But the most rewarding medical text for philosophical readers is
+Doubts about Galen. Or rather, it should be said that this
+work deals with a range of philosophical, as well as medical, issues,
+including the relation between soul and body, vision, atomism, and
+pleasure (see the ample introduction by Koetschet in
+al-Rāzī, DG). Regarding the first of these issues,
+al-Rāzī criticizes Galen for suggesting that the soul is
+entirely dependent on bodily states or “temperament”, that
+is, the mixture of the body’s constituents. As in the
+Spiritual Medicine, he defends Plato’s idea that the
+rational part of the soul only uses the brain as an “instrument
+(āla)”, and that injury to the brain impedes
+rational function only in the way that damage to a flute would make it
+harder for the flute player to perform (al-Rāzī, DG:
+§21.4). When it comes to vision, al-Rāzī strikes a less
+Platonist note, since he rejects Galen’s
+“extramissionist” theory, which is in part inspired by
+Plato’s Timaeus. According to Galen, spirit
+(pneuma) is sent forth from the eyes and transforms air,
+making it into an instrument for contacting the visual object
+(Ierodiakonou 2014). Instead, al-Rāzī defends the view that
+incorporeal images are sent from the seen object and arrive at the eye
+(Koetschet 2017a).
+One of the more elaborate philosophical discussions in the Doubts
+about Galen comes early in the work, and is devoted to the
+eternity of the world (this section is translated in PWL).
+Al-Rāzī here takes issue with Galen’s suggestion that
+empirical observation shows that the world was not created after not
+existing. Galen’s idea, based on a passage in Aristotle (On
+the Heavens 1.3, 270b11–16), is that the universe seems to
+be unchanging in its general features. If it is unchanging then it is
+not liable to corruption, and what is incorruptible is also
+ungenerable. Thus the universe has always existed, and always will.
+Al-Rāzī has little difficulty poking holes in this argument:
+he points out that the universe could be unchanging for a long time,
+and then be destroyed all at once, like a glass being smashed or a
+building collapsing when previously solid ground under it gives way
+(al-Rāzī, DG: §2.3). Furthermore, the incorruptibility
+of the universe would not be guaranteed by its lacking a natural
+tendency to decay. One also needs to rule out that there is some
+external cause that could destroy it (al-Rāzī, DG:
+§2.5). As often in the Doubts, al-Rāzī is here
+not trying to show that Galen’s conclusion is wrong—though
+in this case, we know that he thinks it is wrong—but that the
+argument offered for the conclusion is not sufficient. Ironically,
+this seems to be in accord with Galen’s own original intention.
+Galen’s argument is taken from his On Demonstration and
+was actually offered as an example of a proof that is not
+demonstrative (Koetschet 2015). Al-Rāzī is either being
+remarkably contentious, or has lost sight of the context of the
+argument: he even accuses Galen of being inconsistent, as he elsewhere
+states that it cannot be proven whether or not the universe is
+eternal.
+If the five eternal theory was considered problematic by
+contemporaries and later authors, al-Rāzī’s views on
+religion were considered utterly outrageous and heretical. In his
+Proofs of Prophecy, Abū Ḥātim selectively
+quotes and paraphrases from a work by al-Rāzī on this topic,
+and presents him as having flatly denied the validity of prophetic
+revelation. Accepting this evidence as more or less reliable, some
+modern-day scholars have celebrated al-Rāzī as a
+“freethinker” comparable with such daringly unorthodox
+thinkers as Ibn al-Rāwandī (Urvoy 1996, Stroumsa 1999), or
+even as having had pagan sympathies (Vallat 2015a, 2015b, 2016).
+Against this, Fakhr al-Dīn al-Rāzī quotes our
+al-Rāzī as having offered interpretations of the
+Qurʾān, which were designed to show that this revelatory
+text and indeed the whole history of prophecy was in agreement with
+his own philosophy (this evidence is presented and discussed in Rashed
+2000, 2008). The bio-bibliographical tradition is also ambiguous in
+its evidence. For instance al-Bīrūnī, who clearly
+admired al-Rāzī, admits that he made foolish and obstinate
+remarks about religion and prophecy. But another broadly favorable
+witness, Ibn Abī Uṣaybiʿa, says that a supposed work
+attacking religion was perhaps written by “malicious enemies of
+al-Rāzī and ascribed to him” (for references, see
+Adamson 2021: 11).
+The most ample, if not necessarily trustworthy, evidence is found in
+Abū Ḥātim. He says that in face-to-face debate,
+al-Rāzī argued against prophecy on the grounds that it would
+be unjust to single out only some people for knowledge that is useful
+by everyone. Furthermore, appointing only a certain few as religious
+leaders (imāms) would lead to dissension between their
+followers (Abū Ḥātim, AHR: 1). Followers of religious
+law are guilty of the cardinal intellectual sin of the Islamic world,
+taqlīd, which means uncritically adopting beliefs on the
+basis of authority (AHR: 24). Instead, al-Rāzī argues, God
+gives reason (ʿaql) to everyone, and in this respect
+everyone is created equal, able to determine for themselves what goals
+they should be pursuing. Furthermore, Abū Ḥātim tells
+us about a range of more specific religious teachings rejected by
+al-Rāzī in his book against prophecy, such as
+anthropomorphic descriptions of God and the possibility of miracles,
+including the inimitability of the Qurʾān
+(iʿjāz).
+In several respects this teaching on prophecy fits well with what we
+know of al-Rāzī’s philosophy more generally. It
+invokes the idea that reason is given to the soul as a gift from God,
+something confirmed in other sources and suggested at the beginning of
+al-Rāzī’s Spiritual Medicine. Furthermore,
+Abū Ḥātim has al-Rāzī arguing that God would
+not send prophets because this is an unreasonable and overly difficult
+way to achieve His goals (Abū Ḥātim, AHR: 1;
+131–2). Why not just give everyone the ability to figure things
+out for themselves? This same premise that God only proceeds in the
+most rational way is also important in his theodicy as we know it from
+other sources, as seen above. Furthermore the critique of
+taqlīd, while admittedly commonplace, does sound like it
+could come from al-Rāzī: his irreverent approach to Galen
+bears witness to a similar independence of mind, albeit in a very
+different context.
+On the other hand, the evidence presented by Fakhr al-Dīn casts
+serious doubt on the notion that al-Rāzī was openly hostile
+to the Islamic revelation. And this is backed up by evidence internal
+to al-Rāzī’s own surviving works, for instance
+acknowledgment of the preeminent value of “books sent by
+God” in Doubts about Galen (al-Rāzī, DG:
+§2.1). At a minimum it seems clear that al-Rāzī was a
+forthright rationalist, who believed that the truth of a revelatory
+text would necessarily accord with the truth discoverable by human
+reason. But that position would not be so remarkable: it is shared
+from other philosophers of the Islamic world, from al-Kindī to
+al-Fārābī to Ibn Rushd. The question is whether
+al-Rāzī went further and insisted that revelation is
+useless, or even counterproductive, as claimed by Abū
+Ḥātim.
+Recent material brought to light by Philippe Vallat (2015a, 2015b,
+2016) could confirm this interpretation. It would show that
+al-Rāzī said in debate with a theologian named Abū
+Qāsim al-Balkhī, also called al-Kaʿbī, that
+“prophets are unnecessary, because we have reason which
+suffices, assuming that prophecy is in accordance with reason”
+(on al-Kaʿbī in general see El Omari 2016; and on their
+debate Rashed 2000, Shihadeh 2006: 103). It has however been argued
+that Vallat’s new evidence cannot convincingly be linked to the
+debate between al-Kaʿbī and al-Rāzī, who is never
+named in these texts (Adamson 2021: 148–151). A different
+approach would be to read Abū Ḥātim as having
+distorted al-Rāzī’s position, which may have been a
+more targeted attack on schismatic and controversialist groups
+including the Ismāʿīlī branch of Islam to which
+Abū Ḥātim belonged. Ismāʿīlism is
+characterized by its insistence on the need for a religious leader or
+imām to guide the faithful to a true understanding of
+Islam. It may have been this doctrine, and not prophecy more
+generally, that al-Rāzī attacked, as a signal example of the
+dangers of taqlīd (Mohaghegh 1970: 160–1; Adamson
+2021: 147).
+Whatever the case, there is no doubt that the
+Ismāʿīlīs were especially hostile to
+al-Rāzī. Alongside Abū Ḥātim
+al-Rāzī and the aforementioned Naṣīr-e Khosraw,
+who was also an Ismāʿīlī, one may mention another
+representative of this group named Ḥamīd al-Dīn
+al-Kirmānī (d. after 1020), who attacked
+al-Rāzī’s ethical teachings (Ḥamīd
+al-Dīn al-Kirmānī, see
+ HDK
+ in bibliography). This is not to say that only
+Ismāʿīlī authors are critical of
+al-Rāzī, though. Another opponent, who polemicizes against
+al-Rāzī’s cosmology and apparent belief in the
+possibility of transmigration (al-Rāzī, RF: 174), is the
+Andalusian jurist and philosopher Ibn Ḥazm. Also in the Western
+Islamic world, Maimonides includes a diatribe against the Razian
+theodicy in his Guide for the Perplexed (GP: §3.12).
+Though Ibn Ḥazm associates other thinkers with
+al-Rāzī’s teachings (al-Rāzī, RF: 170 and
+174) it does not seem that his daring ideas gained much traction among
+later philosophers. Perhaps the most productive engagement with the
+five eternal theory is found in Fakhr al-Dīn al-Rāzī.
+He gives a fair hearing to al-Rāzī’s account of place
+and time, and adopts a similar view on the question of time in
+particular (Adamson and Lammer 2020).
+In his primary vocation of medicine, too, al-Rāzī had his
+critics, including Ibn Sīnā, his only rival for the title of
+most influential figure in the Islamic medical tradition. In an
+epistolary exchange with al-Bīrūnī, Ibn Sīnā
+says that al-Rāzī overreached his competence in both
+philosophy and medicine (“he exceeded his abilities when lancing
+abscesses and examining urine and feces”, quoted at
+al-Rāzī, RF: 290). Al-Rāzī’s project in
+Doubts was also deemed presumptuous by later medical writers,
+who composed refutations of the work. Nonetheless,
+al-Rāzī’s works were widely consulted by doctors in
+the Islamic world, and he had a wide diffusion in the Latin speaking
+world under the name “Rhazes”. This began in the medieval
+period and persisted through the Renaissance, with sixty-seven printed
+editions of his works before 1700 (Hasse 2016: 8). No less an
+authority than Vesalius edited an older translation of
+al-Rāzī’s Book for al-Manṣūr, and
+al-Rāzī’s medical writings were on the teaching
+syllabus at Bologna, the most important university in Europe for
+medical training (Siriasi 1990: 131 and 178). The independent-minded
+Girolamo Cardano, who in personality and diversity of interests was in
+some ways the heir of Galen and al-Rāzī, praised the latter
+as one of several doctors from the Islamic world who had improved upon
+Galenic medicine through empirical observation (experimentum)
+(Siriasi 1997: 60). More recently, al-Rāzī has been praised
+for his innovative approach and for breakthroughs in the history of
+medicine, for example by investigating differential diagnosis
+(Iskandar 1962) and using a control group to test the efficacy of a
+drug (Pormann 2008). Thus al-Rāzī the doctor has had a more
+illustrious posthumous career than al-Rāzī the
+philosopher.

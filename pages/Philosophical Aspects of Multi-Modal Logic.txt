@@ -1,0 +1,1839 @@
+Modal logics are particularly well suited to study a wide range of
+philosophical concepts, including rational beliefs, obligations,
+knowledge, intentions, desires, evidence and preferences, among many
+others. Such an analysis provides us with the key insights of the
+basic building blocks and principles that regulate different
+behaviors, which is important in a wide range of academic disciplines
+including Artificial Intelligence, Psychology, Social Science and even
+Physics. The concepts we look at have specific context-dependent
+features, which indicates that they can be best studied using models
+that can express different modes of truth (e.g., both global and local
+truth). But as Scott’s (1970) quote above suggests, there is
+something missing when such philosophical concepts are studied in
+isolation. A big part of what defines a concept lies in the way it
+interacts with others. For instance, rational beliefs are
+expected to rely on proper arguments, justifications
+or evidence; disjunctions may not behave as they do
+in natural language in the context of obligations;
+knowledge is better understood when looking for the
+actions that modify it; intentions may be understood
+as derived from desires and beliefs. What is
+required for this study are logical systems with more than one modal
+operator, commonly known as multi-modal logics, describing not only
+the isolated properties of the individual concepts, but also the way
+they relate to one another. Indeed, multi-modal logics have been
+designed for a wide range of applications, including reasoning about
+time, space, knowledge, beliefs, intentions, desires, obligations,
+actions such as public and private communication, observations,
+measurements, moves in a game and others.
+The present text intends to give a brief (but broad) overview of the
+interaction between many different philosophical concepts, and to show
+how the use of multi-modal logical systems can shed some light on
+these concepts’ interaction. We start in
+ section 2
+ (Defining concepts in terms of others) by discussing basic
+scenarios that, starting from existing systems, use a combination of
+‘syntactic’ and ‘semantic’ strategies for
+defining further concepts. These cases are based on the idea that some
+notions can be defined in terms of others, with the famous
+understanding of knowledge as justified true belief being one of the
+most notable examples. An alternative to this idea is to consider that
+the involved concepts emerge independently, but are still somehow
+related, as the case of the relationship between knowledge and time.
+From a formal perspective, this amounts to looking at the different
+modes in which two (or more) existing systems can be combined.
+ Section 3
+ on General strategies for combining modal systems presents
+an overview of some of the most relevant strategies. After this
+slightly technical excursion, the discussion takes a philosophical
+perspective, describing first combinations of multiple modalities
+ (section 4
+ on Significant interactions between modalities), and
+finishing with examples of cases where the interaction between
+modalities sheds light on philosophical issues
+ (section 5
+ on Multi-modal systems in philosophical discussions).
+A note on notation and the level of
+technicality To discuss aspects of multi-modal logic, this
+entry assumes basic knowledge of
+ modal logic,
+ specifically about its language and its relational
+ ‘possible worlds’
+ semantics (though other semantic models will be mentioned too). In
+particular, a relational model is understood as a tuple containing a
+set of possible worlds, one or more (typically binary) relations
+between them, and a valuation indicating what each possible
+world actually represents. Such structures can be described by
+different modal languages. We will use \(\cL\) to denote the standard
+propositional language, and \(\cL_{\left\{ O_1, \ldots, O_n
+\right\}}\) to denote its extension with modalities \(O_1\), …,
+\(O_n\). Given a relational model M and a formula \(\varphi\),
+we will use \(\llbracket \varphi \rrbracket^{M}\) to denote the set of
+worlds in M where \(\varphi\) holds. Readers can find more
+details about the basics of modal logic not only in the referred SEP
+entries, but also in the initial chapters of Blackburn, Rijke, &
+Venema (2001) and van Benthem (2010), and also in Blackburn & van
+Benthem (2006).
+Still, the goal of this text is not to provide a comprehensive study
+of the topic, but rather to highlight the most interesting and
+intriguing aspects. Thus, although some level of formal discussion
+will be used, most technical details will be restricted to the
+ appendix.
+In order to use systems with multiple modalities, the question is how
+to build such settings. One of the most important points is to decide
+whether one of the concepts to be studied is ‘more
+fundamental’ than the other, in the sense that the latter can be
+defined in terms of the former. As mentioned, the famous understanding
+of knowledge as justified true belief is one of the most notable
+examples. Others are equally relevant, as a definition of beliefs in
+terms of the available arguments/evidence/justifications, or a
+definition of epistemic notions for a group in terms of the epistemic
+notions of its members. Yet, the basic alethic modal logic of
+necessity and possibility already provides a paradigmatic example of
+how to define the relationship between two concepts.
+The basic alethic modal logic contains both a possibility
+\((\Diamond)\) and a necessity \((\Box)\) modality. Most
+formal presentations of this system take one of these modalities as
+the primitive syntactic operator (say, \(\Diamond)\), and then define
+the other as its modal dual \((\oBox\varphi := \lnot
+\oDiamond \lnot \varphi)\). This is a seemingly harmless
+syntactic interdefinability, and comes from the fact that
+\(\Diamond\) and \(\Box\) are semantically interpreted in terms of the
+existential and universal
+ quantifiers,
+ respectively. It is, in some sense, similar to
+the interdefinability of Boolean operators in classic propositional
+logic. Nevertheless, it already reflects important underlying
+assumptions. From a classic point of view, something is
+necessary if and only if it is not the case that its negation is
+possible \((\oBox\varphi \leftrightarrow \lnot \oDiamond \lnot
+\varphi)\), and something is possible if and only if it is not the
+case that its negation is necessary \((\oDiamond \varphi
+\leftrightarrow \lnot \oBox\lnot \varphi)\). However, this may not be
+the case in all settings. For example, while \(\oDiamond \varphi
+\rightarrow \lnot \Box \lnot\varphi\) is
+ intuitionistically acceptable
+ (the existence of a possibility where \(\varphi\) holds implies that
+not every possibility makes \(\varphi\) false), its converse \(\lnot
+\oBox \lnot\varphi \rightarrow \oDiamond \varphi\)
+ is not
+ (the fact that not every possibility makes \(\varphi\) false is not
+enough to guarantee the existence of a possibility where
+\(\varphi\) is true). Thus, one should always be careful when defining
+a modality in terms of another.
+Where the above examples started from a uni-modal logic, we provide
+now an example in which we start from a homogeneous multi-modal logic.
+Our setting is a logic consisting of a number of basic modalities of
+the same type, all being semantically interpreted via the same type of
+relation. Our example is the basic multi-agent epistemic
+logic. This setting is already multi-modal, as its language
+\(\cL_{\left\{ \oK{1}, \ldots,\oK{n} \right\}}\) has a knowledge
+modality \(K_i\) for each agent \(i \in \ttA\). (In fact, this basic
+multi-agent epistemic logic is the fusion
+ (section 3.1)
+ of several single-agent epistemic logic systems, one for each agent
+\(i \in \ttA\).) Still, when the set of agents is finite (say,
+\(\left| \ttA\right| = n)\), one can define a brand new modality for
+the group epistemic notion of everybody knows:
+In a similar way we can define a modality for everybody
+believes in the logic with language \(\cL_{\left\{ \oB{1},
+\ldots, \oB{n} \right\}}\) as
+These definitions assume that the knowledge/beliefs of a group of
+agents corresponds to the conjunction of the agent’s individual
+knowledge/beliefs. However, in the context of
+ social epistemology,
+ the reduction of group attitudes to the mere sum of those of the
+individuals is contentious, especially when one focuses on group
+ beliefs.[1]
+Another example of the interdefinability of modal concepts deals with
+the relationship between knowledge and belief. In
+ epistemology,
+ researchers are searching for the correct characterization of
+knowledge, and a common trend has been to view knowledge as a form of
+ justified true belief
+ (an idea that can be traced back to Plato’s dialogue
+Theaetetus). Gettier’s
+ famous counterexamples
+ showed that such a simple characterization of knowledge is not
+sufficient: a further condition is required, such as safety,
+sensitivity, robustness or stability. In spite of this, a
+characterization of knowledge as justified true belief is an important
+first step. Classic
+ epistemic logic
+ does not explicitly deal with the notion of
+ justification,[2]
+ so a starting point is a simpler understanding of knowledge as true
+belief.
+One can take a doxastic relational model with its relation
+\(R_B\) being serial, transitive and Euclidean (a KD45
+setting), and use a modality B semantically interpreted with
+respect to \(R_B\) in the standard way. In this setting, two options
+arise. The first one is syntactic, as in the examples that
+have been discussed so far, and consists in defining a modality for
+knowledge as ‘true belief’: \(K'\varphi := B\varphi
+\land \varphi\). The second is semantic, and consists in
+defining an epistemic equivalence relation \(R_K\) as the reflexive
+and symmetric closure of the doxastic relation, then using it in the
+standard way to give the semantic interpretation of a modality
+K.
+It should be noted that the two approaches are not equivalent.
+Consider the following doxastic model (from Halpern, Samet, &
+Segev 2009a), with the serial, transitive and Euclidean
+doxastic relation \(R_B\) represented by dashed arrows, and
+its derived reflexive, transitive and symmetric (i.e., equivalence)
+epistemic relation \(R_K\) represented by solid ones.
+Figure 1 [An
+ extended description of figure 1
+ is in the supplement.]
+Note how the agent believes p on every world in the model,
+\(\llbracket \oB{}p \rrbracket^{M} = \left\{ {w_1, w_2, w_3}
+\right\}\); then, as the syntactic approach states that
+\({K'\varphi}\) holds in those worlds in which \(B\varphi \land
+\varphi\) is the case, we have
+However, according to the semantic approach, \(K\varphi\) holds in
+those worlds from which all epistemically accessible situations
+satisfy \(\varphi\), so \(\llbracket K p \rrbracket^{M} = \left\{ w_1
+\right\}\). Thus, \({K'}\) and K are not equivalent. One of
+the reasons for this mismatch is that the two options do not enforce
+the same properties on the derived notion of knowledge. For example,
+while the semantic approach enforces negative introspection (by making
+\(R_K\) an equivalence relation), the syntactic one does not. In fact,
+this property fails at \(w_3\), as \(\lnot {K'p}\) is true \(({B
+p} \land p\) fails, as p fails) but still
+\(K'\lnot{K'p}\) (unfolded as \({B (\lnot {B p} \lor \lnot p)}
+\land (\lnot B p \lor \lnot p))\) is
+ false.[3]
+Section 4.1
+ comes back on the relationship between these two concepts, recalling
+alternative multi-modal accounts that relate knowledge and belief
+while doing justice to the involved epistemological subtleties.
+The second option in the previous case is, as described, semantic: it
+takes the semantic counterpart of an existing modality(ies), and then
+extracts from it (them) a further semantic component in terms of which
+a new modality can be defined. Here are two further examples of this
+strategy.
+Consider again the basic multi-agent epistemic logic with language
+\(\cL_{\left\{ \oK{1}, \ldots, \oK{n} \right\}}\). As mentioned above,
+this setting is multi-modal, as its language contains, for each agent
+\(i \in \ttA\), a knowledge modality \(K_i\) that is semantically
+interpreted in the standard way with respect to a matching epistemic
+relation \(R_i\). While a modality for the concept of everybody
+knows (E) is syntactically definable (provided the set of
+agents is finite), other group epistemic notions, such as distributed
+knowledge and common knowledge are
+ not.[4]
+Consider first the notion of distributed knowledge,
+understood as describing what the agents would know if they shared all
+their information. From this intuitive definition, it is clear that
+this concept can be defined semantically in terms of the agent’s
+individual epistemic relations. More precisely, a relation describing
+the distributed knowledge modality should correspond to the
+intersection of the individual epistemic relations, \(R_D :=
+\bigcap_{i \in \ttA} R_i\). Thus, given an evaluation point w,
+a world u will be considered possible after the agents share
+all they know if and only if all of them considered it possible before
+the communication (or, in other words, u will be considered
+possible if and only if no one can discard it). One simply
+extends the language with a modality D, semantically
+interpreted with respect to this new relation:
+Another important notion, crucial in the study of social interaction,
+is
+ common knowledge.
+ This concept can be described as what everybody knows, everybody
+knows that everybody knows, everybody knows that everybody knows that
+everybody knows, and so on. Just as with distributed knowledge, this
+notion does not require the addition of further semantic components:
+the individual epistemic indistinguishability relations already
+provide everything that is needed to make the definition explicit. If
+one defines an epistemic relation for the “everybody
+knows” modality in the natural way \((R_E := \bigcup_{i \in
+\ttA} R_i)\), and then define \(R_C\) as the transitive closure of
+\(R_E\),
+one can simply extend the language with a modality C,
+semantically interpreted in terms of \(R_C\):
+At world w a formula \(\varphi\) is commonly known among the
+agents if and only if \(\varphi\) is the case in every world
+(the “for all” in C’s semantic
+interpretation) that can be reached by any finite non-zero
+sequence of transitions in \(R_E\) (the fact that \(R_C\) is the
+transitive closure of \(R_E)\). In other words, \(\varphi\) is
+commonly known among the agents if and only if everybody knows
+\(\varphi\) (any sequence of length 1), everybody knows that everybody
+knows \(\varphi\) (any sequence of length 2), and so
+ on.[5]
+There are more elaborated examples of frameworks extending a given
+setting with modalities that ‘extract’ further information
+from the semantic model. One of them is evidence logic,
+introduced in van Benthem & Pacuit (2011), and further developed
+in van Benthem, Fernández-Duque, & Pacuit (2014) and
+Baltag, Bezhanishvili, et al. (2016). It follows the idea of
+representing the evidence the agent has collected, and looks at how
+this evidence gives support to further epistemic notions (e.g.,
+knowledge and beliefs).  The semantics is given by a basic
+neighborhood model (Montague 1970; Scott 1970): a tuple of the form
+\(M = {\langle W, N, V \rangle}\) where W and V are a
+non-empty set of possible worlds and an atomic valuation, respectively
+(as in standard relational models), and \(N:W \to {\wp(\wp(W))}\) is a
+neighborhood function assigning, to every possible world, a set of
+sets of possible worlds (so \(N(w) \subseteq {\wp(W)}\) is
+w’s neighborhood). In evidence logic, the
+neighborhood function is assumed to be constant (i.e., \(N(w) = N(u)\)
+for any \(w,u \in W)\), and thus the model can be simply understood as
+a tuple \({\langle W, E, V \rangle}\), with \(E \subseteq {\wp(W)}\)
+the (constant) neighborhood. This neighborhood, intuitively containing
+the basic pieces of evidence the agent has collected, is required to
+satisfy two additional properties: evidence per se is never
+contradictory \((\emptyset \not\in E)\), and the agent knows her
+‘space’ \((W \in E)\).
+Syntactically, a neighborhood model can be described by a modal
+language \(\cL_{\left\{ \oBox \right\}}\), as is typically done in
+standard neighborhood models. There are at least two possibilities for
+the semantic interpretation of the \({\oBox}\) modality (Areces &
+Figueira 2009), and the one chosen in evidence logic is the
+following:
+Thus, in this setting, \({\oBox\varphi}\) expresses that “the agent has evidence
+supporting \(\varphi\)”.
+What is the epistemic state of the agent that such a model entails? In
+other words, given such a model, how can we define epistemic notions
+such as knowledge and belief?
+In the case of knowledge, one can follow the traditional single-agent
+idea: all worlds in the model play a role in the agent’s
+epistemic state, and thus one can say that the agent knows a
+given formula \(\varphi\) if and only if \(\varphi\) is true in every
+world of the model. For this, evidence logic uses a global
+modality A:
+In the case of beliefs, there are more alternatives. A straightforward
+idea says that the agent believes \(\varphi\) if and only if she has
+evidence supporting \(\varphi\) (a syntactic definition of the form
+\(B\varphi := \oBox\varphi)\). However, this would allow the agent to
+have contradictory beliefs, as two pieces of evidence might contradict
+themselves (there may be \(X, Y \in E\) such that \(X \cap Y =
+\emptyset\), and thus \(Bp \land B{\lnot p}\) could be satisfiable).
+More importantly, this would be a ‘lazy’ approach, as the
+agent would be able to collect evidence (thus defining E), but
+nevertheless she would not be doing any ‘reasoning’ with
+it.
+A more interesting idea is to define (semantically) a notion of belief
+in terms of combinations of pieces of evidence. In van
+Benthem and Pacuit (2011), the authors propose (roughly speaking) that
+beliefs should be given by the maximal consistent ways in
+which evidence can be combined, stating that the agent believes
+\(\varphi\) if and only if all maximally consistent
+combination of pieces of evidence support \(\varphi\). More
+precisely,
+Given these definitions, it is clear that knowledge implies both
+belief and evidence (i.e., both \(A\varphi \rightarrow B\varphi\) and
+\(A\varphi \rightarrow \oBox\varphi\) are valid). Still, it is
+interesting to note not only that the agent might believe a given
+\(\varphi\) without having a basic piece of evidence supporting it
+\((B \varphi \rightarrow \oBox\varphi\) is NOT valid, as
+beliefs are defined in terms of combined pieces of evidence),
+but also that she might have a basic piece of evidence supporting
+\(\varphi\) without believing \(\varphi\) \((\oBox\varphi \rightarrow
+B\varphi\) is NOT valid, as the basic evidence supporting
+\(\varphi\) not be part of all maximally consistent combinations).
+In this setting, at least when E is finite (and in many other
+cases), beliefs are consistent (i.e., \(\neg B \bot)\); still, the
+setting also allows ‘bad’ models in which beliefs can turn
+out to be inconsistent. In Baltag, Bezhanishvili, et al. (2016), the
+authors provide an example of such a model, and then solve the problem
+by extending the setting to a topological approach. Indeed, the
+authors use the topology generated by E, which
+intuitively describes the different ways in which the available pieces
+of evidence can be
+ combined.[6]
+ This is reasonable as, while E can be understood as containing
+the pieces of evidence the agent has received from external sources
+(observations, communication), the topology \(\tau_{E}\) can be
+understood as the different ways in which she can
+‘extract’ further information from them (i.e., the result
+of her own reasoning processes). Given the topology, it is possible to
+define (semantically) further epistemic notions, such as arguments,
+justifications, consistent beliefs, consistent conditional beliefs,
+and different forms of knowledge. For more on this, we refer to
+Baltag, Bezhanishvili, et al. (2016: Section 2).
+As we have seen, a new modality can be introduced in syntactic terms
+(using the language to provide a formula defining the new concept),
+but also in a semantic way (using the semantic counterparts of the
+existing modalities to define a further semantic notion, which in turn
+is used to interpret the new modality). Our examples so far have been
+restricted to the use of one of these two strategies, but their
+interplay is also possible. The case to be discussed here concerns the
+ plausibility models
+ of Board (2004); Baltag and Smets (2006, 2008); van Benthem (2007);
+here, the presentation of Baltag and Smets (2008) is used.
+A plausibility model is a relational model \(M = {\langle W, \leq, V
+\rangle}\) in which the binary relation \(\leq\) is interpreted as
+describing the plausibility ordering the agent assigns to her
+epistemic possibilities \((w \leq u\) indicates that, for the agent,
+world w is at least as plausible as world u). In the
+single-agent case, the plausibility relation \(\leq\) is
+required to be a well-preorder: a total relation which is
+both reflexive and transitive, and such that every non-empty subset of the
+domain has \(\leq\)-minimal elements. These minimal elements in W are
+then understood as the agent’s most plausible worlds.
+We see below that what is true in all the most plausible worlds
+characterizes what an agent believes.
+To start, take a modality \([\leq]\) semantically interpreted via the
+plausibility relation \(\leq\),
+This modality has the properties of an S4 modal operator; hence, it is
+factive, positively introspective but not negatively introspective. In
+Baltag and Smets (2008), it is argued that this modality is well
+suited to express a version of Lehrer’s indefeasible
+(“weak”, non-negatively-introspective) type of
+knowledge (Lehrer 1990; Lehrer & Paxson 1969), and the
+authors explain how it can be understood as belief that is persistent
+under revision with any true piece of information. Using this
+modality (also read as safe belief in Baltag & Smets
+2008), it is possible to define syntactically a notion of simple
+belief as truth in the most plausible worlds: 
+As simple as a plausibility model is, it is powerful enough to encode
+a wide range of different epistemic concepts, all of which can be
+brought to light by the proper semantic definitions. First, we define
+a relation of epistemic possibility (or indistinguishability)
+\(\sim\) by taking it to be the universal relation,
+thus understanding that two worlds are epistemically indistinguishable
+if and only if they can be compared via
+ \(\leq\).[7]
+ Then, a notion of S5-knowledge can be expressed by introducing a
+modality K semantically interpreted via \(\sim\):
+With this new modality K it is possible to define,
+syntactically, the finer notion of conditional belief
+\(B^{\psi}\), intuitively describing what the agent would have
+believed was true had she learnt that a certain condition \(\psi\) is
+the case. Indeed,
+for \({\hK}\) the modal dual of K (i.e., \(\hK\psi := \lnot
+K\lnot \psi)\). This extended language \(\cL_{\left\{ [{\leq}], K
+\right\}}\) can also express a notion of strong belief, \(Sb
+\varphi\), semantically understood as true whenever all
+\(\varphi\)-worlds are strictly more plausible than all
+\(\lnot\varphi\)-worlds, and syntactically defined as 
+Finally, note how a plausibility relation defines, semantically,
+layers or spheres of equally-plausible worlds, with the spheres
+themselves ordered according to their plausibility so that every
+strong belief characterizes one of the spheres. This will turn every
+plausibility model into a sphere model (Grove 1988; Spohn 1988),
+making it perfectly fit to model
+ belief revision.
+ Still, even though in \(\cL_{\left\{ [{\leq}], K \right\}}\) there
+are formulas expressing that \(\varphi\) holds in the most
+plausible sphere (the mentioned \(B\varphi\), given by
+\(\langle{\leq}\rangle[{\leq}]\varphi)\), no formula can express,
+e.g., that \(\varphi\) holds in the next to most plausible
+worlds. One way to fix this ‘problem’ is to define (now
+semantically) the strict plausibility relation \({<} :=
+{\leq} \cup {\not\geq}\) (with \(\geq\) the converse of
+\(\leq\), defined in the standard way, \({\geq} := \left\{ (u,w) \in W
+\times W \mid w \leq u \right\})\), and then introduce a standard
+modality for it:
+With this new modality, one can provide syntactic definitions for the
+concepts described above. Indeed, while the formula \(\lambda_0 :=
+[<]\bot\) characterizes the most plausible worlds (so \(K
+(\lambda_0 \rightarrow\varphi)\) expresses that the most plausible
+worlds satisfy \(\varphi\), just as \(B\varphi\) does), the formula
+\(\lambda_1 := \lnot \lambda_0 \land [<]\lambda_0\) characterizes
+the next to most plausible worlds (so \(K(\lambda_1
+\rightarrow\varphi)\) expresses that the next to most plausible worlds
+satisfy \(\varphi)\). This procedure can be repeated, producing
+formulas \(\lambda_i\) characterizing each layer, and thus it is
+possible to deal syntactically with a qualitative degree of
+beliefs (Grove 1988; Spohn 1988), looking for what holds
+‘from some level up’ (see also Velázquez-Quesada
+2017).
+This new modality \([<]\) allows us to define even more
+epistemic notions. For example, a formula \(\varphi\) is weakly
+safely believed (a belief which might be lost but is never
+reversed when revising with true information) if and only if \(\varphi
+\land [{<}] \varphi\) holds. More details can be found in Baltag
+and Smets (2008: Subsection 2.4).
+Just as some multi-modal systems are created by extending existing
+ones, some others are born with multiple modalities in mind. Among
+them,
+ propositional dynamic logic
+ (Harel, Kozen, & Tiuryn 2000) and Boolean modal logic
+(Gargov & Passy 1990; Gargov, Passy, & Tinchev 1987) deserve a
+special mention. The reason is that they both define, within the
+language, operators for building new modalities from a collection of
+basic ones. As a consequence, both systems contain an
+infinite number of modalities.
+Following earlier approaches to reason about programs in Engeler
+(1967) and Hoare (1969), Propositional dynamic logic (PDL), the logic of
+programs (Harel, Kozen, & Tiuryn 2000), intends to describe what
+programs can achieve. Semantically, programs are interpreted in
+standard relational models, with one binary relation \(R_a\) for every
+basic program a; syntactically, the language contains
+a modality \([a]\) for each such a.
+So far, PDL is technically similar to a multi-agent epistemic
+logic (the difference being, besides the symbols used for the
+modalities, the fact that there are no restrictions on the relations
+for the basic
+ programs).[8]
+ The crucial insight is, however, that basic programs can be
+composed in order to create more complex ones: one can think
+of executing one program after another, or repeating some of them a
+number of times. Thus, these basic modalities are not enough. For
+this, a new syntactic entity is created: besides formulas, the
+language of PDL contains a set of basic programs
+together with program constructors representing those for
+regular expressions (Kleene 1956). Formally, formulas
+\(\varphi\) and programs \(\alpha\) of the
+PDL-language \(\cL_{\textit{PDL}}\) are defined
+simultaneously via mutual recursion as
+with p an atomic proposition coming from a given set, and
+a a basic program coming from a given set. For formulas, the
+intended reading of the Boolean operators is standard, and formulas of
+the form \([\alpha]\varphi\) express that “every execution
+of program \(\alpha\) from the current state leads to a state
+satisfying \(\varphi\)”. For programs, while the basic
+programs simply represent themselves, “\(\varphi \qbin\)”
+is a program that ‘does nothing’ when \(\varphi\) is the
+case but ‘fails’ otherwise (essentially, a test
+for \(\varphi)\), “\(\alpha \scbin \beta\)” represents the
+program that results from executing \(\alpha\) and then executing
+\(\beta\) (their sequential composition), “\(\alpha
+\bcup \beta\)” represents the program that results from
+executing either \(\alpha\) or else \(\beta\) (their
+non-deterministic choice), and
+“\({\alpha^{\ast}}\)” represents the program that results
+from repeating \(\alpha\) a finite number of times \((\alpha\)’s
+iteration).
+With these program constructors it is possible to build more complex
+programs. Famous examples are
+Then, it is possible to build formulas as \(p \rightarrow [(q \qbin
+\scbin a) \bcup (\lnot q \qbin \scbin b)]r\) (“if p
+holds, then r will be achieved by choosing between actions
+a and b according to whether q holds”)
+and \(\lnot p \rightarrow \langle a \scbin (\lnot q \qbin \scbin
+a)^{\ast} \scbin q \qbin \rangle p\) (“if the desired
+requirement p is not true yet, it is possible to achieve it by
+a repeated execution of a”).
+For the semantic interpretation, a relation \(R_\alpha\) is required
+for each program \(\alpha\). However, while the relations \(R_a\) for
+basic programs are arbitrary, those for complex programs should behave
+according to their intended meaning. The simplest way to obtain this
+is to take the relations for the basic programs, and then
+define those for complex programs in an inductive way. This
+and further details about PDL can be found in Troquard and
+Balbiani (2019:
+ [Section 2).
+The Boolean modal logic of Gargov and Passy 1990 and Gargov,
+Passy, and Tinchev 1987) follows a similar strategy. The difference is
+that, while PDL focuses on constructors for regular
+expressions (sequential composition, non-deterministic choice, finite
+iteration), Boolean modal logic focuses on constructors for the
+Boolean algebra over relations: complement \((\bdash)\), union
+\((\bcup)\) and intersection \((\bcap)\), together with a
+‘global’ constant \((\boldsymbol{1})\). More
+precisely,
+The semantic interpretation follows the same steps as in PDL:
+relations \(R_a\) for the basic modalities a are assumed, and
+relations for complex ones are defined in the expected way (with
+\({\boldsymbol{1}}\) being interpreted with respect to the global
+relation \(W \times W)\).
+Interestingly, by combining the negation over formulas and the Boolean
+complement over relations, it is possible to define the following
+operator (often called window (see Goldblatt 1974; van
+Benthem 1979; Gargov, Passy, & Tinchev 1987):
+Window is an extremely natural operator that complements the standard
+universal modality. Indeed, while formulas of the form
+\([\alpha]\varphi\) express that all executions of \(\alpha\)
+reach a \(\varphi\)-state,
+formulas of the form \(\oubracket{.7em}{\alpha}\varphi\) express that
+all \(\varphi\)-states are reachable by an execution of
+\(\alpha\):
+Not only that: window allows a smooth interaction between the
+constructors \(\bcup\) and \(\bcap\). As discussed in Blackburn,
+Rijke, and Venema (2001: 427), 
+[i]n a sense, the relations are divided into two kingdoms: the
+ordinary \([\alpha]\) modalities govern relations built with
+\(\bcup\), the window modalities \(\oubracket{.7em}{\alpha}\) govern
+the relations built with \(\bcap\), and the \(\bdash\) constructor
+acts as a bridge between the two realms:
+Of course, many other program constructors can be used. Among them,
+one worthy of mention is that for the
+ converse
+ of a given relation. Modalities for the converse of a relation have
+been used in, e.g.,
+ tense logic,
+ with the ‘past’ modalities (H and P, the universal and existential versions, respectively) interpreted semantically in terms of the converse of the relation used for interpreting the ‘future’ modalities (G and F, respectively).
+The case of dynamic epistemic logic, the study of modal
+logics of model change, is of particular interest. In these systems,
+the relationship between their modalities is special. Here we will
+only recall the basic notions, referring the reader to the
+ SEP entry
+ by Baltag and Renne (2016) for an in-depth discussion
+In a nutshell, a dynamic epistemic logic (DEL)
+framework has two components. The ‘static’ part consists
+of a ‘standard’ modal system: a language including one or
+more modalities for the one or more concepts under study, together
+with the semantic model on which the formulas are interpreted. The
+‘dynamic’ part consists of modalities expressing different
+ways in which the studied concept(s) might change, with the crucial
+insight being that these modalities are semantically interpreted not
+on the given model, but rather on one that results from
+transforming the given one in an appropriate way.
+The discussion here will focus on the paradigmatic DEL case,
+ public announcement logic
+ (PAL), which studies the interaction of knowledge and public
+ communication.[9]
+ Syntactically, its language extends the basic epistemic language
+\(\cL_{\left\{ K \right\}}\) with a modality \([\chi{!}]\) (for
+\(\chi\) a formula of the language), thanks to which it is possible to
+build formulas of the form \([\chi{!}]\varphi\): “after
+\(\chi\) is publicly announced, \(\varphi\) will be the
+case”. Within this new language \(\cL_{\left\{ K, {!}
+\right\}}\) it is possible to build formulas describing the
+knowledge the agent will have after a public communication
+action; one example is \([(p \land q){!}] Kq\), expressing that
+“after \(p \land q\) is publicly announced, the agent will
+know q”. For the semantic interpretation, the public
+announcement of any given \(\chi\) is taken to be completely
+trustworthy; thus, the agent reacts to it by eliminating all
+\(\lnot\chi\) possibilities from consideration. More precisely, given
+a model \(M = {\langle W, R, V \rangle}\) and a formula \(\chi \in
+\cL_{\left\{ K, {!} \right\}}\), the model \(M_{\chi{!}} = \langle
+W_{\chi{!}}, R_{\chi{!}}, V_{\chi{!}} \rangle\) is defined as
+Note how, while \(W_{\chi{!}}\) is the set of worlds of the original model
+where \(\chi\) holds, \(R_{\chi{!}}\) is the restriction of the
+original epistemic relation to the new domain, and so is the new
+valuation function \(V_{\chi{!}}\). Then,
+Thus, \(\varphi\) is the case after \(\chi\) is publicly announced at
+w in M (in symbols, \((M, w) \Vdash [\chi{!}]\varphi)\)
+if and only if \(\varphi\) is true at w in the situation that
+results from \(\chi\)’s announcement (in symbols,
+\((M_{\chi{!}}, w) \Vdash \varphi)\) whenever \(\chi\) can actually be
+announced (in symbols, \((M, w) \Vdash
+ \chi)\).[10]
+ Note that the public announcement modality \([\chi{!}]\) is
+introduced semantically, as its semantic interpretation
+requires ‘extracting’ further information from the initial
+model, just as the intersection of individual epistemic relations is
+used to create the relation for distributed knowledge. Still, it uses
+a ‘more advanced’ version of such a strategy: it performs
+an operation over the full model, thus creating a new one in
+order to evaluate formulas that fall inside the scope of the new
+modality.
+With the semantic interpretation of \([\chi{!}]\) given, it is now
+possible to answer the crucial question in this setting: what is the
+effect of a public announcement on an agent’s knowledge? Or,
+more precisely, how is the agent’s knowledge after an
+announcement related to her knowledge before it? Here is the
+answer:
+This validity characterizes the agent’s knowledge after the
+action in terms of the knowledge she had, before the action, about
+the effects of the action. It tells us that after the public
+announcement of \(\chi\) the agent will know \(\varphi\),
+\([\chi{!}]K\varphi\), if and only if, provided \(\chi\) could be
+announced, ‘\(\chi \rightarrow \)’, she knew that its
+truthful public announcement would make \(\varphi\) true, \(K(\chi
+\rightarrow [\chi{!}]\varphi)\). Note how this bridge
+principle, relating the two involved modalities, is not
+‘chosen’: it arises as a consequence of the given
+definition of what knowledge is (truth in all epistemic possibilities)
+and the given understanding of what a public announcement does
+(discard all possibilities where the announcement fails).
+The given semantic interpretation of \([\chi{!}]\) also gives rise to
+other validities. Among them, consider the following:
+These validities, together with the previous one characterizing
+\([\chi{!}]K\varphi\), are known as the reduction axioms.
+Here is our first twist: a careful look at these formulas reveals that
+each one of them characterizes the truth of an announcement formula
+\([\chi{!}]\varphi\) (the left-hand side of \(\leftrightarrow\)) in terms of formulas (the right-hand side of \(\leftrightarrow\)) whose sub-formulas appearing under the scope of \([\chi{!}]\) are less complex. Moreover: the formula dealing with atoms eliminates \([\chi{!}]\). Thus, given any concrete formula in \(\cL_{\left\{ K, {!}
+\right\}}\), successive applications of these axioms will eventually
+produce a semantically equivalent formula where no
+\([\chi{!}]\) modality appears. This indicates that,
+expressivity-wise, the public announcement modalities
+\([\chi{!}]\) are not really needed: anything that can be expressed
+with them can be also expressed by a formula without them. More
+precisely, for any formula \(\varphi\) in \(\cL_{\left\{ K, {!}
+\right\}}\), there is a formula
+\({\operatorname{tr}(\varphi)}\) in \(\cL_{\left\{ K \right\}}\) such
+that, for any \((M, w)\),
+This truth-preserving translation, whose precise definition
+can be found in van Ditmarsch, van der Hoek, and Kooi (2008: Section
+7.4), shows that the public announcement modality can also be seen as
+having a syntactic definition: any formula involving
+\([\chi{!}]\) can be rewritten within \(\cL_{\left\{ K
+ \right\}}\).[11]
+ Nevertheless, this is not a ‘one line’ translation, as it
+is the case, e.g., for the ‘everybody knows’ modality
+E. The translation is given by a recursive approach,
+with the modality defined in a different way depending on the formula
+one needs to place under its scope. This leads us to the second twist:
+because of this recursive definition, even though adding \([\chi{!}]\)
+does not increases the language’s expressivity, its addition
+does change the properties of the logical system. Indeed, in
+\(\cL_{\left\{ K, {!} \right\}}\), the rule of uniform
+substitution of atomic propositions by arbitrary formulas is not
+validity-preserving anymore. Consider the following formula, stating
+that “after the public announcement of p, the agent
+will know that p is the case”: 
+
+\[
+\Vdash [p{!}]Kp.
+\]
+
+ The
+formula is valid: a truthful public announcement of p discards
+worlds from the original model M where p was not the
+case. Hence, the resulting \(M_{p{!}}\) will have only worlds
+satisfying p, thus making \(Kp\) true Now consider the
+formula below, which results from substituting p by \(p \land
+\lnot Kp\) in the previous validity: 
+
+\[
+[(p \land \lnot Kp){!}] K(p \land \lnot Kp).
+\]
+
+ The above formula
+states now that 
+after the public announcement of “p is true and the
+agent does not know it”, she will know that “p is
+true and she does not know it”. 
+This formula can be equivalently stated (by distributing K over \(\land\) in the sub-formula under the scope of \([(p \land \lnot Kp){!}]\)) as
+after the public announcement of “p is true and you
+do not know it”, the agent will know both that p is true
+and that she does not know it. 
+But now something is odd: after hearing \(p \land \lnot Kp\), the
+agent surely should know that p is the case \((Kp)\). But then,
+how is it possible that, at the same time, she knows that she does not
+know it \((K\lnot Kp)\)?
+The suspicions are correct: the formula is not valid, and the model
+below on the left provides a counter-example.
+Figure 2 [An
+ extended description of figure 2
+ is in the supplement.]
+In \((M, w)\), the atomic proposition p is the case, but the
+agent does not know it: \((M, w) \Vdash p \land \lnot Kp\). Thus, \(p
+\land \lnot Kp\) can be truthfully announced, which produces the
+pointed model \((M_{(p \land \lnot Kp){!}}, w)\) on the right. Note
+how w has survived the operation (it satisfies \(p \land \lnot
+Kp)\), but u has not (it does not satisfy \(p \land \lnot Kp\),
+as it makes p false). In the resulting pointed model, the agent
+indeed knows that p is the case: \((M_{(p \land \lnot Kp){!}},
+w) \Vdash Kp\). Nevertheless, she does not know that she does not know
+p: \((M_{(p \land \lnot Kp){!}}, w) \not\Vdash K\lnot Kp\); in
+fact, she knows that she knows p: \((M_{(p \land \lnot Kp){!}},
+w) \Vdash
+ KKp\).[12]
+Recapitulating, dynamic epistemic logics deal with modal operators for
+model operations, thus allowing the explicit representation of actions
+and the way they affect the concept under study. The particular
+relationship between the ‘static’ concept and the
+‘dynamic’ action can be described by bridge principles
+that arise naturally, and yet this does not come with an additional
+cost, as the model-operation and dynamic-modality machinery can be
+embedded into the static base logic. This has important repercussions,
+particularly complexity-wise, as will be discussed in
+ section 3.4.
+The previous section focused on some of the ways one can take a system
+with a single modality and create a system with multiple modalities
+from it. Another alternative to build a multi-modal system is to take
+existing uni-modal systems, and then put them together by using a
+particular strategy. This section contains a brief description of some
+of the possible techniques; for a deeper discussion, the reader is
+referred to the SEP entry on
+ combining logics
+ by Carnielli and Coniglio (2016).
+The method of
+ fusion
+ of modal logics (introduced in Thomason 1984) was developed
+with the idea of combining relation-based (hence
+normal) modal logics in both a syntactic way (by putting
+together their respective Hilbert-style axiom systems) and a semantic
+way (by taking the relations corresponding to the modality of each
+system, and putting them together in a single
+ model).[13]
+ Although the fusion of modal systems is fairly simple, the
+transference results that guarantee that properties are
+preserved (e.g., whether the combination of the sound and complete
+axiomatization of the existing systems is indeed sound and complete
+for the resulting one) are not straightforward (see, e.g., Kracht
+& Wolter 1991, 1997; Fine & Schurz 1996; Schurz 2011).
+When this strategy is followed, and leaving technical details aside,
+the most important decision is the possible introduction of
+bridge principles that link the main modalities of the
+systems to be combined. Paraphrasing Schurz (1991), a schema
+\(\varphi\) is a bridge principle if and only if it contains
+at least one schematic letter which has at least one occurrence within
+the scope of the modality of one system and at least one occurrence
+within the scope of the modality of the other. (This definition was
+given in the context of the David Hume’s discussion on whether
+ought can be derived from is; see
+ Section 1
+ of
+ combining logics.)
+In order to provide a better explanation of this technique, here we
+will discuss the construction of a simple temporal epistemic logic. On
+the epistemic side, recall that the basic
+ epistemic logic
+ system is given, syntactically, by the language \(\cL_{\left\{ K
+\right\}}\), and semantically, by a relational model. In it, the
+modality K is semantically interpreted in terms of a binary
+relation \(R_K\). On the temporal side, define the
+‘future’ fragment of the basic
+ temporal (tense) logic
+ as a system which is syntactically specified by the language
+\(\cL_{\left\{ G \right\}}\) (with G a universal
+quantification on the future, and F its existential
+counterpart given by \(F\varphi := \lnot G\lnot \varphi)\), and
+semantically, by a relational model with \(R_G\) as the crucial
+relation.
+The fusion of these systems is syntactically specified by the
+language \(\cL_{\left\{ K, G \right\}}\) (i.e., a language freely
+generated by the union of the modalities of \(\cL_{\left\{ K
+\right\}}\) and \(\cL_{\left\{ G \right\}})\). Formulas of this
+language are semantically interpreted in relational models of
+the form \({\langle W, R_K, R_G, V \rangle}\) such that \({\langle W,
+R_K, V \rangle}\) is a model for \(\cL_{\left\{ K \right\}}\) and
+\({\langle W, R_G, V \rangle}\) is a model for \(\cL_{\left\{ G
+\right\}}\). For the semantic interpretation, formulas of the new
+language are interpreted in the standard way, with each modality using
+its correspondent relation. With respect to axiom systems, it is
+enough to put together those of the individual logics.
+But we are not done yet. As mentioned before, the most interesting
+part is the possible inclusion of bridge principles. So, which is the
+proper interaction between
+ time and knowledge?
+ One might require perfect recall: the agent’s
+knowledge is not decreased over time or, in other words, uncertainty
+at any moment should have been ‘inherited’ from
+uncertainty from the past. This corresponds to the following bridge
+principle:
+This is clearly an idealization, and as such it makes sense only under
+certain interpretations; still, it might imply more than meets the
+eye. Assuming that the agent never forgets the truth-value of an
+atomic proposition p might be reasonable; but, what if
+\(\varphi\) is a more complex formula, in particular one involving the
+epistemic modality? For example, take the formula \(\lnot Kp \land
+\lnot K\lnot p\) (“the agent does not know whether
+p”), yielding the instance \(K(\lnot Kp \land \lnot
+K\lnot p) \rightarrow GK(\lnot Kp \land \lnot K\lnot p)\)
+(“if the agent knows of her ignorance about whether
+p, then she will always know about such ignorance”).
+Is this within the expected consequences?
+A related property is that of no learning (the agent’s
+knowledge is not increased over time; in other words, any current
+uncertainty will be preserved). This property corresponds to
+A slight elaboration on these and related properties can be found on
+the discussion on time and knowledge
+ (section 4.2;
+ for a deeper study, see Halpern & Vardi 1989; van Benthem &
+Pacuit 2006, albeit in a different semantic setting).
+The fusion method provides a simple yet powerful strategy for adding a
+further aspect to an existing modal system by using another already
+existing system dealing with this further aspect independently.
+Indeed, the discussed example can be seen as adding a
+temporal aspect to the standard study of the properties of
+knowledge. Besides the traditional epistemic questions (e.g., whether
+knowledge should be positively/negatively introspective), one can also
+discuss not only whether knowledge should change, but also the
+different ways in which it might so.
+This idea of adding a temporal aspect makes sense not only for
+knowledge, but also for other modal concepts. For example, one can
+think of adding a temporal feature to a modal system for preferences,
+thus discussing different ways in which the preferences of an agent
+might change over time (and also why they do so, if further
+dynamic machinery is added to talk about actions and
+their consequences; Grüne-Yanoff & Hansson 2009; Liu 2011).
+Similarly, adding a temporal aspect to modal systems of
+ deontic logic
+ raises interesting concepts and questions, an example being the
+notion of deontic deadlines, discussed in
+ section 4.7 on
+ obligations and time.
+The study of some concepts such as preferences or obligations gives
+raise to an epistemic concern: how much do the involved agents
+know about such preferences and obligations? In most examples
+where such concepts play a role, whether or not the agent knows about
+the involved preferences or obligations makes an important difference.
+In case of the first, should an agent act according to her and other
+agents’ preferences, even when she does not know what these
+preferences are? In case of the second, is an agent compelled to obey
+a duty even when she does not know what the duty is?
+The fusion of a basic preference/deontic setting and epistemic logic
+provides basic formal tools to discuss the epistemic aspects of
+preferences and obligations. For example, consider the
+ paradox of epistemic obligation:
+ a bank is being robbed (r), and the guards ought to know about
+the robbery \((OKr)\). But knowledge is factive \((Kr \rightarrow
+r)\), so then the bank ought to be robbed \((Or)\)! More on these
+concerns (under different formal systems) can be found within the
+discussion on knowledge and obligations
+ (section 4.8).
+For a deeper study on the fusion of modal logics, the reader is
+referred to Wolter (1998), Gabbay, Kurucz, Wolter, and Zakharyaschev
+(2003: Chapter 4), and Kurucz (2006: Section 2). Further examples of
+fusion can be found
+ in the SEP entry
+ discussing methods for
+ combining logics.
+ Still, before closing this subsection, we add a word of caution. One
+needs to be careful when building the fusion of modal systems. This is
+because, in the system that results from the fusion, there are already
+formulas combining the modalities of its different fragments. Then,
+even if no particular bridge (valid) principles are enforced, the
+language might gain in expressive power, which might increase
+its
+ complexity
+ profile.
+ Section 3.4
+ on complexity issues elaborates on this important but often forgotten
+aspect.
+The fusion of modal systems produces a rich language that allows us to
+express the different ways in which the involved modalities interact
+(the bridge principles). Still, from a semantic perspective, there is
+still just one point of reference, as all formulas of this
+richer language are still evaluated on a single possible world.
+The strategy of defining a
+ product
+ of modal logics (introduced in Segerberg 1973 and Šehtman
+1978) shares the idea of using a language that is freely generated by
+the union of the modalities of the original languages. But, on the
+semantic side, the approach is quite different: instead of working on
+a one-dimension domain, it works on a multi-dimensional
+domain that has one dimension for each one of the involved aspects
+(i.e., modalities). More precisely, if the semantic models of the
+to-be-combined systems are \(M_1 = {\langle W_1, R_1, V_1 \rangle}\)
+and \(M_2 = {\langle W_2, R_2, V_2 \rangle}\), the models where
+formulas of the resulting language are evaluated are now of the form
+\(M' = {\langle W_1 \times W_2, R'_1, R'_2, V_1 \times V_2
+\rangle}\). The domain \(W_1 \times W_2\) is, then, the standard
+Cartesian product of the original domains, and the valuation \(V_1
+\times V_2\) is such than an atom p is true in a world \((w_1,
+w_2)\) if and only if p was true at \(w_1\) in \(M_1\) and also
+true at \(w_2\) in \(M_2\) (i.e., \((V_1 \times V_2)(p) := V_1(p)
+\times V_2(p))\). For the relations, each one of them is given as in
+their original models, restricted now to their respective dimensions:
+The product of modal logics is a many-dimensional modal logic
+(Gabbay et al. 2003; Marx & Venema 1997; Venema 1992). Within
+these models, formulas are now evaluated in pairs \((w_1, w_2)\), with
+each modality semantically interpreted in the standard way (but now
+with respect the new version of its matching relation):
+This specific way of interpreting each one of the original modalities
+yields another crucial difference between the fusion and the product
+of modal systems: the latter enforces, by its own nature, certain
+bridge principles (on top of those that might be added). Indeed,
+because of the definition of the relations and the modalities’
+semantic interpretation, the following schemas are valid:
+The product of modal systems, with its n-dimensional nature, is
+a very useful tool and, in particular, it has been of help for dealing
+with the philosophical semantics technique of
+ two-dimensionalism
+ (see also Chalmers 2006; Stalnaker 1978). This technique has been
+applied in different fields. In linguistics, it is the basis of David
+Kaplan’s semantic framework for
+ indexicals
+ (Kaplan 1989), which in turn has been used to explain conventional
+semantic rules governing context-dependent expressions as
+‘I’ and ‘now’. Consider, for
+example, a setting built to talk about the features of a group of
+friends at different times; the context in which formulas will be
+evaluated can be defined as a tuple \((w, a, m)\), with \(w \in W\) a
+possible world, \(a \in \ttA\) an agent within that world and \(m \in
+T\) a moment in time when the agent exists in that world. Then, a
+sentence of the form “I am tired now” corresponds
+simply to an atom “tired”, with its truth-value
+being potentially different in different contexts, depending on
+whether, in the given world w, the given agent a is
+tired at the given moment m. Moreover: suppose the setting contains an alethic possibility relation between worlds \((R \subseteq W \times
+W)\), a friendship relation between agents \(({\asymp}
+\subseteq \ttA\times \ttA)\) and a temporal future relation
+between moments \((R_G \subseteq T \times T)\). Then, one can use matching modalities (the universal ones, \(\oBox\) and \([\asymp]\), for the first two; the existential one \({F}\) for the third) to express sentences as “I have a friend who is playing right now and necessarily will be tired at some moment later” \((\langle \asymp\rangle(\textit{playing} \land
+\oBox F\textit{ tired}))\) and “if one of my friends is
+playing now, all of them might be playing later”
+\((\langle\asymp\rangle \textit{playing} \rightarrow \Diamond
+F[\asymp]\textit{playing})\).
+In philosophy of mind, two-dimensional semantics has been used by
+David Chalmers (combining both epistemic and modal domains) to provide
+arguments against materialism in philosophy of mind (details
+can be found in Chalmers 2009).
+A final example of the product of two modal logics (though not
+originally conceived as such, and presented in a slightly different
+way), is the Facebook Logic of Seligman, Liu, & Girard
+(2011, 2013), useful for talking about friends and social information
+flow. The setting can be seen as the combination of a standard
+single-agent epistemic logic and a modal logic for social networks
+(cf. Baltag, Christoff, Rendsvig, & Smets 2019; Smets &
+Velázquez-Quesada 2017). Its semantic model consists on two
+domains (possible worlds W, agents \(\ttA)\) and two relations:
+a binary epistemic relation \({\sim_a} \subseteq (W \times W)\) for
+each agent \(a \in \ttA\), and a binary friendship relation
+\({\asymp_w} \subseteq (\ttA\times \ttA)\) for each world \(w \in W\).
+On the syntactic side, the language is freely generated by the
+standard Boolean operators and two universal modalities, K
+(knowledge) and \([\asymp]\) (friendship). These formulas are
+evaluated in pairs (world, agent), with the key
+clauses being the following:
+Note that the modalities are indexical in both the world
+and the agent. Thus, while formulas of the form \(K\varphi\)
+are read as “I know \(\varphi\)”, formulas of the
+form \([\asymp]\varphi\) are read as “all my friends satisfy
+\(\varphi\)”.
+The given examples show how the product strategy can be used to
+‘temporalize’ and/or ‘epistemize’ a given
+modal system (Kaplan’s semantic framework can be understood as
+the temporalization of an alethic system, and the described
+Facebook Logic can be understood as the
+‘epistemization’ of a social network setting). For more on
+the products of modal logics, the reader is referred to the
+already-mentioned
+ combining logics,
+ and also to Gabbay et al. (2003: Chapter 5), Kurucz (2006: Section
+3) and van Benthem, Bezhanishvili, et al. (2006).
+The strategies of fusion and product for combining modal logics rely
+in merging both the languages and the semantic models of the modal
+logics to be combined. In the
+ fibring
+ strategy (called fibring by functions in Carnielli,
+Coniglio, et al. 2008), the languages are also merged, but the
+semantic models remain separated. Formulas can be evaluated in pointed
+models of any of the original systems, in the following way. When the
+modality to be semantically evaluated ‘matches’ the chosen
+semantic model, the evaluation is done as in the original system; when
+the modality comes from the other system, the fibring strategy uses a
+transfer mapping to obtain a model and an evaluation point in
+the class of models for the modality under evaluation, and then the
+evaluation proceeds as in the original system. Thus, modal fibring
+requires a correspondence between the class of models of each one of
+the systems, and uses it to move between them when the modality under
+evaluation requires it.
+More precisely, let \(\cL_{\left\{ \Box_{1} \right\}}\) and
+\(\cL_{\left\{ \Box_{2} \right\}}\) be the languages of the system to
+be combined, and let \(\cM_1\) and \(\cM_2\) be their correspondent
+classes of models. Let \(h_1\) be a transfer mapping,
+taking a world of any model in \(\cM_1\), and returning a pair
+consisting of a model \(M_2\) in \(\cM_2\) and a world \(w_2\) in
+\(M_2\); let \(h_2\) be a transfer mapping in the other
+direction, taking a world of any model in \(\cM_2\), and returning a
+pair consisting of a model \(M_1\) in \(\cM_1\) and a world \(w_1\) in
+\(M_1\). Formulas of the language \(\cL_{\left\{ \Box_{1}, \Box_{2}
+\right\}}\) can be evaluated in either tuples of the form \(\langle
+h_1, h_2, M_1, w_1 \rangle\) (with \(w_1\) in \(M_1 = \langle W_1,
+R_1, V_1 \rangle\) and \(M_1\) in \(\cM_1)\) or else tuples of the
+form \(\langle h_1, h_2, M_2, w_2 \rangle\) (with \(w_2\) in \(M_2 =
+\langle W_2, R_2, V_2 \rangle\) and \(M_2\) in \(\cM_2)\). In the
+first case, the semantic interpretation of Boolean operators is as
+usual; for the modality \(\Box_{1}\),
+Thus, modalities ‘matching’ the model are evaluated as in their original systems. Then, for the modality \(\Box_{2}\) of the
+other system, the transfer mapping \(h_1\) is used:
+In other words, when \(\Box_{2}\) needs to be evaluated, the transfer
+mapping uses current evaluation point \(w_1\) to obtain a pointed
+semantic model \(h_1(w_1) = (M_2, w_2)\) where the modality will be
+evaluated. When the analogous situation arises, facing the evaluation
+of \(\Box_{1}\) on a tuple \(\langle h_1, h_2, M_2, w_2 \rangle\), it
+is the turn of the second transfer function \(h_2\) to make its
+appearance, taking us then from \(\langle h_1, h_2, M_2, w_2 \rangle
+\Vdash \Box_{2}\varphi\) to \(\langle h_1, h_2, h_2(w_2) \rangle
+\Vdash \Box_{2}\varphi\).
+For more details on the fibring of modal logics, the reader is
+referred to Gabbay (1999: Chapter 3). For other forms of fibring, see
+ Section 4.3
+ of
+ combining logics.
+So far, this text has described different ways in which a multi-modal
+system can emerge. We have briefly discussed how a single modal system
+can give rise to a multi-modal one by providing either syntactic or
+semantic definitions of new concepts
+ (section 2),
+ and also how two or more modal systems can be combined in order to
+produce a multi-modal one
+ (section 3).
+ As the provided examples have shown (and the examples in
+ section 4
+ will continue to do), the addition of modalities allows us to
+establish and/or find significant relationships between the involved
+concepts, thus providing a better understanding of what each one of
+them is.
+But there is also another side to this coin. By adding modalities to a
+system, one increases its expressivity, but this may also have the
+undesirable consequence of raising its
+ computational complexity.
+ Indeed, a modal language allows us to describe a certain class of
+models. If the language is fairly simple, then deciding whether a
+given formula is true in a given world of a given model (the
+model-checking problem) and deciding whether a given formula
+is true in all worlds of all models in a given class (the
+validity problem) are simple tasks. Now suppose a more
+expressive language is used. It is then possible to distinguish models
+that were, from the first language’s perspective, the same
+(see, e.g., the appendix on the non-definability of distributed and common knowledge within \(\cL_{\left\{ \oK{1}, \ldots, \oK{n} \right\}}\)).
+However, intuitively, we might then need to make a stronger effort to
+see those differences: we might need more time to make the
+calculations, and we might need more space to save intermediate
+results. In a single sentence, expressivity and complexity go hand in
+hand, and an increase in the first typically produces an increase in
+the second.
+The simplest example of this phenomenon is given by the relationship
+between the two best-known logical languages, the propositional and
+the first-order predicate one, when used to describe first-order
+models. The validity problem for the propositional language, which can
+be understood as one that only allows us to talk about the properties
+(i.e., monadic predicates) of a single object and their Boolean
+combination, is decidable: there are effective procedures
+that can answer the validity question for any given propositional
+formula. The first-order predicate language can see much more (all
+objects of the domain, together with their properties and their
+n-ary relations, among others), but this comes at a price: its
+validity problem is undecidable, as there is no effective
+procedure that can answer the validity question for all its
+formulas.
+In the modal realm there are also such cases, some of them in which
+seemingly harmless combinations produce dramatic results. An example
+of this can be found in Blackburn, Rijke, and Venema (2001: Section
+6.5), where it is shown that the fusion of two decidable systems, a
+PDL-like system (with sequential composition and intersection
+as the syntactic constructors) and a system with the global modality
+(Goranko & Passy 1992), crosses the border into undecidability.
+Even if the new multi-agent system turns out not to be undecidable,
+its complexity might be such that solving its validity problem for
+relatively small instances is, for all practical purposes, impossible.
+An example of such case is the basic multi-agent epistemic logic, with
+no requirements on the accessibility relations. The validity problem
+for formulas in \(\cL_{\left\{ \oK{1}, \ldots, \oK{n} \right\}}\) is
+ PSPACE: the space (and thus time) required to decide whether any given \(\varphi\) is valid is given by a polynomial function. However, adding the common knowledge
+operator makes the validity problem for formulas in \(\cL_{\left\{
+\oK{1}, \ldots, \oK{n}, C \right\}}\) EXPTIME (sometimes also called
+ EXP):
+ the required time is now given by an exponential
+ function.[14]
+A major methodological issue is then to strike a proper balance
+between expressive power and computational complexity, with the best
+multi-modal systems being those that manage to achieve a good
+compromise in this sense. We end this section noticing briefly that,
+in the case of the combination of modal logics, complexity
+depends deeply on the assumed bridge axioms. A famous example of this
+is the landmark paper by Halpern & Vardi (1989) on the complexity
+of (96!) epistemic and temporal logics over interpreted
+systems, all of them differing on the used language (single or
+multiple-agents, common knowledge or lack of) and the assumed bridge
+principles (the aforementioned perfect recall and no
+learning, synchronicity, unique or multiple initial
+state).
+The previous sections have described several ways of obtaining
+multi-modal systems. The current one presents some of the most
+interesting examples, together with the discussions that arise
+from the interplay of the modalities involved.
+The interplay between knowledge and belief is an important topic in
+epistemology. Historically, one of the most important proposals is
+Plato’s characterization of knowledge as
+ justified true belief,
+ which has been one of the motivations used in the development of
+ justification logic.
+ However, can knowledge be truly defined as justified true belief? The
+ examples
+ provided (among others) in Gettier (1963) seem to go against this
+idea. Gettier describes situations in which an agent believes a given
+\(\varphi\) and has a justification for it; moreover, \(\varphi\) is
+indeed the case. Nevertheless, the justification is not an appropriate
+one: \(\varphi\) happens to be the case because of some other lucky
+unrelated circumstances. This has lead to proposals that focus on the
+requirement of a correct justification (the no false
+lemma: Clark 1963; Armstrong 1973; Shope 1983). Some others have
+used a stronger indefeasibility requirement, stating that
+knowledge is justified true belief that cannot be defeated by true
+information, i.e., there is no true proposition \(\psi\) such that, if
+the agent were to learn that \(\psi\) was the case, would lead her to
+give up her belief, or to be no longer justified in holding it (Klein
+1971; Lehrer & Paxson 1969; Swain 1974). The aforementioned
+topological modal approach of Baltag, Bezhanishvili, et al. (2016)
+relates this idea with other epistemic concepts, and a deeper
+discussion on what it means to know something can be found in
+ the analysis of knowledge
+ by Ichikawa and Steup (2018).
+There are also other alternatives. An interesting proposal, discussed
+in Lenzen (1978) and Williamson (2002), follows the other direction:
+start from a chosen notion of knowledge, and then weaken it in order
+to obtain a ‘good’ (e.g., consistent, introspective,
+possibly false) notion of belief. These ideas have been discussed in
+formal settings. In Stalnaker (2006), the author argues that the
+“true” logic of knowledge is the modal logic S4.2, given
+by the standard K axiom \((K(\varphi \rightarrow\psi)
+\rightarrow (K\varphi \rightarrow K\psi))\) and the generalization
+rule \((K\varphi\) for every validity \(\varphi)\), together with
+veridicality \((K\varphi \rightarrow \varphi\): knowledge is
+truthful), positive introspection \((K\varphi \rightarrow KK\varphi\):
+if the agent knows \(\varphi\), then she knows that she knows it) and
+the ‘convergence’ principle \((\hK K\varphi \rightarrow
+K\hK\varphi\): if the agent considers it possible to know \(\varphi\),
+then she knows that she considers \(\varphi\) a possibility). In this
+setting, Stalnaker (2006) argues that belief can be defined as the
+epistemic possibility of knowledge, that is,
+Note how this is exactly what the definition of belief in the
+previously discussed plausibility models entails: if the modality
+\([\leq]\) is understood as indefeasible knowledge (Lehrer 1990;
+Lehrer & Paxson 1969), then \(B\varphi :=
+\langle{\leq}\rangle[{\leq}]\varphi\) states that belief is the
+possibility of knowledge. In this context, it is a small step to move
+from studying simple beliefs to conditional beliefs. A complete
+axiomatization of the logic of indefeasible knowledge and conditional
+belief, first posed as an open question in Board (2004), was provided
+with a solution in Baltag and Smets (2008).
+A further proposal that uses knowledge as the basic notion is that of
+Baltag, Bezhanishvili, Özgün, and Smets (2013), which
+generalizes Stalnaker’s (2006) formalization by using a
+topological (neighborhood) semantics. An important feature of
+the notion of belief that arises in this setting is that it is
+subjectively indistinguishable from knowledge: an agent believes
+\(\varphi\) \((B\varphi)\) if and only if she believes that she knows
+it \((BK\varphi)\).
+Temporal-epistemic approaches have been briefly mentioned in this
+text.
+ Indeed, many logical systems have been used to describe the way in
+which the knowledge of agents changes over time. The proposals include
+not only interpreted systems (IS; Fagin et al. 1995)
+but also epistemic-temporal logic (ETL; Parikh &
+Ramanujam 2003), logics of
+ agency
+ (e.g., see to it that logic,
+ STIT;
+ Belnap, Perloff, & Xu 2001) and the DEL approach
+mentioned before
+ (section 2.8).
+ In all of them, an important point of discussion is the interaction
+between the temporal and epistemic modalities.
+As mentioned before, two famous requirements have been those of
+perfect recall (the agent’s knowledge is not decreased
+over time) and no learning (the agent’s knowledge is
+not increased over time). In the simple fusion of epistemic logic and
+the future fragment of tense logic described above, these two
+requirements can be expressed, respectively, as 
+For some, the no learning condition might be too harsh, as it
+seems to say that the passage of time never helps to increase
+knowledge. A related but more reasonable condition is that of no
+miracles, introduced in a slightly richer setting in van Benthem
+and Pacuit (2006), which states that the uncertainty of the agents
+cannot be erased by the same
+ event.[15]
+ A further interaction property is that of synchronicity,
+which states that epistemic uncertainty only happens among epistemic
+situations that occur at the same moment of time. For example, the
+agent always knows ‘what time it is’, as she might not
+know which action was executed, but she always knows that some action
+has taken place.
+For more information on the interaction of time and knowledge, the
+reader is referred, among others, to Halpern, van der Meyden, and
+Vardi (2004); van Benthem, Gerbrandy, et al. (2009). See also van
+Benthem and Dégremont (2010) and Dégremont (2010) for
+analogous interactions between time and beliefs, with the
+latter represented by plausibility preorders similar to the
+plausibility models described before.
+The interplay between questions and propositions is an important
+factor in driving reasoning, communication, and general processes of
+investigation (Hintikka 2007; Hintikka, Halonen, & Mutanen 2002).
+Indeed, 
+[s]cientific investigation and explanation proceed in part through the
+posing and answering of questions, and human-computer interaction is
+often structured in terms of queries and answers. (from the SEP entry
+on
+ questions
+ by Cross & Roelofsen 2018)
+But then, what is the relationship between an agent’s knowledge
+and her questions? Maybe more important: given that different agents
+might be posing different questions (i.e., they might be interested in
+different issues), what is the relationship between the knowledge of
+different agents?
+The proposal of Boddy (2014) and Baltag, Boddy, and Smets (2018)
+studies these concerns (then also studying what the ‘real’
+common and distributed knowledge of a group is). Their model (based on
+the epistemic issue model introduced in van Benthem &
+Minica 2012) assumes that agents have not only their individual
+knowledge, but also their individual issues: the topics that
+each one of them has put on the table, which determine their
+individual agenda on what is currently under investigation. On the
+syntactic side, besides the standard knowledge modality \((K_i\) for
+each agent i), there is also a modality \(Q_{i}\varphi\), read
+as “\(\varphi\) can be known solely based on learnable
+answers to i’s questions”. In other words,
+\(Q_a\) describes the maximum knowledge agent a can acquire,
+given her questions and the answers that are learnable for her. Thus,
+as a principle, if a knows \(\varphi\), she can know it solely
+based on answers to her question(s):
+More interesting is the relationship between agent a’s
+knowledge and that of other agent b: in order for an agent to
+consider any potential knowledge, such knowledge must be relevant for
+her in the sense that she can distinguish it as a possible answer to
+one of her questions. In other words, 
+[a]gents are therefore only able to coherently represent the knowledge
+of others […] if the fact that they (the others) possess this
+knowledge […] is relevant to them. (Boddy 2014: 28) 
+Thus, “if b knows something that is relevant to a,
+then it is relevant to a that b knows this” and
+if b can know (given her issue) anything that is relevant to
+a, then this fact (that b’s potential knowledge
+includes potential knowledge of a) is itself relevant to
+a. 
+In symbols,
+A more in-depth discussion about the consequences of adding the
+agent’s issues to the picture (including alternative definitions
+for the group’s distributed and common knowledge) can be found
+in the above references.
+In the context of the design and implementation of autonomous agents,
+one of the most famous architectures is the
+belief-desire-intention (BDI) model (Bratman 1987;
+Herzig, Lorini, Perrussel, & Xiao 2017).
+Developed initially as a model of human practical reasoning (Bratman
+1987), the BDI model proposes an explanation of practical
+reasoning involving action, intention, belief, goal, will,
+deliberation and several other concepts. Thus, it is natural to think
+about combining simple modal logics for some of these notions in order
+to define logics for such richer settings. Indeed, several formal
+semantics for such models have been proposed, some of them based on
+diverse temporal logics (Cohen & Levesque 1990; Governatori,
+Padmanabhan, & Sattar 2002; Rao & Georgeff 1991), some others
+based on dynamic logics (van der Hoek, van Linder, & Meyer 1999;
+Singh 1998), and some based on both (Wooldridge 2000). The crucial
+part in most of them is the interaction between these different
+attitudes. For example, on the one hand, if an agent intends to
+achieve something (say, \(I\varphi)\), one would expect for her to
+desire that something \((D\varphi)\); otherwise, it does not make
+sense to devote resources to achieve it. On the other hand, desiring
+something should not imply an intention to achieve it: it does not
+seem reasonable to commit resources to all our desires, even the
+unrealistic ones (and, perhaps more importantly, intention and desires
+would collapse into a single notion). Moreover, it seems clear that an
+agent who desires to be rich \((Dr)\) does not necessarily believe
+that she is rich \((Br)\). Finally, if an agent has an intention to
+write a book \((Ib)\), should she believe that she will write it
+\((BFb)\), thus ruling out all possible unforeseen circumstances that
+could prevent her from doing it?
+A concise description of this interaction in some of these proposals
+can be found in the first part of
+ Subsection 4.2
+ in the SEP entry on
+ the logic of action
+ written by Segerberg, Meyer, and Kracht (2016).
+Modal first-order (i.e., quantified modal) logic is perhaps one of the
+most intriguing multi-modal systems, as the combination of quantifiers
+and modalities raises several interesting questions. Here we will
+discuss briefly two important points; readers interested in a further
+discussion are referred to the SEP discussion on
+ quantified modal logic
+ by Garson (2018).
+The modal first-order language is built in a straightforward way:
+simply take the classical
+ first-order language,
+ with its universal \((\forall)\) and existential \((\exists)\)
+operators indicating quantification over objects, and add the two
+basic modal alethic operators, necessity \((\Box)\) and possibility
+\((\Diamond)\). The resulting language turns out to be very
+expressive, allowing us to distinguish between the de dicto
+and the de re readings of natural language sentences (a
+contrast that can be traced back to Aristotle; see Nortmann 2002). For
+example, assume that an individual f has exactly 3 sisters, and
+consider the sentence “the number of sisters of f is
+necessarily greater than 2”. The claim can be understood in
+two different ways. Under a de dicto interpretation, it
+states that the number of sisters that f has is
+necessarily greater than 2, but this is clearly questionable: under
+different circumstances, f might have had either more or else fewer sisters.
+However, under a de re interpretation, the claim states that
+the number of sisters that f has, the number 3, is
+necessarily greater than 2: this is definitely true, at least when
+restricting ourselves to the standard understanding of numbers.
+In modal first-order logic, the difference between de re and
+de dicto is given by
+ the scope of the involved quantifiers and modal operators.
+ On the one hand, a de dicto (“of the
+proposition”) sentence indicates a property of a proposition,
+with the involved quantifier occurring under the scope of modalities.
+For example, the de dicto reading of the previous sentence is
+given by the formula \(\oBox\left(\exists x (x = s(f) \land x > 2)
+\right)\) (with s a function returning its parameter’s
+number of sisters). On the other hand, a de re (“of the
+thing”) sentence indicates a property of an object, with the
+involved modality occurring under the scope of quantifiers. For
+example, the de re reading of the previous sentence is given
+by the formula \(\exists x \left( x = s(f) \land \oBox(x > 2)
+\right)\). This crucial distinction can be exemplified by the
+difference between some agent i knowing that there is someone
+that makes her Happy (but maybe without knowing who this
+person is), \(K_i\exists x H(x, i)\), and the always preferred
+existence of someone who i knows makes her happy \((\exists x
+K_i H(x, i))\).
+But the expressivity comes with a cost. As usual in multi-modal
+systems, the crucial question is the interaction between the involved
+modalities, and in this case, the discussion typically centers on the
+following two: the Barcan formula, \(\forall x \oBox Px
+\rightarrow \oBox\forall x Px\), and its converse, \(\oBox\forall x Px
+\rightarrow \forall x \oBox Px\) (see Barcan 1946). The reason for the
+controversy becomes clear when the generic predicate P is
+replaced by, say, the formula \(\exists x (x=y)\), which can be read
+as “x exists”. Then, the first formula
+becomes
+stating that if everything exists necessarily then it is necessary
+that everything exists. In terms of a possible worlds semantic model,
+this boils down to stating that every object existing in an
+alternative possible world should also exist in the current one: when
+one moves to alternative scenarios, the domain does not grow.
+Analogously, the second formula becomes 
+stating that if it is necessary that everything exists then everything
+exists necessarily. In terms of a possible worlds semantic model, this
+boils down to stating that every object existing in the current world
+should also exist in an alternative possible one: when one moves to
+alternative scenarios, the domain does not shrink.
+Thus, a decision about whether such principles hold corresponds to
+answering a crucial question when building a model for the modal
+first-order language: what is the relationship between the domains of
+the different possible worlds? On the one hand, from the perspective
+of
+ actualism,
+ everything there is (everything that can in any sense be said to be)
+is actual, that is, it exists; hence, there is a fixed domain
+across all possibilities. On the other hand, from the perspective of
+ possibilism,
+ ‘the things that exist’ include possible but non-actual
+objects; hence, different possible worlds might have different
+domains. There is a large literature on the discussion between these
+two positions, as the provided references show.
+The notion of
+ intention
+ is crucial in BDI systems, as it in some sense defines the
+choices the agent will make, thus affecting her behavior. Thus, the
+dynamics of intention is also a crucial subject, as it
+describes the way intentions are generated, preserved, modified or
+discarded.
+For an initial point, how do intentions change after the agent learns
+a new piece of information? According to Roy (2008: Chapter 5), if the
+original intentions are compatible with the new information, then they
+are ‘reshaped’; otherwise, the agent discards them without
+creating any new intention (or, analogously, generating an intention
+for something that has been already achieved). Thus, after an
+announcement of \(\chi\) the agent intends to do \(\varphi\) if and
+only if \(\chi\) is compatible with her intentions and \(\varphi\) is
+a restricted consequence of the agent’s initial intentions, or
+else \(\varphi\) is a ‘known’ consequence of
+\(\chi\)’s announcement. In a formula,
+There are other proposals. In van der Hoek, Jamroga, and Wooldridge
+(2007), intentions are defined, roughly speaking, as plans the agent
+believes have not yet been fulfilled. As a consequence of this,
+changes in the agent’s beliefs lead to changes on her
+intentions. For example, after any observation, the agent will drop
+intentions that she believes have been accomplished:
+Moreover, she will drop any intention she believes it is impossible to
+achieve:
+But, just as changes in the agent’s information (knowledge,
+beliefs) should trigger changes in her intentions, changes in her
+intentions may also trigger changes in (some of) her beliefs. Intuitively,
+having the intention to achieve a given \(\varphi\) reduces the
+actions that the agent ‘can’ perform, from the ones she
+can actually carry on, to those that will still allow (and maybe
+assure) that \(\varphi\) will be achieved. In other words, a change in
+the agent’s intentions triggers also a change in her beliefs
+about the (sequence of) actions that will be available in the future.
+This is the idea followed in Icard, Pacuit, and Shoham (2010), which
+studies the interaction between intention revision and belief revision
+by introducing postulates for both actions, with these postulates
+describing the two processes’ interplay. In the interesting case
+of intention revision, the postulates state that (i) a new intention
+will take precedence over previous ones (and thus old ones should be
+eliminated when in conflict), (ii) modulo coherence, no further change
+should be made on the agent’s intentions (in particular, no
+extraneous intentions should be added), and (iii) non-contingent
+beliefs do not change with intention
+ revision.[16]
+As the reader might guess, adding a temporal dimension is typically a
+good idea, as in most cases it enriches the initial system by allowing
+us to talk about how the concept changes. Besides epistemic
+settings, others that benefit from this are systems of
+ deontic logic,
+ which study the properties of concepts as permissions (e.g.,
+“\(\varphi\) is allowed”) and obligations (e.g.,
+“\(\varphi\) is required”). Such systems are extremely
+useful, as they involve topics such as law, social and business
+organizations, and even security systems.
+One of the interesting concepts that arise when time and obligations
+interact with each other is the notion of deontic deadlines:
+obligations that need to be fulfilled only once, at a time of
+one’s choosing, as long as it is before certain condition become
+true. Indeed, 
+[…] deontic deadlines are interactions between two dimensions:
+a deontic (normative) dimension and a temporal dimension. So, to study
+[them], it makes sense to take a […] temporal logic […]
+and a standard deontic logic […], and combine the two in one
+system. (Broersen, Dignum, Dignum, & Meyer 2004: 43) 
+Such formal systems help to provide a proper understanding of what a
+deadline is: as the aforementioned reference asks, 
+is a deadline (1) an obligation at a certain point in time to achieve
+something before another point in time, or (2) is a deadline simply an
+obligation that persists in time until a deadline is reached, or (3)
+is it both? 
+Then, the formal setting also allows the possibility to make further
+finer distinctions, as the one between an obligation to always satisfy
+a given \(\varphi\) (in symbols, and with O a modality for
+obligation, \(OG\varphi)\) and an obligation for \(\varphi\) that
+should be always fulfilled \((GO\varphi)\). Further and deeper
+discussions on deontic deadlines can be found in Broersen et al.
+(2004); Broersen (2006); Brunel, Bodeveix, & Filali (2006);
+Demolombe, Bretier, & Louis (2006); Governatori, Hulstijn,
+Riveret, & Rotolo (2007); and Demolombe (2014), among others.
+Equally important is the relationship between knowledge and
+obligations, as it is shown by the aforementioned
+ paradox of epistemic obligation,
+ which arises within the fusion
+ (section 3.1)
+ of a
+ standard deontic logic
+ and a standard epistemic logic. But the relationship between these
+concepts goes beyond their interaction in such a basic system. For
+example, if an agent does not know about the existence of an
+obligation, should she be expected to fulfill it? In some cases the
+answer seems to be “no”: a physician whose neighbor is
+having a heart attack has no obligation to provide assistance unless
+she knows about the emergency. Still, in some other cases, the answer
+seems to be “yes”: the juridical principle
+“ignorantia juris non excusat” (roughly,
+ignorance of the law is not excuse) is an example of this.
+There have been proposals dealing with these issues. One of them is by
+Pacuit, Parikh, & Cogan (2006), which uses a setting in which
+actions can be considered “good” or “bad”. It
+introduces a notion of knowledge-based obligation under which
+an agent is obliged to perform an action \(\alpha\) if and only if
+\(\alpha\) is an action which the agent can perform and she
+knows that it is good to perform \(\alpha\). This is then a
+form of absolute obligation which remains until the agent
+performs the required action.
+Interestingly, the involvement of knowledge gives raise to forms of
+‘defeasible’ obligations that can disappear in the light
+of new information. For example, having being informed about her
+neighbor’s illness, the physician could have the obligation to
+administer a certain drug; however, this obligation would disappear if
+she were to learn that the neighbor is allergic to this medication.
+This ‘weaker’ form of obligation can also be captured
+within the setting discussed in Pacuit et al. (2006).
+The interaction between knowledge and obligations is not limited to
+the way knowledge ‘defines’ obligations. An important role
+is also played by whether the agent consciously violates her
+commitments. In fact, most juridical systems contain the principle
+that an act is only unlawful if the agent conducting it has a
+‘guilty mind’ (mens rea): for the agent to be
+guilty, she must have committed the act intentionally/purposely. Of
+course, there are different levels of ‘guilty minds’, and
+some legal systems distinguish between them in order to assign
+‘degrees of culpability’ (e.g., an homicide is considered
+more severe if done intentionally rather than accidentally). For
+example, on the one hand, stating that it is illegal to do
+\(\alpha\) negligently means that it is illegal to do
+\(\alpha\) while being aware that the action carries a substantial and
+unjustifiable risk. On the other hand, stating that it is illegal to
+do \(\alpha\) knowingly means that it is illegal to do
+\(\alpha\) while being certain that this conduct will lead to the
+result.[17]
+These and other modes of mens rea are formalized in Broersen
+(2011) within the
+ STIT
+ logic framework.
+As the previous sections indicate, the specific interplay between
+different modalities (the way they are combined and which bridge
+principles hold) is crucial to provide an accurate representation and
+analysis of different philosophical concepts. In fact, in several
+occasions, the combination of different modalities have shed light on
+philosophical issues.  We will illustrate this for the concepts of
+abduction, knowability, ‘believing to know’, truthmakers
+and the interplay between assumptions and beliefs while keeping in
+mind an endless list of other philosophical paradoxes and problems
+that all arise in a multi-modal setting. (Among many others, see the
+Yablo paradox in Yablo (1985, 1993) as well as the SEP discussions on
+ deontic paradoxes
+ and on
+ paradoxes without self-reference.
+ See also the SEP analyses on the
+ knower paradox,
+ on
+ dynamic epistemic paradoxes
+ and on the
+ surprise examination paradox;
+ for the latter, see also a proposed solution in Baltag and Smets
+(2010
+ Other Internet Resources).)
+The term
+ abduction
+ has been used in related but sometimes different senses. Roughly
+speaking, abductive reasoning (also called inference to the best
+explanation, retroduction, and hypothetical,
+adductive or presumptive reasoning, among many other
+terms) can be understood as the process through which an
+agent (or a group of them) looks for an explanation of a surprising
+observation. Many forms of intellectual tasks, such as medical and
+fault diagnosis, legal reasoning, natural language understanding, and
+(last but not least) scientific discovery, belong to this category,
+thus making abduction one of the most important reasoning
+processes.
+In its simplest form, abduction can best be described with
+ Peirce’s
+ 1903 schema (Hartshorne & Weiss 1934: CP 5.189):
+This is the understanding that has been most frequently cited and used
+when providing formal approaches to abductive reasoning. Still,
+typical definitions of an abductive problem and its solution(s) have
+been given in terms of a (propositional, first-order) theory and a
+formula, leaving the attitudes of the involved agents out of the
+picture.
+However, there have been also proposals that formalize (parts of) the
+abductive process in terms of diverse epistemic concepts (e.g.,
+Levesque 1989; Boutilier & Becher 1995). Among them,
+Velázquez-Quesada, Soler-Toscano, &
+Nepomuceno-Fernández (2013) understand abductive reasoning as a
+process of belief change that is triggered by an observation and
+guided by the knowledge the agent has. In symbols
+(Velázquez-Quesada 2015), abductive reasoning from a surprising
+observation \(\psi\) to a belief \(\varphi\) can be described as
+stating thus that if the agent knows \(\varphi \rightarrow \psi\) and
+an announcement of \(\psi\) (“\([\psi{!}]\)”) makes her
+know it \((\psi)\), then she can perform an act of belief
+revision with \(\varphi\) (“\([\varphi\Uparrow]\)”)
+in order to believe it. This formalization emphasizes not only that
+the agent’s initial knowledge plays a crucial role in the
+generation of possible abductive solutions, but also that the chosen
+solution can only be accepted in a weak way, therefore making it a
+candidate for being discarded in the light of further information.
+Other proposals have incorporated further aspects into the picture.
+One of them, Ma & Pietarinen (2016), follows Peirce’s latter
+understanding of abductive reasoning (called then
+retroduction: “given a (surprising) fact C, if
+A implies C, then it is to be inquired whether A
+plausibly holds”; Peirce 1967: 856) as a form of reasoning from
+surprise to inquiry. This can possibly be related to the
+notions of issues and questions described in 
+section 4.3. As the authors mention,
+[t]he important discovery is that [, in the new formulation,] the
+conclusion is presented in a kind of interrogative mood. But the
+interrogative mood does not merely mean that a question is raised. In
+fact, it means that the possible conjecture A becomes the
+subject of inquiry: the purpose is to determine whether that A
+is indeed plausible or not. Peirce termed such mood “the
+investigand mood”. Hence abduction can be viewed as the dynamic
+process toward a plausible conjecture and, ultimately, toward a
+limited set of the most plausible conjectures.
+ This paradox
+ emerges from what is commonly known as the verificationist thesis
+(VT), which claims that all truths are verifiable.
+Formalizing this thesis in a multi-modal logic that combines a
+knowledge operator with a possibility operator would yield
+with \(\Diamond K\varphi\) read as “it is possible to
+know \(\varphi\)”. In this context, the paradox refers to
+Fitch’s argument containing an idea conveyed to him in 1945
+which shows that, if all truths are knowable, then all truths are
+already known. As the argument goes, we clearly do not know all truths
+(as we are not omniscient!); hence, the premise has to be false: not
+all truths are knowable. The paradox can be summarized by the
+derivation
+which poses a problem for the non-omniscient verificationist. The
+derivation that leads to the paradox as we have stated it here is
+based on a multi-modal logical system in which at least the following
+principles hold: (i) the principle of non-contradiction, to capture
+that contradictions cannot be true and can also not be considered
+possible, (ii) the classical laws of double negation, transitivity of
+the material implication and substitution, (iii) normality of the
+modal logic operator K, the modal logic principle T
+stating that knowledge is truthful, and the normality of the modal
+possibility operator \(\Diamond\). The simplest presentation of the
+paradox which shows how it leads to the unwanted equivalence between
+truth and knowledge, can be found in van Benthem (2004). Start with
+the formula stating the verificationist thesis, \(\varphi \to \Diamond
+K\varphi\), and substitute \(\varphi\) with \((p \land \lnot
+Kp)\):
+This paradox gave rise to an active debate in the philosophical
+literature, leading us to signal out two main types of proposed
+solutions: those proposing a weakening of our logical principles (as
+in paraconsistent, intuitionistic or weaker modal logics) while
+keeping the verification thesis, and those that in contrast do not
+change/restrict the underlying logic but propose a specific
+formalization or reading of the verificationist
+ thesis.[18]
+ While we refer the reader to the SEP entry on
+ epistemic paradoxes
+ for an overview of these proposed solutions, here it is illustrative
+to highlight how this paradox, which in some sense arises from
+combining a modal logic for knowledge (K) with a modal logic
+for possibility \((\Diamond)\), can be ‘demystified’ by
+the further introduction of a modality for communication (related to
+the public announcement modality of PAL). Indeed, according
+to van Benthem (2004), what the verificationist thesis expresses is
+not about ‘static’ knowability, but rather about
+a form of learnability: “what is true may come to be
+known” (van Benthem 2004). This statement can be formally stated
+in a suitable arbitrary announcement framework as:
+which is read as “if \(\varphi\) is the case, then there is
+a formula \(\psi\) after whose announcement \(\varphi\) will be
+ known”.[19]
+ This reading of the verificationist thesis brings us in touch with a
+number of results in dynamic epistemic logic on unsuccessful
+formulas (those that become false after being truthfully announced;
+van Ditmarsch & Kooi 2006; van Benthem 2011; Holliday & Icard
+2010), which indicate that indeed not all sentences are learnable. In
+fact, this solution shows us that
+[…] there is no saving VT—but there is also no such
+gloom. For in losing a principle, we gain a general logical study of
+knowledge and learning actions, and their subtle properties. The
+failure of naive verificationism just highlights the intriguing ways
+in which human communication works. (van Benthem 2004: 105)
+ 
+On first sight it seems natural to say that one can believe to
+‘know’ something, even when in fact one does not actually
+know it. So believing to know something is philosophically conceived
+to be different from claiming true knowledge. Yet, under the
+assumption that what is known is also believed, this specific
+interplay between modalities for knowledge and belief can lead us into
+trouble if we identify belief with a
+KD45-modality B, and knowledge
+with a S5-modality for K. For
+suppose \(BK\varphi \land \lnot K\varphi\) is assumed. Then, by
+negative introspection of the second conjunct, we derive \(K\lnot
+K\varphi\). But as knowledge implies belief, we derive \(B\lnot
+K\varphi\). This together with the first conjunct \(BK\varphi\) will
+give us, by additivity of belief, \(B(K\varphi \land \lnot
+K\varphi)\). Hence we derive the belief in a contradiction, which is
+not compatible with the assumption of consistency of beliefs (axiom
+D) in
+KD45. This problem is known as the
+paradox of the perfect believer (and also as the Voorbraak
+paradox), as it was originally (but equivalently) described (Voorbraak
+1993) as the derivability of the bridge principle \(BK\varphi
+\rightarrow K\varphi\), which states that a belief in knowing a given
+\(\varphi\) is enough to know \(\varphi\). (The derivation of
+\(BK\varphi \rightarrow K\varphi\) also relies on the negative
+introspection of knowledge, the normality and consistency of beliefs,
+and the bridge principle stating that knowledge implies belief; Gochet
+& Gribomont 2006: 114.)
+After presenting this problem, Voorbraak (1993) proposed to deal with
+it by discarding the bridge principle \(K\varphi \rightarrow
+{B\varphi}\). Another option is to allow inconsistent beliefs (Gochet
+& Gribomont 2006: Section 2.6). Still, a further possible
+solution, closer to the spirit of these notes, is to consider an
+intermediate notion of ’knowledge’ that is not as strong
+as the absolute irrevisable (i.e., irrevocable) notion given by the
+S5 modal operator K. More
+precisely, the proposal in Baltag and Smets (2008) looks at Lehrer’s
+defeasibility theory of knowledge (Lehrer 1990; Lehrer &
+Paxson 1969), and works with the indefeasible (“weak”,
+non-negatively-introspective) knowledge given, in the
+ plausibility models
+ discussed above, by the modality \([\leq]\) (read before also as
+safe belief). Indeed, Lehrer and Stalnaker call this concept
+defeasible knowledge, a form of knowledge that might be
+defeated by false evidence, but cannot be defeated by
+true evidence. The concept satisfies both the truth axiom
+\(([\leq]\varphi \rightarrow \varphi)\) and positive introspection
+\(([\leq]\varphi \rightarrow [\leq][\leq]\varphi)\), but it lacks
+negative introspection; thus, the previous derivation of inconsistent
+beliefs from an agent mistakenly believing that she (defeasibly) knows
+\(\varphi\) \(({B[\leq]\varphi} \land \lnot [\leq]\varphi)\) is no
+longer possible. Instead, it can be easily shown how a belief in
+defeasible knowledge, \({B[\leq]\varphi}\), is equivalent to a simple
+belief, \({B\varphi}\).
+Paraphrasing Fine (2017), a truthmaker is something on the
+side of the world, as a fact or a state of affairs, making true
+something on the side of language or thought, as a statement or a
+proposition. Truthmaking has been an important topic in both
+metaphysics and semantics. For the first, “truthmaking serves as
+a conduit taking us from language or thought to an understanding of
+the world” (Fine 2017: 556); for the second, it provides
+adequate semantics for a given language by establishing how the world
+makes sentences of the language true.
+In Fine (2017), the author explains the basic framework of truthmaker
+(‘exact’) semantics for propositional logic. It is based
+not on possible worlds, but rather on states or
+situations; the crucial difference is that, while a possible
+world settles the truth-value of any possible statement (i.e., given a
+formula and a possible world, the formula is either true or else
+false), a situation might not be enough to decide whether a given
+sentence holds.
+Formally, a state space is a tuple \({\langle S, \sqsubseteq
+\rangle}\) where S is a non-empty set of states and
+\({\sqsubseteq} \subseteq (S \times S)\) is a partial order (i.e., a
+reflexive, transitive and antisymmetric relation), with \(s_1
+\sqsubseteq s_2\) understood as “state \(s_2\) extends state
+\(s_1\)”. It is assumed that any pair of states has a
+least upper bound (i.e., a supremum); formally, for
+any \(s_1, s_2 \in S\) there is \(t_1 \sqcup t_2 \in S\)
+satisfying
+This supremum \(t_1 \sqcup t_2\) (its uniqueness follows from
+\(\sqsubseteq\)’s antisymmetry) can be understood as the
+‘sum’, ‘merge’ or ‘fusion’ of
+states \(t_1\) and \(t_2\), and it provides the crucial tool for
+deciding whether a ‘conjunction’ is the case, as shown
+below.
+A state model is a tuple \({\langle S, \sqsubseteq, V
+\rangle}\) with \({\langle S, \sqsubseteq \rangle}\) a state space and
+\(V:\mathtt{P}\to (\wp(S) \times \wp(S))\) a valuation function
+returning not only set of states that make a given atom p true
+(abbreviated as \(V^+(p))\), but also the set of states that make it
+false (abbreviated as \(V^-(p))\). In principle, given an atom
+p, there needs to be no relation between the two sets. They
+might be overlapping \((V^+(p) \cap V^-(p) \neq \emptyset)\), thus
+yielding a state that makes p both true and false; they might
+be limited \((V^+(p) \cup V^-(p) \neq S)\), thus yielding a state that
+makes p neither true nor false; they might be neither, thus
+being exclusive \((V^+(p) \cap V^-(p) = \emptyset)\) and exhaustive
+\((V^+(p) \cup V^-(p) = S)\), and making the states behave as possible worlds
+with respect to p.
+Given a state model, the relations \(\Vvdash_v\) (verified by a
+state) and \(\Vvdash_f\) (falsified by a state) are defined as
+follows.
+Note the clauses for verifying a conjunction and falsifying a
+disjunction. A state makes a conjunction true if and only if it is the
+fusion of states that verify the respective conjuncts \(\varphi\) and
+\(\psi\). Analogously, a state makes a disjunction false if and only
+if it is the fusion of states that falsify the respective disjuncts
+\(\varphi\) and \(\psi\).
+Truthmaker semantics can be seen from a (multi)modal perspective (van
+Benthem 1989), since a state model \({\langle S, \sqsubseteq, V
+\rangle}\) can be understood as a modal information logic, and thus
+can be described by modal languages. One interesting possibility (van
+Benthem 2018: Section 13) starts by taking two modalities,
+\(\langle\sqsubseteq\rangle\varphi\) and
+\(\langle\sqsupseteq\rangle\varphi\), whose semantic interpretation is
+given in the standard modal way, with the first modality relying on
+the partial order \(\sqsubseteq\), and the second relying on its
+converse
+ \(\sqsupseteq\).[20]
+ Then, one can add a (binary) modality describing least upper
+bound
+and a ‘dual’ one describing the infimum (the
+greatest lower
+ bound)[21]
+With these tools, it is possible to define a faithful translation from
+truthmaker logic into modal information logic (see van Benthem 2018:
+Section 13 for details). This translation brings methods from modal
+logic to the study of truthmaking. More important is the fact that it
+makes truthmaker semantics, a framework that works by providing a new
+meaning to Boolean connectives, completely compatible with classical
+(modal) logic, which keeps standard definitions but extends the
+framework’s expressivity by studying much richer languages.
+We finish this text by returning to the beginning. So, given that
+Ann believes that Bob assumes that \(\underbrace{\textit{Ann
+believes that Bob's assumption is wrong}.}_{\varphi}\) 
+is the case, is \(\varphi\) (“Ann believes that Bob’s
+assumption is wrong”) true or false?
+As explained in Pacuit (2007), in order to show that this situation
+cannot be ‘represented’, the original paper (Brandenburger
+& Keisler 2006) introduces a belief model. This structure
+represents each agent’s beliefs about the beliefs of the other
+agent. More precisely, a belief model is a two-sorted structure, one
+sort for each agent, with each sort representing an epistemic state
+that its agent might have. The model’s first component is its
+domain, given by the union of \(W_a\) and \(W_b\), the disjoint sets
+of states of Ann and Bob, respectively. The model also has a relation
+for each agent, \(R_a\) and \(R_b\), with \(R_auv\) (restricted to \(u
+\in W_a\) and \(v \in W_b)\) read as “in state u, Ann
+considers v possible, and analogous for \(R_bvu\). Again,
+the structure represents each agent’s beliefs about the beliefs
+of the other, so each collection \(\cU_b\) of subsets of \(W_b\) can
+be understood as a language for Ann (the beliefs she might have about
+Bob’s beliefs), and analogous for Bob; a full language is then
+defined as the union of a language for each agent. For the involved
+epistemic attitudes, Ann believes a given \(U \in \cU_b\) if and only
+if the set of states that she considers possible is a subset
+of U. On the other hand, an assumption is understood as the
+strongest belief, so Ann assumes a given \(U \in \cU_a\) if and only
+if the set of states she considers possible is exactly
+U.
+With these tools, it is now possible to make precise the claim that
+the situation described above cannot be represented. A language is
+said to be complete for a belief model if and only if every
+possible statement in a player’s language (i.e., every statement
+in her language that is true in at least one state) can be assumed by
+the player. It is then possible to show, using a diagonal argument,
+that no belief model is complete for ‘its first-order
+language’, i.e., the language containing all first-order
+definable subsets of the model’s domain.

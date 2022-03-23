@@ -1,0 +1,553 @@
+As a branch of logic, obligations came to flourish with European
+medieval logic from the thirteenth century onwards, and they slowly
+vanished when logic as a discipline, a.k.a. ‘scholastic
+logic’ retreated in the early modern times. During the peak
+period in the fourteenth century, many or perhaps even most European
+logicians wrote a dedicated text on obligations (de
+obligationibus). These texts were either stand-alone treatises or
+sections in overall presentations of logic. Of the former kind,
+treatises by Walter Burley (“Treatise on Obligations”,
+written c. 1302; Latin text in Green [1963], English translation in
+Kretzmann and Stump [1988]), Roger Swyneshed (written 1330–35;
+Spade [1977]) and Robert
+ Eland[1]
+ (written 1335–1370; Spade [1980]) have been particularly
+important in shaping the modern understanding of the topic. Of the
+latter kind, for example William Ockham’s Summa logicae
+(written c. 1323; Boehner, Gál, & Brown [1974]) and Paul of
+Venice’s Logica magna (written 1397–98; Ashworth
+[1988]) can be mentioned as outstanding examples.
+The technique of obligations assumes a dialectical setting or even
+something like a game between two persons. This setting is usually
+very succinctly described in the texts themselves. In a nutshell, what
+happens in an obligational disputation is that one person, the
+opponent, is putting forward propositions
+ (propositiones)[2]
+ and another person, the respondent, is expected to give direct
+evaluations of these propositions as they come. There are two main
+answers, granting the proposition or denying it. Only rarely, the
+texts allow other answers like doubting the proposition (see e.g.,
+Uckelman, Maat and Rybalko 2018). The sequence of propositions put
+forward and answered is taken to be a temporal sequence, but most
+authors thought that the truth values of the propositions are not to
+be taken to change during the disputation.
+The sequence of propositions evaluated this way is launched by the
+opponent giving the respondent a specified obligation, in the paradigm
+case that of granting an obviously false proposition. This specified
+obligation must be respected throughout the sequence, regardless of
+how complex the sequence gets. The underlying idea is that although
+the specified obligation relieves the respondent from always following
+truth in the evaluations, the requirement of some kind of logical
+coherence is not suspended.
+These special obligations come in different varieties. Most medieval
+treatments of the branch of logic are divided by discussions of
+different varieties. The most common is called
+‘positio’, or ‘laying down’. In
+‘positio’ a false proposition is laid down at the
+beginning of the disputation, and the respondent remains obligated to
+grant it whenever the opponent puts it forward. Modern attention has
+been mainly on positio. (On ‘sit verum’,
+see Spade 1994–97 and Uckelman 2015.)
+Walter Burley, for example, discusses six kinds of obligations (Green
+1963, Kretzmann and Stump 1988):
+Of these kinds only (1), (2), and (4) are commonly addressed in later
+discussions of the genre, but all of them can be found in texts other
+than Burley’s treatise. However, for a general understanding of
+the technique it does not seem necessary to account for varieties
+other than ‘positio’.
+Almost all the medieval dedicated treatments of obligations proceed
+through giving rules on how the respondent ought to give the
+evaluations, or what is to be granted and what is to be denied. The
+essential rules are based on the idea that each proposition put
+forward must be recognized as ‘relevant’ or
+‘irrelevant’ in relation to the obligation given at the
+beginning. Thus, if the respondent is given as a
+‘positio’ the proposition ‘Plato is
+running’, the proposition ‘Plato is moving’, and
+indeed any proposition following from ‘Plato is running’
+is to be deemed sequentially relevant. Similarly, any proposition
+incompatible with ‘Plato is running’ is to be deemed
+incompatibly relevant: ‘Plato is sitting’ will have to be
+denied. On the other hand, ‘Socrates is running’ is to be
+deemed irrelevant at least if it is put forward immediately after the
+‘positio’, since there is no logical connection
+between Plato and Socrates running.
+The core two rules of ‘positio’ require the
+respondent to grant any sequentially relevant proposition, and to deny
+any incompatibly relevant proposition. These two rules are accepted by
+all authors, but under different interpretations. Since obligational
+disputations are technically constituted by sequences of propositions
+with their respective responses, what is relevant and what is not at a
+particular step need not be determined solely by the
+‘positio’. Also, within the context of
+obligations, it cannot be taken as univocally given how
+‘follows’ (sequitur), or the logical consequence
+relation, is to be understood.
+The core terminology of obligations centers around ‘has to be
+granted’ (est concedendum) and ‘has to be
+denied’ (est negandum). These expressions were widely
+used in medieval European academic texts even outside logic, but
+normally with the implication that things that have to be granted are
+true, and vice versa, what is true must be granted. In obligations
+treatises, both the connection and the contrast of these expressions
+to truth is of special importance. What is true and what has to be
+granted are often not the same thing, because propositions are granted
+as following from the false positio, or on the basis of some
+other special obligation. That the terms ‘has to be
+granted’ and ‘has to be denied’ are used in general
+academic contexts outside obligations can presumably be attributed to
+the fact that medieval academia predominantly thought about arguments
+in a dialectical context. Obligations as such would not always be at
+issue when such terms are used. But it does seem that at least in the
+fourteenth century, obligations as a branch of logic was taken to
+address core aspects of what it means when something has to be granted
+in an argumentative setting.
+The medieval logical genre of sophismata (see the entry on
+ sophismata
+ in this encyclopedia) appears especially relevant to obligations. A
+typical sophism in this sense consists of a case (casus), a
+sophisma sentence, arguments for and against the sophisma sentence
+based on the case, and a solution. The case is often imagined rather
+than real or even genuinely possible. One relatively natural way to
+think of a sophism would thus be to take the case (casus) as
+a positio in the sense of obligational disputations. Indeed,
+Richard Kilvington’s comments of the obligational rules in his
+Sophismata show him thinking that obligational rules regulate
+how one ought to evaluate sentences on the basis of the case
+(casus) in a sophisma. (See Kretzmann & Kretzmann 1990a
+and 1990b.)
+The core structure of an obligational disputation is closely similar
+to what we find from Plato’s dialogues. In a so-called Socratic
+elenchus Socrates is putting forward questions, and most of
+them can be and are answered by ‘yes’ or by
+‘no’. The sequence of questions in effect builds up an
+argument leading to a situation where the person responding to
+Socrates’ questions is often forced to admit the opposite of
+what was put as a starting point in the dialectical encounter. As a
+core background assumption, the person answering has to grant to
+Socrates some propositions because of other propositions that he has
+already granted. In a somewhat implicit form, the obligational
+principle that whatever follows needs to be granted is thus present
+already in the Socratic elenchus. (See e.g., Robinson
+1953)
+There are however very central differences between the medieval
+obligational disputations and the Socratic elenchus. Indeed,
+it seems possible to sum up the similarities as two core ideas:
+The main difference between Socratic elenchus and medieval
+obligational disputations is in what happens at the beginning. While
+Socrates normally challenges his discussion partner on a substantial
+philosophical thesis whose truth would be important to know, there is
+no real issue under scrutiny in obligational disputations. The thesis
+studied in a Socratic elenchus is never known to be obviously
+false, but this is the standard way to start an obligational
+disputation.
+As is well known, Aristotle developed dialectical encounters in a
+strictly theoretical manner in his Topics. One question that
+is still open in the modern scholarship on obligations is to account
+for the role of Aristotle’s Topics in the development
+of the obligations genre in the middle ages. Medieval commentaries on
+Topics do not regularly take up to discuss obligations
+systematically (see Green-Pedersen 1984). One interesting exception is
+Boethius of Dacia’s commentary (written in the 1270s;
+Breen-Pedersen & Pinborg 1976), but the rules that he proposes for
+obligational disputations appear quite different from what we find
+from the mainstream authors of the genre itself (e.g., Burley,
+Swyneshed, and Eland). In any case, even judging on the basis of
+Boethius’ treatment of the technique in the commentary, the
+technique does not seem a direct descendant of the so called
+‘topical’ tradition in logic.
+There is another medieval descendant of the structure of the Socratic
+elenchus arising more directly from the Aristotelian approach
+to the technique in his Topics. During the thirteenth
+century, a number of treatises “On the Modes of Opposing and
+Responding” were written. (Cf. De Rijk 1980,
+Pérez-Ilzarbe 2011). These treatises discuss and develop
+techniques of winning in a disputation, or in other words ways in
+which the opponent can force or trick the respondent into granting the
+opposite of the thesis under dispute, or ways in which the respondent
+can avoid such contradictions. These treatises form an interesting
+parallel to the obligations technique, but even there the core feature
+of obligations – discussing an obviously false thesis – is
+not to be found.
+Aristotle discussed various times (e.g., Prior Analytics and
+Metaphysics) what may happen in reasoning that starts with an
+impossible hypothesis, and these discussions have to be taken into
+account as a second aspect in which obligational disputations have
+roots in Aristotle’s works. When reasoning from an impossible
+hypothesis one is not to worry about truth but about what follows
+logically. This is one of the central technical issues in obligational
+disputations. Discussions concerning an impossible hypothesis have a
+long history that can be traced all the way from Aristotle to the
+Latin medieval period in which obligational disputations properly so
+called were developed. And it can also be pointed out that at the
+earliest stages of the Latin medieval development of obligational
+technique, assuming an impossibility (positio impossibilis)
+was one, or perhaps even the standard kind of obligation to be
+considered. (See Martin 1993; 1997; 2007; Kukkonen 2002; 2005.)
+Judging from texts known to modern scholars, the obligational
+technique seems to have achieved a structured format during the
+thirteenth century, perhaps already in its first half. The oldest
+currently known dedicated treatises on the obligational technique seem
+to be a pair of anonymous treatises edited by L. M. de Rijk as
+The Emmeran Treatise on False Positio and The
+Emmeran Treatise on Impossible Positio. (De Rijk 1974.) De Rijk
+dated the treatises in his edition to the early thirteenth century,
+and there seems to be no reason to doubt this rough date. The rules of
+the technique are in these treatises almost the same as in Walter
+Burley’s Treatise on Obligations,
+which might be taken as the standard bearing treatise, written around
+1302 (Green 1963; Kretzmann and Stump 1988). In terms of historical
+development, the obligational technique belongs to what is often
+called logica moderna, which built on Aristotelian logic but
+took clear distance from the Aristotelian texts themselves.
+According to Walter Burley’s presentation of the obligational
+theory in the species of positio, the respondent faces a
+sequence of propositions that he must either grant or deny, one by
+one. The sequence starts with a positum that is normally a
+false sentence which the respondent has to grant. Then the following
+propositions are evaluated in accordance with what Burley calls the
+essential rules of obligations. Three of these rules can be found from
+practically all medieval discussions of the technique. According to
+them, the positum must be granted if it is put forward,
+anything following from the positum must be granted, and
+anything incompatible with the positum must be denied. (Cf.
+Green 1963, Kretzmann and Stump 1988. Modern discussions of
+Burley’s rules can be found in e.g., Ashworth 1981; Keffer 2001;
+Spade 1982; Spade and Stump 1983; Stump 1985; Yrjönsuuri 1994 and
+2001.)
+In Burley’s formulations the core rules are as follows:
+Already these rules show that the technique (in Burley’s
+version) is aiming at consistency in the answers. He seems to have
+this insight in mind when he gives later in the treatise a
+“useful rule” that “all responses must be directed
+to the same instant”, as if implying that any description of one
+instant of time needs to be consistent.
+The above three basic rules are not sufficient, as they cover only
+what follows from the positum alone or is incompatible with
+it alone. An important part of the obligational technique is to
+understand all propositions put forward in an obligational disputation
+as either relevant (pertinens) or irrelevant
+(impertinens). A proposition that follows or is incompatible,
+is relevant, and others are irrelevant. Relevant propositions are to
+be answered according to their logical status, or in other words
+according to rules 2. and 3. On how to answer irrelevant propositions,
+Burley gives the following rule:
+As Burley carefully explains, “its own quality” means what
+we take its truth value to be. Thus, a proposition known to be true
+must be granted, and one known to be false must be denied. Answering
+with doubt is also possible, according to Burley.
+The rule concerning irrelevant propositions is generally accepted by
+all medieval authors writing on obligations, but in importantly
+different exact versions. We will come back to some of these versions
+in the following, but first we must make clear about Burley’s
+version. He puts special attention to the following question: a
+proposition is relevant if it follows or is incompatible, but follows
+from exactly what, or is incompatible with exactly what? As Burley
+sees it, this relevance must be determined on the basis of all answers
+that have been given in the disputation so far. On the first step
+immediately after the positio, relevance is based on
+following from the positum, or being incompatible with it.
+But suppose the respondent must evaluate some salient irrelevant
+proposition on the first step. Then this answer must be taken into
+account in determining whether a later proposition follows or is
+incompatible in the disputation. That is, the respondent must take
+care not only that he does not deny his positum but that all
+his answers remain consistent as a set.
+Burley formulated these ideas as further clarifications of rules 2.
+and 3., but let us here give them new numbers:
+A crucial effect of these rules is that at every step where an
+irrelevant proposition is answered, the class of relevant propositions
+expands. Burley makes this explicit through a “useful
+rule” that “one must pay special attention to the order
+[of the propositions]”. Something that is irrelevant at the
+first step might not be so anymore later in the disputation.
+Now, consider the following disputation as an example:
+Disputation D1
+According to Burley’s approach, proposition 1 has to be
+evaluated as irrelevant, because it does not follow from the
+positum alone, and because of the first disjunct it is taken
+to be true even if the respondent is not a bishop (apologies to any
+reader actually in Rome). It must therefore be granted. However, this
+answer makes the other disjunct relevant, because the first disjunct
+happens to be the negation of the positum. Thus, Proposition
+2 must be granted. Indeed, by suitable selection of propositions,
+almost anything at all may have to be granted at the later steps of a
+disputation with a false positum. Burley gives a useful rule
+to make this clear: “when a false contingent proposition is
+posited, one can prove any false proposition that is compossible with
+it.” (Kretzmann and Stump 1988, 391.)
+Burley uses the word “compossible”
+(compossibile). It is important to notice that at the time
+Burley was writing, the concept of consistency was not a standard part
+of technical logical language. He and his contemporaries did not speak
+about consistent sets of sentences, because they did not have the
+vocabulary. This seems like a simple reason why Burley never says
+directly and explicitly that all answers must stick to consistency.
+Instead, it seems more probable that building the concept was a part
+of the development in the obligational technique.
+In any case, the above example and the principle that almost anything
+may have to be granted are not problematic in Burley’s eyes.
+This reflects a clear-eyed understanding that obligational
+disputations were not about what is true and what is not, they were
+about logical relationships between sentences.
+Walter Burley’s rules of obligational disputations can be called
+the standard approach, but they were also challenged in the fourteenth
+century discussions. All these challenges may be taken to be directed
+at understanding in what sense the respondent must avoid contradicting
+himself in an obligational disputation.
+Time and modality. When discussing modalities in his
+Ordinatio (I, d. 38, 2), John Duns Scotus rejects a principle
+which he calls an obligational rule, namely that with a false
+positio one must “deny the present instant”. And
+in fact, Walter Burley (writing roughly at the same time) mentions
+this as a valid, useful rule. The reasoning behind the rule is the
+necessity of the present. For example, suppose “you are
+running” is the false positum when you are in fact
+standing in a university hall and participating in an obligational
+disputation. Now, if one considers the possibility that you are
+running, this possibility must according to Burley be referred to some
+other time, because of the necessity of the present. You cannot be
+running now since you are standing now, but afterwards you can of
+course run. (Kretzmann and Stump 1988, 394.)
+Duns Scotus denied the necessity of the present and thought that it
+need not be incoherent to consider actually false propositions as
+possible at the present instant. That you are standing does not
+exclude that you are running is a logical possibility, it only
+excludes actual running. This kind of thinking has been found to
+reflect a major change in how alethic modalities are conceived. After
+Scotus, many thinkers thought of modalities as related to
+conceivability and logic, and not so much as based on being in
+someone’s power, or true at some time or other. That is, the
+possibility of a proposition became taken to be an issue unrelated to
+the flow of time.
+This change is visible in obligations treatises. When Burley mentions
+denying the present instant as a useful rule, he takes up a topic that
+is found in the earlier treatises, but in fact not often in later
+treatises. It looks as if Scotus’ rejection of the rule became
+accepted.
+Counterfactual thinking. Richard Kilvington comments on
+obligations in his Sophismata (S47; Kretzmann & Kretzmann
+1990a; 1990b). In his view, it should not be possible to force the
+respondent to grant any falsities whatsoever, and the order in which
+propositions are put forward ought not to have an effect on their
+evaluation. As Kilvington sees it, the respondent should grant only
+those falsities which would be true if the positum were true.
+Kilvington gives the following example (S47, (q); Kretzmann &
+Kretzmann 1990b, 127–8):
+Disputation D2
+Assuming that the respondent is not in Rome or a bishop both of the
+propositions mentioned in Proposition 1 are false. According
+Burley’s rules, Proposition 1 would have to be granted as
+irrelevant and true. But after having granted Proposition 1, it may
+appear that Proposition 2 follows and must be granted. According to
+Kilvington, that should not be so. Indeed, he goes directly on to
+generally denying Burley’s useful rule that anything false that
+is compossible with the positum may have to be granted. By
+Kilvington’s comparison, the respondent is bound or obligated by
+the positum “you are in Rome” to answer as he
+would if he were in Rome. Thus, he ought not to grant “you are a
+bishop” unless he is a bishop.
+When concluding his discussion of the example, Kilvington describes
+Proposition 1 as one “that is true now and that would not be
+true in virtue of its being in fact as is signified by the
+positum” (S47, (cc); Kretzmann & Kretzmann 1990b,
+131). Kilvington is thus inviting the respondent to think
+counterfactually when defending a false positum, and as he
+continues, he applies this to how one ought to answer when evaluating
+a sophisma. One ought to grant what would be true and deny what would
+be false, given the positum.
+An anonymous treatise De arte obligatoria probably from the
+1330s (edited and translated from a Merton College manuscript in
+Kretzmann & Stump 1985) seems to develop a central aspect of
+Kilvington’s suggestion into a complete set of rules for
+obligational disputations. Just like Kilvington, the anonymous author
+thought that in an obligational disputation the order of the
+propositions ought not influence the answers. The core change to
+Burley’s rules is that rules 5. and 6. above are revised so that
+instead of referring to earlier answers, they must refer to
+propositions which would be true if the positum was true.
+Thus, a proposition must be granted as sequentially relevant, if it
+follows from the positum together with a proposition that
+would be true if the positum were true. Similarly, it has to
+denied as incompatibly relevant if it is incompatible with the
+positum together with a proposition that would be true if the
+positum were true. The result is that all answers must be
+given “in accordance with how it is possible for things to
+be”, or “on the basis of the facts then”, as the
+anonymous author puts it.
+This approach was not followed in later theories of
+obligationes. It may be that obligations were thought of as
+concerned with relations between propositions rather than building a
+description of a possible situation that could be imagined. The
+anonymous author’s approach requires the respondent to imagine
+what the situation would be like if the positum were true and
+give evaluations on the basis of that situation. Thus, the evaluations
+would not be based on the logical relations between the various
+propositions of the disputation itself. If obligational disputations
+were conceived as a tool for examining logical relations between
+propositions, such counterfactual thinking may not be the best way to
+proceed.
+Accepting contradictions. There is also another direction
+into which Kilvington’s comments can be developed. In another
+comment on the example D2 above, Kilvington says that the respondent
+could grant Proposition 1 and deny Proposition 2 (S47, (bb); Kretzmann
+& Kretzmann 1990b, 131). His point is that when the propositions
+‘you are in Rome’ and ‘you are a bishop’ are
+claimed to be similar in truth value, they are mentioned rather than
+used. Given that the meanings of these strings of words is not
+logically necessary, it might be that Proposition 1 (claiming that the
+two mentioned propositions are similar in truth value) has nothing to
+do with the respondent being in Rome or being a bishop. Thus,
+Proposition 2 does not follow from the positum and
+Proposition 1 together.
+This approach is even stronger in a related discussion where
+Kilvington rejects what is nowadays called Tarskian biconditionals, or
+the equivalence between a proposition and the claim that the
+proposition is true. Logically, inferring that you are in Rome from
+the claim that the sentence ‘you are in Rome’ is true is
+valid only if ‘you are in Rome’ means that you are in
+Rome. (S47, (t); Kretzmann & Kretzmann 1990b, 128.)
+It seems that in his treatise on obligationes, Roger
+Swyneshed developed his rules for obligational disputations with an
+approach like this (the text is edited in Spade 1977). Especially
+interesting in this respect is his discussion on impositio,
+or the kind of obligational disputation where a new meaning is given
+to some linguistic entity. According to Swyneshed, even if the
+respondent were obligated by the impositio that ‘you
+are a donkey’ means that God exists, the respondent must deny
+being a donkey. The proposition “‘you are a donkey’
+is true” must however be granted. According to Swyneshed’s
+principle, “because of an impositio of some proposition
+the answer to be given to it is not to be changed” (Spade 1977,
+254). It seems thus that the impositio influences only
+situations where the proposition at issue is mentioned rather than
+used.
+Recent scholarship has found Swyneshed’s rules for
+positio more puzzling (see e.g., Spade 1982; Stump 1981;
+Yrjönsuuri 1994 and 2001). They are very clear in terms of how to
+answer according to them, but it seems very problematic to give a
+sensible interpretation to the set of evaluations to be given
+according to them. Swyneshed simply rejects Burley’s rules 5 and
+6. Just like Kilvington and the above-mentioned anonymous author of
+De arte obligatoria, Swyneshed does not allow the order of
+the propositions to have any effect on the answers. However, he does
+not allow counterfactual considerations either, but rather thinks that
+the respondent must rely on logical relations between the propositions
+in giving the evaluations.
+As Swyneshed recognizes, his rules may lead the respondent into
+granting triads or larger sets of propositions containing
+contradictions. In his formulation, “the conclusion must be
+granted that three incompatible propositions must be granted, and
+four, and so on” (Spade 1977, 274). The sequence of propositions
+in D1 above is an example of this. The respondent cannot according to
+Swyneshed rely on Burley’s rule 5 to grant Proposition 2.
+Instead, the respondent should grant a disjunction but deny both of
+its parts. Also, it may happen that a conjunction must be denied
+despite granting both of its parts. These structural combinations are
+explicitly accepted by Swyneshed (Spade 1977, 257).
+It must be kept in mind that in each case of granting a contradictory
+set by Swyneshed’s rules, at least one evaluation is given on
+the basis of one proposition being relevant, and at least one other
+answer on the basis of that proposition being irrelevant. Thus, if the
+evaluations of irrelevant propositions were not allowed to be mixed
+with evaluations of relevant ones, these contradictions would not
+arise. However, it seems that this is not how Swyneshed thought about
+the rules, since he explicitly allows the contradictions without
+discussing the idea of two domains of interpretation.
+In the context of obligations, Swyneshed does not say that it would be
+acceptable to grant or deny a contradictory pair of propositions in
+the same disputation: he discusses contradictory triads, not pairs.
+However, in his discussion on the Liar’s paradox, he goes as far
+as explicitly accepting that in some cases both contradictories are
+false (cf. Read 2020). This shows that Swyneshed’s understanding
+of what contradictions are and how they behave in logic is somewhat
+outside the logical mainstream. Thus, it may be that further study may
+shed more light on how exactly he thought about allowing
+contradictions in obligational evaluations of sets of
+propositions.
+Historically, it seems that counterfactual thinking as an approach to
+obligations was mainly rejected, but Swyneshed’s approach
+garnered some following. Both of these approaches appear to take issue
+with Burley’s principle that the order of propositions has
+crucial significance in how they are to be evaluated. Since
+Swyneshed’s way of rejecting this principle found some
+followers, this fact may signal that his approach was taken to be
+closer to what really is at issue in obligations as a genre of logic.
+However, generally speaking Burley’s approach became the
+mainstream towards the end of the fourteenth century. Perhaps, taking
+the order of propositions into account was taken to be less
+problematic than Swyneshed’s acceptance of contradictory
+triads.
+If we look at obligational disputations from the modern logical point
+of view, it may appear hard to understand how the sequence of answers
+should be understood. One tempting alternative would be to think that
+the idea would be to describe a counterfactual situation. As pointed
+out above, this may be what Kilvington and the anonymous author were
+aiming at. (See also Spade 1982, 1992, and 1993.) However, the
+mainstream of medieval authors writing on obligations did not accept
+their approach.
+The mainstream understanding of the current research into the
+obligations treatises seems to emphasize in different ways that
+according to the standard approach (exemplified here by Burley’s
+rules) the set of all answers will be consistent. Thus, it may seem
+reasonable to understand obligational disputations as a kind of
+consistency maintenance game. Given that in modern logic the concept
+of a possible world is often understood in terms of what a potentially
+infinite consistent set of sentences describes, the sequence of
+answers in an obligational disputation can perhaps be interpreted as
+an expanding description of a possible world.
+The problem with this interpretation is that it does not fit
+Swyneshed’s rules, which were accepted by some authors as a
+viable alternative to Burley’s approach. As the rules stand, the
+set of all answers cannot be understood as a description of a possible
+world, because it need not be consistent. The set of answers to
+relevant propositions is consistent even according to
+Swyneshed’s rules, but understanding that set as describing a
+possible world runs into the difficulty that that set does not expand
+from the logical closure of the positum, and thus it does not
+describe any possible world more fully than the positum
+alone.
+A crucial feature of the Socratic elenchus is that the
+answerer is led to deny what has already been granted. Avoiding it to
+happen that the respondent denies the positum is a central
+objective in an obligational disputation, and Burley’s rules
+appear to require that this objective is achieved through a consistent
+sequence of answers. Swyneshed allows contradictory triads. In other
+words, the set of answers may become inconsistent but the respondent
+is not allowed to grant any “contradictory incompatible with the
+positum” (Spade 1977, 274). It appears that even in
+Swyneshed’s case a crucial interest is to explicate logical
+relations between the propositions put forward by the opponent, and
+especially as they relate to the positum. As a general
+description of what obligational disputations were about, consistency
+may not be exactly the right word. Perhaps it would be more exact to
+describe obligations as aiming at a dynamic understanding of logical
+relations within a set of propositions.
+The square of opposition was an important tool in Aristotelian logic
+for understanding contradiction and other relations between pairs of
+assertoric predicative propositions formed with the same categorematic
+terms. As has been recognized, John Buridan and other logicians
+expanded this theory to the octagon of opposition to cover also modal
+propositions. Obligational disputations can be understood as an
+expansion into another direction. An obligational disputation
+abstracts from the predication as the standard form of proposition and
+turns from the binary logical relations into examining logical
+relations within a dynamically constructed sequence of propositions.
+(Cf. especially Dutilh Novaes 2005; 2007; 2011; Dutilh Novaes and
+Uckelman 2016; Strobino 2011; Uckelman 2013; Yrjönsuuri 2000;
+2015.)
+In his discussion of obligationes from the very end of the
+fourteenth century, Paul of Venice compares obligations with another
+genre of logic, saying that “the matter of obligations is only
+the matter of consequences in a more subtle style” (Paul of
+Venice in Ashworth 1988, 32). One aspect of what Paul of Venice means
+by this statement is presumably that both obligations and consequences
+are concerned with non-syllogistic logic. To this extent, this
+description of the theory of obligationes seems correct even
+from the modern vantage point. However, it does not seem quite right
+to think that an obligational disputation would try to spell out the
+logical relation between an antecedent and a consequent, or even a set
+of premises and a conclusion. The logical relations considered in an
+obligational disputation are not distinctively binary. It seems that
+they are often approached as logical relations becoming explicit only
+in a dynamic sequence of three or more propositions.

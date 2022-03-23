@@ -1,0 +1,1943 @@
+In this section, we describe the language and logic of the
+second-order predicate calculus. We then extend this calculus with the
+classical comprehension principle for concepts and we introduce and
+explain \(\lambda\)-notation, which allows one to turn open formulas
+into complex names of concepts. Although Frege’s own logic is
+rather different from the modern second-order predicate calculus, the
+latter’s comprehension principle for concepts and
+\(\lambda\)-notation provide us with a logically perspicuous way of
+representing Frege’s Theorem. We shall sometimes remark on the
+differences between the calculus presented below and the calculus that
+Frege developed, but such remarks are not intended to be a scholarly
+guide to the many subtleties involved in understanding Frege’s
+original works.
+The language of the second-order predicate calculus starts with the
+following lists of simple terms:
+The object names and variables denote, or take values in, a domain of
+objects and the \(n\)-place relation names and variables
+denote, or take values in, a domain of \(n\)-place relations.
+Objects and relations are to be regarded as mutually exclusive
+domains: no object is a relation and no relation is an object. When
+giving examples of \(n\)-place relation names or variables for \(n\geq
+2\), we often write \(R, S,\ldots\) instead of writing
+\(P^2,Q^2,\ldots\). 
+From these simple terms, one can define the formulas of the
+language as follows:
+So, for example, \(Pa\), \(Rxy\), etc., are atomic formulas and these
+assert, respectively, that object \(a\) exemplifies the 1-place
+relation \(P\) and that \(x\) and \(y\) stand in the relation \(R\).
+The formulas \(\neg Pa\) and \(Pa \to Rxy\) are molecular formulas,
+and these assert, respectively, that it is not the case that
+\(a\) exemplifies \(P\), and that if \(a\) exemplifies \(P\)
+then \(x\) and \(y\) stand in the relation \(R\). Finally, here
+are some examples of quantified formulas:
+The language we defined above is second-order because the last
+clause in the definition of the formulas sanctions both quantified
+formulas of the form \(\forall x\phi\) and of the form \(\forall
+F\phi\). In what follows, we employ the standard definitions of the
+following formulas:
+The first of the above defines the conjunction \(\phi\) and
+\(\psi\); the second defines the disjunction \(\phi\) or
+\(\psi\); the third defines the biconditional \(\phi\) if and only
+if \(\psi\) (which we often abbreviate as iff); and the
+last defines the existentially quantified formula there is an
+\(\alpha\) such that \(\phi\). It should be noted here that
+instead of using a linear string of symbols to express molecular and
+quantified formulas, Frege developed a two-dimensional notation for
+such formulas. Since we won’t be using Frege’s notation
+for complex formulas in what follows, we need not spend time
+describing it
+ here.[1]
+But even if we put aside Frege’s notation for complex formulas,
+it is important to point out that Frege didn’t use atomic
+formulas of the form \(Px\), \(Rxy\), etc., as we have done. Instead
+of including \(n\)-place relation names and variables among his
+primitive terms, he included primitive function names and variables such
+as \(f\), \(g\), \(h\), …, and used them to
+signify functions. That is, instead of distinguishing objects
+and relations, Frege distinguished objects from
+functions. Though some developments of the modern predicate
+calculus include function terms among the simple terms of the
+language, we have not included them because we shall not need them in
+the development of Frege’s Theorem.
+It is also important to point out that Frege used functional
+application ‘\(f(x)\)’ to form
+complex names in his language and used these names to represent
+natural language statements. To see how, note that Frege would use the
+expression ‘\(f(x)\)’ to denote the value of the function
+\(f\) for the argument \(x\). Since he also recognized two special
+objects he called truth-values (The True and The False), he
+defined a concept to be any function that always maps its
+arguments to truth-values. For example, whereas ‘\(x^{2}
++3\)’ and ‘father-of
+\(x\)’ signify ordinary functions, the expressions ‘\(x\)
+is happy’ (which we might represent as ‘\(Hx\)’) and
+‘\(x \gt 5\)’ signify concepts. The former signifies a
+concept which maps any object that is happy to The True and all other
+objects to The False; the latter signifies a concept that maps any
+object that is greater than 5 to The True and all other objects to The
+False. In this way, ordinary language predications like ‘\(b\)
+is happy’ and ‘4 is greater than 5’, once
+represented in Frege’s language as ‘\(Hb\)’ and
+‘\(4 \gt 5\)’, become names of truth-values.
+For the purposes of understanding Frege’s Theorem, we can think
+of our 1-place relation terms as denoting, or ranging over, Fregean
+concepts. Once we do this, we can take the formula ‘\(
+Hb\)’ to mean that \(b\) falls under the concept being
+happy. But for the purposes of understanding Frege’s
+Theorem, it is not necessary to suppose, with Frege, that concepts
+like being happy are functions from objects to truth values.
+So, in what follows, one should remember that whereas we can interpret
+the atomic formula \(Fx\) to mean either that \(x\) exemplifies
+the 1-place relation (i.e., property) \(F\) or that \(x\) falls under
+the concept \(F\), Frege would understand such formulas as instances
+of functional application. Nevertheless, we’ll henceforth call
+1-place relations concepts. For all practical purposes then,
+we may use the symbols \(F\), \(G\), … as variables ranging
+over concepts and though we sometimes write ‘\(F(x)\)’
+instead of ‘\(Fx\)’ for perspicuity in parsing an
+expression, we should still think of this as a predication.
+Frege also supposed that when a binary function \(f\) (i.e., a
+function of two arguments) always maps the arguments \(x\) and \(y\)
+to a truth value, \(f\) is a relation. So it should be
+remembered that when we use the expression ‘\(Rxy\)’
+(or sometimes
+‘\(R(x,y)\)’) to assert that the objects \(x\) and \(y\)
+stand in the relation \(R\), Frege would say that \(R\) maps the pair
+of objects \(x\) and \(y\) (in that order) to The True. But again,
+this Fregean interpretation is not required for understanding
+Frege’s Theorem. In what follows, we shall sometimes write the
+symbol that denotes a mathematical relation in the usual
+‘infix’ notation; for example, ‘\(\gt\)’ denotes
+the greater-than relation in the expression ‘\(x \gt
+y\)’.
+Finally, it is important to mention that one can add the following
+clause to the definition of the formulas of our second-order
+language so as to include formulas that express identity claims:
+Thus, formulas such as ‘\(x = y\)’ are part of the
+second-order predicate calculus with identity. Frege, too, had
+primitive identity statements; for him, identity is a binary function
+that maps a pair of objects to The True whenever those objects are the
+same object. So whereas we shall suppose that statements like
+‘\(2^{2} = 4\)’ are simply true assertions and statements
+like ‘\(2^{2} = 3\)’ are simply false ones, Frege took
+‘\(2^{2} = 4\)’ to be a name of The True and took
+‘\(2^{2} = 3\)’ to be a name of The False. The statement
+form ‘\(f(x) = y\)’ plays an
+important role in Frege’s axioms and definitions, but we shall
+not need to assert claims of this form in order to derive
+Frege’s Theorem. Instead, we shall assume (a) that identity is
+simply a 2-place relation and (b) that a unary function \(f\) is
+really a relation \(R\) that has the following property: \(Rxy \amp
+Rxz \to y = z\) (i.e., that functions are relations that always relate
+their first argument to at most one second argument). We may call such
+relations functional relations. In other words, when Frege
+asserts \( f(x) = y\), we may represent this as asserting that \(f\)
+is a functional relation \(R\) such that \(Rxy\). This generalizes to
+\( n\)-place relations for \(n\geq2\). For example, where \(+\) is the
+binary addition function of arithmetic, we may represent the
+arithmetic statement \(2+3 = 5\) in our language as a claim of the
+form \(+(2,3,5)\), where \(+\) is taken to be a 3-place functional
+relation that obeys the condition: \(+(x,y,z) \amp +(x,y,w) \to z =
+w\).
+The basic axioms and rules of inference governing statements in our
+second-order language are similar to those of the first-order
+predicate calculus with identity, though they’ve been extended
+to apply to claims involving universal quantifiers binding relation
+variables. Where \(\phi\), \(\psi\), and \(\chi\) are any formulas,
+\(\alpha\) any variable and \(\tau\) any term of the same type as
+\(\alpha\) (i.e., both are object terms or both are \(n\)-place
+relation terms), then the following are the basic axioms and rules of
+second-order logic: 
+In what follows, we shall assume familiarity with the above axioms and
+rules as we derive Frege’s Theorem. As noted, these are
+essentially the same as the axioms for the first-order predicate
+calculus, except for the addition of laws for the second-order
+quantifiers \(\forall F\) and \(\exists F\) that correspond to the
+laws governing the first-order quantifiers \(\forall x\) and \(\exists
+x\).
+Some of the above laws are found explicitly in Gg I, though
+expressed in Frege’s notation. For example, in Gg
+I, §47, we find Frege’s versions of the
+following:
+These are first introduced, however, in Gg I,
+§§18, 20, 25, and 20, respectively.
+Though Frege essentially had a second-order logic in Gg, his
+rules of inference don’t look as familiar, or as simple, as MP
+and GEN. The reason is that Frege’s rules of inference govern
+not only his graphical notation for molecular and quantified formulas,
+but also his special purpose symbols, such as certain lowercase
+letters used as placeholders, certain Gothic letters and letters used
+as bound variables, and various other signs of his system we have not
+yet mentioned. Since Frege’s notation for rules of inference
+will play no role in the discussion that follows, we shall again
+simplify our task by not describing it further.
+The modern second-order predicate calculus includes a
+comprehension principle that effectively guarantees that there
+exists an \(n\)-place relation corresponding to every open formula
+with \(n\) free object variables \(x_1,\ldots,x_n\). We introduce this
+principle by considering the following 1-place case:
+Comprehension Principle for Concepts: 
+\(\exists G \forall x(Gx \equiv \phi)\),  where \(\phi\) is any
+formula in which \(G\) doesn’t occur free. 
+Similarly the following is a Comprehension Principle for 2-place
+Relations: 
+Comprehension Principle for 2-place Relations: 
+\(\exists R\forall x\forall y(Rxy \equiv \phi)\),  where
+\(\phi\) is any formula in which \(R\) doesn’t occur free. 
+Although Frege didn’t explicitly formulate these comprehension
+principles, they are derivable in his system and constitute very
+important generalizations within his system that reveal its underlying
+theory of concepts and relations. We can see these principles at work
+by formulating the following instance of comprehension, where
+‘\(Ox\)’ asserts that \(x\) is odd:
+\(\exists G\forall x(Gx \equiv (Ox \amp x \gt 5))\) 
+This asserts: there exists a concept \(G\) such that for every object
+\(x\), \(x\) falls under \(G\) if and only if \(x\) is odd and greater
+than 5. If our second-order language were extended to include the
+primitive predicates ‘\(O\)’ and ‘\(\gt\)’ and
+the primitive object term ‘5’, then the above instance of
+the Comprehension Principle for Concepts would be an axiom (and hence,
+theorem) of second-order logic.
+Similarly, the following is an instance of the Comprehension Principle
+for Relations: 
+\(\exists R\forall x\forall y(Rxy \equiv (Ox \amp x \gt y))\) 
+This asserts the existence of a relation that objects \(x\) and \( y\)
+bear to one another just in case the complex condition \(Ox \amp x \gt
+y\) holds.
+Logicians nowadays typically distinguish the open formula \(\phi\) in
+which the variable \(x\) is free from the corresponding name of a
+concept. For example, they use the notation \([\lambda x \, Ox \amp x
+\gt 5]\) as the name of the complex concept being an \(x\) such
+that \(x\) is odd and \(x\) is greater than 5 (or, more
+naturally, ‘being odd and greater than 5’). The
+term-forming operator \(\lambda x\) (which we read as ‘being an
+\(x\) such that’) combines with a formula \(\phi\) in which
+\(x\) is free to produce \([\lambda x\,\phi]\). The
+\(\lambda\)-expression is a name of the concept expressed by the
+formula \(\phi\). In what follows, the scope of the variable-binding
+operator \(\lambda x\) in \([\lambda x\,\phi]\) applies to the entire
+formula \(\phi\), no matter how complex, so that instead of writing,
+for example, \([\lambda x\,(Ox \amp x \gt 5)]\), we shall simply
+write: \([\lambda x\, Ox \amp x \gt 5]\).
+This notation can be extended for relations. The expression:
+\([\lambda xy \, Ox \amp x \gt y]\) 
+names the 2-place relation being an \(x\) and \(y\)
+such that \(x\) is odd and \(x\) is greater
+than \(y\).
+It is important to emphasize that Frege didn’t use
+\(\lambda\)-notation. By contrast, he thought that predicative
+expressions such as ‘(\(\, )\) is happy’ are incomplete
+expressions and that the concepts they denoted were
+unsaturated. We need not discuss Frege’s reasons for
+this in this entry, though interested readers may consult his 1892
+essay “Concept and Object”.
+For the purposes of understanding Frege’s Theorem, we only need
+to introduce one axiom that governs \(\lambda\)-notation, namely, the
+principle known as \(\lambda \)-Conversion. Let \(\phi\) be any
+formula and let \(\phi^y_x\) be the result of substituting the
+variable \(y\) for free occurrences of \(x\) everywhere in \(\phi\).
+Then the principle of \(\lambda\)-Conversion is:
+\(\lambda\)-Conversion:
+
+\(\forall y([\lambda x \, \phi]y \equiv \phi^y_x)\) 
+This asserts: for any object \(y\), \(y\) falls under the concept
+\([\lambda x \, \phi]\) if and only if \(y\) is such that
+\(\phi^y_x\). So, using our example, the following is an instance of
+\(\lambda\)-conversion:
+\(\forall y([\lambda x \, Ox \amp x \gt 5]y \equiv Oy \amp y \gt 5)\)
+This asserts: for any object \(y\), \(y\) falls under the
+concept being odd and greater than 5 if and only if \(y\) is
+odd and greater than 5. Note that when the quantified variable \(y\)
+is instantiated to some object term, the resulting instance of
+\(\lambda\)-Conversion is a biconditional. Thus, among the many
+consequences of this axiom we find: 6 falls under the
+concept being odd and greater than 5 if and only if 6 is odd
+and greater than 5 (in this case, the biconditional remains true
+because both sides are false). 
+Some logicians call the rule of inference derived from the
+right-to-left direction of such biconditionals
+‘\(\lambda\)-Abstraction’. For example, the inference from
+the premise: 
+\(O6 \amp 6 \gt 5\) 
+to the conclusion:
+\([\lambda x \, Ox \amp x \gt 5]6\) 
+is justified by \(\lambda\)-Abstraction. (Here we have a case of a
+valid inference in which the premise and the conclusion are both
+false.)
+The principle of \(\lambda\)-Conversion can be generalized, so that it
+governs \(n\)-place \(\lambda\)-expressions as well. Here is the
+2-place case:
+\(\forall z\forall w([\lambda xy\, \phi]zw \equiv \phi^{z,w}_{x,y})\)
+(In this formula \(\phi^{z,w}_{x,y}\) is the result of simultaneously
+substituting \(z\) for \(x\) and \(w\) for \(y\) in \(\phi\).)
+The reader should construct an instance of this principle using our
+example \([\lambda xy \, Ox \amp x \gt y].\)
+It should be noted at this point that instead of using comprehension
+principles, Frege had a distinguished rule in his system that is
+equivalent to such principles, namely, his Rule of Substitution.
+Though Frege’s Rule of Substitution appears to allow the
+substitution of formulas \(\phi\) for free concept variables \(F\) in
+theorems of logic, we can understand this rule in terms of the
+second-order logic we’ve defined as follows: in any theorem of
+logic with a free variable \(F^{n}\), one may both substitute any
+\(n\)-place \(\lambda\)-expression \([\lambda x_{1}\ldots x_{n}\,
+\phi]\) for \(F^{n}\) and then perform \(\lambda\)-conversion. For
+example, in the second-order system we now have, one can infer
+\(\forall x(Ox \amp x \gt 5 \equiv Ox \amp x \gt 5)\) from \(\forall
+y(Fy \equiv Fy)\) by first substituting \([\lambda x \, Ox \amp x \gt
+5]\) for \(F\) and then using \(\lambda\)-Conversion on all the
+resulting subformulas containing the \(\lambda\)-expression that flank
+the \(\equiv\) sign.  Frege’s Rule of Substitution allows one to
+do all this in one step. Readers interested in learning a bit more
+about the connection between the Rule of Substitution and
+Comprehension Principles described above can consult the following
+supplementary document:
+Frege’s Rule of Substitution
+Finally, it is important to point out that the system we have just
+described, i.e., second-order logic with identity and comprehension
+principles, extended with \(\lambda\)-expressions and
+\(\lambda\)-Conversion, is consistent. Its axioms are true even in
+very small interpretations, e.g., ones in which the domain of objects
+contains a single object and each domain of \(n\)-place relations \(
+(n\geq1)\) has just two relations. For example, if the domain of
+objects contains a single object, say b, and the domain of
+1-place relations contains two concepts (i.e., one which b
+falls under and one which nothing falls under), then all of the above
+axioms are true, including the Comprehension Principle for Concepts
+and 1-place \(\lambda\)-Conversion. Even so, the system described
+above requires that every concept has a negation, every pair of
+concepts has a conjunction, every pair of concepts has a disjunction,
+etc. The reader should be able to write down instances of the
+comprehension principle which demonstrate these claims.
+Readers whose main goal is to understand Frege’s Theorem can now
+skip directly to Section 3.
+Though the present section is not required for understanding the proof
+of Frege’s Theorem, we include it so that the reader can get
+some sense of how second-order logic (with comprehension) gives rise
+to Russell’s paradox when one adds Frege’s theory of
+courses-of-values and extensions. Though we shall briefly discuss
+Frege’s notation for courses-of-values, we’ll subsequently
+switch to simpler notation for naming the extensions of concepts. For
+the purposes of this section, let us suppose that we have primitive
+function terms \(f\), \(g\), \(h\), … in our language and that
+functional applications such as \(f(x)\), \(g(y)\), etc., are
+allowed.
+The principle that undermined Frege’s system, Basic Law V, was
+one that attempted to systematize the notions ‘course-of-values
+of a function’ and ‘extension of a concept’. The
+course-of-values of a function \(f\) is something like a set of
+ordered pairs that records the value \(f(x)\) for every argument \(
+x\). For example, the course-of-values of the function father of
+x records, among other things, that Bill Clinton is the value of
+the function when Chelsea Clinton is the argument. The
+course-of-values for the function \(x^2\) records, among other things,
+that the number 4 is the value when the number 2 is the argument, that
+9 is the value when 3 is the argument, etc. When a function \(f\) is a
+concept, Frege called the course-of-values for that concept its
+extension. The extension of a concept is something like the
+set of all objects that fall under the concept, for the extension
+records all of the objects that the concept maps to The True. For
+example, the extension of the concept \(x\) is a positive even
+integer less than 8 is something like the set consisting of the
+numbers 2, 4, and 6.
+Frege introduces primitive notation for courses-of-values in
+Gg I, §9. He switched to the lower case Greek
+letters \(\epsilon\) and \(\alpha\) when writing the names of
+courses-of-values and extensions, and placed smooth breathing marks
+over them to indicate they were variable-binding operators. So:
+\(\stackrel{,}{\epsilon} f(\epsilon)\) 
+and
+\(\stackrel{,}{\alpha}\! g(\alpha)\) 
+designate the course-of-values of the functions \(f\) and \(g\),
+respectively. In this notation, the symbols \(\stackrel{,}{\epsilon}\)
+and \(\stackrel{,}{\alpha}\) bind the object variables \(\epsilon\)
+and \(\alpha\) in the expressions \(f(\epsilon)\) and \(g(\alpha)\),
+respectively, and the resulting expression denotes a
+course-of-values.
+Here is a pair of examples of Frege’s notation for
+courses-of-values. This pair of examples comes from Gg
+I, §9. Frege uses the expression:
+\(\stackrel{,}{\epsilon}\! (\epsilon^{2}- \epsilon)\) 
+to denote the course-of-values of the function represented by the open
+formula:
+\(x^{2} - x\) 
+He also uses:
+\(\stackrel{,}{\alpha}\! (\alpha \cdot (\alpha - 1))\) 
+to denote the course-of-values of the function represented by the open
+formula: 
+\(x \cdot (x - 1)\) 
+Frege then notes that if the functions \(x^{2} - x\) and \(x \cdot (x
+- 1)\) map the same arguments to the same values, then the extensions
+of those two functions are the same, and vice versa. That is, he notes
+that:
+\(\forall x[x^{2}-x = x \cdot (x - 1)]\) 
+holds if and only if: 
+\({\stackrel{,}{\epsilon}}(\epsilon^{2} - \epsilon) =
+{\stackrel{,}{\alpha}} (\alpha \cdot (\alpha - 1))\) 
+This equivalence will become embodied in Basic Law V. Indeed,
+Frege’s formulation of Basic Law V in Gg I,
+§20 can now be represented in our language (temporarily extended
+with function terms and functional application) as follows: 
+Basic Law V:
+
+\(\stackrel{,}{\epsilon}\! f(\epsilon) \eqclose \stackrel{,}{\alpha}\!
+g(\alpha) \equivwide \forall x[f(x) \eqclose g(x)]\) 
+This principle asserts: the course-of-values of the function \(f\) is
+identical to the course-of-values of the function \(g\) if and only if
+\(f\) and g map every object to the same value. [Actually, Frege uses
+an identity sign instead of the biconditional sign as the main
+connective of the principle. The reason he could do this is that, in
+his system, when two sentences are materially equivalent, they
+name the same truth value.] We shall soon see why this
+principle is inconsistent. 
+Since concepts, for Frege, are functions that always map their
+arguments to a truth value, we may introduce some new notation to help
+us represent Frege’s method of forming names of the extensions
+of concepts. This new notation takes advantage of our
+\(\lambda\)-notation for naming concepts, and so allows us to
+introduce a new kind of function term where Frege introduced a
+variable-binding operator.
+Let us stipulate that where \(\Pi\) is any 1-place concept term (name
+or variable), the notation ‘\(\epsilon\Pi\)’ designates
+the extension of the concept \(\Pi\). So, for example, \(\epsilon F\)
+denotes the extension of the concept \(F\). Note that 1-place
+\(\lambda\)-expressions of the form \([\lambda x\,\phi]\) are 1-place
+concept terms, and so \(\epsilon[\lambda x\,\phi]\) is well-formed and
+designates the extension of the concept \([\lambda x\,\phi]\). Thus,
+whereas Frege used \(\stackrel{,}{\epsilon}\) as a variable-binding
+operator that binds an object variable in a formula to produce the
+name of an extension, we are using \(\epsilon\) as a term-forming
+function symbol that applies to 1-place concept terms to produce terms
+denoting, or ranging over, objects. Thus, when \(\epsilon\) is
+prefixed to a concept name, the resulting expression is a name of an
+object, and in particular, a name of the extension of the concept
+denoted by the concept name. When the \(\epsilon\) is prefixed to a
+concept variable, e.g., as in \(\epsilon F\), the resulting expression
+is a kind of complex variable that ranges over extensions: for each
+value of the variable \(F\), \(\epsilon F\) denotes the extension of
+\(F\).
+Here is an example of our notation involving a pair of complex
+concepts. Consider the concept that which when added to 4
+equals 5, or using \(\lambda\)-notation, the following
+concept:
+\([\lambda x \, x+4 = 5]\) 
+We use the following notation to denote the extension of this concept:
+\(\epsilon[\lambda x \, x+4 = 5]\) 
+Now consider the concept that which when added to \(2^{2}\)
+equals 5 (i.e., \([\lambda x~x+2^{2} = 5])\). We use the
+following notation to denote the extension of this concept: 
+\(\epsilon[\lambda x \, x+2^{2} = 5]\) 
+Note that it seems natural to identify these two extensions given that
+all and only the objects that fall under the first concept fall under
+the second. Those readers already familiar with the
+\(\lambda\)-calculus should remember that \(\epsilon[\lambda x~\phi]\)
+denotes an object, that \([\lambda x~\phi]\) denotes a concept, and
+that Frege rigorously distinguished objects and concepts and supposed
+them to constitute mutually exclusive domains.
+If we remember that the extension of a concept is something like the
+set of objects that fall under the concept, then we could replace
+Frege’s talk of ‘extensions’ by talk of
+‘sets’ and use the following ‘set notation’ to
+refer to the set of objects that when added to 4 yield 5 and the set
+of objects that when added to \(2^{2}\) yield 5, respectively: 
+Frege took advantage of his second-order language to define
+what it is for an object to be a member of an extension or set.
+Although Frege used the notation \(x \cap y\) to designate the
+membership relation, we shall follow the more usual practice of using
+\(x\in y\). Thus, the following captures the main features of
+Frege’s definition of membership in Gg I,
+§34:[2]
+\(x\in y \eqdef \exists G (y\eqclose \epsilon G \amp Gx)\) 
+In other words, \(x\) is an element of \(y\) just in case \(x\) falls
+under a concept of which \(y\) is the extension. For example, given
+this definition, one can prove that John is a member of the extension
+of the concept being happy (formally: \(j \in \epsilon H)\)
+from the premise that John falls under the concept being
+happy (‘\(Hj\)’). Here is a simple proof: 
+Some readers may wish to examine a somewhat more complex example, in
+which the above definition of membership is used to prove that 1 \(\in
+\epsilon[\lambda x \, x+2^2 = 5]\) given the premise that \( 1+2^{2} =
+5\).
+ (A More Complex Example)
+Before we turn to Basic Law V, it is important to mention an important
+fact about our representation of Frege’s system, in which
+we’ve introduced the term-forming operator \(\epsilon\) into
+second-order logic with identity. The resulting system has the
+following principle, which asserts that every concept has an
+extension, as a theorem:
+Existence of Extensions:
+
+\(\forall G\exists x(x = \epsilon G)\) 
+To see that this is derivable given our work thus far, recall line 2
+of the proof in the above example: the laws of identity allow us to
+assert that:
+\(\epsilon F = \epsilon F\) 
+In second-order logic with identity, this is an instance of \(x = x\)
+(strictly speaking, one first derives \(\forall x(x = x)\) from the
+axiom \(x = x\) by GEN, and then instantiates the universally
+quantified variable \(x\) to \(\epsilon F\)). So, by existential
+generalization, it follows that:
+\(\exists x(x = \epsilon F)\) 
+But now the Existence of Extensions principle follows by universal
+generalization on the concept variable \(F\). Thus, simply by adding a
+term-forming operator such as \(\epsilon\) to classical logic with
+identity, it is provable that every concept gets correlated with an
+extension. Basic Law V will not only imply, but also place a condition
+on, this correlation.
+We can now represent the special case of Frege’s Basic Law V
+that applies to concepts, using our \(\epsilon\) notation:
+Basic Law V (Special Case):
+
+\(\epsilon F\eqclose \epsilon G \equivwide \forall x(Fx \equiv Gx)\)
+In this special case, Basic Law V asserts: the extension of the
+concept \(F\) is identical to the extension of the concept \(G\) if
+and only if all and only the objects that fall under \(F\) fall under
+\(G\) (i.e., if and only if the concepts \(F\) and \(G\) are
+materially equivalent). In more modern guise, Frege’s Basic Law
+V asserts that the set of \(F\)s is identical to the set of \(G\)s if
+and only if \(F\) and \(G\) are materially equivalent:
+\(\{x\mid Fx\}\eqclose \{y\mid Gy\} \equivwide \forall z(Fz \equiv
+Gz)\) 
+The example discussed above can now be seen as an instance of Basic
+Law V:
+This asserts that the extension of the concept that which added
+to 4 yields 5 is identical to the extension of the
+concept that which added to \(2^{2}\) yields 5 if
+and only if all and only the objects that when added to 4 yield 5 are
+objects that when added to \(2^{2}\) yield 5.
+There are two important corollaries to Law V that play a role in what
+follows: the Law of Extensions and the Principle of Extensionality.
+The Law of Extensions (cf. Gg I, §55, Theorem 1)
+asserts that an object is a member of the extension of a concept if
+and only if it falls under that concept:
+Law of Extensions:
+
+\(\forall F \forall x(x \in\epsilon F \equiv Fx)\) 
+ (Derivation of the Law of Extensions)
+Basic Law V also correctly implies the Principle of Extensionality.
+This principle asserts that if two extensions have the same members,
+they are identical. Let us define ‘\(x\) is an
+extension’ as follows:
+\(\mathit{Extension}(x) \eqdef \exists F (x = \epsilon F)\) 
+Then we may formally represent and derive the principle of
+extensionality as follows:
+Principle of Extensionality:
+
+\(\mathit{Extension}(x) \amp \mathit{Extension}(y) \to [\forall z(z
+\in x\equiv z\in y) \to x\eqclose y]\) 
+ (Derivation of the Principle of Extensionality)
+The above facts about Basic Law V will be used in the next subsections
+to show why it may not be consistently added to second-order
+logic with comprehension. Frege was made aware of the inconsistency by
+Bertrand Russell, who sent him a letter formulating
+‘Russell’s Paradox’ just as the second volume of
+Gg was going to press. Frege quickly added an
+Appendix to the second volume, describing two distinct ways of
+deriving a contradiction from Basic Law V. He also suggested a way of
+repairing Law V, but Quine (1995) later showed that such a repair was
+disastrous, since it would force the domain of objects to contain at
+most one object.
+In the next subsections, we describe the two ways of deriving a
+contradiction from Basic Law V that Frege described in the Appendix to
+Gg. The first establishes the contradiction directly, without
+any special definitions. The second deploys the membership relation
+and more closely follows Russell’s Paradox. As we shall see, the
+following combination is a volatile mix: (a) the Comprehension
+Principle for concepts, which ensures that there is a concept
+corresponding to every formula with free variable \(x\), (b) the
+Existence of Extensions principle, which ensures every concept is
+correlated with an extension, and (c) Basic Law V, which ensures that
+the correlation of concepts with extensions behaves in a certain
+way.
+In the Appendix to Gg II, Frege shows that a
+contradiction can be derived from Basic Law V once we formulate the
+concept being an x that is the extension of some concept which x
+doesn’t fall under. We may use the following
+\(\lambda\)-expression to represent this concept: 
+\([\lambda x \, \exists F (x\eqclose \epsilon F \amp \neg Fx)]\) 
+We know that there exists such a concept, since the open formula in
+the scope of \(\lambda x\) can be used in the Comprehension Principle
+for Concepts. Now by the Existence of Extensions principle, the
+following concept exists and is correlated with it: 
+\(\epsilon[\lambda x \, \exists F(x\eqclose \epsilon F \amp \neg
+Fx)]\) 
+It can now be proved that this extension falls under the concept
+\([\lambda x \, \exists F(x\eqclose \epsilon F \amp \neg Fx)]\) if and
+only if it does not. 
+ (First Derivation of the Contradiction.)
+ 
+In the Appendix to Gg II, Frege also explains how
+Basic Law V implies the existence of the paradoxical Russell set. We
+can represent his reasoning as follows. From the Law of Extensions
+(which was derived from Basic Law V above), one can establish a Naive
+Comprehension Axiom for Extensions in three simple steps. First we
+instantiate the Law of Extensions to the free variable \(F\), to
+yield:
+\(\forall x(x \in \epsilon F\equiv Fx)\) 
+By existentially generalizing on \(\epsilon F\), it follows that:
+\(\exists y\forall x(x \in y \equiv Fx)\) 
+Now at this point, we may universally generalize on the variable \(F\)
+to get the following second-order Naive Comprehension Axiom for
+extensions, which asserts that for every concept \(F\), there is an
+extension which has as members all and only the objects that fall
+under \(F\):
+Naive Comprehension Axiom for Extensions:
+
+\(\forall F\exists y\forall x(x\in y \equiv Fx)\) 
+The Naive Comprehension Axiom gives rise to Russell’s Paradox
+once we instantiate the quantified variable \(F\) to the concept
+\([\lambda z \, z\notinclose z]\), where \(z \notinclose z\) simply
+abbreviates \(\neg(z\in z)\), to yield:
+\(\exists y\forall x(x\inclose y \equiv [\lambda z \, z\notinclose
+z]x)\) 
+By \(\lambda\)-Conversion, this is equivalent to:
+\(\exists y\forall x(x\inclose y \equiv x \notinclose x)\) 
+(Note: Frege could have reached this last result in one step from
+\(\exists y\forall x(x\inclose y \equiv Fx)\) using his Rule of
+Substitution.)
+The contradiction now goes as follows. Let \(b\) be such an object
+asserted to exist by the claim we just derived. So we know: 
+\(\forall x(x\inclose b \equiv x\notinclose x)\) 
+But we can now instantiate the universally quantified variable to the
+object \(b\) to yield the following contradiction: 
+\(b\inclose b \equiv b\notinclose b\) 
+(See the entry
+ on Russell’s Paradox.)
+We’ve now reconstructed the inconsistency in Frege’s
+system by representing his logic and Basic Law V in a modern system of
+second-order logic. Philosophers have diagnosed the inconsistency in
+various ways, and it is safe to say that the matter is still somewhat
+controversial. In this subsection, we discuss only the basic elements
+of the problem. Most philosophers and logicians agree that the reason
+second-order logic can’t be extended by Basic Law V is that the
+resulting system requires the impossible situation in which the domain
+of concepts has to be strictly larger than the domain of extensions
+while at the same time the domain of extensions has to be as large as
+the domain of concepts.
+To analyze the inconsistency in more detail, consider
+an extensional model of concepts, in which the material
+equivalence of concepts \(F\) and \(G\) serves as both necessary and
+sufficient conditions for the identity of \(F\) and \(G\), i.e., in
+which \(F = G \equiv \forall x(Fx \equiv Gx)\).  So, given this
+understanding, if it is not the case that \(F\) and \(G\) are
+materially equivalent, then \(F\) and \(G\) are distinct concepts; and
+if \(F\) and \(G\) are distinct concepts, then they are not materially
+equivalent.
+With this extensional view of concepts in mind, we can see how a
+paradox is engendered. Recall first that the Existence of Extensions
+principle correlates each concept \(F\) with an extension \(\epsilon
+F\). Each direction of Basic Law V requires that this correlation have
+certain properties. We shall see, for example, that the right-to-left
+direction of Basic Law V (i.e., Va) requires that no concept gets
+correlated with two distinct extensions. [Frege uses the label
+‘Vb’ to designate the left-to-right direction of Basic Law
+V, and uses ‘Va’ for a variant of the right-to-left
+direction. See, for example, Gg I, §52. However,
+many commentators use ‘Va’ to designate the left-to-right
+direction. We shall follow Frege’s use, since that will make
+sense of his Appendix to Gg II, in which he discusses
+the paradoxes by discussing Vb and Va.] We may represent Frege’s
+Va as follows:
+Basic Law Va:
+
+\(\forall x(Fx \equiv Gx) \to\epsilon F = \epsilon G\) 
+So the contrapositive asserts that if \(\epsilon F \neq \epsilon G\),
+then \(\neg \forall x(Fx \equiv Gx)\).  But in the case where the
+material equivalence of \(F\) and \(G\) is a necessary condition for
+\(F = G\), i.e., in the case where \(\neg \forall x(Fx \equiv Gx)\)
+implies \(F \neq G\), then Va implies that if \(\epsilon F \neq
+\epsilon G\), then \(F \neq G\), i.e., that whenever the extensions of
+\(F\) and \(G\) differ, the concepts with which they are correlated,
+namely \(F\) and \(G\), differ. This means that the correlation
+between concepts and extensions that Basic Law V sets up must be a
+function – no concept gets correlated with two distinct
+extensions (though for all Va tells us, distinct concepts might get
+correlated with the same extension). Frege noted (in the Appendix
+to Gg II) that this direction of Basic Law V
+doesn’t seem problematic. 
+However, the left-to-right direction of Basic Law V (i.e., Vb) is more
+serious. We may represent Vb as follows:
+Basic Law Vb:
+
+\(\epsilon F = \epsilon G \to\forall x(Fx \equiv Gx)\) 
+So the contrapositive asserts that if \(\neg \forall x(Fx \equiv Gx)\)
+then \(\epsilon F \neq \epsilon G\).  But in the case where the
+material equivalence of \(F\) and \(G\) is a sufficient condition for
+\(F = G\), i.e., in the case where \(F \neq G\) implies \(\neg \forall
+x(Fx \equiv Gx)\), then Vb implies \(F \neq G \to \epsilon F \neq
+\epsilon G\), i.e., that if concepts \(F\) and \(G\) differ, the
+extensions of \(F\) and \(G\) differ. So, the correlation that Basic
+Law V sets up between concepts and extensions will have to be
+one-to-one; i.e., it correlates distinct concepts with distinct
+extensions. Since every concept is correlated with some extension,
+there have to be at least as many extensions as there are
+concepts.
+But the problem is that second-order logic with Basic Law V as a
+whole requires that there be more concepts than
+extensions. The requirement that there be more concepts than
+extensions is imposed jointly by the Comprehension Principle for
+Concepts and the new significance this principle takes on in
+the presence of Basic Law V. The Comprehension Principle for Concepts
+asserts the existence of a concept for every condition on objects
+expressible in the language. Now although it may seem that this
+principle, in and of itself, forces the domain of concepts to be
+larger than the domain of objects, it is a model-theoretic fact that
+there are models of second-order logic with the Comprehension
+Principle for Concepts (but without Basic Law V) in which the domain
+of concepts is not larger than the domain of
+ objects.[3]
+ However, the addition of Basic Law V to Frege’s system forces
+the domain of concepts to be larger than the domain of objects (and so
+larger than the domain of extensions), due to the endless cycle of new
+concepts that arise in connection with the new extensions contributed
+by Basic Law V. However, as we saw in the last paragraph, Vb requires
+that there be at least as many extensions as there are concepts.
+Thus, the addition of Basic Law V to second-order logic implies an
+impossible situation in which the domain of concepts has to be
+strictly larger than the domain of extensions while at the same time
+the domain of extensions has to be as large as the domain of
+concepts.
+Recently, there has been a lot of interest in discovering ways of
+repairing the Fregean theory of extensions. The traditional view is
+that one must either restrict Basic Law V or restrict the
+Comprehension Principle for Concepts. Recently, Boolos (1986, 1993)
+developed one of the more interesting suggestions for revising Basic
+Law V without abandoning second-order logic and its comprehension
+principle for concepts. On the other hand, there have been many
+suggestions for restricting the Comprehension Principle for Concepts.
+The most severe of these is to abandon second-order logic (and the
+Comprehension Principle for Concepts) altogether. Schroeder-Heister
+(1987) conjectured that the first-order portion of Frege’s
+system (i.e., the system which results by adding Basic Law V to the
+first-order predicate calculus) was consistent and this was proved by
+T. Parsons (1987) and Burgess
+ (1998).[4]
+ Heck (1996), Wehmeier (1999), Ferreira & Wehmeier (2002), and
+Ferreira (2005) consider less drastic moves. They investigate systems
+of second-order logic which have been extended by Basic Law V but in
+which the Comprehension Principle for Concepts is restricted in some
+way. See also Anderson & Zalta (2004) and Antonelli & May
+(2005) for different approaches to repairing Frege’s system. See
+Fine (2002) for a discussion of the limits of Frege’s method and
+see Burgess (2005) for a good general overview.
+We will not discuss the above research further in the present entry,
+for none of these alternatives have achieved a clear consensus.
+Instead, we focus on the theoretical accomplishment revealed by
+Frege’s work in Gg. As noted in the
+Introduction, Frege validly proved a rather deep fact about the
+natural numbers notwithstanding the inconsistency of Basic Law V. He
+derived the Dedekind/Peano axioms for number theory in second-order
+logic from Hume’s Principle (which was briefly mentioned above
+and which will be discussed in the next section). But this fact went
+unnoticed for many years. Though Geach (1955) claimed such a
+derivation was possible, C. Parsons (1965) was the first to note that
+Hume’s Principle was powerful enough for the derivation of the
+Dedekind/Peano axioms. Though Wright (1983) actually carried out most
+of the derivation, Heck (1993) showed that although Frege did use
+Basic Law V to derive Hume’s principle, his (Frege’s)
+subsequent derivations of the Dedekind/Peano axioms of number theory
+from Hume’s Principle never made an essential appeal to
+Basic Law V. Since Hume’s Principle can be consistently added to
+second-order logic, we may conclude that Frege himself validly derived
+the basic laws of number theory. It will be the task of the next few
+sections to explain Frege’s accomplishments in this regard. We
+will do this in two stages. In §3 we study Frege’s attempt
+to derive Hume’s Principle from Basic Law V by analyzing
+cardinal numbers as extensions. Then, we put this aside in §4 and
+§5 to examine how Frege was able to derive the Dedekind/Peano
+axioms of number theory from Hume’s Principle alone.
+Cardinal numbers are the numbers that can be used to answer the
+question ‘How many \(\ldots\) are there?’, and Frege
+discovered that such numbers bear an interesting relationship to the
+natural numbers. Frege’s insights concerning this relationship
+trace back to his work in Gl, in which the notion of
+an extension played very little role. The seminal idea of
+Gl §46 was the observation that a statement of
+number (e.g., “There are eight planets”) is an assertion
+about a concept. To explain this idea, Frege noted that one and the
+same external phenomenon can be counted in different ways; for
+example, a certain external phenomenon could be counted as 1 army, 5
+divisions, 25 regiments, 200 companies, 600 platoons, or 24,000
+people. Each way of counting the external phenomenon corresponds to a
+manner of its conception. The question “How many are
+there?” is only properly formulated as the question “How
+many \(F\)s are there?” where a concept \(F\) is supplied. On
+Frege’s view, the statements of number which answer such
+questions (e.g., “There are \(n\) \(F\)s”) tell us
+something about the concept involved. For example, the statement
+“There are eight planets in the solar system” tells us
+that the ordinary concept planet in the solar system falls
+under the second-level numerical concept being
+exemplified by eight objects. 
+In Gl, Frege then moves from this realization, in which
+statements of numbers are analyzed as predicating second-level
+numerical concepts of first-level concepts, to develop an account of
+the cardinal and natural numbers as ‘self-subsistent’
+objects. He introduces a ‘cardinality operator’ on
+concepts, namely, ‘the number belonging to the concept \(
+F\)’, which designates the cardinal number which numbers the
+objects falling under \(F\). In what follows, we say this more simply
+as ‘the number of \(F\)s’ and use the simple notation
+‘\(\#F\)’. Note that the operator # behaves like the
+\(\epsilon\) operator – when it is prefixed to a concept name
+like planet (\(P\)), then \(\#P\) (“the number of
+planets”) denotes an object; when it is prefixed to a variable
+like \(F\), then \(\# F\) ranges over the domain of objects (for each
+concept that \(F\) can take as a value, \(\#F\) denotes an object
+relative to that concept). Frege offers both an implicit (i.e.,
+contextual) and an explicit definition of this operator in
+Gl. Both of these definitions require a preliminary
+definition of when two concepts \(F\) and \(G\) are in one-to-one
+correspondence or ‘equinumerous’. The notion of
+equinumerosity plays an important and fundamental role in the
+development of Frege’s Theorem. After developing the definition
+of equinumerosity, we then discuss Frege’s implicit and explicit
+definition of the number of \(F\)s. Only the former is needed for the
+proof of Frege’s Theorem, however.
+In order to state the definition of equinumerosity, we shall employ
+the well-known logical notion ‘there exists a unique \(x\) such
+that \(\phi\)’. To say that there exists a unique \(x\) such
+that \(\phi\) is to say: there is some \(x\) such that \(\phi\), and
+anything \(y\) which is such that \(\phi\) is identical to \(x\). In
+what follows, we use the notation ‘\(\exists!x\phi\)’ to
+abbreviate this notion of a formula being uniquely satisfied, and we
+define it formally as follows (where again, \(\phi^y_x\) is the result
+of substituting \(y\) for the free occurrences of \(x\) in \(\phi\):
+\(\exists!x\phi \eqdef \exists x[\phi \amp\forall y(\phi^y_x \to y =
+x)]\) 
+Now, in terms of this logical notion of unique existence, we can state
+a definition of equinumerosity that is weaker than the one Frege gives
+in Gl (§§71, 72) but which nevertheless does the
+job:[5]
+In other words, \(F\) and \(G\) are equinumerous just in case there is
+a relation that establishes a one-to-one correspondence between the
+\(F\)s and the \(G\)s. If we let ‘\(F \approx G\)’ stand
+for equinumerosity, then the definition of this notion can be rendered
+formally as follows: 
+To see that Frege’s definition of equinumerosity works
+correctly, consider the following two examples. In the first example,
+we have two concepts, \(F\) and \(G\), that are equinumerous:
+Figure 1
+Although there are several different relations \(R\) which demonstrate
+the equinumerosity of \(F\) and \(G\), the particular relation used in
+Figure 1 is:
+\(R_{1} = [\lambda xy \, (x\eqclose a\amp y\eqclose f) \lor (x\eqclose
+b \amp y\eqclose g) \lor (x\eqclose c\amp y\eqclose e)]\) 
+It is a simple exercise to show that \(R_{1}\), as defined, is a
+‘witness’ to the equinumerosity of \(F\) and \(G\)
+(according to the definition).
+In Figure 2, we have two concepts that are not equinumerous:
+Figure 2
+In this example, no relation \(R\) can satisfy the definition of
+equinumerosity.
+Given the discussion so far, it seems reasonable to suggest that
+concepts \(F\) and \(G\) will be equinumerous whenever the number of
+objects falling under \(F\) is identical to the number of objects
+falling under \(G\). This suggestion will be codified by Hume’s
+Principle. However, before discussing this principle, the reader
+should convince him- or herself of the following four facts: (1) that
+the material equivalence of two concepts implies their equinumerosity,
+(2) that equinumerosity is reflexive, (3) that equinumerosity is
+symmetric, and (4) that equinumerosity is transitive. In formal terms,
+the following facts are provable:
+Facts About Equinumerosity:
+
+1. \(\forall x(Fx \equiv Gx) \to F\apprxclose G \)
+
+2. \(F \approx F\)
+
+3. \(F\apprxclose G \to G\apprxclose F\)
+
+4. \(F\apprxclose G \amp G\apprxclose H \to F\apprxclose H\) 
+The proofs of these facts, in each case, require the identification of
+a relation that is a witness to the relevant equinumerosity claim. In
+some cases, it is easy to identify the relation in question. In other
+cases, the reader should be able to ‘construct’ such
+relations (using \(\lambda\)-notation) by considering the examples
+described above. Facts (2) – (4) establish that equinumerosity
+is an ‘equivalence relation’ which divides up the domain
+of concepts into ‘equivalence classes’ of equinumerous
+concepts.
+In Gl, Frege contextually defined ‘the number of
+\(F\)s’ in terms of the principle now known as Hume’s
+ Principle:[6]
+Hume’s Principle:
+
+The number of \(F\)s is identical to the number of \(G\)s if and only
+if \(F\) and \(G\) are equinumerous. 
+Using our notation ‘\(\#F\)’ to abbreviate ‘the
+number of \(F\)s’, we may formalize Hume’s Principle as
+follows: 
+Hume’s Principle:
+
+\(\#F\eqclose \#G \equiv F \approx G\) 
+Hume’s Principle is taken to be a contextual definition of
+\(\#F\) when the latter is assumed as a primitive notion governed by
+the principle: the principle doesn’t explicitly define
+‘\(\#F\)’, but contextually defines it by defining
+contexts (in this case, identity statements) in which it
+ occurs.[7]
+ As we shall see, Hume’s Principle is the basic principle upon which
+Frege forged his development of the theory of natural numbers. In
+Gl, Frege sketched the derivations of the basic laws
+of number theory from Hume’s Principle; these sketches were
+developed into more rigorous proofs in Gg I. We will
+examine these derivations in the following sections.
+Once Frege had a contextual definition of \(\#F\), he then defined a
+cardinal number as any object which is the number of some concept:
+\(x \textit{ is a cardinal number} \eqdef \exists F(x = \#F)\) 
+This represents the definition that appears in Gl,
+§72.
+Notice that Hume’s Principle bears an obvious formal resemblance
+to Basic Law V. Both are biconditionals asserting the equivalence of
+an identity among singular terms (the left-side condition) with an
+equivalence relation on concepts (the right-side condition). Indeed,
+both correlate concepts with certain objects. In the case of
+Hume’s Principle, each concept \(F\) is correlated with \(\#F\).
+However, whereas Basic Law V problematically requires that the
+correlation between concepts and extensions be one-to-one,
+Hume’s Principle only requires that the correlation between
+concepts and numbers be many-to-one. Hume’s Principle often
+correlates distinct concepts with the same number. For example, the
+distinct concepts author of Principia Mathematica
+(‘\([\lambda x \, Axp]\)’)
+and positive integer between 1
+and 4 (‘\([\lambda x \, 1\lt x\lt 4]\)’) are
+equinumerous (both have two objects falling under them). So
+\(\#[\lambda x\, Axp]\) = \(\#[\lambda x \, 1\lt x\lt 4]\). Thus,
+Hume’s Principle, unlike Basic Law V, does not require that the
+domain of numbers be as large as the domain of concepts. Indeed,
+several authors have developed models that show Hume’s Principle
+can be consistently added to second-order logic. See the independent
+work of Geach (1976, 446–7), Hodes (1984, 138), Burgess (1984)
+and Hazen (1985).
+[Note: The remaining two subsections are not strictly necessary for
+understanding the proof of Frege’s Theorem. They are included
+here for those who wish to have a more complete understanding of what
+Frege in fact attempted to do. They presuppose the material in
+§2. Readers interested in just the positive aspects of
+Frege’s accomplishments should skip directly to §4.]
+Before we examine the powerful consequences that Frege derived from
+Hume’s Principle, it is worth digressing to describe his attempt
+to define ‘\(\#F\)’ explicitly and to derive Hume’s
+Principle from Basic Law V. The idea behind this attempt was the
+realization that if given any concept \(F\), the notion of
+equinumerosity can be used to define the second-level concept
+being a concept G that is equinumerous to F. Frege found a
+way to collect all of the concepts equinumerous to a given concept
+\(F\) into a single extension. In Gl §68, he
+informally took this to be an extension consisting of first-order
+concepts by stipulating that the number of \(F\)s is the extension of
+the second-level concept: being a first-level concept equinumerous
+to F.
+In terms of the example used at the end of the previous subsection,
+this informal definition identifies the number of the concept
+author of Principia Mathematica as the extension consisting
+of all and only those first-level concepts that are equinumerous to
+this concept; this extension has both \([\lambda x \, Axp]\) and
+\([\lambda x \, 1\lt x\lt 4]\) as members. Frege in fact identifies
+the cardinal number 2 with this extension, for it contains all and
+only those concepts under which two objects fall. Similarly, Frege
+identifies the cardinal number 0 with the extension consisting of all
+those first-level concepts under which no object falls; this extension
+would include such concepts as unicorn, centaur,
+prime number between 3 and 5, etc. Frege’s
+insight here inspired Russell to develop a somewhat similar definition
+in his work, and it is now common to see references to the so-called
+“Frege-Russell definition of the cardinal numbers” as
+classes of equinumerous concepts or
+ sets.[8]
+ Of course, this explicit definition of ‘the number of \(
+F\)s’ stands or falls with a coherent conception of
+‘extension’. We know that Basic Law V does not offer such
+a coherent conception. 
+Frege’s derivations of Hume’s Principle were invalidated
+by the fact that it appeals to the inconsistent Basic Law V.
+Neverthelss, we briefly describe in this subsection, for interested
+readers, Frege’s derivations. In Gl, §73,
+Frege sketches an informal proof of the right-to-left direction of
+Hume’s Principle using the above informal definition of the
+number of \(F\)s. The derivation appeals to the fact that a concept
+\(G\) is a member of the extension of the second-level concept
+concept equinumerous to F if and only if \(G\) is
+equinumerous to \(F\). In other words, the proof relies on a kind of
+higher-order version of the Law of Extensions (described above), the
+ordinary version of which we know to be a consequence of Basic Law
+ V.[9]
+ Here is a reconstruction of Frege’s proof in
+Gl, §73, extended so as to cover both directions
+of Hume’s Principle.
+Reconstruction of the Grundlagen Derivation of Hume’s Principle
+However, in the development of Gg, Frege didn’t
+formulate the extensions of second-level concepts. In Gg,
+extensions do not contain concepts as members but rather
+objects. So Frege had to find another way to express the explicit
+definition described in the previous subsection. His technique was to
+let extensions go proxy for their corresponding concepts. Since a full
+reconstruction of this technique and the proof of Hume’s
+Principle in Gg would constitute a digression for the
+present exposition, we shall describe the details for interested
+readers in a separate document: 
+Reconstruction of the Grundgesetze ‘Derivation’ of Hume’s Principle
+Interestingly, Tennant (2004) and May & Wehmeier (2019)
+point out that in Gg, Frege does not, in actual fact, derive
+Hume’s Principle as a biconditional. Instead, he derives both
+directions separately without combining them or indicating that the
+two directions should be conceived as a biconditional. Finally, as
+noted on several occasions, the inconsistency in Basic Law V
+invalidated Frege’s derivation of Hume’s Principle. But
+Hume’s Principle, in and of itself, is a powerful and consistent
+principle.
+In what follows, we shall suppose that the second-order predicate
+calculus with which we began has been extended with (a) a primitive
+\(\#\) operator, so that we can formulate terms such as \(\#F\) to
+signify ‘the number of \(F\)s’, and (b) a new axiom,
+namely, Hume’s Principle, to govern the new terms. As previously
+mentioned, Frege’s Theorem is that the Dedekind/Peano axioms of
+number theory are derivable as theorems in a second-order predicate
+calculus extended in this way. In this section, we introduce the
+definitions required for the proof of Frege’s Theorem. In the
+next section, we go through the proof. In the final section, we
+conclude with a discussion of the philosophical questions that arise
+when we extend the predicate calculus in this way, and take
+Hume’s Principle as a replacement for Basic Law V.
+Before we turn to the definitions required for the proof of
+Frege’s Theorem, it would serve well to discuss one other group
+of insights underlying Frege’s analysis of numbers. The first is
+that the following series of concepts has a rather interesting
+property:
+The interesting property of this series is that for each concept \(
+C_k\), all and only the numbers of the concepts preceding
+\(C_k\) in the sequence fall under \(C_k\). So, for example, the
+concepts preceding \(C_3\) are \(C_0\), \(C_1\), and \( C_2\).
+Accordingly, all and only the following numbers fall under \(
+C_3:\#C_0, \#C_1\), and \(\#C_2\).
+Frege’ next insight was that these concepts can be used,
+respectively, to define the finite cardinal numbers, as follows:
+This insight, however, led to another. Frege realized that though we
+may identify this sequence of numbers with the natural numbers, such a
+sequence is simply a list: it does not constitute a definition of a
+concept (e.g., natural number) that applies to all and only
+the numbers defined in the sequence. Such a concept is required if we
+are to prove as theorems the following axioms of
+Dedekind/Peano number theory: 
+Moreover, Frege recognized the need to employ the Principle of
+Mathematical Induction in the proof that every number has a successor.
+One cannot prove the claim that every number has a successor
+simply by producing the sequence of expressions for cardinal numbers
+(e.g., the second of the two sequences described above). All such a
+sequence demonstrates is that for every expression listed in the
+sequence, one can define an expression of the appropriate form to
+follow it in the sequence. This is not the same as proving that 
+every natural number has a successor.
+To accomplish these further goals, Frege proceeded
+(Gl, §76, and Gg I, §43)
+by defining the concept \(x\) (immediately) precedes
+\(y\): 
+We may represent Frege’s definition formally in our language as
+follows:
+To illustrate this definition, let us temporarily assume that we know
+some facts about the natural numbers 1 and 2 to show that the
+definition properly predicts that \(\mathit{Precedes}(1,2)\), even
+though we haven’t yet defined these natural numbers. Let the
+expression ‘\([\lambda z \,
+Azp]\)’ denote the concept
+author of Principia Mathematica. Only Bertrand Russell
+(‘\(r\)’) and Alfred Whitehead fall under this concept.
+Let the expression ‘\([\lambda z \, Azp \amp
+z\neqclose r]\)’ denote the concept author of
+Principia Mathematica other than
+Russell.[10]
+Then the following may, for the purposes of this example, be taken as
+facts: 
+If we assemble these truths into a conjunction and apply existential
+generalization in the appropriate places, the result is the definiens
+of the definition of predecessor instantiated to the numbers 1 and 2.
+Thus, if given certain facts about the number of objects falling under
+the certain concepts, the definition of predecessor correctly predicts
+that \(\mathit{Precedes}(1,2)\).
+Frege next defines the relation x is an ancestor of y in the
+R-series. This new relation is called ‘the ancestral of the
+relation R’ and we henceforth designate this relation
+as \(R^*\). Frege first defined the ancestral of a relation R
+in Begr (Part III, Proposition 76), though the word
+‘ancestral’ comes to us from Russell and Whitehead.
+Frege’s phrase for the ancestral is: “\(x\) comes before
+\(y\) in the \(R\)-series”; alternatively, “\(y\) follows
+\(x\) in the \(R\)-series”. (See also Gl, §79,
+and Gg I, §45.) The intuitive idea is easily
+grasped if we consider the relation \(x\) is the father of
+\(y\). Suppose that \(a\) is the father of \(b\), that \(b\) is the
+father of \(c\), and that \(c\) is the father of \(d\). Then
+‘\(x\) is an ancestor of \(y\) in the fatherhood-series’
+is defined so that \(a\) is an ancestor of \(b\), \(c\), and \(d\),
+that \(b\) is an ancestor of \(c\) and \(d\), and that \(c\) is an
+ancestor of \(d\).
+Frege’s definition of the ancestral of R requires a preliminary
+definition:
+F is hereditary in the R-series if and only if every pair of
+\(R\)-related objects \(x\) and \(y\) are such that \(y\) falls under
+\(F\) whenever \(x\) falls under \(F\) 
+In formal terms: 
+\(\mathit{Her}(F,R) \eqabbr \forall x\forall y(Rxy \to (Fx \to Fy))\)
+Intuitively, the idea is that \(F\) is hereditary in the
+R-series if \(F\) is always ‘passed along’ from
+\(x\) to \(y\) whenever \(x\) and \(y\) are a pair of
+R-related objects. (We warn the reader here that the notation
+‘\(\mathit{Her}(F,R)\)’ is merely an abbreviation of a
+much longer statement. It is not a formula of our language
+having the form ‘\(R(x,y)\)’. In what follows, we
+sometimes introduce other such abbreviations.)
+Frege’s definition of the ancestral of \(R\) can now be stated
+as follows:
+x comes before y in the R-series \(\eqdef\) y falls
+under all those R-hereditary concepts F under which
+falls every object to which x is R-related. 
+In other words, \(y\) follows \(x\) in the R-series whenever \(y\)
+falls under every R-hereditary concept \(F\) that is
+exemplified by everything immediately R-related to \(x\). In
+formal terms: 
+\(R^*(x,y) \eqdef \forall F[(\forall z(Rxz \to Fz) \amp
+\mathit{Her}(F,R)) \to Fy]\) 
+For example, Clinton’s father stands in the relation father*
+of (i.e., forefather) to Chelsea because she falls under
+every hereditary concept that Clinton and his brother inherited from
+Clinton’s father. However, Clinton’s brother is not one of
+Chelsea’s forefathers, since he fails to be her father, her
+grandfather, or any of the other links in the chain of fathers from
+which Chelsea descended.
+It is important to grasp the differences between a relation \(R\) and
+its ancestral \(R^*\). Rxy implies \(R^*(x,y)\) (e.g., if
+Clinton is a father of Chelsea, then Clinton is a forefather of
+Chelsea), but the converse doesn’t hold (Clinton’s father
+is a father* of Chelsea, but he is not a father of Chelsea). Indeed, a
+grasp of the definition of \(R^*\) should leave one able to prove the
+following easy consequences, many of which correspond to theorems in
+Begr and
+ Gg:[11]
+Facts About \(R^*\):
+The reader should consider what happens when \(R\) is taken to be the
+relation (immediately) precedes. Appealing to our
+intuitive grasp of the numbers, we can say that it is an instance of
+Fact (1) that if 10 precedes 11, then 10 precedes* 11. Moreover,
+precedes is a witness to Fact 2: that 10 precedes* 12 does not imply
+that 10 precedes 12. The transitivity of precedes* is an instance of
+Fact (7). Below, when we restrict ourselves to the natural numbers, it
+becomes intuitive to think of the difference between precedes and
+precedes* as the difference between immediately precedes and
+less-than. 
+Given the notion of the ancestral of relation \(R\), Frege then
+defines its weak ancestral, which he termed “\(y\) is a member
+of the \(R\)-series beginning with \(x\)” (cf.
+Begr, Part III, Proposition 99; Gl,
+§81, and Gg I, §46):
+In formal terms: 
+\(R^{+}(x,y) \eqdef R^*(x,y) \lor x\eqclose y\) 
+Frege would also read \(R^{+}(x,y)\) as: \(x\) is a member of the
+R-series ending with \(y\). Logicians call \(R^{+}\) the
+‘weak-ancestral’ of \(R\) because it is a weakened version
+of \(R^*\). When we define the natural numbers below, and take \(R\)
+to be precedes, we can intuitively regard its weak ancestral,
+precedes\(^{+}\), as the relation
+less-than-or-equal-to on the natural numbers. 
+The general definition of the weak ancestral of \(R\) yields the
+following facts, many of which correspond to theorems in
+ Gg:[13]
+Facts About \(R^{+}\):
+The proofs of these facts are left as exercises. 
+Frege’s definition of natural number requires one more
+preliminary definition. Frege identified the number 0 as the number of
+the concept being non-self-identical. That is: 
+\(0 \eqdef \#[\lambda x \, x\neq x]\) 
+Since the logic of identity guarantees that no object is
+non-self-identical, nothing falls under the concept being
+non-self-identical. Had Frege’s explicit definition of the
+\(\#F\) worked as he had intended, the number 0 would, in effect, be
+identified with the extension consisting of all those extensions of
+concepts under which nothing falls. However, for the present purposes,
+we may note that 0 is defined in terms of (a) the primitive notion
+‘the number of \(F\)s’ and (b) a concept \(([\lambda x \,
+x\neq x])\) whose existence is guaranteed by our second-order logic
+with identity and comprehension. It is straightforward to prove the
+following Lemma Concerning Zero from this definition of 0: 
+Lemma Concerning Zero:
+
+\(\#F\eqclose 0 \equivwide \neg\exists xFx\) 
+ (Proof of Lemma Concerning Zero)
+Note that the proof appeals to Hume’s Principle and facts about
+equinumerosity.
+Frege’s definition of the concept natural number can
+now be stated in terms of the weak-ancestral of Predecessor:
+x is a natural number if and only if \(x\) is a member of the
+predecessor-series beginning with 0 
+This definition appears in Gl, §83, and
+Gg I, §46 as the definition of ‘finite
+number’. Indeed, the natural numbers are precisely the finite
+cardinals. In formal terms, Frege’s definition becomes: 
+\(Nx ~ \eqdef ~ \mathit{Precedes}^{+}(0,x)\) 
+In what follows, we shall sometimes use the variables \(m\), \(n\),
+and \(o\) to range over the natural numbers. In other words,
+we’ll use formulas of the form \(\forall n(\ldots n\ldots)\) to
+abbreviate formulas of the form \(\forall x(Nx \to \ldots x\ldots)\),
+and use formulas of the form \(\exists n(\ldots n\ldots)\) to
+abbreviate formulas of the form \(\exists x(Nx \amp \ldots
+x\ldots)\).
+Frege’s Theorem is that the five Dedekind/Peano axioms for
+number theory can be derived from Hume’s Principle in
+second-order logic. In this section, we reconstruct the proof of this
+theorem; it can be extracted from Frege’s work using the
+definitions and theorems assembled so far. Some of the steps in this
+proof can be found in Gl. (See the Appendix to Boolos
+1990 for a reconstruction.) Our reconstruction follows Frege’s
+Gg in spirit and in most details, but we have tried
+to simplify the presentation in several places. For a stricter
+description of Frege’s Gg proof, the reader is
+referred to Heck 1993. The following should help prepare the reader
+for Heck’s excellent essay.
+The statement that zero is a natural number is an immediate
+consequence of the definition of natural number:
+Theorem 1:
+
+\(N0\) 
+Proof: It is a simple consequence of the definition of
+‘weak ancestral’ that \(R^{+}\) is reflexive (see Fact 4
+about \(R^{+}\) in our subsection on the Weak Ancestral in §4).
+So \(\mathit{Precedes}^{+}(0,0)\). Hence, by the definition of natural
+number, \(0\) is a natural number.
+It seems that Frege never actually identified this fact explicitly in
+Gl or labeled this fact as a numbered Theorem in
+Gg I.
+It is also a simple consequence of the foregoing that 0 doesn’t
+succeed any natural number. This can be represented formally as
+follows: 
+Theorem 2:
+
+\(\neg\exists x(Nx \amp \mathit{Precedes}(x,0))\)
+Proof: Assume, for reductio, that some number, say
+\(n\), is such that \(\mathit{Precedes}(n,0)\). Then, by the
+definition of predecessor, it follows that there is a concept, say
+\(Q\) and an object, say \(c\), such that \(Qc \amp 0\eqclose \#Q \amp
+n\eqclose \#[\lambda z\, Qz \amp z\neq c]\). But by the Lemma
+Concerning Zero (above), \(0 = \#Q\) implies \(\neg\exists xQx\),
+which contradicts the fact that \(Qc\).
+See Gl, §78, Item (6); and Gg
+I, §109, Theorem 126.
+The fact that no two natural numbers have the same successor is
+somewhat more difficult to prove (cf. Gl, §78,
+Item (5); Gg I, §95, Theorem 89). We may
+formulate this theorem as follows, with \(m\), \(n\), and \(o\) as
+restricted variables ranging over the natural numbers: 
+Theorem 3:
+
+\(\forall m\forall n\forall o[\mathit{Precedes}(m,o)\amp
+\mathit{Precedes}(n,o) \to m = n]\) 
+In other words, this theorem asserts that predecessor is a one-to-one
+relation on the natural numbers. To prove this theorem, it suffices to
+prove that predecessor is a one-to-one relation full stop. One can
+prove that predecessor is one-to-one from Hume’s Principle, with
+the help of the following Equinumerosity Lemma, the proof of which is
+rather long and involved. The Equinumerosity Lemma asserts that when
+\(F\) and \(G\) are equinumerous, \(x\) falls under \(F\), and \( y\)
+falls under \(G\), then the concept object falling under F other
+than x is equinumerous to the concept object falling under G
+other than \(y\). The picture is something like this: 
+Figure 3
+In terms of Figure 3, the Equinumerosity Lemma tells us that if there
+is a relation \(R\) which is a witness to the equinumerosity of \( F\)
+and \(G\), then there is a relation \(R'\) which is a witness to the
+equinumerosity of the concepts that result when you restrict \( F\)
+and \(G\) to the objects other than \(x\) and \(y\), respectively.
+To help us formalize the Equinumerosity Lemma, let \(F^{-x}\)
+abbreviate the concept \([\lambda z \, Fz \amp z\neq x]\) and let
+\(G^{-y}\) abbreviate the concept \( [\lambda z \, Gz \amp z \neq
+y]\). Then we have:
+Equinumerosity Lemma:
+
+\(F\apprxclose G \amp Fx \amp Gy \to F^{-x}\apprxclose G^{-y}\) 
+ (Proof of Equinumerosity Lemma)
+Now we can prove that Predecessor is a one-to-one relation from this
+Lemma and Hume’s Principle (cf. Gg I,
+§108): 
+Predecessor is One-to-One:
+
+\(\forall x\forall y\forall z[\mathit{Precedes}(x,z) \amp
+\mathit{Precedes}(y,z) \to x\eqclose y] \) 
+Proof: Assume that both a and b are precedessors of \(c\). By
+the definition of predecessor, we know that there are concepts and
+objects \(P\), \(Q\), \(d\), and \(e\), such that:
+But if both \(c = \#P\) and \(c = \#Q\), then \(\#P = \#Q\). So, by
+Hume’s Principle, \(P \approx Q\). So, by the Equinumerosity
+Lemma, it follows that \(P^{-d} \approx Q^{-e}\). If so, then by
+Hume’s Principle, \(\#P^{-d} = \#Q^{-e}\). But then, \(a =
+b\).
+So, if Predecessor is a one-to-one relation, it is a one-to-one
+relation on the natural numbers. Therefore, no two numbers have the
+same successor. This completes the proof of Theorem 3.
+It is important to mention here that not only is Predecessor a
+one-to-one relation, it is also a functional relation:
+Predecessor is a Functional Relation:
+
+\(\forall x\forall y\forall z[\mathit{Precedes}(x,y)\amp
+\mathit{Precedes}(x,z)\to y\eqclose z]\) 
+This fact can be proved with the help of a kind of converse to the
+Equinumerosity Lemma: 
+Equinumerosity Lemma ‘Converse’:
+
+\(F^{-x}\apprxclose G^{-y} \amp Fx \amp Gy \towide F\apprxclose G\)
+We leave the proof of the Equinumerosity Lemma ‘Converse’
+and the proof of Predecessor is a Functional Relation as exercises for
+the reader.
+Let us say that a concept \(F\) is hereditary on the natural
+numbers just in case every ‘adjacent’ pair of numbers
+\(n\) and \(m\) (\(n\) preceding \(m\)) is such that \(m\) falls under
+\(F\) whenever \(n\) falls under \(F\), i.e.,
+\(\mathit{HerOn}(F,N) \eqabbr \forall n\forall
+m[\mathit{Precedes}(n,m)\to (Fn \to Fm)]\) 
+Then we may state the Principle of Mathematical Induction as follows:
+if (a) \(0\) falls under \(F\) and (b) \(F\) is hereditary on the
+natural numbers, then every natural number falls under \(F\). In
+formal terms:
+Theorem 4: Principle of Mathematical
+Induction:
+
+\(F0 \amp \mathit{HerOn}(F,N) \to \forall n Fn\) 
+Frege actually proves the Principle of Mathematical Induction from a
+more general principle that governs any \(R\)-series whatsoever. We
+will call the latter the General Principle of Induction. It asserts
+that whenever a falls under \(F\), and \(F\) is hereditary on the
+\(R\)-series beginning with \(a\), then every member of that
+\(R\)-series falls under \(F\). We can formalize the General Principle
+of Induction with the help of a strict understanding of
+‘hereditary on the \(R\)-series beginning with \(a\)’.
+Here is a definition:
+In other words, \(F\) is hereditary on the members of the \(R\)-series
+beginning with \(a\) just in case every adjacent pair \(x\) and \(y\)
+in this series (with \(x\) bearing \(R\) to \(y\)) is such that \(y\)
+falls under \(F\) whenever \(x\) falls under \(F\). Now given this
+definition, we can reformulate the General Principle of Induction more
+strictly as: 
+General Principle of Induction:
+
+\([Fa \amp \mathit{HerOn}(F, {}^{a}R^{+})] ~\to~ \forall x[R^{+}(a,x)
+\to Fx]\) 
+This is a version of Frege’s Theorem 152 in Gg
+I, §117.
+We may sketch the proof strategy as follows. Assume that the
+antecedent of the General Principle of Induction holds for an
+arbitrarily chosen concept, say \(P\). That is, assume:
+\(Pa \amp \mathit{HerOn}(P, {}^{a}R^{+})\) 
+Now to show \(\forall x(R^{+}(a,x) \to Px)\), pick an arbitrary
+object, say \(b\), and further assume \(R^{+}(a,b)\). We then simply
+have to show \(Pb\). We do this by invoking Fact (7) about \(R^{+}\)
+(in our subsection on the Weak Ancestral in §4). Recall that Fact
+(7) is: 
+\([Fx \amp R^{+}(x,y) \amp \mathit{Her}(F,R)] \to Fy\) 
+This is a theorem of logic containing the free variables \(x\), \(y\),
+and \(F\). First, we instantiate \(x\) and \(y\) to \(a\) and \(b\),
+respectively. Then, we instantiate \(F\) to the concept \([\lambda z
+\, R^{+}(a,z) \amp Pz]\) and apply \(\lambda\)-Conversion (though
+Frege could simply use his Rule of Substitution to achieve the same
+inference). The concept being instantiated for \(F\) is the concept
+member of the R-series beginning with a and which falls under
+P. The result of instantiating the free variables in Fact (7) and
+then applying \(\lambda\)-Conversion yields a rather long conditional,
+with numerous conjuncts in the antecedent and the claim that \(Pb\) in
+the consequent. Thus, if the antecedent can be established, the proof
+is done. For those following along with pencil and paper, all of the
+conjuncts in the antecedent are things we already know, with the
+exception of the claim that \([\lambda z \, R^{+}(a,z)\amp Pz]\) is
+hereditary on \(R\). However, this claim can be established
+straightforwardly from things we know to be true (and, in particular,
+from facts contained in the antecedent of the Principle we are trying
+to prove, which we assumed as part of our conditional proof). The
+reader is encouraged to complete the proof as an exercise. For those
+who would like to check their work, we give the complete Proof of the
+General Principle of Induction here: 
+Proof of the General Principle of Induction
+Now to derive Principle of Mathematical Induction from the General
+Principle of Induction, we formulate an instance of the latter by
+setting \(a\) to \(0\) and \(R\) to Precedes:
+\({[}F0 \amp \mathit{HerOn}(F, {}^{0}\mathit{Precedes}^{+}){]} \towide
+\forall x{[}\mathit{Precedes}^{+}(0,x) \to Fx{]}\) 
+When we expand the defined notation for \(\mathit{HerOn}\), substitute
+the notation \(Nx\) and \(Ny\) for \(\mathit{Precedes}^{+}(0,x)\) and
+\(\mathit{Precedes}^{+}(0,y)\), respectively, and then employ our
+restricted quantifiers \(\forall n(\ldots n\ldots)\) and \(\forall
+m(\ldots m\ldots)\) for the claims of the form \(\forall y(Ny \to
+\ldots y\ldots)\) and \(\forall x(Nx \to \ldots x\ldots)\),
+respectively, the result is the Principle of Mathematical Induction
+(in which the notation \(\mathit{HerOn}(F,N)\) has been eliminated in
+terms of its definiens). 
+Frege uses the Principle of Mathematical Induction to prove that every
+natural number has a successor that’s a natural number. We may
+formulate the theorem as follows:
+Theorem 5:
+
+\(\forall x{[}Nx \to \exists y(Ny \amp \mathit{Precedes}(x,y)){]}\)
+To reconstruct Frege’s strategy for proving this theorem, recall
+that the weak ancestral of the Predecessor relation, i.e.,
+\(\mathit{Precedes}^{+}(x,y)\), can be read as: \(x\) is a member of
+the predecessor-series ending with \(y\). Frege then considers the
+concept member of the predecessor-series ending with n, i.e.,
+\([\lambda z \, \mathit{Precedes}^{+}(z,n)]\), where \(n\) is a
+natural number. Frege then shows, by induction, that every natural
+number \(n\) precedes the number of the concept member of the
+predecessor-series ending with n. That is, Frege proves that
+every natural number has a successor by proving the following Lemma on
+Successorsby induction:
+Lemma on Successors:
+
+\(\forall n \mathit{Precedes}(n,\#[\lambda z \,
+\mathit{Precedes}^{+}(z,n)])\) 
+This asserts that every natural number \(n\) precedes the number of
+numbers in the predecessor series ending with \(n\). Frege can
+establish Theorem 5 by proving the Lemma on Successors and by showing
+that the successor of a natural number is itself a natural number.
+To see an intuitive picture of why the Lemma on Successors gives us
+what we want, we may temporarily regard \(\mathit{Precedes}^{+}\) as
+the relation ≤. (One can prove that \(\mathit{Precedes}^{+}\) has
+the properties that ≤ has on the natural numbers.) Although we
+haven’t yet assigned any meaning to the numerals ‘1’
+and ‘2’, the following intuitive sequence is driving
+Frege’s strategy:
+For example, the third member of this sequence is true because there
+are 3 natural numbers (0, 1, and 2) that are less than or equal to 2;
+so the number 2 precedes the number of numbers less than or equal to
+2. Frege’s strategy is to show that the general claim, that
+\(n\) precedes the number of numbers less than or equal to \(n\),
+holds for every natural number. So, given this intuitive understanding
+of the Lemma on Successors, Frege has a good strategy for proving that
+every number has a successor. (For the remainder of this subsection,
+the reader may wish to continue to think of \(\mathit{Precedes}^{+}\)
+in terms of \(\leq\).)
+Now to prove the Lemma on Successors by induction, we need to
+reconfigure this Lemma to a form which can be used as the consequent
+of the Principle of Mathematical Induction; i.e., we need something of
+the form \(\forall n\, Fn\). We can get the Lemma on Successors into
+this form by ‘abstracting out’ a concept from the Lemma
+using the right-to-left direction of \(\lambda\)-Conversion (i.e.,
+\(\lambda\)-Abstraction) to produce the following equivalent statement
+of the Lemma:
+\(\forall n [\lambda y \, \mathit{Precedes}(y, \#[\lambda z \,
+\mathit{Precedes}^{+}(z,y)])]n\) 
+The concept ‘abstracted out’ is the following:
+\([\lambda y\, \mathit{Precedes}(y,\#[\lambda z \,
+\mathit{Precedes}^{+}(z,y)])]\) 
+This is the concept: being an object \(y\) which precedes
+the number of the concept: member of the predecessor series ending
+in \(y\). Let us abbreviate the \(\lambda\)-expression that
+denotes this concept as ‘\(Q\)’. Our strategy is to
+instantiate the variable \(F\) in the Principle of Mathematical
+Induction to \(Q\). The result is therefore something that has been
+proved and that we therefore know to be true: 
+\(Q0 \amp \mathit{HerOn}(Q,N) \to \forall nQn\) 
+Since the consequent is the reconfigured Lemma on Successors, Frege
+can prove this Lemma by proving both that \(0\) falls under \(Q\) (cf.
+Gg I, Theorem 154) and that \(Q\) is hereditary on
+the natural numbers (cf. Gg I, Theorem 150): 
+Proof that \(0\) falls under \(Q\)
+Proof that \(Q\) is hereditary on the natural numbers
+Given this proof of the Lemma on Successors, Theorem 5 is not far
+away. The Lemma on Successors shows that every number precedes some
+cardinal number of the form \(\#F\). We still have to show that such
+successor cardinals are natural numbers. That is, it still remains to
+be shown that if a number \(n\) precedes something \(y\), then \(y\)
+is a natural number: 
+Successors of Natural Numbers are Natural Numbers:
+
+\(\forall n\forall y (\mathit{Precedes}(n,y) \to Ny)\)
+Proof: Suppose that \(\mathit{Precedes}(n,a)\). Then, by
+definition, since \(n\) is a natural number,
+\(\mathit{Precedes}^{+}(0,n)\). So by Fact (3) about \(R^{+}\) (in the
+subsection on the Weak Ancestral in §4), it follows that
+\(\mathit{Precedes}^*(0,a)\), and so by the definition of
+\(\mathit{Precedes}^{+}\), it follows that
+\(\mathit{Precedes}^{+}(0,a)\); i.e., \(a\) is a natural number.
+Theorem 5 now follows from the Lemma on Successors and the fact that
+successors of natural numbers are natural numbers. With the proof of
+Theorem 5, we have completed the proof of Frege’s Theorem.
+Before we turn to the last section of this entry, it is worth
+mentioning the mathematical significance of this theorem. 
+From Frege’s Theorem, one can derive arithmetic. It is an
+immediate consequence Theorem 5 and the fact that Predecessor is a
+functional relation that every number has a unique successor.
+That means we can define the successor function by adding definite
+descriptions of the form ‘the \(x\) such that \(\phi\)’ to
+our language:
+\(n' \eqdef\) the \(x\) such that \(\mathit{Precedes}(n,x)\) 
+We may then define the sequence of natural numbers succeeding \(0\) as
+follows:
+Moreover, the recursive definition of addition can now be given: 
+We may also officially define:
+These definitions constitute the foundations of arithmetic. Frege has
+thus insightfully derived the basic laws of arithmetic from
+Hume’s Principle in second-order logic. (Readers interested in
+how these results are affected when Hume’s Principle is combined
+with predicative second-order logic should consult Linnebo
+2004.)
+As we’ve now seen, the proof of Frege’s Theorem can be carried
+out independently of the portion of Frege’s system which led to
+inconsistency. Frege himself never identified “Frege’s
+Theorem” as a “result”. As previously noted, he
+attempted to derive Hume’s Principle from Basic Law V in
+Gg, but once the contradiction became known to him,
+he never officially retreated to the ‘fall-back’ position
+of claiming that the proof of the Dedekind-Peano axioms from
+Hume’s Principle alone constituted an important result. One of
+several reasons why he didn’t adopt this fall-back position is
+that he didn’t regard Hume’s Principle as a sufficiently
+general principle – he didn’t believe it was strong
+enough, from an epistemological point of view, to help us answer the
+question, “How are numbers given to us?”. We discuss the
+thinking behind this attitude, and other things, in what follows.
+A discussion of the philosophical questions surrounding Frege’s
+Theorem should begin with some statement of how Frege conceived of his
+own project when writing Begr, Gl,
+and Gg. It seems clear that epistemological
+considerations in part motivated Frege’s work on the foundations
+of mathematics. It is well documented that Frege had the following
+goal, namely, to explain our knowledge of the basic laws of arithmetic
+by giving an answer to the question “How are numbers
+‘given’ to us?” without making an appeal to the
+faculty of intuition. If Frege could show that the basic laws of
+number theory are derivable from analytic truths of logic, then he
+could argue that we need only appeal to the faculty of understanding
+(as opposed to some faculty of intuition) to explain our knowledge of
+the truths of arithmetic. Frege’s goal then stands in contrast
+to the Kantian view of the exact mathematical sciences, according to
+which general principles of reasoning must be supplemented by a
+faculty of intuition if we are to achieve mathematical knowledge. The
+Kantian model here is that of geometry; Kant thought that our
+intuitions of figures and constructions played an essential role in
+the demonstrations of geometrical theorems. (In Frege’s own
+time, the achievements of Frege’s contemporaries Pasch, Pieri
+and Hilbert showed that such intuitions were not essential.)
+Frege’s strategy then was to show that no appeal to intuition is
+required for the derivation of the theorems of number theory. This in
+turn required that he show that the latter are derivable using only
+rules of inference, axioms, and definitions that are purely analytic
+principles of logic. This view has become known as
+‘Logicism’. Here is what Frege says: 
+[Begr, Preface, p. 5:]
+
+To prevent anything intuitive from penetrating here unnoticed, I had
+to bend every effort to keep the chain of inferences free of gaps.
+[from the Bauer-Mengelberg translation in van Heijenoort 1967]
+[Begr, Part III, §23:]
+
+Through the present example, moreover, we see how pure thought,
+irrespective of any content given by the senses or even by an
+intuition a priori, can, solely from the content that results
+from its own constitution, bring forth judgements that at first sight
+appear to be possible only on the basis of some intuition. \(\ldots\)
+The propositions about sequences [\(R\)-series] in what follows far
+surpass in generality all those that can be derived from any intuition
+of sequences. [from the Bauer-Mengelberg translation in van Heijenoort
+1967]
+[Gl, §62:]
+
+How, then, are numbers to be given to us, if we cannot have any ideas
+or intuitions of them? Since it is only in the context of a
+proposition that words have any meaning, our problem becomes this: To
+define the sense of a proposition in which a number word occurs. [from
+the Austin translation in Frege 1953]
+[Gl, §87:]
+
+I hope I may claim in the present work to have made it probable that
+the laws of arithmetic are analytic judgements and consequently a
+priori. Arithmetic thus becomes simply a development of logic, and
+every proposition of arithmetic a law of logic, albeit a derivative
+one. [from the Austin translation in Frege 1953]
+[Gg I, §0:]
+
+In my Grundlagen der Arithmetik, I sought to make it
+plausible that arithmetic is a branch of logic and need not borrow any
+ground of proof whatever from either experience or intuition. In the
+present book, this shall be confirmed, by the derivation of the
+simplest laws of Numbers by logical means alone. [from the Furth
+translation in Frege 1967]
+[Gg II, Appendix:]
+
+The prime problem of arithmetic is the question, In what way are we to
+conceive logical objects, in particular, numbers? By what means are we
+justified in recognizing numbers as objects? Even if this problem is
+not solved to the degree I thought it was when I wrote this volume,
+still I do not doubt that the way to the solution has been found.
+[from the Furth translation in Frege 1967]
+The basic problem for Frege’s strategy, however, is that for his
+logicist project to succeed, his system must at some point include
+(either as an axiom or theorem) statements that explicitly assert the
+existence of certain kinds of abstract entities and it is not obvious
+how to justify the claim that we know such explicit existential
+statements. Given the above discussion, it should be clear that Frege
+at some point in Gg endorsed existence claims, either directly
+in his formalism or in his metalanguage, for the following entities:
+Although Frege attempted to reduce the latter two kinds of entities
+(truth-values and numbers) to extensions, the fact is that the
+existence of concepts and extensions are derivable from his Rule of
+Substitution and Basic Law V, respectively.
+In light of these existence claims, a Kantian might well suggest not
+only that explicit existence claims are synthetic rather than analytic
+(i.e., aren’t true in virtue of the meanings of the words
+involved) but also that since the Rule of Substitution and Basic Law V
+imply existence claims, Frege cannot claim that such principles are
+purely analytic principles of logic. If the Kantian is right, then
+some other faculty (such as intuition) might still be needed to
+account for our knowledge of the existence claims of arithmetic.
+Boolos (1985) noted that the Rule of Substitution causes a problem of
+this kind for Frege’s program given that it is equivalent the
+Comprehension Principle for Concepts. Boolos suggests a defense for
+Frege with respect to this particular aspect of his logic, namely, to
+reinterpret (by paraphrasing) the second-order quantifiers so as to
+avoid commitment to concepts. (See Boolos (1985) for the details.)
+Boolos’s suggestion, however, is one which would require Frege
+to abandon his realist theory of concepts. Moreover, although
+Boolos’s suggestion might lead us to an epistemological
+justification of the Comprehension Principle for Concepts, it
+doesn’t do the same for the Comprehension Principle for
+Relations, for his reinterpretation of the quantifiers works only for
+the ‘monadic’ quantifiers (i.e., those ranging over
+concepts having one argument) and thus doesn’t offer a
+paraphrase for quantification over relational concepts.
+Another problem for a strategy of the type suggested by Boolos is that
+if the second-order quantifiers are interpreted so that they do not
+range over a separate domain of entities, then there is nothing
+appropriate to serve as the denotations of \(\lambda\)-expressions.
+Although Frege wouldn’t quite put it this way, our
+reconstruction suggests that Frege treats open formulas with free
+object variables as if they denoted concepts. Although Frege
+doesn’t use \(\lambda\)-notation, the use of such notation seems
+to be the most logically perspicuous way of reconstructing his work.
+The use of such notation faces the same epistemological puzzles that
+Frege’s Rule of Substitution faces.
+To see why, note that the Principle of \(\lambda\)-Conversion:
+\(\forall y([\lambda x\, \phi ]y \equiv \phi^y_x)\) 
+seems to be an analytic truth of logic. It says this: 
+An object \(y\) exemplifies the complex property being such
+that \(\phi\) if and only if \(y\) is such that \(\phi\). 
+One might argue that this is true in virtue of the very meaning of the
+\(\lambda\)-expression, the meaning of \(\equiv\), and the meaning of
+the statement \([\lambda x\, \phi]y\) (which has the form \( Fx)\).
+However, \(\lambda\)-Conversion also implies the Comprehension
+Principle for Concepts, for the latter follows from the former by
+existential generalization: 
+\(\exists F\forall y(Fy \equiv \phi^y_x)\) 
+The point here is that the fact that an existential claim is derivable
+casts at least some doubt on the purely analytic status of
+\(\lambda\)-Conversion. The question of how we obtain knowledge of
+such principles is still an open question in philosophy. It is an
+important question to address, since Frege’s most insightful
+definitions are cast using quantifiers ranging over concepts and
+relations (e.g., the ancestrals of a relation) and it would be useful
+to have a philosophical explanation of how such entities and the
+principles which govern them become known to us. In contemporary
+philosophy, this question is still poignant, since many philosophers
+do accept that properties and relations of various
+sorts exist. These entities are the contemporary analogues of
+Frege’s concepts.
+Though the existence of extensions falls right out of the theory of
+identity (§2.3) once terms of the form \(\epsilon F\) are added
+to second-order logic, the existence of extensions that are correlated
+one-to-one with concepts is a consequence of Basic Law V. The question
+for Frege’s project, then, is why should we accept as a law of
+logic a statement that implies the existence of individuals and a
+correlation of this kind? Frege recognized that Basic Law V’s
+status as a logical law could be doubted: 
+Moreover, he thought that an appeal to extensions would answer one of
+the questions that motivated his work: 
+Now it is unclear why Frege thought that he could answer the question
+posed here by saying that we apprehend numbers as the extensions of
+concepts. He seems to think we can answer the obvious next question
+“How do we apprehend extensions?” by saying “by way
+of Basic Law V”. 
+
+His idea here seems to be that since Basic Law V is supposed to be
+purely analytic or true in virtue of the meanings of its terms, we
+apprehend a pair of extensions whenever we truly judge that concepts
+\(F\) and \(G\) are materially equivalent. Some philosophers do argue
+that certain
+consistent principles having the same logical form as Basic
+Law V are analytic, and that such principles justify
+reference to the entities described in the left-side
+condition by grounding such reference in the truth of the
+right-side
+ condition.[15]
+Why did Frege think that Basic Law V is analytic and that the material
+equivalence of concepts \(F\) and \(G\) is analytically equivalent to
+an identity that implies the existence of extensions? To hold that
+Basic Law V is analytic, it seems that one must hold that the
+right-side condition implies the corresponding left-side condition as
+a matter of
+ meaning.[16]
+ This view, however, can be questioned. Suppose the right hand
+condition implies the left-side condition as a matter of meaning. That
+is, suppose that (R) implies (L) as a matter of meaning:
+Now note that (L) itself can be analyzed, from a logical point of
+view. The expression ‘\(\epsilon F\)’, though constructed
+from a term-forming operator, is really a definite description
+(‘the extension of \(F\)’) and so, using
+Russell’s theory of descriptions, (L) can be logically analyzed
+as the claim: 
+There is an object \(x\) and an object \(y\) such that:
+
+(1) \(x\) is a unique extension of \(F\),
+
+(2) \(y\) is a unique extension of \(G\), and
+
+(3) \(x = y\). 
+That is, for some defined or primitive notion
+\(\mathit{Extension}(x,F)\) (‘\(x\) is an extension of
+\(F\)’), (L) implies the analysis (D) as a matter of
+meaning:
+But if (R) implies (L) as a matter of meaning, and (L) implies (D) as
+a matter of meaning, then (R) implies (D) as a matter of meaning. This
+conclusion can be questioned: why should the material equivalence of
+\(F\) and \(G\) imply the existence claim (D) as a matter of meaning?
+In other words, the suggestion that Va (i.e., the right-to-left
+direction of Basic Law V) is analytic leads to a question that has no
+obvious answer. Below, this line of reasoning will be adapted to
+question the analyticity of the right-to-left direction of
+Hume’s Principle. See Boolos 1997 (307–309), for reasons
+why \(Vb\) (the left-to-right direction of Hume’s Principle) is
+not analytic.]
+The moral to be drawn here is that, even if Basic Law V were
+consistent, it is not exactly clear how its right side analytically
+implies the existence of extensions. In the end, we may need some
+other way of justifying our knowledge of principles like Basic Law V,
+that imply the existence of abstract objects – the justification
+discussed so far seems to contain a gap. Even if we follow Frege in
+conceiving of extensions as ‘logical objects’, the
+question remains: how can the claims that such objects exist be true
+on logical or analytic grounds alone? We might agree that there must
+be logical objects of some sort if logic is to have a subject matter,
+but if Frege is to achieve his goal of showing that our knowledge of
+arithmetic is free of intuition, then at some point he has to address
+the question of how we can know that numbers exist. We’ll return
+to this issue in the final subsection.
+Given that the proof of Frege’s Theorem makes no appeal to Basic
+Law V, some philosophers have argued Frege’s best strategy for
+producing an epistemologically-justified foundation for arithmetic is
+to replace the primitive term \(\epsilon F\) with the primitive term
+\(\#F\), replace Basic Law V with Hume’s Principle, and argue
+that Hume’s Principle is an analytic principle of
+ logic.[17]
+ However, we have just seen one reason why such a strategy does not
+suffice. The claim that Hume’s Principle is an analytic
+principle of logic is subject to the same problem just posed for Basic
+Law V. A reason must be given as to why the claim:
+\(F \approx G\) 
+implies, as a matter of meaning, that:
+\(\#F = \#G\) 
+After all, the statement “\(\#F = \#G\)” is analyzable in
+a manner analogous to the way we analyzed “\(\epsilon F =
+\epsilon G\)” in the previous section, where we used
+Russell’s theory of description to analyze the sentence (L) as
+the sentence (D). Following that pattern, we take the primitive notion
+\(\mathit{Numbers}(x,F)\) and analyze \(\#F = \#G\) as:
+It is not clear why we should think that this last claim is implied by
+\(F \approx G\) as a matter of meaning. The right-to-left direction of
+Hume’s Principle is not obviously analytic.
+Moreover, Frege had his own reasons for not replacing Basic Law V with
+Hume’s Principle. One reason was that he thought Hume’s
+Principle offered no answer to the epistemological question,
+‘How do we grasp or apprehend logical objects, such as the
+numbers?’. A second reason is that Hume’s Principle is
+clearly subject to ‘the Julius Caesar problem’. Frege
+first raises this problem in connection with an inductive definition
+of ‘\(n = \#F\)’ that he tries out in Gl,
+§55. Concerning this definition, Frege says:
+Frege raises this same concern again for a contextual definition that
+gives a ‘criterion of identity’ for the objects being
+defined. In Gl §66, Frege considers the
+following contextual definition of ‘the direction of line
+\(x\)’: 
+With regard to this definition, Frege says: 
+Now trouble for Hume’s Principle begins to arise when we
+recognize that it is a contextual definition that has the same logical
+form as this definition for directions. It is central to Frege’s
+view that the numbers are objects, and so he believes that it
+is incumbent upon him to say which objects they are. But the
+‘Julius Caesar problem’ is that Hume’s Principle, if
+considered as the sole principle offering identity conditions for
+numbers, doesn’t describe the conditions under which an
+arbitrary object, say Julius Caesar, is or is not to be identified
+with the number of planets. That is, Hume’s Principle
+doesn’t define the condition ‘\(\#F = x\)’, for
+arbitrary \(x\). It only offers identity conditions when \(x\) is an
+object known to be a cardinal number (for then \(x = \#G\), for some
+\(G\), and Hume’s Principle tells us when \(\#F = \#G\)).
+In Gl, Frege solves the problem by giving his
+explicit definition of numbers in terms of extensions. (We described
+this in §4 above.) Unfortunately, this is only a stopgap measure,
+for when Frege later systematizes extensions in Gg,
+Basic Law V has the same logical form as Hume’s Principle and
+the above contextual definition of directions. Frege is aware that the
+Julius Caesar problem affects Basic Law V, as the discussion in
+Gg I, §10 shows. In that section, he says
+(remembering that for Frege, \(\epsilon\) binds object variables and
+is not a function term):
+In other words, Basic Law V does not tell us the conditions under
+which an arbitrarily chosen object \(x\) may be identified with some
+given extension, such as \(\epsilon F\).
+Until recently, it was thought that Frege solved this problem in
+§10 by restricting the universal quantifier \(\forall x\) of his
+Gg system so that it ranges only over extensions. If
+Frege could have successfully restricted this quantifier to
+extensions, then when the question arises, whether (arbitrarily
+chosen) object \(x\) is identical with \(\epsilon F\), one could
+answer that \(x\) has to be the extension of some concept, say \( G\),
+and that Basic Law V would then tell you the conditions under which
+\(x\) is identical to \(\epsilon F\). On this interpretation of
+§10, Frege is alleged to have restricted the quantifiers when he
+identified the two truth values (The True and The False) with the two
+extensions that contain just these objects as members, respectively.
+By doing this, it was thought that all of the objects in the range of
+his quantifier \(\forall x\) in Gg become extensions
+which have been identified as such, for the truth values were the only
+two objects of his system that had not been introduced as extensions
+or courses of value.
+However, recent work by Wehmeier (1999) suggests that, in §10,
+Frege was not attempting to restrict the quantifiers of his system to
+extensions (nor, more generally, to courses-of-values). The extensive
+footnote to §10 indicates that Frege considered, but did not hold
+much hope of, identifying every object in the domain with the
+extension consisting of just that
+ object.[18]
+ But, more importantly, Frege later considers cases (in
+Gg, Sections 34 and 35) which seem to presuppose that
+the domain contains objects which aren’t extensions. (In these
+sections, Frege considers what happens to the definition of ‘\(
+x\) is a member of \(y\)’ when \(y\) is not an
+ extension.)[19]
+Even if Frege somehow could have successfully restricted the
+quantifiers of Gg to avoid the Julius Caesar problem,
+he would no longer have been able to apply his system by extending it
+to include names of ordinary non-logical objects. For if he were to
+attempt to do so, the question, “Under what conditions is
+\(\epsilon F\) identical with Julius Caesar?”, would then be
+legitimate but have no answer. That means his logical system could not
+be used for the analysis of ordinary language. But it was just the
+analysis of ordinary language that led Frege to his insight that a
+statement of number is an assertion about a concept.
+Even when we replace the inconsistent Basic Law V with the powerful
+Hume’s Principle, Frege’s work still leaves two questions
+unanswered: (1) How do we know that numbers exist?, and (2) How do we
+precisely specify which objects they are? The first question arises
+because Hume’s Principle doesn’t seem to be a purely
+analytic truth of logic; if neither Hume’s Principle nor the
+existential claim that numbers exist is analytically true, by what
+faculty do we come to know (the truth of) the existential claim? The
+second question arises because the Julius Caesar problem applies to
+Hume’s Principle; without a solution to that problem, Frege can’t
+claim to have precisely specified which objects the numbers are, so as
+to delineate them within the domain of all logical and non-logical
+objects? So questions about the very existence and identity of numbers
+still affect Frege’s work.
+These two questions arise because of a limitation in the logical form
+of these Fregean biconditional principles such as Hume’s
+Principle and Basic Law V. These contextual definitions combine two
+jobs which modern logicians now typically accomplish with separate
+principles. A properly reformulated theory of ‘logical’
+objects should have separate principles: (1) one or more principles
+which assert the existence of logical objects, and (2) a
+separate identity principle which asserts the conditions under which
+logical objects are identical. The latter should specify
+identity conditions for logical objects in terms of their most salient
+characteristic, one which distinguishes them from other objects. Such
+an identity principle would then be more specific than the global
+identity principle for all objects (Leibniz’s Law) which asserts
+that if objects \(x\) and \(y\) fall under the same concepts, they are
+identical.
+By way of example, consider modern set theory. Zermelo set theory \(
+(Z)\) has several distinctive set existence principles. For example,
+consider the well-known Subset (or Separation) Axiom:
+Subset (Separation) Axiom of Z:
+
+\(\forall x[\mathit{Set}(x) \to \exists y[\mathit{Set}(y) \amp \forall
+z(z \in y \equiv (z \in x \amp \phi))]]\),
+
+where \(\phi\) is any formula in which \(y\) isn’t free 
+The Subset Axiom and the other set existence axioms in Z are distinct
+from Z’s identity principle for sets:
+Identity Principle for Sets:
+
+\(\mathit{Set}(x) \amp \mathit{Set}(y) \to [\forall z(z \in x \equiv z
+\in y) \to x\eqclose y]\) 
+Note that the second principle offers identity conditions in terms of
+the most salient features of sets, namely, the fact that they, unlike
+other objects, have members. The identity conditions for objects which
+aren’t sets, then, can be the standard principle that
+identifies objects whenever they fall under the same concepts. This
+leads us naturally to a very general principle of identity for any
+objects whatever:
+Now, if something is given to us as a set and we ask whether
+it is identical with an arbitrarily chosen object \(x\), this
+specifies a clear condition that settles the matter. The only
+questions that remain for the theory \(Z\) concern its existence
+principle: Do we know that the Subset Axiom and other set existence
+principles are true, and if so, how? The question of existence is thus
+laid bare. We do not approach it by attempting to justify a principle
+that implies the existence of sets via definite descriptions which we
+don’t yet know to be well-defined.
+In some classic essays (1987 and 1986), Boolos appears to recommend
+this very procedure of using separate existence and identity
+principles. In those essays, he eschews the primitive mathematical
+relation of set membership and suggests that Frege could formulate his
+theory of numbers (‘Frege Arithmetic’) by using a single
+nonlogical comprehension axiom which employs a special
+instantiation relation that holds between a concept \(G\) and an
+object \(x\) whenever, intuitively, \(x\) is an extension consisting
+solely of concepts and \(G\) is a concept ‘in’ \(x\). He
+calls this nonlogical axiom ‘Numbers’ and uses the
+notation ‘\(Gηx\)’ to signify that \(G\) is in
+\(x\):
+Numbers:
+
+\(\forall F\exists !x\forall G(Gηx \equiv G\approx F)\) 
+[See Boolos 1987 (5), 1986 (140).] This principle asserts that for any
+concept \(F\), there is a unique object which contains in it all and
+only those concepts \(G\) which are equinumerous to \(F\). Boolos then
+makes two observations: (1) Frege can then define \(\#F\) as
+“the unique object \(x\) such that for all concepts \(G\), \(G\)
+is in \(x\) iff \(G\) is equinumerous to \(F\)”, and (2)
+Hume’s Principle is derivable from Numbers. [See Boolos 1986
+(140).] Given these observations, we know from our work in
+§§4 and 5 above that Numbers suffices for the derivation of
+the basic laws of arithmetic.
+Since Boolos calls this principle ‘Numbers’, it is no
+stretch to suppose that he would accept the following reformulation
+(in which ‘\(\mathit{Number}(x)\)’ is an undefined,
+primitive notion):
+Numbers:
+
+\(\forall F\exists !x [\mathit{Number}(x) \amp \forall G(Gηx
+\equiv G\approx F)]\) 
+Though Boolos doesn’t explicitly formulate an identity principle
+to complement Numbers, it seems clear that the following principle
+would offer identity conditions in terms of the most distinctive
+feature of numbers:
+Identity Principle for Numbers:
+
+\(\mathit{Number}(x) \amp \mathit{Number}(y) \to [\forall G(Gηx
+\equiv Gηy) \to x\eqclose y]\) 
+It is then straightforward to formulate a general principle of
+identity, as we did in the case of the set theory \(Z\): 
+This formulation of Frege Arithmetic, in terms of Numbers and the
+General Principle of Identity, puts the Julius Caesar problem
+(described above) into better perspective; the condition ‘\(\#F
+= x\)’ is defined for arbitrary concepts \(F\) and objects
+\(x\). It openly faces the epistemological questions head-on: Do we
+know that Numbers is true, and if so, how? This is where philosophers
+need to concentrate their energies. [For a reconstruction of Frege
+Arithmetic with a more general version of the special instantiation
+relation η, see Zalta 1999.] 
+By replacing Fregean biconditionals such as Hume’s Principle
+with separate existence and identity principles, we reduce two
+problems to one and and isolate the real problem for Fregean
+foundations of arithmetic, namely, the problem of giving an
+epistemological justification for distinctive existence claims (e.g.,
+Numbers) for abstract objects of a certain kind. For if anything like
+Frege’s program is to succeed, it must at some point assert (as
+an axiom or theorem) the existence of (logical) objects of some kind.
+Those separate existence claims should be the focus of attention.

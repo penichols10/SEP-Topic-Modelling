@@ -1,0 +1,1783 @@
+It may seem that considerations of justice do not apply to
+intergenerational relations, because there is a lack of direct
+reciprocity between generations of people who are not contemporaries.
+Among non-contemporaries, there is no mutual cooperation and there are
+no exchanges in kind (see Barry 1989b: 189–203; Barry 1991:
+231–234; Heyd 2009a: 167–176; but see Gosseries 2009,
+Mazor 2010, and Brandstedt 2015 for conceptions of indirect and
+transgenerational reciprocity that do not require that the initial
+contributor is among the final beneficiaries). This fact about the
+relations between present and remote past or future generations is
+closely related to a second feature of intergenerational relations:
+the permanent asymmetry in power-relations between living people and
+those who will live in the future. These power relations are
+qualitatively different from those among contemporaries, which are
+relatively fluid and subject to change (Barry 1977: 243–44;
+Barry 1989b: 189).
+Not only can the present generation influence the conduct of future
+people by affecting their desires and circumstances, it can also
+exercise power by setting back the interests of future generations. It
+can, for example, pursue a natural-resource policy with long-term
+negative consequences. In this case, the present generation imposes
+upon future generations the risk of having their options reduced to an
+inadequate range—unless, that is, future generations will have
+available to them and can afford to use technologies that allow them
+to adapt to the circumstances (Barry 1999; Beckerman 1999; Heyward
+2017). By contrast, remote future people cannot at all affect the
+well-being of the lives of the presently living, at least not today
+and according to conceptions of well-being that have a subjective
+component. Still, such future people might nevertheless be considered
+able to set back the interests of or even wrong present or past
+persons insofar as the latter have, or had, interests with respect to
+posthumous future states of affairs. In the same way, the presently
+living may be morally constrained in their actions that relate to
+people who lived in the remote past (see
+ §5.4).
+Third, those presently alive can affect the very existence of future
+people (whether or not future people will exist), the number of future
+people (how many future people will exist), and the identity of future
+people (who will exist). In short: future people’s existence,
+number, and specific identity depend (are contingent) upon currently
+living people’s decisions and actions. A decision taken by
+present generations could conceivably result in the termination of
+human life (see, e.g., Scheffler 2013; Mulgan 2015; McKinnon 2017);
+there is a long tradition of institutionalized population policy whose
+goal is to control the size of future generations (see, e.g., McMahan
+1981); and, more prosaically, a couple can certainly decide whether or
+not to have children (see
+ §2.2
+ and
+ §3.2).
+ Furthermore, many of our decisions have indirect effects on how many
+people will live and who they are, for many of our decisions affect
+who meets whom and who decides to have children with whom. To explain
+such “different people choices”, Parfit adopts the genetic
+identity view of personal identity: the identity of a person is at
+least in part constituted by the DNA the person has as a result of
+which ovum was fertilized by this or that spermatozoon in the creation
+of this person. Our actions thus have an effect on the genetic
+identity of future people in so far as they affect from which
+particular pairs of cells future people will grow—and any action
+that affects people’s reproductive choices, directly or
+indirectly, will do that. Many of our actions in fact have an indirect
+effect on when future people will be conceived. If we decide between
+two long-term policies regarding the use of natural resources, for
+example, we know that depending on which we choose, different (and
+most likely also a different number of) future people will come into
+existence. For example, the European Commission finds that more than
+one million babies may have been produced as a result of the Erasmus
+Programme (the European Community Action Scheme for the Mobility of
+University Students, and with more than three million students
+participating since 1987), most of who would very likely not have come
+to existence without at least one of their parents participating in
+the Programme (European Commission 2014: 130–131).
+By contrast, when we make decisions affecting our contemporaries, we
+do not face different people choices. Our decisions may affect their
+existence only with respect to their survival; their number only with
+respect to how many survive; their identity only in the sense that we
+might be in a position to change their conditions of life, character,
+and self-understanding. Of course, we can affect neither the number
+nor the identity of past generations.
+Lastly, our knowledge of the future is limited. While we can know the
+particular identities of presently existing people (and very many
+previously living people), we are normally not in a position to refer
+to specifically identifiable future persons. It is not that all
+predictions about the future decrease in certainty at some constant
+rate (see Cowen & Parfit 1992: 148). Indeed, many predictions are
+more likely to be true concerning the further future than the more
+immediate future. For example, the prediction that some policy will
+have changed or that certain resources will have been exhausted is
+more likely to be true in the further future. Nonetheless, we cannot
+know the specific identities of persons in the further future. Our
+lack of certain knowledge of the future also means that we often will
+be in a position to know at best merely the likelihood of normatively
+relevant consequences of alternative long-term policies.
+These differences between our relations to one another and our
+relations to subsequent or antecedent generations give rise to a
+number of important debates. Among them are the following: The first
+concerns the normative significance of the non-changeable fact that
+remote future people as well as deceased people do not even have the
+potential for exercising power over presently living people. According
+to the Will Theory, for a person to have a right vis-à-vis
+another person requires the former to be able to exercise his or her
+rights with respect to the conduct of the latter (Hart 1955:
+183–184; Hart 1982: 183; Wellman 1995: 91–92; Steiner
+1994: 59–73). Thus, the unchangeable power-asymmetry among
+non-contemporaries will exclude the possibility of future
+non-contemporaries and deceased people being bearers of rights claims
+against presently living people (Steiner 1983; Steiner 1994:
+249–261; Fabre 2001; see also Ackerman 1980: 70–75).
+Consequently, for the proponents of the Will Theory considerations of
+justice (as understood in this entry) do not apply to
+intergenerational relations. According to the Interest Theory of
+Rights (Raz 1984; Raz 1986: 166–188; Raz 1994: 45–51;
+Kramer 1998: 60–101) being able to exercise one’s
+rights—to demand or waive the enforcement of a right—is
+neither sufficient nor necessary for someone to be the bearer of the
+right. For a person to hold a right, the right, when actual,
+necessarily preserves one or more of the persons’ interests
+(Kramer 1998: 62). Understanding the relations between currently
+living people and future non-contemporaries in terms of justice
+assumes that for a person to have a valid justice claim
+vis-à-vis another person (who stands under the correlative
+duties) does not depend upon being able to harm or benefit the other
+person (Barry 1989b: chs. 4–6; Buchanan 1990; but see Gauthier
+1986; Heyd 2009a; Hiskes 2009: 9).
+The second debate concerns the normative significance of the
+contingency of future people upon currently living people’s
+decisions and actions. If and insofar as the existence, identity, or
+number of future people depend upon present decisions and actions, to
+what extent can the former be said to be harmed by the latter?
+Furthermore, can presently existing persons, in making such decisions,
+be guided by the interests of future persons? These are the questions
+that underlie the so-called “Non-Identity-Problem” (see
+ §3
+ and
+ §4;
+ see also entry on
+ nonidentity problem).
+The third debate concerns the status of previously living people. Is
+it possible for currently living people to harm past people, and do
+currently living people have duties toward them? (See
+ §5)
+Other important debates include the interpretation of the significance
+of our limited knowledge of the future. As we know at best merely the
+likelihood of the differing consequences of alternative policies, how
+should we assess the imposition of differing risks on and the likely
+or uncertain provision of benefits for future people? (See, e.g.,
+Birnbacher 1988: 140–172, 175–179; Jonas’ notion of
+a “Heuristik der Furcht” (heuristics of fear) in
+1979: 63–64; Mintz-Woo 2019). Some focus on how how to assess
+the imposition of differing risks of rights violations (see, e.g.,
+McCarthy 1997; Oberdiek 2012; Perry 2014; Meyer & Stelzer 2018).
+Another issue is whether we have reasons to discount the future in the
+sense of discounting future persons’ well-being (see, e.g.,
+Sidgwick 1907 [1981: 414]; Ramsey 1928: 261; Rawls 1971: 263; Parfit
+1984: appendix F; Cowen & Parfit 1992; Broome 1994; Mintz-Woo
+forthcoming). A further debate concerns the motivation that currently
+living have for fulfilling their supposed duties to future people,
+given that currently living people know neither future people’s
+individual identities nor their particular preferences. Partly due to
+these features as well as the unchangeable asymmetry in
+power-relations between currently living people and remote future
+generations, currently living people’s compliance with their
+obligations to remote future people is likely to be less reliable (see
+Birnbacher 2009)
+The entry will report on the second and third debates as they are
+centrally important for understanding the very possibility of
+intergenerational justice. In both debates one needs to be clear about
+how one assesses an act as harmful or beneficial. Owing to the death
+of the bearer of interests and the contingency of future people the
+way in which currently living people can be said to harm or benefit
+previously living and future people is problematic. According to the
+so-called person-affecting view, an act can be wrong only if that act
+harms, or will harm or can be expected to harm, a person who does or
+will exist (see especially Parfit 1984: 363, 295–396; Heyd 1992
+and 2014: 2–3; Boonin 2008; Roberts 2013). One important issue
+is whether one should adopt a person-affecting view or an impersonal
+view. Some interpret duties of intergenerational justice on the basis
+of what might be called a weak person-affecting view. According to
+this view, in assessing whether an act is harmful or wrongful what
+matters is what has been done to a particular existing or future
+person. A weakly person-affecting assessment does not require that the
+act under scrutiny make an existing or future person worse off or harm
+that person by comparing how well off the person was before.
+Concerning the questions of whether a future person will be harmed or
+wronged by having been brought into existence under certain conditions
+the weak person affecting view relies neither on a comparison with the
+state the person would have been in had she not been brought into
+existence, that is with the person’s never-ever existing, nor on
+a comparison with how well off other people would have been had
+currently living people acted differently. Never-ever existing and
+potentially existing people do not count; only those people who
+actually exist at some time count.
+This weak person-affecting view stands in contrast to a strong
+person-affecting view according to which an act or action harms a
+person only if the same person is worse off than she would otherwise
+at that time have been. Both the weak and the strong person-affecting
+views differ from impersonal views according to which the value of
+states of affairs is not reducible to their effect on the interests of
+actual people. Currently living people ought to choose to bring about
+the state of affairs in which more of the morally relevant values will
+be realized irrespective of who the people are who will live. Many
+theorists claim that a plausible understanding of intergenerational
+ethics must be impersonal or must combine person-affecting and
+impersonal considerations (see especially J. Harris 1992: 94–95;
+Singer 1998; Buchanan et al. 2000: 249; Harman 2004: 101–102;
+McBrayer 2008: 304; Holtug 2009: 71–92; McMahan 2009:
+49–68; Temkin 2012: 313–362; Williams & Harris 2014:
+347; Heyd’s interpretation of Parfit 2011 in Heyd 2014; Parfit
+2017). The differences between the person-affecting and impersonal
+understandings will come to the fore in
+ Section 2.2
+ and
+ Section 3
+ on intergenerational duties that reflect what is owed to future
+people as a matter of justice as well as in
+ Section 4.6
+ on the limits of a rights-based account of intergenerational
+ethics.
+On a person-affecting view, future people count if, and insofar as,
+they have interests, just claims, or rights vis-à-vis currently
+living people. Some philosophers deny that this can ever be the case.
+In addition to an argument reflecting the
+“Non-Identity-Problem”
+ (§§2.2; 3–4.3)
+ we can distinguish at least three further arguments in support of the
+denial of the possibility of future people having rights
+vis-à-vis us.
+First, some philosophers have denied that future people can have
+rights (or just claims), based simply on the fact that they will live
+in the future. Consider the following claim: 
+Future generations by definition do not exist now. They cannot now,
+therefore, be the present bearer or subject of anything, including
+rights. (De George 1981: 161; see also Macklin 1981: 151–152;
+Beckerman & Pasek 2001: 14–23; Herstein 2009:
+1180–1182) 
+Claiming that we can violate the rights of future people now does not,
+however, imply that future people have rights now (though see
+Partridge 1990: 54–55, who suggests that future people have
+rights in the present). That implication would hold only if it were
+conceded that presently existing rights alone constrain present
+action. But we can safely assume, first, that future people will be
+bearers of rights in the future, second, that the rights they have
+will be determined by the interests they have then, and third, that
+our present actions and policies can affect their interests. If we can
+violate a person’s rights by frustrating her interests severely,
+and if we can so severely frustrate such interests of future people,
+we can violate their future rights (see Hoerster 1991: 98–102).
+Their future existence itself is thus insufficient to ground the claim
+that we cannot now violate the rights of future persons.
+According to the second argument, for future people to have rights
+vis-à-vis us we would have to ascribe a right to existence to
+them. However, we are not committed to the claim that if we are able
+now to violate the rights of future generations, it is their rights to
+existence that we violate. Since it is implausible that
+anyone has a right to existence as such, it is implausible
+that future persons have rights to existence. Furthermore, when we
+prevent someone’s existence, we do not thereby harm the
+hypothetical interests of this potential subject. Thus, claiming that
+actual future people have rights vis-à-vis currently living
+people now cannot commit us to claiming that possible future people
+have a right to existence.
+The third argument points to the fact that our epistemic situation
+does not allow us to relate to future people as individuals. Can our
+present actions nonetheless be constrained by rights of future
+generations that are based on interests other than existence as such,
+interests such as subsistence, etc.? This is possible only if
+attributing rights to people does not require us to make reference to
+individual persons (Herstein 2009: 1180–1182). However, third,
+lack of particular knowledge of future people as individuals does not
+stand in the way of attributing to them welfare rights, such as a
+right to subsistence.
+ [1]
+ The corresponding obligations do not depend on the
+particular identity of future persons. Rather, such
+obligations are grounded in the fact that future persons are human
+beings; that is, they share those properties of being human that
+permit and require us to relate morally to them as fellow humans who
+should be able to pursue their own well-being.
+Having reported on skeptical doubts concerning the possibility of
+future people having rights vis-à-vis currently living people
+we now turn to an analysis of the relevance of the contingency of
+future people—the subject that, under the title of the
+“Non-Identity-Problem” has been at the core of much of the
+philosophical inquiry into the foundations of intergenerational
+justice
+ (§§3–4.4;
+ see also entry
+ nonidentity problem).
+ We will introduce that core issue by addressing a specific criticism
+of the person-affecting view in the context of intergenerational
+justice
+ (§2.2):
+ Some have argued that a person-affecting view cannot account for the
+widely held belief that persons have the right not to be brought into
+existence if the person-to-be would not reach a sufficiently good (or
+decent) level of well-being.
+Can prospective children be said to have an interest that their
+parents not act in a way likely to lead to their birth when the
+parents are in a position to know that the life of the child, should
+it be born, would fall below some relevant threshold of well-being?
+(On the significance of the notion of a threshold level of well-being,
+see below,
+ §3
+ and
+ §4).
+ John Stuart Mill endorses the idea of a procreational duty of
+omission, namely, not to bring a person into existence unless the
+person will have “at least the ordinary chances of a desirable
+existence” (see Mill 1859 [1977: 301–304]). It is a widely
+held belief that under certain circumstances prospective parents
+should refrain from procreating owing to the predicted plight of the
+would-be child. Antinatalists hold that these conditions hold
+generally (see, e.g., Schopenhauer, 1851: vol. 2, ch. xii, § 149;
+Cioran, 1978: 117; Horstmann 1983: 99–101). More recently, for
+example, Seana Shiffrin (1999) and David Benatar (2006: esp. ch. 2)
+have argued that causing someone to exist always entails the
+frustration of some of the person’s interests and nontrivial
+harm to that person, and therefore we ought to refrain from
+procreating.
+Since the publication of Narveson’s seminal paper
+“Utilitarianism and New Generations” (Narveson 1967; see
+also Narveson 1973), many have contributed to the debate on whether a
+person-affecting approach can account for the asymmetry of our
+procreational duties (Parfit 1976; Feinberg 1984: 101, and 1986;
+Mulgan 2006: ch. 6; Rivera-López 2009). The claimed asymmetry
+is the following: while prospective parents have no obligation to
+procreate out of regard for the interests of possible future children,
+they have an obligation not to beget children who are going to be
+miserable.
+Some have argued that belief in such an asymmetry is incompatible with
+a person-affecting view and, more particularly, with the claim that
+possible people cannot be said to have, against us, a right to
+ existence.[2]
+ It is helpful at this point to make a distinction between the
+reasoning of potential parents that involves a possible
+future child and reasoning that involves their future child
+(see Govier 1979: 111). For instance, in deciding not to procreate at
+all people do not thereby harm the children they could have brought
+into existence (see
+ §2.1)
+ since these are merely possible individuals. Thus, much reasoning
+about whether or not to have a child should concern the interests of
+those already alive; it is actual people’s lives that would be
+affected by whether or not the child comes into existence (see Heyd
+1992: 96–97; Roberts 2009: sec. 2). Nonetheless, people might
+make choices about procreation based on the welfare of their future
+child; that is, the welfare of that as yet non-existent individual
+would feature in their reasoning. When prospective parents decide in
+favor of having a child and now learn that this child, if born, would
+have a life that falls below a certain threshold of well-being (see
+ §4)
+ they ought to consider the effects of their actions on their
+child and might well decide not to have a child after all.
+Objections to the asymmetry view presented above concern, in
+particular, the claim that after having made a decision to have
+children, prospective parents should revise their decision out of
+regard for their would-be child(ren) when they learn that the
+prospective child(ren) would have a life that falls below the relevant
+threshold. Why, under these circumstances, should parents revise their
+decision to have children out of regard for the children? Some argue
+that they would harm the would-be child, and, thus, arguably, would
+act wrongly toward it. Here, harming their child-to-be would inflict a
+wrong on it. When prospective parents learn that their child would
+have a life that falls below the relevant threshold, they should
+refrain from having it, for by bringing the child into existence they
+would cause harm to it. In bringing about a child’s existence
+they can harm this child.
+This claim has been said to be incompatible with a person-affecting
+view (see Heyd 1992: 102, 105–106, 241–242). In
+ Section 3,
+ two notions of harm will be distinguished. The first relies on
+comparing a person’s actual state to a counterfactual (or
+historical) state of the same person. The second relies on no such
+comparison. Both notions of harm require us to ask: for whom is the
+action worse? However, while both notions can be understood to reflect
+the person-affecting view as specified above
+ (§1),
+ only the first fulfills the stronger conditions of Parfit’s
+“two-state requirement” or
+“better-or-worse-for-the-same-person” requirement: 
+we benefit or harm someone only if we cause him to be better or worse
+off than he would otherwise at that time have been. (Parfit 1984: 487)
+This requirement characterizes the strong person-affecting view (as
+introduced in
+ §1).
+ The contingency of future people will often mean that the same person
+could not or is not likely to have come into existence as a result of
+two alternative acts or actions (see below
+ §3.1).
+ As will be shown in
+ Section 3.2
+ below, in applying the second notion of harm, we do not have to
+compare the value of life below some threshold with nonexistence (or
+with how well off another person or other people would have been) in
+order to be able to claim that we can cause harm to a person by
+bringing about that person’s existence. The second notion
+fulfills the conditions of the weak person-affecting view (as
+introduced in
+ §1).
+If on the basis of this reflection we assume that the person can be
+considered harmed, why was the person wronged by having been brought
+into existence if the person has a life worth living? If we specify
+the threshold in terms of rights we might think that the person would
+waive whatever right was violated by having been brought into
+existence as the person can be assumed to much prefer living to
+never-ever-coming into existence. Then we might believe that bringing
+into existence a person whose life is worth living, but below the
+threshold, is a case of wrongless harm-doing if we consider the issue
+in person-affecting terms (see J. Harris 1992: 94–96; Williams
+& Harris 2014, 347–348).
+The assumed fact that the person would waive her right clearly does
+not settle the matter of whether she was wronged by having been
+brought into existence (Harman 2004: 89–101; Liberto 2014:
+79–80). A person can have a legitimate complaint about having
+been brought into existence although she does not wish that the action
+had not occurred, although she (the same person) could not be in the
+state of not having been wronged (but see Heyd 2014: 4–5), and
+even though she enjoys a life worth living.
+The claim that bringing into existence a person in a harmed state
+according to a certain threshold is wrongful implies that this person
+is worse off than she ought to be. That the person will have a life
+worth living is not a sufficient reason to render permissible bringing
+the person into existence and in a harmed sub-threshold state. The
+ground for this reason does not rely on a comparison with how well off
+the person or other people would be if we refrain from bringing the
+person into existence or acted differently (but see Harman 2004:
+101–102; McBrayer 2008: 304; Woollard 2012). The reason
+understood in person-affecting terms does not reflect the view that
+the person would be better off if he or she would never ever come to
+existence or the view that we should bring into existence another
+person whose life is above the threshold or the view that we should
+maximize the number of people with lives above the threshold. Rather,
+if we have a choice between bringing into existence a person with a
+life worth living, but below the threshold, and bringing into
+existence a person with a life worth living at or above the threshold,
+the reason, namely, that persons can be worse off than they ought to
+be, speaks against doing the former but not in favor of doing the
+latter. This is how we can argue on the basis of a weak
+person-affecting view (see
+ §1)
+ and a threshold conception of harm (see
+ §3).
+Let us note that one can also defend the asymmetry of our
+procreational duties from an impersonal view, according to which the
+value of states of affairs is not reducible to how these states affect
+the interests of people. From an impersonal view one does not have to
+claim that prospective parents should refrain from procreation out
+of regard for the children they would have. Based on this view,
+two alternative interpretations of the asymmetry of our procreational
+duties have been discussed in the literature. One could adopt a
+version of negative consequentialism and argue that the universe would
+be better if present generations were guided by a criterion of right
+action that requires them to give priority to the prevention of
+suffering over the creation of good and happiness (see Heyd 1992:
+59–60, for problems with this account). Alternatively, an
+impersonal approach could argue that we have a prima facie
+duty to promote over-all happiness by creating new well off
+people—which duty, however, may be more easily overridden than
+duties not to cause harm. The paradoxical implications of the latter
+view have been prominently explored by Derek
+ Parfit.[3]
+The main source of skepticism concerning the very possibility of
+future people having welfare rights vis-à-vis those currently
+living rests upon the contingency of future people upon currently
+living people’s decisions and actions. We know, of course, that
+when we harm future people’s interests and violate their rights,
+specific persons are harmed. But the decision we take counts as a
+necessary condition of the very existence of this genetically and
+numerically specific set of people at some future point in time. The
+so-called “Non-Identity-Problem” presupposes this fact and
+interprets it as a challenge to the very possibility of
+intergenerational justice.
+Consider a policy of making intensive and extensive use of exhaustible
+resources for the aim of increasing the welfare of currently living
+people. If the policy is criticized for harming future people on the
+ground that this policy will predictably worsen their conditions of
+life and thus is likely to violate their welfare rights, a defender of
+the policy could reply by saying: many, if not
+ all[4]
+ of our actions have (indirect) effects not only on the conditions of
+life, but also on the number, existence, and identity of future
+persons. This is also true for actions that allegedly harm future
+persons. If the non-performance of the allegedly harmful action would
+have resulted in the allegedly harmed person not coming into
+existence, then that person cannot be said to have been harmed by this
+action—or, at any rate, according to the common understanding of
+harm (see Meyer 2003: 147–149, 155–158, for a detailed
+discussion).
+The common understanding is informed by a diachronic notion of harm
+and a notion that requires a subjunctive comparison with a historical
+baseline (hereinafter subjunctive-historical notion of
+ harm).[5]
+ Both the diachronic and the subjunctive-historical notions of harm
+require that the existence of the harmed person or people qua
+individuals is independent of the harming act or policy. On the
+diachronic notion of harm, the following formula holds:
+On the subjunctive-historical notion of harm, the corresponding
+necessary condition for harming is:
+When considering future individuals as possible individuals both the
+diachronic and the subjunctive-historical notions of harm will exclude
+the possibility of present people harming future people, for the
+(future) people whose interests and rights they are required to
+respect are not in a particular state of well-being at the time they
+take their decision—they do not, at that time, exist. But
+according to
+ (I)
+ unless we can claim that the person is in a particular state of
+well-being at the time of our decision, that is, at \(t_1\), we cannot
+say that the person is worse off at \(t_2\) owing to our decision at
+\(t_1\). And likewise with
+ (II):
+ unless we can claim that there is a specific person who would have
+been better off at \(t_2\) than this person actually is at \(t_2\) had
+we not acted with respect to this person at all, this notion of harm
+makes no sense.
+Adopting either the diachronic or the subjunctive-historical notions
+of harm excludes the possibility of our harming future people when we
+choose among long-term policies with significantly differing
+consequences for the quality of life of future people. With respect to
+persons whose existence is dependent upon the allegedly harming
+action, they cannot be worse (or, indeed, better) off owing to this
+action than they would have been had this action not been carried out.
+For in that case, they would not have existed.
+We can distinguish four main responses to the
+“Non-Identity-Problem” so understood (compare Boonin 2008:
+134 ff; Page 2008; Heyd 2009b; Roberts 2013; Wrigley 2012: 178):
+First, some philosophers hold the view that future people whose
+existence depends upon currently living people’s actions cannot
+have rights vis-à-vis the latter people’s actions (see
+Schwartz 1978; cf. Adams 1979; Kavka 1982; Parfit 1984: part iv;
+Boonin 2008; Roberts 2009). Second, others argue that currently living
+people can violate the rights of future people even if the former
+cannot harm the latter (see Kumar 2003). If so, future people cannot
+have welfare rights vis-à-vis currently living people insofar
+as violating welfare rights implies setting back or harming the
+interests of the right holders. Third, we can attempt to limit the
+practical significance of the non-identity-problem by limiting the
+relevant actions to those that are not only likely but indeed
+necessary conditions of the existence of the concerned
+ person.[9]
+Finally, some have sought to circumvent the non-identity-problem by
+suggesting an alternative notion of harm that is unaffected by the
+non-identity-problem, the so-called “Threshold Conception of
+Harm” (Hanser 1990, 2009; McMahan 1998; Shiffrin 1999; Meyer
+2003, 2009a; Harman 2004, 2009; Rivera-López 2009). The
+response to the “Non-Identity-Problem” based on the
+threshold conception is relevantly different from other responses
+(such as those criticized by Heyd in 2009b). The threshold response
+can be understood to be person-affecting in the weak sense (see
+ §1
+ above): While the person being harmed according to the threshold
+notion does not imply that the same person is worse off than she would
+have otherwise been at that time, it does imply that this person is
+worse off than she ought to be. We owe it to the person when she will
+have come to existence that she is not in a harmed state (see
+ §2.2
+ above). Such an understanding is relevantly different from an
+impersonal understanding according to which the universe is a better
+place when it does not include people in a harmed state as judged by
+the threshold Notion (but see Wrigley 2012: 178).
+The threshold notion substitutes the necessary condition:
+According to such a threshold notion of harm an action harms a person
+only if, as a consequence of that action, the (then existing) person
+falls below a normatively defined threshold (see McMahan 1998:
+223–229; Shiffrin 1999). This threshold notion is unaffected by
+the non-identity-problem, for here the finding of harm does not
+require that the person who is in the sub-threshold state would be in
+a better state in the situation that would have obtained in the
+absence of the harming action. Thus, future people can be said to be
+harmed by currently living people’s actions even if these
+actions are among the necessary conditions of the existence, identity
+or number of future people. Such a notion of harm limits the practical
+significance of the non-identity-problem to different degrees
+depending upon how the threshold is substantially defined (see
+ §4
+ below).
+Both of the claims discussed above (in
+ §1
+ and
+ §2,
+ passim), namely,
+first, that considerations reflecting the welfare rights of future
+people vis-à-vis present people can guide the latter in
+choosing among long-term policies, and
+second, that considerations of the rights of people not to be brought
+into existence if they are likely not to realise a certain level of
+well-being can guide prospective parents in deciding not to conceive
+out of regard for the children they would otherwise have,
+can be read as relying upon a threshold notion of harm (Meyer
+2003).
+Adopting either the diachronic or the subjunctive-historical notions
+of harm
+ (I
+ and
+ II,
+ above) or both excludes, firstly, the possibility of our harming
+future people when we choose among long-term policies with
+significantly differing consequences for the quality of life of future
+people, and, secondly, the possibility that we harm persons by
+bringing them into existence if they will have a life worth living.
+But if we adopt the threshold notion of harm at
+ ((III)
+ above), future people can be said to be wronged by our choice of a
+policy that harms them, notwithstanding the fact that the existence of
+the specific people who are said to be harmed is causally dependent on
+our decision to pursue this
+ policy.[10]
+ According to (III) parents could act in light of an interest on the
+part of their would-be child in never existing at all: if the child
+were to be born, it would have a life below the relevant threshold.
+The subject of harm is the person when she is brought into existence
+in a harmed state. That she would not be worse or better off than she
+otherwise would have been is irrelevant for determining that she is or
+will be in a harmed sub-threshold state (see
+ §2.2).
+Derek Parfit has introduced the “No-Difference View”: It
+makes no (theoretical or practical) difference to how we should act,
+all things considered, whether the size and composition of future
+generations depend upon our present decision or not. The relevant
+reasons are the same or have the same strength.
+To what extent we can defend that view will depend on how we
+understand the relation between the notions of harm as distinguished
+in
+ Section 3.1.
+ Here we will delineate two views of how to understand these notions
+of harm and investigate the question of the extent to which these two
+alternative views support Parfit’s “No-Difference
+View”. According to our first view, one must choose between the
+“single threshold” and the “single
+subjunctive-historical” notion of harm: to claim that
+rights-considerations can guide us in choosing among long-term
+policies we will have to adopt one of these notions of harm as
+specifying necessary conditions of harm; in doing so, we have to deny
+that the other notion specifies necessary (or sufficient) conditions
+of harm. In other words, the first view considers the “single
+threshold” and the “single subjunctive-historical”
+notion of harm as exclusive notions. According to the second view, the
+threshold notion of harm and the subjunctive-historical notion can be
+combined.
+According to this “disjunctive notion” the necessary
+condition for harming is the disjunction of the conditions for harming
+as set out by the notions of harm at
+ (II)
+ and
+ (III).
+ The proposal is this: instead of interpreting accounts of harm at
+(II) and (III) as providing alternative necessary conditions for
+harming, we can take these two notions to provide the disjuncts for a
+necessary condition for harming. This disjunctive notion of harm
+substitutes yet a fourth necessary condition of what it means to harm
+someone:
+We clearly ought to prefer the disjunctive notion to the single
+subjunctive-historical view according to which the
+subjunctive-historical notion of harm specifies necessary conditions
+of harm (and the threshold notion at
+ (III)
+ specifies neither necessary nor sufficient conditions). The
+disjunctive notion is compatible with the thesis of this entry that
+relies upon our employing a threshold notion of harm where the
+subjunctive-historical and the diachronic notions do not
+ apply.[11]
+ Some authors also argue that being worse off than the same person was
+or would have been is not a necessary condition for harm where the
+identity of the person is independent of the harming action (Hanser
+1990; Shiffrin 1999; Harman 2004: 98–101; Woollard 2012:
+681–683; but see Roberts 2009: 19–20). Ought we to prefer
+the disjunctive notion to the single threshold notion according to
+which the threshold condition is a necessary condition of harm? The
+advantage of the disjunctive notion is that this view of harm allows
+us to rely on the subjunctive-historical notion of harm whenever it is
+applicable, that is, when we will harm an existing person. In these
+cases the notion of harm at
+ (II)
+ provides us with what most consider a straightforward account of the
+harm caused (see also
+ §5.2).
+Consider the type of case where we can act in a way that diminishes
+the well-being of a person who lives above any plausibly construed
+threshold. However, we will diminish the person’s well-being to
+a level still clearly above the threshold. For example, someone breaks
+into the garage of a mansion and steals the new convertible while the
+wealthy owner is at his penthouse in the city. This theft is not
+likely to cause the wealthy person’s well-being to fall below
+any plausibly construed threshold of harm, and thus according to
+ (III)
+ does not harm him. This seems implausible. Such a case is normally
+understood as a case in which the affected person is clearly harmed.
+More generally, the objection is that the threshold conception is
+under-inclusive in interpreting which acts we consider harmful.
+The single threshold view by itself does not provide us with a
+response to this objection. For a plausible substantive specification
+of a threshold notion (see
+ §4.3
+ below) will not include a concern for the well-being of those above
+the threshold. Thus, in responding to the objection we would have to
+add an additional obligation. For example, we could appeal to the
+additional obligation of minimizing harm to other persons: The
+obligation requires that we not cause another person to fall to a
+lower level of well-being quite independently of the level of
+well-being the person already realizes. What counts as a lower level
+of well-being can be measured by the specified threshold.
+On the other hand, the disjunctive notion allows us to rely on the
+notion of harm at
+ (II).
+ This provides us with a straightforward account of the harm caused.
+Thus, the disjunctive notion is not open to the objection as stated.
+However, while the single threshold view can be shown to be fully
+compatible with Parfit’s No-Difference View, the disjunctive
+notion of harm raises difficult questions of interpretation of its
+own.
+Parfit illustrates the No-Difference View by considering two medical
+programs (1984: 367). In each case a certain rare condition can be
+passed from mother to child. One involves pregnancy testing. If the
+test comes out positive, fetuses are treated for the rare condition.
+The other involves preconception testing. The women who test positive
+as carriers of the rare condition are told to postpone conception for
+at least two months and to undergo (harmless) treatment after which
+the condition will have disappeared. Available funds can be spent on
+one or the other program, and the other must be cancelled. Assuming
+that both programs have equivalent effects on parents, that the
+conditions lead to the same particular handicap in children, and that
+the two programs will achieve a similar success rate, the programs
+differ only in affecting actual people (pregnancy testing) or possible
+people (preconception testing). The (practical) no-difference view
+says: our reason to prevent harm to possible future people (those who
+might be conceived) is as strong as our reason to prevent harm to
+actual people (those already conceived who will develop from the
+already existing fetuses in due course). The two medical programs in
+Parfit’s example are equally worthy and it makes no moral
+difference which is cancelled.
+Is the disjunctive notion of harm compatible with the no-difference
+view, thus understood? Here we cannot discuss the implications of the
+disjunctive notion in any detail. We might first observe that both the
+subjunctive-historical and threshold notions of harm can be employed
+to interpret many core cases of harm. That is to say, both sets of
+conditions as specified by the two notions of harm will arguably be
+satisfied in many cases where most people agree that harm was
+caused—at least under plausible construals of both notions of
+harm. Second, in the cases in which not both sets of conditions
+obtain, we still find that harm was caused, namely, as long as at
+least one set of conditions obtains. If the threshold notion of harm
+applies, we find that harm was caused. The disjunctive notion entails
+that canceling either test causes harm.
+However, the disjunctive notion does not entail that it makes no
+practical difference which test we cancel. A plausible interpretation
+of the disjunctive notion might be the following: satisfying either
+set of the conditions provides a reason for objecting to the proposed
+action; if both sets of conditions obtain, the objection is presumably
+stronger than when only one set of conditions obtains. According to
+this understanding of the disjunctive notion and assuming that in
+Parfit’s example of the two medical programs the children, if
+either they or their mothers are not treated, will suffer a severe
+handicap, the objection to canceling pregnancy testing is stronger
+than the objection to canceling the preconception testing program.
+Because the handicap is severe, the children will fall below the
+threshold and the threshold notion of harm provides the same reason
+for objecting to canceling either program. But if pregnancy testing is
+cancelled this will be worse for the children who are not
+treated—the subjunctive-historical notion of harm applies. The
+subjunctive-historical notion of harm does not, however, provide a
+reason for objecting to cancellation of preconception testing. The
+children who will be born handicapped would never have existed if
+there had been testing prior to
+ conception.[12]
+ This understanding of the disjunctive notion may not, then, be
+compatible with the no-difference view. An alternative understanding
+would deny that where both notions of harm are applicable this
+strengthens the objection to the harmful act. Whether this strengthens
+the objection and, if so, how much more is a matter of future research
+(see Woollard 2012: 684–689).
+The single threshold interpretation of harm is also compatible with a
+second and stronger understanding of the no-difference view (Woodward
+1986: sects. II and III; Parfit 1986: 856–859): there is no
+theoretical difference in harming possible future people and
+harming actual people since the very same reasons hold against harming
+either group. The disjunctive notion is clearly incompatible with the
+theoretical understanding of the no-difference view. According to the
+disjunctive notion it would often not be true that the same reasons
+hold against harming either such group. When we object to the harming
+of actual people we will often have additional reasons that reflect
+the fact that the subjunctive-historical notion of harm applies.
+In
+ Section 2.2
+ and
+ Section 3
+ we introduced (the weak person-affecting interpretation of) the
+threshold conception of harm as a response to the logical-conceptual
+non-identity-problem. By itself this does not answer the question how
+this conception is to be understood as an element of a substantive
+understanding of distributive justice of intergenerational relations.
+Two debates are particularly relevant: first, the debate on how to
+understand the principle of distributive justice; and, second, the
+debate on the currency—that is, how to measure the relevant
+differences in well-being.
+An interpretation of the threshold as an element of a sufficiency
+conception of intergenerational justice is not mandatory, but seems
+plausible (as discussed in
+ §4.4):
+ the threshold can be interpreted as a sufficiency standard that is
+defined in terms of absolute, non-comparative conditions (defined by a
+certain level of well-being and not comparing the well-being levels of
+people) and which all people have a priority claim to achieve
+(Shiffrin 1999: 123–124; McMahan 1998: 223–229; Page 2006:
+esp. 90–95, 170–173; Casal 2007: 298–299; Meyer
+& Roser 2009: 226–243; Huseby 2012; Shields 2016:
+34–35; Meyer & Pölzler forthcoming). Whether one and
+the same threshold is applicable to all decisions is controversial.
+Whether we wrongfully inflict non-comparative harms on a person by
+causing this person’s existence is often considered a special
+case for which a particularly low threshold is relevant: we cause such
+harm by bringing a person to existence only if this person’s
+postnatal potential of development and his life span are drastically
+reduced (Kavka 1982: 105–106) and especially so if the person
+experiences pain (C. E. Harris 1991: 65–66; Schöne-Seifert
+& Krüger 1993: 257–258; Merkel 2001).
+We might want to understand the threshold as an element of an
+egalitarian understanding of intergenerational justice. Egalitarian
+reasons allow us to object to inequalities, for egalitarian reasons
+make it possible for us to understand relative differences between the
+states of persons as something “which is itself to be eliminated
+or reduced” (Scanlon 2005: 6). We might hold that the standing
+of people relative to their contemporaries is (extrinsically or
+intrinsically) important (see the entry on
+ equality)
+ and that the threshold notion of harm ought to reflect, say, the
+average level of well-being that people realize—or that future
+people will realize: the higher the average level of well-being, the
+higher the threshold level of harm should be set.
+Egalitarian considerations that address relative differences between
+people can help specify the standard in at least two ways. First,
+presently existing people may be thought to harm future people by
+causing them to realize a (much) lower level of well-being than their
+own contemporaries (Sher 1979: 389). In addition or alternatively, we
+might hold that the threshold level ought to reflect, say, the average
+level of well-being of the present generations upon whose decisions
+the well-being of future people depend. According to such an
+interpretation presently existing people harm future people by causing
+them to realize a (much) lower level of well-being than they enjoy
+themselves (see, for example, Barry 1999).
+Still, even if egalitarian considerations that reflect a concern with
+the relative differences between people can contribute to the
+specification of the threshold, a plausible threshold arguably is not
+going to be based on that concern only. Otherwise—this is an
+implication of the first interpretation—any level of well-being
+would be considered justified as long as all future people fare
+equally badly. This presupposes attributing intrinsic value
+exclusively to equality—an implausible view (see the entry on
+ equality
+ and
+ §4.2
+ below and §4.5
+ below). Moreover, to define the
+threshold standard of well-being of future people as the level of
+well-being achieved by currently living people (whatever it may be) is
+less than plausible, unless we were to attribute intrinsic value
+exclusively to intergenerational equality, so understood (see Marmor
+2003, Steiner 2003, Raz 2003, Gosepath 2004: 454–63; and Holtug
+& Lippert-Rasmussen 2007). This understanding does not only imply
+that it is worse for future generations to be worse off than the
+present generation; it also implies that it is, in one respect, worse
+for future generations to be better off. In the intragenerational
+context some philosophers have argued that this implication (the
+recommendation to “level down” persons’ well-being)
+is implausible (see Parfit 1997; Raz 1986: 230–235). An
+analogous objection applies to intergenerational relations as well. It
+is doubtful that a more equal distribution across generations is
+better if it came at the cost of some generations being worse off, and
+none being better off. Under certain circumstances this view would
+deny that currently living people may stand under a duty of justice
+positively to save for future people so that they will achieve a
+sufficientarian level of well-being (see
+ §4.5
+ on Rawls’ “savings principle”).
+According to the priority view (Parfit 1997: 213; Holtug
+2007; Attas 2009:
+207–211), equality as such does not matter. It is therefore not
+open to objections against holding equality to be of intrinsic value.
+A plausible version of the priority view reads as follows:
+Priority view: Benefiting persons matters more the worse off
+the person is to whom the benefits accrue, the more people are being
+benefited and the greater the benefits in question.
+The priority view has a built-in tendency towards equality, for the
+view accepts the following egalitarian condition: If X is worse
+off than Y, we have at least a prima facie reason for
+promoting the well-being of X rather than Y (unless
+conditions obtain under which the only or best way of raising the
+well-being of X is by raising the well-being of Y or
+conditions under which promoting the well-being of X brings
+about raising the well-being of Y as a side-effect). Even if
+prioritarians do not see anything intrinsically bad in social,
+economic or other differences, their priority view is a derivatively
+egalitarian view. To this extent it is correctly described as
+non-relational egalitarianism.
+We might want to rely on the priority view for specifying the
+threshold of harm. On this interpretation, future people are in a
+harmed state unless they are as well off as such a prioritarian view
+requires. There are at least two problems in understanding the
+threshold as an element of a prioritarian understanding of
+intergenerational justice: First, the priority view is likely to
+entail excessive intergenerational requirements. Present actions or
+inactions can improve the well-being of many future generations to at
+least some extent. Moreover, the number of future people will likely
+be very large and depends in part upon currently living people’s
+decisions and actions. Hence, according to prioritarianism, we ought
+to sacrifice more of our present well-being for the sake of future
+generations than seems plausible. It might even be the case that we
+are required to incur significant costs for the sake of only minuscule
+future benefits (as in this way we might maximize the weighted sum of
+benefits for future persons (see Rawls 1999: 287; Wolf 2009: 373; Meyer & Roser 2009:
+233–235). How likely it is that the priority view has this
+implication will also depend upon the strength the view gives to the
+priority of the worse off who are (very) badly off. Of course, the
+priority view will not have this implication if (whatever currently
+living people do) all future people were to enjoy levels of well-being
+that are higher than those of all or most currently living people.
+Second, the priority view does not entail a plausible population cap.
+Under some circumstances having large but badly off future generations
+might be consistent with prioritizing the number of beneficiaries, the
+size of benefits and those who are worse off (see entry on
+ repugnant conclusion;
+ Meyer 1997: 139–140).
+Interpreting the threshold concept as an element of a sufficiency
+conception of intergenerational justice can take a number of different
+forms (see Benbaji 2005: 316–321 and 2006; Casal 2007:
+312–326; Huseby 2010a). A plausible version is characterized by
+two theses, namely by what scholars have called the “Positive
+Thesis” (see especially Casal 2007: 298–299) and the
+“Shift Thesis” (Shields 2016: 34–35). The Positive
+Thesis states that we have weighty non-instrumental reasons to secure
+at least enough of some benefit(s). According to the Shift Thesis,
+once people have secured enough there is a discontinuity in the rate
+of change of the marginal weight of our reasons to benefit individuals
+further. (Shields 2018: 211) 
+The Shift Thesis is compatible with several understandings of the
+relevance of justice-based reasons above the threshold, among them:
+First, once a person is above the threshold of sufficiency there is no
+justice-based reason to benefit this person. This claim is often
+referred to as the “Negative Thesis” of sufficientarianism
+and has been much criticized (Casal 2007: 299–304). Second,
+other justice-based reasons apply above the threshold that are less
+weighty. This would mean that additional justice claims reflecting,
+for example, prioritarian or egalitarian reasoning (see
+ §4.2
+ and
+ §4.3)
+ can be valid. Third, the same justice-based reasons as below the
+threshold undergo a relative change of weight at the sufficiency
+threshold.
+The third understanding of the Shift Thesis relates to a further
+distinction of how to understand the sufficiency conception. Versions
+of sufficientarianism differ in how they take into account ethical or
+justice-based reasons to benefit persons above the threshold of
+sufficiency. Strong sufficientarianism gives absolute, weak
+sufficientarianism gives some but not absolute priority to those who
+are below the threshold. In the intergenerational context weak
+sufficientiarianism seems more plausible than strong
+sufficientarianism (Meyer & Stelzer 2018).
+Suppose not all presently living and future persons’ claims to
+sufficiency well-being can be met (but see Wolf 2009: 362). Then we would need to weigh
+all people’s claims. Proponents of sufficientarianism have
+proposed different principles of distribution below the threshold of
+sufficiency. Most prominently, they have argued that we ought to
+maximize the well-being of present and future individuals below the
+threshold (so-called “min-deprivation”; Wolf 2009:
+356–357); or that
+we ought to maximize the number of individuals who are sufficiently
+well-off (so-called “headcount”; Page 2007a: 85–95).
+Both of these below-threshold principles seem problematic. They will
+often imply that we ought to sacrifice the worst-off present or future
+persons for the sake of better-off, but still badly-off persons.
+According to a third understanding, we should rely on a priority view
+for unavoidable sub-threshold distributions: benefitting persons below
+the threshold of sufficiency matters more the more claimants are
+benefitted and the greater these benefits (Meyer 2009a, 2009b, 2015;
+Meyer & Roser 2009). This understanding only entails sacrificing
+the worst-off individuals for the sake of better off but still badly
+off individuals under circumstances where the former higher weighted
+claims will be outweighed by the sum of the less weighty claims of
+more better-off people.
+Richard Arneson and others (Arneson 1999, 2000; Roemer 2004; and see
+Casal 2007: esp. 312–314, 315–318) have objected to
+thresholds, and especially those that designate an absolute
+priority—as is characteristic of the position of strong
+sufficientarianism—on the grounds that we cannot avoid an
+arbitrary specification of such priority thresholds and, further, that
+such thresholds are incompatible with our distributive
+convictions’ being continuous (that is, that they all can be
+accounted for by means of one principle of distribution). Others have
+defended a priority threshold against both objections (Crisp 2003:
+753–757; Benbaji 2006: 332–344; Page 2007a: 16–18;
+Dorsey 2008; Huseby 2010b: 180–182; Freiman 2012: 30–33;
+Shields 2012: 111–115; Sher 2014: chs. 8 and 9; Meyer &
+Pölzler forthcoming). In specifying a priority threshold one
+important issue is on what currency we should rely (see
+ §4.4).
+ .
+Defining a threshold of well-being according to which both currently
+and future living people are able to reach a sufficientarian threshold
+arguably avoids the implausible implications of the egalitarian and
+prioritarian alternatives when we understand the latter to define
+thresholds of harm (see
+ §4.1
+ and
+ §4.2):
+ First, avoiding or reducing differences must not lead to a state of
+affairs in which people are worse off than they ought to be. Secondly,
+claims against currently living people are unreasonable if in
+fulfilling them the currently living people will bring about minimal
+or even trivial improvements of the well-being of future people but
+suffer losses themselves, causing them to fall below a plausible
+threshold level of well-being. Third, the number of people brought
+into existence ought to be compatible with all people having
+sufficiently good lives or lives worth living (see Meyer 1997:
+139–140).
+To be sure, according to the “shift thesis” justice-based
+reasons may apply above the threshold and they can include egalitarian
+or prioritarian reasons. And one should note that the reasons for a
+sufficientarian understanding of intergenerational justice are at
+least in part specific reasons and are not necessarily relevant for
+understanding either global justice or the notion of justice that
+holds among contemporary members of well-ordered societies.
+ If we interpret the threshold as an element of a sufficiency
+conception of intergenerational justice the threshold identifies a
+sufficiency standard which all people have a priority claim to
+achieve. Such an interpretation is supported by a view of the currency
+of well-being that helps explain why failure to meet the threshold
+significantly harms people. Basic needs are such a view. If people
+cannot satisfy their basic needs, they are necessarily and severely
+damaged: necessarily as the damage does not occur because of special
+environmental conditions or as the person concerned has special
+characteristics. Rather, it is because of such conditions and
+characteristics that currently apply and will remain foreseeably and
+largely unchanged (Wiggins 1998: 15). The damage is significant
+because it undermines the conditions for the possibility of a
+minimally good life (Wiggins 1998: 14). For example, if a person has
+no access to food, this leads to apathy, organ damage or even death of
+the person. Such damage is physiologically necessary, regardless of,
+for example, the nationality, social status or religion of the person
+concerned. Being able to satisfy basic needs when understood in this
+way can be protected for reasons of justice by ascribing the
+corresponding moral rights. The same list of such rights is attributed
+to all people (wherever and whenever they live), which does not
+exclude the possibility that changing social, economic and cultural
+conditions also change the means of satisfying basic needs (the
+so-called satisfiers of basic needs) (see, e.g., Braybrooke 1987; Sen
+1984; Nussbaum 2000: 132–133; Page 2006: 71–75).
+The currency of central capabilities (see Nussbaum 2006; Petz 2018) is
+highly similar to basic needs. Other currencies differ in relevant
+ways (Meyer & Pölzler forthcoming). For example, the currency
+of preference-satisfaction (whatever these preferences happen to be)
+(see, e.g., Arrow 1963; Goodin 1995; Singer 1979) measures well-being
+not in objective, but in subjective terms: what a person prefers is
+contingent on mental states, namely on the preferences of this person.
+Also, the direction of future changes in preferences is difficult to
+predict; it is possible and plausible that future persons will have
+(fundamentally) different preferences than persons living today. The
+currency of impersonal resources (i.e., goods that can be used to
+produce many kinds of benefits; for example, income and wealth) (see,
+e.g., Barry 1989a; Rawls 2001) faces a different problem:
+people’s levels of impersonal resources do not necessarily
+correlate with levels of well-being realized. Impersonal resources are
+unreliable indicators of well-being (see Page 2007b: 457–458;
+Sen 1982: 19–21, 26–30).
+John Rawls was the first to develop a systematic account of
+obligations to future people as a central element of a theory of
+justice (Rawls 1971, 1999, especially section 44; Rawls 1993: 274;
+Rawls 2001: especially sections 49.2 and 3). Rawls proposes a
+principle of “just savings”. Long before Rawls Frank
+Ramsey developed a model for determining the optimal savings within a
+utilitarian framework (Ramsey 1928; see entry on
+ Ramsey and intergenerational welfare economics)
+ disregarding distributional considerations. Following Sidgwick (1907
+[1981: 414]) Ramsey (1928: 261) as well as Rawls (1971: 263) and Parfit (1984: appendix
+F) reject what is called “pure time discounting”, that is,
+giving less weight to the well-being or legitimate claims of future
+people just because they live in the future. A long-standing issue in
+economics is how loans and taxes for financing public policies compare
+in terms of the burdens imposed on future generations (see e.g., Pigou
+1920: ch. ix; Viner 1920; Mishan 1963). Provisions to protect the
+welfare interests of future generations have been in place since
+ancient times (Auerbach 1995: 27–35; Wissowa et al. 1937: vol.
+xi, 2011, 2014, 2021).
+In proposing a principle of “just savings” Rawls never
+discusses the non-identity-problem and for most of his discussions
+(but see Rawls rev. edition 1999: 141) he assumes that the number of
+future people is constant (for criticism see Heyd 1992: 47; Dasgupta
+1994; Casal & Williams 1995; Barry 1999: 107–111; Gosseries
+2001: 330–333). However, his principle of just savings can be
+understood to provide us with a substantive understanding of
+intergenerational sufficientarianism. It can be understood as an
+interpretation of a threshold notion of harm in different number
+choices (see Reiman 2007; Attas 2009).
+Rawls specifies the sufficientarian threshold relevant for defining
+currently living people’s obligations of justice
+vis-à-vis future people: “the conditions needed to
+establish and to preserve a just basic structure over time”
+(Rawls 2001: 159; on the basic structure as the subject of the
+application of a sufficientarian principle see also Freiman 2012:
+33–37; Meyer 2015). Rawls distinguishes two stages of societal
+development for the application of his principle of just savings.
+Currently living people have a justice-based reason to save for future
+people only if such saving is necessary for allowing future people to
+reach the sufficientarian threshold as specified. This is known as the
+accumulation stage. Once just institutions are securely
+established—this is known as the steady-state
+stage—justice does not require people to save for future people.
+Rather they should do what is necessary to allow future people to
+continue to live under just institutions. Rawls also holds that, in
+that second stage, people ought to leave their descendants at least
+the equivalent of what they received from the previous generation (see
+Gosseries 2001 for a comparative assessment of Rawls’s
+substantive principle). This additional claim can be supported by
+egalitarian considerations (see
+ §4.1),
+ the idea of a presumption in favor of equality (see Sidgwick 1907
+[1981: 379–380], and the entry on
+ equality)
+ and by the considerations delineated in the next section
+ (§4.6).
+As is characteristic of Rawls’s work, he presents the just
+savings principle as the outcome of a decision reached in the
+contractualist (hypothetical and non-historical) decision-situation of
+the original position. Who are the persons in the original position?
+Rawls considers an original position in which every generation is
+represented. However, as the relations between the contractors so
+conceived are not characterized by the “circumstances of
+justice” (Rawls 1971: paragraph 22), the question of justice
+as Rawls understands it does not arise: We cannot cooperate with
+previous generations and, while previous generations can benefit or
+harm us, we cannot benefit or harm them (see
+ §1).[13]
+ Instead Rawls therefore adjusts the (present-time of entry)
+interpretation of the original position for the intergenerational
+context (Rawls 1993: 274; Rawls 2001: paragraph 25.2). The contractors
+know that they belong to one generation, but the veil of ignorance
+blinds them to which particular generation they belong (see Gardiner
+2009: esp. 97–116, and Heyd 2009a: esp. 170–176, for a
+comparative analysis of how contract theories can be extended to the
+subject matter of intergenerational relations). From the position of
+the original position the contractors determine a just savings
+rate.
+While the circumstances of justice clearly hold among contemporaries,
+the contractors cannot know whether previous generations have saved
+for them. Why then should they agree to save for future generations?
+In A Theory of Justice (1971: 284–293), Rawls stipulates “a
+motivational assumption” according to which the contractors care
+for their descendants so that they will want to agree to save for
+their successors—irrespective of whether previous generations
+saved for them (for criticism see, e.g., Hubin 1976/77: 70–83;
+English 1977: 91–104; Heyd 1992: 41–51). In Political
+Liberalism, Rawls withdraws this motivational assumption. He now
+understands previous generations’ non-compliance with a just
+savings principle as a problem of non-ideal theory (Rawls 1993: 274,
+fn. 12; for criticism see, e.g., Dasgupta 1994: 107–108).The
+original position, however, belongs to ideal theory: strict compliance
+with whatever principles are agreed on is assumed (Rawls 1971:
+144–145). Rawls
+introduces problems of partial and non-compliance only at the level of
+non-ideal theory (Rawls 1971: ch. iv). In accordance with this understanding of ideal
+theory, Rawls assumes that the generations are mutually disinterested.
+He takes the contractors to agree to a savings principle 
+subject to the further condition that they must want all
+previous generations to have followed it. 
+Rawls continues: 
+Thus the correct principle is that which the members of any generation
+(and so all generations) would adopt as the one their generation is to
+follow and as the principle they would want preceding generations to
+have followed (and later generations to follow), no matter how far
+back (or forward) in time. (Rawls 1993: 274; Rawls 2001: 160) 
+The principle of just savings thus agreed on is thought to be binding
+for all previous and future generations.
+A sufficientarian interpretation of the threshold notion of harm
+(together with an appropriate conception of wrongdoing) seems to
+provide us with a plausible understanding of what is owed to future
+people: the fact that future persons’ existence is contingent on
+our present decisions does not matter where what is in question is our
+ability to harm future people’s interests and to violate their
+rights. By employing a non-comparative notion of harm one can justify
+the present generation’s duties not to violate the rights of
+future generations against being harmed. Accordingly, rights-based
+considerations may not bear merely upon “same people
+choices”, but will bear also upon both types of “different
+people choices” that Parfit distinguishes, namely “same
+number choices” (in which the same number of future people live,
+irrespective of present choices) and “different number
+choices” (in which a different number of future people will live
+depending on which choices we now make) (Parfit 1984: 355–356).
+Thus, intergenerational sufficientarianism allows us to specify the
+considerations of justice relevant for decisions concerning population
+policies: Future people have rights vis-à-vis us that reflect
+considerations of justice as specified by intergenerational
+sufficientarianism. Our correlative duties set a normative framework
+for most of our decisions concerning future people, including those
+that have an impact on their number and identity.
+However, such a framework does not provide a complete moral theory of
+intergenerational relations and especially not in the context of
+decisions on the existence, number, and identity of future people.
+There are concerns for future people that cannot be accounted for by
+rights-based considerations (Jonas 1979; Heyd 1992 and 2009a;
+De-Shalit 1995: ch. 1; Meyer 1997; Thompson 2009; Scheffler 2013:
+60–63, 72–73,80–81; Sanklecha 2017a, 2017b). First,
+consider the notion that it is important that there be future people
+at all. However, a person-affecting intergenerational
+sufficientarianism will account for the asymmetry of our procreational
+duties (see
+ §2.2):
+ On the one hand, prospective parents should refrain from procreation
+out of regard for the child(ren) they would have if the life of their
+child(ren) would fall below the relevant sufficientarian threshold. On
+the other hand, people have no obligation to procreate out of regard
+for the interests of possible future children. Possible people have no
+right to be brought into existence (and we do not have the correlative
+obligation to procreate).
+Second, consider the claim that future people should have a life that
+is well above the level of well-being specified by a threshold notion
+of harm. According to the Shift Thesis (introduced in
+ §4.3)
+ intergenerational sufficientarianism is compatible with denying that
+people have above-threshold justice claims and with understanding
+these claims as less weighty justice
+ claims.[14]
+ The second concern, in part, reflects a third concern, namely the
+notion that future people should be able to share (at least certain
+aspects of) the particular way of life of currently living people.
+But, presumably, currently living people do not violate the rights of
+future people by failing to sustain particularly valuable aspects of
+their way of life for them. Thus, if we take into account all three of
+the above restrictions, intergenerational sufficientarianism may
+specify no reason for preferring a future with people all of whom have
+lives far above the level of a sufficiency threshold to a future with
+no
+ people.[15]
+Clearly, considerations based on the rights of future people cannot or
+cannot fully account for all the concerns we might have for future
+people. What considerations besides rights-based considerations can
+guide us in our relations to future people? It has been suggested that
+the widely shared concerns about the continuation of human life on
+earth at a high level of well-being can, at least in part, be
+accounted for by an obligation toward future people that have no
+correlatives in future people’s rights vis-à-vis current
+people. This obligation reflects those widely shared concerns about
+future people which cannot be accounted for by rights-based
+considerations. The obligation can be described along the following
+lines (Baier 1981; Meyer 2005: chs. 4 and 5; Thompson 2009): those
+currently alive owe respect to highly valuable goods that their
+predecessors bequeathed to them as well as to more remote future
+people, and they also owe respect to the highly valuable
+future-oriented projects of their contemporaries. Owing such respect
+gives rise to a general obligation, namely that current people should
+not willfully destroy the inherited goods and the conditions that are
+constitutive of persons’ pursuit of future-oriented projects. In
+other words, such respect gives rise to a general obligation that one
+not willfully destroy the social practices on which the possibility of
+people pursuing future-oriented projects depends. While future people
+belong to the beneficiaries, the obligation is owed to both present
+and past people (see also
+ §5.4).
+Intergenerational justice concerns the relations between generations.
+This section discusses the three issues that have been central to the
+philosophical investigation of the relations between past people and
+currently living people and to understanding the significance of what
+happened in the past (and, in particular, of past wrongs) for
+currently living (and future) people’s justice claims: First,
+how can currently living people be understood to be negatively
+affected by historical injustices? Second, can the ongoing effect of
+past wrongs become legitimate when circumstances change? And, thirdly,
+we need to address the question of the moral status of deceased
+persons and dead victims of injustice in particular.
+Concerning the first issue the non-identity-problem can be relevant:
+how can individuals today have a just claim to compensation owing to
+what was done to others in the past when the (potential) claimants may
+not exist today had past people not suffered these harms (Morris 1984;
+Kumar & Silver 2004; Kershnar 2004: 70–75; Meyer 2004b and
+2013)? For
+ example,[16]
+ do African Americans, whose ancestors were subjected to the terrible
+injustices of being kidnapped in Africa and subsequently enslaved,
+have a just claim to compensation? (See, e.g., Bedau 1972; Boxill 1984
+[1992]; Brooks 1999: parts 6 and 7; Soyinka 1999: 44–69;
+Fullinwider 2000; Lyons 2004b; Miller & Kumar [eds] 2007) Let us
+set aside a host of specifically legal questions concerning, for
+example, the statute of limitations and liability. Let us also assume
+that it is sometimes possible to identify with certainty direct
+descendants of enslaved people. Consider the case of Robert, who has
+been identified as one such person (see Fishkin 1991: 91–93).
+People can claim compensation for harms they suffered. As a descendant
+of enslaved people, has Robert been harmed owing to the injustices
+suffered by his ancestors?
+First, consider briefly the common understanding of harm, namely the
+subjunctive-historical understanding (see
+ §3.1).
+ According to this interpretation of harm, a person can be understood
+to be fully compensated for an act or policy (or event) when she is as
+well off as she would have been had the act not been carried out.
+According to this interpretation of harm, it is not the case that
+Robert has been harmed by his ancestors’ having been kidnapped
+and enslaved. If his ancestors had not been kidnapped and enslaved,
+Robert would not exist today. His existence depends on the fact that
+the genealogical chain was not broken at any point. Hence, the initial
+kidnapping in Africa, the transport to America, and the slavery of his
+ancestors are necessary conditions for Robert’s having come into
+existence at all. He would not have been better off had his ancestors
+not been badly wronged. Thus, we cannot rely upon this interpretation
+of harm and its accompanying interpretations of compensation in
+claiming that Robert has been harmed and should be compensated; the
+required state of affairs under this interpretation implies the
+nonexistence of the claimant to
+ compensation.[17]
+To this claim we can respond in a number of ways. As suggested by our
+discussion in
+ section 3
+ and
+ section 4
+ we can allow for an identity-independent notion of harm in addition
+to the common identity-dependent notion of harm. Consider the
+threshold notion of harm at
+ (III).
+ Under this interpretation of harm, a person can be understood to be
+fully compensated for an act or policy (or event) if that person does
+not fall below the specified standard. According to this
+interpretation, Robert can be harmed because his ancestors were
+kidnapped and enslaved. Whether Robert has been harmed due to the way
+his ancestors were treated depends upon whether the way they were
+treated has led to Robert’s falling below the specified standard
+of well-being. That this is true in the case of Robert, however, will
+turn on a causal link between the past injustices and his
+current state of well-being. Employing this interpretation of
+harm and its accompanying interpretation of compensation requires a
+forward-looking assessment of what others ought to do today in terms
+of providing compensation for past
+ injustice.[18]
+ By providing measures of compensation they ought to counteract the
+consequences of past wrongs in such a way that the indirect currently
+living and future indirect victims are as well off as they ought to
+be. When we analyze historical claims on the basis of such a threshold
+notion of harm, the current (and future) normative relevance of past
+wrongs will depend upon their causal relevance for the well-being of
+currently living (and future) generations. Fulfilling our duties to
+both the latter might well require compensation for the consequences
+that stem from the fact that their predecessors have been badly
+wronged. That their predecessors were wronged, however, does not in
+itself (independently from its particular consequences) give rise to
+just claims of compensation on the part of their descendants
+today.
+The common understanding of harm (see
+ §3.1)
+ can be relevant for the justification of measures of compensation for
+past injustices. First, the non-identity-problem does not arise with
+respect to surviving victims of wrongs. The harm done to surviving
+victims can be understood in accordance with the common understanding
+of harm: the past wrongdoing caused these people to be worse off than
+they would have been in the absence of that act or policy. These
+individuals would be fully compensated for the harm done to them where
+it the case that as a result of compensation undertaken they are as
+well off as they would be if the policy had not been carried out.
+Second, consider the case of people having been wrongfully expelled
+from their homeland and not having received compensation for the
+wrongs inflicted upon them. For their descendants it might well be
+true that they would not exist had their parents and (great-)
+grandparents not been expelled. However, the descendants can be said
+to be victims of the additional wrong that their parents did not
+receive compensation for the wrongs inflicted upon them. The
+individual descendants can be said to have been harmed from conception
+or birth because of the lack of sufficient compensation to their
+parents (Sher 2005; and see Butt 2006, Cohen 2009, and Herstein 2008).
+Again, the harm done to them can be understood in accordance with the
+common understanding of harm: If those entities which stand under the
+obligation to provide compensation to the first generation of
+displaced persons do not (entirely) fulfill their obligations, they
+thereby harm the descendants of the first generation of displaced
+people by making those descendants worse off than they would otherwise
+be—that is, if (sufficient) compensation had been provided by
+the first generation. This line of argument can be extended to the
+second, third, fourth etc. generation: generation X of
+displaced people would be fully compensated for the harm done to them
+were it the case that as a result of compensation undertaken the
+people of generation X are as well off as the people of this
+generation would be if the first generation of displaced people had
+received the compensation they were entitled to. While it is clear
+that thus understood the later generations’ claims to
+compensation do not have to contend with the non-identity-problem
+(Sher 2005), what is owed to them will depend on how best to
+understand the counterfactual relevant to determine the amount of
+compensation owed.
+How best to understand the relevant counterfactual is an intricate
+problem (cf. Sher 1979, 1981). Let us take note of two issues. First,
+the legitimacy of people’s claims to compensation arguably can
+depend upon their actions (and inactions) and the impact these have on
+their well-being. Of course, these actions (and inactions) can
+normatively be attributed to people only insofar as they make the
+decision to act (or not act) under certain conditions, for example,
+specified in terms of rational and autonomous agency. If so, then the
+strength of later generations’ claim to compensation—owing
+to the failure of providing sufficient compensation to the first
+generation that suffered the initial harm—may wane over time.
+The more the descendants’ well-being can be attributed to
+actions or inactions for which they themselves or members of the
+intermediate generations are responsible, the less the hypothetical
+state of affairs that would obtain had the direct victims received
+adequate compensation is relevant for the determination of the claims
+of the indirect victims (assuming we could know what that state would
+be) (Sher 1981). This insight is likely to be of little practical
+significance for the claims to compensation of the first couple of
+generations of descendants for the direct victims. The harm done to
+their ancestors is not ancient. Thus, the descendants’ claim to
+compensation—based on the harm inflicted on them due to the
+failure of providing adequate compensation for the initial
+harm—is likely to be strong.
+Second, the claims to compensation may be thought to increase over
+time. Historical injustices may well have resulted in ongoing
+systemically unequal distributions of life chances due to the
+inheritance of the benefits stemming from historical injustices on the
+side of the descendants of the perpetrators (see Butt 2013). These
+differences can be considered relevant for how much compensation is
+owed to currently living indirect victims.
+We now turn to a second source of doubts about the validity of
+historical claims to reparations. Injustices committed against people
+in the past may not give rise to claims to reparations today if such
+claims can be understood to presuppose an indefensible interpretation
+of property entitlements. Jeremy Waldron (Waldron 1992a; Waldron
+1992b: 27; Waldron 2002, 2003, 2004a; Waldron 2004b: 37; Waldron
+2006a, 2006b, 2007; Quist & Veraart 2009; see also Lyons 1977)
+argues that the view that once we acquire entitlements they continue
+until we transfer or relinquish them is indefensible since there are
+reasons of principle (not only pragmatic reasons for, e.g., the
+statutes of limitations and the doctrine of adverse possession (see
+Marmor 2004: 326–329)) for holding that entitlements and rights
+are sensitive to changes of circumstances that typically occur in
+time. So-called “supersession” of claims owing to past
+injustices arguably might concern different types of claims and occur
+through changes in several types of circumstances, which have
+consequences for the (1) distributions of goods, (2) connections to
+specific objects, (3) group identity, and for (4) sovereignty (Meyer
+& Waligore 2018).
+Waldron put forward the supersession thesis with respect to indigenous
+peoples in the U.S., Canada, Australia, and New Zealand, and others
+have discussed the idea in this context (Patton 2005; Sanderson 2011;
+Spinner-Halev 2012; Waligore 2016, 2017, 2018). The supersession
+thesis has also been discussed in the context of Israel/Palestine
+(Meisels 2003, 2009: ch. 2; Meyer 2004b; Gans 2008: ch. 4), Fiji
+(Carens 2000: ch. 9), and Pacific Island nations threatened by climate
+change (Nine 2010). The supersession thesis has become influential
+among theorists both skeptical and supportive of reparations for past
+injustice (see, for example, Kymlicka 1995: 220; Thompson 2002; R.
+Hill 2002; Wenar 2006; Nine 2008;; Waligore 2009; Marmor 2004; Hendrix
+2005; Kolers 2009: ch. 3; Butt 2009: 145–48).
+According to Waldron, entitlement to land is based upon the idea that
+such entitlement can be an integral part of people’s life plans
+and projects as individuals and as members of groups. Entitlements to
+land can be important for people being able to autonomously realize
+particular goods of their way of life. When circumstances change the
+entitlement might no longer be important in that sense or decrease in
+its normative significance. For example, the entitlement of original
+owners might weaken over time if they are separated from the land.
+Having been separated from the land, entitlement to the land might no
+longer be important for the original owners autonomously realizing
+their way of life. Thus, generally speaking, entitlements are
+sensitive to background circumstances and they are vulnerable to
+prescription. As Waldron argues, property entitlement is a set of
+claim rights, liberty rights and powers that are
+“circumstantially sensitive” (Waldron 1992b: 23; see also
+Lyons 1977 [1981: 370]).
+Further, if legitimate entitlement is sensitive to background changes,
+it is possible that the ongoing effect of an illegitimate acquisition
+and, more generally, of unjust violations of rights of others can
+become legitimate when circumstances change. Waldron’s primary
+example of supersession concerns “distributive
+considerations”. Waldron says that any plausible theory of
+property must be “circumstantially sensitive” and
+therefore must allow for the “possibility” of supersession
+(Waldron 1992b: 25; Waldron 2004a: 67–71). He gives an example
+in which the violation by one group of the legitimate rights of
+another group to a given waterhole is superseded by ecological
+catastrophe such that the interlopers acquire a right to share what
+they had wrongly begun to use. In these circumstances, 
+they are entitled to share that water hole. Their use of [the
+waterhole] no longer counts as an injustice; it is now in fact part of
+what justice now requires. The initial injustice by [the first group]
+against [the second] has been superseded by circumstances. (Waldron
+2004a: 67) 
+Hence justice may require that original owners of land share their
+land with others and they may be required to share even with those who
+unjustly appropriated the land.
+Even in cases of so-called ancient historical injustice one might have
+doubts that the conditions for supersession are fully met (Patton
+2004: 167–171) (so that no historical claims continue to be
+valid). With respect to more recent injustices the conditions for
+their supersession will often not be met (see Lyons 2004a: 296; Meyer
+2007: 301–305). One might also doubt that supersession is to be
+understood as final. In order to account for the complexities of the
+real world cases of historical injustice and their consequences it
+might be helpful to distinguish between “partial
+supersession” and “full supersession” (Meyer &
+Waligore 2018: 227–228) and between “final
+supersession” and “dormant supersession” (Meyer
+& Waligore 2018:
+ 228–229).[19]
+The considerations of
+ section 5.1
+ and
+ section 5.2
+ suggest that currently living and future people can have a just claim
+to compensation owing to what was done to others in the past. If so,
+currently living people ought to attempt to counteract the negative
+impact of past wrongs for the well-being of current and future people.
+However, one could argue that such an interpretation of the relevance
+of past injustices is incomplete when understood as a statement of how
+we ought to respond to the fact that past people were severely
+wronged. To many it is intuitively plausible that present generations
+can have duties to dead victims owing to the wrongs committed against
+them (by others) in the past. The moral significance of past wrongs
+does not exclusively lie in their impact on present and future
+people’s well-being; rather, the significance of past wrongs is
+also to be seen in the fact that past people were
+victims of these injustices. If this intuition can be defended, we
+have duties to past generations that are grounded in past deeds. This
+would imply that at least some aspects of historical injustice cannot
+be accounted for by an historically informed theory of justice between
+contemporaries (or between contemporaries and future people).
+To attribute rights to dead people may seem unproblematic if we assume
+that people continue to exist after their physical death and that they
+may be affected by (and affect) events of this world. These
+assumptions about the ontological status of previously living people
+are, however, at least as controversial as their converse (see Mulgan
+1999: 54–55). Assuming that dead people cannot be bearers of
+interests or rights and thus that those presently alive can neither
+harm nor wrong dead people, Joel Feinberg and others have discussed
+two alternative interpretations of posthumous harm (Boonin 2019). Both
+positions are compatible with the hypothesis that 
+According to the first interpretation, present generations can be said
+to owe something to surviving interests as such—that is, to
+interests that the deceased had, while alive, with respect to future
+posthumous states of affairs. However, while we have reasons to care
+about individual people, it is not clear that we have reasons to care
+about interests as such. According to the second (re-)interpretation
+(see Feinberg 1974 [1980]; Feinberg 1977: 301–302), the
+significance of posthumous events is fully accounted for by the harm
+that these events cause a person during her life. However, this
+interpretation is not an interpretation of posthumous harm as such but
+of harm to living people that is caused by posthumous events.
+Arguably, this position is not compatible with our normal
+understanding of the significance of posthumous events (see Gosseries
+2004: ch. iv, sects. 4–5).
+A fourth position, the position of surviving duties, is compatible
+with presupposition (A) and does not rely on any of the criticized
+views (see Wellman 1995: 155–157; Meyer 2005: chs. 4 and 5;
+Scheffler 2013: esp. 42–43, 52–53). The position of
+surviving duties relies upon the following claims: Some rights are
+future-oriented in the sense that they impose duties in the future.
+Such rights can impose surviving duties; they imply duties that are
+(also) binding after the death of the bearer of the right if the
+appropriate bearer of the duty is identified. According to this
+position, duties survive the death of the bearer of the right. While
+the bearer of the right no longer exists, currently living people can
+stand under the correlative duties. The notion of surviving duties
+relies on the idea that the reasons for a person’s right imply
+reasons for a correlative duty under which other people may stand even
+after the death of the bearer of the right. If it is a moral right,
+then these reasons will also include general social reasons which are
+relevant not only for the bearer of the right but also for the
+bearer(s) of the surviving duty, his contemporaries (and future
+people). For example, we all have reasons to protect people’s
+trust that promises be kept and that people have the reputation they
+deserve. The reasons for the surviving duties also include the reasons
+that are necessary for showing that a particular person had the moral
+right.
+The idea of surviving duties rests neither on the claim that deceased
+people can be bearers of interests or rights (contrary to the first
+position), nor on the claim that we have reason to care about
+interests that have no current bearers (contrary to the second
+position). The position of surviving duties does not reject the notion
+that currently living people can be harmed by what are to them
+posthumous events (for example, when people learn shortly before their
+death that a project that they deeply care about is doomed to
+failure). However, the position of surviving duties is meant to answer
+a different question, namely, whether present generations can be said
+to owe something to dead people and, in particular, to those who were
+victims of past injustices.
+One might wonder whether this interpretation of surviving duties is
+compatible with the presupposition that dead people are bearers of
+neither interests nor rights and that they cannot be affected by the
+actions of present persons. At the very least, the position of
+surviving duties as delineated presupposes the possibility of the
+attribution of posthumous properties and, more particularly, of their
+change—an assumption that has been defended as rather
+unproblematic (see Ruben 1988: 223–231).
+Does the theory of surviving duties contribute to an understanding of
+the moral significance of the fact that past people
+were severely wronged? Here we consider the notion that if
+people (possibly as members of ongoing societies) can be said to have
+an obligation to compensate surviving and indirect victims of past
+injustices (see
+ §5.1
+ and
+ §5.2),
+ they may also have an obligation symbolically to compensate dead
+victims of past injustices, people who cannot now be affected by
+actions of currently living people (Meyer 2005: ch. 3; Meyer
+2018).
+Let us suppose that currently living people can stand under surviving
+duties toward past people even though they can neither change the
+value to them of any moment of their lives since they cannot be
+affected by what people do after their death nor can they be thought
+to be bearers of interests or rights (see
+ §5.4).
+ If so, currently living people can act in ways that will constitute a
+violation of the surviving duties under which they stand owing to the
+rights the deceased once held. Currently living people may be thought
+to stand under particular surviving duties toward the deceased owing
+to their future-oriented projects, the promises they made to them, or
+the contractual obligations they entered into with them. However, not
+all people have the opportunity or the wish to have a specific impact
+on posthumous states of affairs. Not all people pursue projects that
+are future-oriented in the relevant way and not all people oblige
+others to bring about what for them are posthumous states of affairs.
+Here one suggestion is that currently living people can stand under
+surviving duties toward dead people owing to the fact that they were
+victims of historical injustices. In order to show that currently
+living people can stand under such duties, one will have to assume
+that people generally have interests with respect to posthumous states
+of affairs. Indeed, people can generally be thought to be interested
+in enjoying a good reputation both during their lifetime and
+posthumously (Meyer 2005: 99–104).
+On the basis of this assumption the theory of surviving duties
+contributes to an understanding of the moral significance of the
+fact that past people were severely wronged When
+people were violated in their rights, and badly so, their posthumous
+reputation depends upon their being publicly acknowledged as victims
+of these wrongs, and others being identified as the wrongdoers (see
+also Margalit 2002: chs. 2–4). In acknowledging past individuals
+as victims of egregious wrongs we cannot affect their well-being.
+Also, such acknowledgment cannot be expressed face to face with the
+dead victims, but only vis-à-vis currently living people in
+light of the wrongs past people suffered. However, if it is true that
+currently living people stand under surviving duties toward past
+victims of historical injustice owing to the wrongs they suffered,
+then currently living people fulfilling the duty by publicly
+acknowledging the past injustices they suffered will change the
+relation between them and the dead victims of historical injustice. It
+will be true of the past victims of these injustices that they have
+the posthumous property that currently living people fulfilled their
+surviving duty toward them. To be sure, a change of the relation
+between an existent person and a dead person does not bring about a
+real change to the latter. Rather, the relational change is based upon
+the real change of the person who carries out the act (see Ruben 1988:
+223–31).
+For currently living people to bring about public acknowledgment of
+past people as victims of historical injustice can require different
+measures under different circumstances. They can express their
+acknowledgment of past people as victims of past wrongs in an indirect
+way, namely, by providing compensation for those who are worse off
+than they should be owing to the effects of the past injustices
+suffered by their predecessors or by conferring benefits on living
+people in whose well-being as members of a group we assume the dead
+victims of past wrongs had an interest. The message of such
+compensation can contain the acknowledgment that past people were
+victims of past wrongs. Arguably, efforts at appropriate commemoration
+of past victims can be understood as symbolic compensation and
+restitution.
+Establishing a memorial is the typical course of action where the
+effort is made to realize the symbolic value of compensating those
+victims who are no longer living. A memorial may be a public speech, a
+day in the official calendar, a conference, a public space or a
+monument—for example, a sculpture or an installation. Often
+these memorials are meant to commemorate crimes that previous members
+committed in the name of a political society whose currently living
+members now want to carry out actions of public symbolic compensation
+or restitution for these crimes toward the victims and their
+descendants. Such acts have been carried out since the 1970s in
+Germany, and there is evidence of an international practice of
+symbolic
+ compensation.[20]
+ Those who carry out acts of symbolic compensation will want to
+provide some real compensation to those who currently suffer as a
+result of the same past wrongs, to help those who currently are
+victims of similar injustices, and to prevent such injustices from
+happening
+ again.[21]
+ The reasons for acts of symbolic compensation provide reasons for
+real compensation where this is possible. Symbolic compensation
+belongs to the measures likely to have the effect of providing
+surviving victims or groups with assistance in recovering or regaining
+membership and recognition in their respective societies, such that
+they are once again able to lead lives under conditions of
+ justice.[22]
+The practice of symbolic compensation as understood here aims at
+recognizing past people as victims of injustices without presupposing
+that they can be current bearers of interests or rights. Insofar as
+people generally have an interest and a just claim to enjoy the
+reputation they deserve while alive, and insofar as the reasons for
+their just claim can oblige us even after the bearer of the interest
+and the just claim has ceased to exist, our carrying out acts of
+symbolic compensation can be understood as fulfilling a surviving duty
+toward dead people who were wronged in the past, namely the duty of
+restoring to them the posthumous reputation they deserve.
+Arguments as developed in the ongoing debates on (the foundations of)
+intergenerational justice can help to justify several obligations of
+currently living people vis-à-vis future people and towards
+past people. Currently living people are obliged (i) not to violate
+the rights of future generations
+ (§2)
+ and (ii) (at least some presently living people might well be
+ obliged)[23]
+ to provide compensation to contemporaries with respect to harms
+victims in the past suffered at the hands of past perpetrators
+ (§5).
+By employing a threshold notion of harm which may be understood as a
+central element of a sufficientarian conception of intergenerational
+justice
+ (§4.4),
+ but could also be an element of other substantive understandings of
+intergenerational justice
+ (§4.2
+ and
+ §4.3),
+ we can justify conclusions about both types of present
+generations’ duties. Basic needs or central capabilities are
+plausible currencies of a sufficientarian interpretation of
+intergenerational justice that relies on the threshold notion of harm
+ (§4.1).
+ The threshold notion of harm can be understood as a constitutive
+element of a complex understanding of harm (disjunctive notion)
+ (§3,
+ and, in particular,
+ §3.2).
+The special features of our relations to (remote) future
+people—especially the lack of particular knowledge, the
+impossibility of cooperation, and the permanent asymmetry of influence
+ (§1)—do
+ not stand in the way of attributing rights to them that ground
+corresponding duties owed by us
+ (§2
+ and
+ §3).
+ The fact that past wrongs are among the necessary conditions for the
+existence and identity of people currently alive is compatible with
+the view that these persons have rights to compensation owing to the
+impact of these past wrongs on their well-being, and that these rights
+can ground corresponding duties owed by their contemporaries
+(forward-looking understanding of the significance of past injustices)
+ (§5.1).
+ However, the Non-Identity Problem is not relevant for many indirect
+victims’ claims to compensation owing to past and historical
+injustices
+ (§5.2).
+ Even when we allow for the possibility of the ongoing impact of past
+injustices to be just today, namely owing to changes of relevant
+circumstances, we will have to investigate the extent to which the
+conditions for such a supersession of historical claims are met for
+each case. If supersession of historical claims occurs it might well
+be partial and and for the time being, and not full and final
+ (§5.3).
+Rights-based considerations of intergenerational justice bear not only
+upon “same people choices” but also upon both types of
+“different people choices” that Parfit distinguishes,
+including what he calls “different number choices”
+ (§2
+ and
+ §3).
+ However, widely shared concerns for the continuation of human life
+and at a high level of well-being cannot be accounted for solely by
+rights-based considerations
+ (§4.6).
+ Also, the moral significance of past wrongs should not be interpreted
+solely in terms of the impact of these injustices on present and
+future people’s well-being. If we allow that intergenerational
+relations are not exclusively governed by duties with correlative
+rights, the notion that we can stand under surviving duties towards
+dead people who cannot be bearers of rights vis-à-vis present
+people
+ (§§5.4–5)
+ is compatible with the forward-looking understanding of the
+significance of historical injustice. Also, the notion that we stand
+under an obligation towards future people to which no rights of future
+people correspond—namely, under the obligation not to destroy
+willfully the goods inherited from our predecessors and the conditions
+that are constitutive of persons’ pursuit of future-oriented
+projects
+ (§4.6)—is
+ compatible with the view that we do stand under some obligations of
+intergenerational justice to which the rights of future people
+correspond.

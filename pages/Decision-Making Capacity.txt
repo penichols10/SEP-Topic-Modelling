@@ -1,0 +1,1217 @@
+As defined above the term “decisional capacity” refers to
+the ability of subjects to make medical decisions; primarily,
+decisions to consent to or refuse medical intervention. Yet somewhat
+surprisingly, (at least for those new to the topic) there is a large
+amount of disagreement over terminology in this area, particularly
+over whether “decisional capacity” and its shortened
+version, “capacity” are the right terms to use. The other
+candidate is “mental competence” or just
+“competence” for short. Disputes about how (if at all)
+these terms differ can be very confusing and sadly there is no remedy
+other than familiarity with the various things people have said.
+One potential problem with the term “competence” is that
+in other areas of law it is used more widely to refer to capacities
+that go beyond those deemed significant in medical contexts. For
+example, in criminal law, competence to stand trial usually requires
+knowing the difference between right and wrong. But such knowledge is
+not part of competence (or capacity) for medical decisions.
+Also relevant is the fact that the law (again in other non-medical
+areas) often seeks to make global assessments of a
+person’s decision-making abilities. For example, a global
+determination of incompetence to manage one’s affairs may lead
+to one person losing a wide range of personal freedoms. It would
+typically result in a family member or guardian being appointed to
+look out for that individual’s finances, living arrangements
+etc. In short, a great many decisions are now off limits for that
+individual. But in medical contexts, such global assessments are no
+longer thought to be appropriate. Instead, the focus is supposed to be
+on particular decisions (see decision relativity in
+ §5.2).
+ Thus an individual can be deemed capable of making one decision, but
+not another. 
+Nonetheless, some version of legal/medical divide is often appealed to
+as part of explaining the difference between competence and capacity.
+One common explanation begins by focusing on who makes the
+determination: a clinician or a judge. It is said that a
+clinical assessment is a determination of “decisional
+capacity”, whereas “competence” refers to a legal
+assessment (Ganzini et al. 2005: S101). Yet despite the popularity of
+this way of carving things up, the distinction breaks down in
+practice. On the one hand, clinicians who assess decisional capacity,
+often make assessments that effectively carry the weight of a legal
+judgment, even though the courts are not involved (Grisso &
+Appelbaum 1998: 11; Kim 2010: 17). Indeed, such assessments typically
+have legal authority until or unless challenged in a court. On the
+other hand, these days many judges confronting particular cases of
+medical decision-making restrict their focus to questions about the
+ability of the patient to make the decision at hand.
+Even so, in some legal jurisdictions, like Britain, the term
+“capacity” (or “decisional capacity”) is
+usually taken to be a legal one (Tan & Elphick 2002). On the other
+hand, in the United States, it is the terminology of
+“competence” (or “mental competence”) that is
+often said to carry legal connotations and authority (Buchanan 2004;
+Berg, Appelbaum, & Grisso 1996). None of this is very helpful,
+since as soon as we switch jurisdictions or engage in comparative
+work, terms change.
+One well-known text in this area solves the problem by developing a
+new hybrid term. In their book, Deciding for Others, Allen
+Buchanan and Dan Brock write that, “competence is competence
+for some task, competence to do something”
+(Buchanan & Brock 1989: 84; emphasis in original). They then
+specify their own focus, which is “competence to make a
+decision” (Ibid). This leads to a lengthy discussion of
+what the authors call “decision-making competence” and its
+standards, as well as the specific “decision-making
+capacities” that are said to underlie what they call
+“decisional competence”. According to this strategy, the
+introduction of a new term—“decisional competence”
+is the proposed solution. Unfortunately, this stipulative solution
+arguably compounds rather than simplifies the problem, since it is
+more common to speak of “decisional capacity” than
+“decisional competence”.
+Thomas Grisso and Paul Appelbaum, in their landmark study,
+Competence to Consent to Treatment, adopt yet a further
+approach. They explain:
+…we talk of “decision-making capacities” when we
+refer to the abilities related to decisions. We use the term
+“competence”, however, to denote the state in which a
+patient’s decision-making capacities are sufficiently intact for
+their decisions to be honored (and conversely for incompetence)
+regardless of who makes the determination. (Grisso & Appelbaum
+1998: 11)
+In general, within the narrower realm of medical decision-making
+(which we take to include decisions to participate in clinical
+research) the two terms are roughly interchangeable or should be. For
+this reason, many writers adopt the policy of using the terms
+interchangeably while signaling recognition that this breaks with
+certain conventions. This usually is done by adding a minor proviso or
+caveat at the beginning of a discussion to that effect (Charland 2002:
+37 note 1; Checkland 2001: 53, note 2; National Bioethics Advisory
+Commission 1998: Ch 1, note 4). The strategy has the virtue of
+avoiding the cumbersome repeated substitution of one term for the
+other in or across discussions where both are used. But it can also
+inadvertently perpetuate confusion of just the sort it is meant to
+obviate. For the rest of this entry the terms will be used
+interchangeably.
+Ultimately, what is most important is for readers to be aware of all
+this terminological confusion and tread carefully. The rule of thumb
+remains: caveat emptor.
+Whatever term one settles on, it is also important to be aware that
+these terms can be, and often are used in both descriptive as well as
+prescriptive or normative senses. As one commentator explains: 
+a psychiatrist may give expert testimony, in his capacity as a trained
+observer, about a person’s competence seen as a factual matter,
+and the judge may or may not give this testimony practical effect in
+deciding how we ought to treat that person. (Freedman 1981: 55) 
+In this example, the first claim addresses the issue whether the
+individual is decisionally capable. The second claim
+addresses the issue whether the individual should be
+considered decisionally capable, i.e., whether she ought to be allowed
+to make her own decisions and have these honored. In many contexts, if
+a person is thought to have capacity (to factually possess certain
+relevant mental abilities) the normative implications simply follow as
+a matter of course. But as the example above reminds us, this is not
+always the case. In some contexts, for example in courts, the person
+who determines the facts about ability may not be the same person who
+issues the normative conclusion.
+The distinction is particularly important to keep in mind in light of
+the fact that there are ongoing debates about what capacity
+is—debates that occur at various theoretical levels. At the
+first and most abstract level, we may be interested in clarifying our
+concept or theory of decision-making capacity. To do
+this we may ask what exactly it is that we are trying to do when we
+sort people into competent and incompetent. Asking such foundational
+questions may help us get clearer about the work we need a concept or
+theory of capacity to do. Closely related to debates about
+concept/theory are debates about standards. At this level we
+ask: what sorts of things should someone who has capacity in our
+defined sense be able to do? What specific abilities are the right
+ones to consider in light of the work the concept does? The most
+commonly accepted standards are outlined in
+ §4
+ below. As we will see, some theorists believe that this list of
+standards is incomplete, in the sense that someone could satisfy these
+standards and yet fail to satisfy our basic concept of capacity.
+Finally, there are specific tests or instruments developed to
+determine whether or not (and to what extent) a particular individual
+satisfies the standards (Buchanan & Brock 1989). Confusion enters
+in because both empirical and normative claims can and do occur at all
+of these levels. Suppose, for example, that you examine A using
+a particular instrument, and then declare on that basis that A
+has the capacity to make decision X. And suppose I reject your
+claim, i.e., I refuse to give normative force to your descriptive
+claim. There may be several different reasons for this. I may doubt
+that you used the instrument properly. Or I may doubt that the
+instrument, even when used properly, is a good measure of whether
+someone meets the appropriate standards. Finally, I may simply think
+that the operative theory or concept underlying the standards is
+incomplete—that to truly determine capacity in a way that would
+license the normative conclusions, we need to consider more than just
+the articulated standards.
+The origins of our contemporary concept of decisional capacity lie in
+a varied configuration of historical developments in health care law
+and ethics that accompany the rise of the doctrine of informed
+consent. According to the most well developed and widely accepted
+account of this doctrine, the moral purpose of requiring informed
+consent in certain contexts is to promote and protect the autonomy of
+patients and research subjects (Faden & Beauchamp 1986). It is
+commonly observed that respect for autonomy 
+flows from the recognition that all persons have unconditional worth,
+each having the capacity to determine his or her own moral destiny.
+(Beauchamp & Childress 2001: 63–4). 
+To respect autonomy means that, 
+we have a fundamental obligation to ensure that patients have the
+right to choose, as well as the right to accept or decline
+information. (Beauchamp & Childress 2001: 63) 
+Of course, the obligation to allow people to choose is only an
+obligation where the individuals in question can meaningfully be said
+to choose for themselves. Thus the need to define decisional capacity
+enters as soon as we try to define the scope of this obligation.
+Typically, in order to be deemed legally and ethically valid an
+individual’s consent must be properly informed and free of
+external coercion (Faden & Beauchamp 1986). Given that in most
+medical contexts there is a huge asymmetry in possession of knowledge,
+disclosure is usually required to ensure that the subject is informed,
+and is often listed as a requirement. Against this backdrop decisional
+capacity is often thought of as a fourth requirement of validity. Thus
+many health care professionals think of informed consent in terms of a
+four-part checklist:
+Philosophers might naturally suppose that moral theorizing about
+informed consent would lead to and shape a theory of decisional
+capacity. After all, if the point of informed consent is to enable and
+promote autonomous decision-making, one might naturally suppose that
+the task is to distinguish those who can actually make autonomous
+decisions from those who cannot. This, in turn, would require a more
+detailed account of what goes into an autonomous decision. However,
+this is not what one finds in the literature, and for good reason. To
+begin with, to take such ideas seriously one would have to have an
+independent theory of autonomous decision-making that was concrete
+enough to guide practice, i.e., the development of tests and
+instruments. But philosophical theories of autonomy are, at least
+currently, far too abstract for this purpose. Moreover they are
+typically far too demanding (i.e., they appear to count far too many
+decisions as
+ non-autonomous).[1]
+ So, interestingly, although many philosophers and bioethicists
+continue to equate decisional capacity and the capacity for autonomous
+decision-making, it is really not true that our current notion of
+decisional capacity has been derived from the notion of
+autonomous decision-making. Instead, the current notion of decisional
+capacity has been built from the ground up, largely (though not
+entirely) independently of philosophical theory. And this means that
+it is an open question whether a competent decision is an autonomous
+decision.
+Although the topic of this entry is primarily the nature of
+decision-making capacity, it is worth pausing briefly to comment on
+what morally follows from a declaration of incapacity. If a patient is
+deemed incapable of making a particular decision, then someone else
+(usually a family member) will be designated to make it for her. If
+the patient was refusing what others take to be beneficial treatment,
+then a finding of incompetence means that the treatment could
+be forced on the patient if a surrogate deems this best. However,
+while it is true that when a person is incompetent to make a decision,
+this means that the final authority for decisions will lie elsewhere,
+this doesn’t automatically mean that the patient’s current
+wishes, values, preferences etc. are of no importance or that they
+need not be considered in making decisions for the patient. Many
+incompetent patients clearly have strong desires that should be
+accommodated, at least when doing so will not otherwise cause
+problems. Given the strong link between well-being and what a person
+cares about, it is imperative for caretakers to at least consider what
+the patient currently wants.
+Second, although it is possible to force treatment on a patient if she
+is deemed to lack capacity, this does not mean that it is always
+advisable to do so. There are many downsides to coercive treatment
+that need to be considered. Treatment might not be effective if the
+patient is uncooperative. It may also be important in the case of
+chronic mental illnesses to maintain trust with a patient who will
+likely need care again in the future. It may be that once these facts
+are taken into account, a treatment that seemed clearly beneficial
+will not be so.
+A slightly different point concerns globally incompetent patients.
+Despite the emphasis in the field on treating DMC as
+decision-relative, there are, of course, some patients who because of
+more extreme impairments are unable to make all or almost all of their
+own medical decisions. In the case of globally incompetent patients
+who once were competent and who wrote advance directives, it is
+usually assumed that the directive comes into force once the patient
+reaches this state (Appelbaum 2007; Krohm & Summers 2002).
+However, this simple assumption has been powerfully challenged. For
+example, Jaworska (1999) has argued that many patients with mid-stage
+Alzheimer’s dementia retain the capacity to value (they remain,
+in her words, “valuers”), even though increasing confusion
+and forgetfulness about facts may mean that they no longer count as
+competent to make their own treatment decisions (because they fail
+understanding and reasoning). Jaworska argues that although such
+patients lack decision-making capacity, they are not yet at the point
+where their advance directives have the greatest authority. Their
+currently held values are still much more relevant to decisions made
+for them. In short, Jaworska draws attention to the fact that
+various significant capacities of persons can come
+apart. We usually value decision-making capacities like
+understanding and reasoning because these enable us to pursue
+our valued ends. But Jaworska underscores the fact that a person may
+continue to have currently valued ends even when she has lost the
+abilities needed for pursuing them effectively. In these cases, rather
+than revert to an advanced directive, Jaworska thinks we should
+(within reason) aim to help such patients pursue the ends they are no
+longer able to pursue on their own.
+Despite the fact that aspects of the concept of decisional capacity
+remain unspecified and undeveloped, it is possible to identify some
+shared elements that all or almost all theorists agree must be part of
+the picture. Four sub-capacities are most prominent. These are (1)
+Choice, (2) Understanding, (3) Appreciation, and (4) Reasoning. Some
+theorists have also suggested the need for something like (5) Value or
+Ability to Value (discussed in
+ §6.1)
+ and still others have posited the need for (6) Authenticity (also
+discussed in
+ §6.1).
+ Below is a presentation of the most basic and agreed upon elements
+and an explanation of how these have come to be understood in
+practice.
+Choice is short for “the ability to express or communicate
+one’s choice”, and it is the simplest and least mental
+element of capacity. Indeed, its simplicity and obviousness may
+explain why some authors do not include it. To see that such an
+ability is necessary one needs only to imagine a case where
+understanding, appreciation and reasoning are all intact, but where
+the subject has no way to express or communicate her intended
+decision. Unless a subject’s preferred choice can be expressed
+to others in some outward way, it is impossible to know their intended
+decision. This is not trivial, since some patients—for example
+stroke victims or some patients with Locked-In Syndrome—can have
+an active mental life and satisfy the first three conditions but are
+unable to express anything verbally or through gestures (e.g.,
+blinking the eyes, lifting a finger, etc.). This is why Grisso &
+Appelbaum (1998: 34–37) include it as one of the elements lack
+of which compromises capacity.
+The most basic mental element is understanding (Buchanan
+& Brock 1989: 23). Obviously, in order to be capable of consenting
+to or refusing a given intervention, a subject must have some basic
+understanding of the facts involved in that decision. Yet this
+apparently simple requirement can turn out to be rather complex
+depending on how “understanding” itself is defined (Drane
+1985). Basic comprehension and knowledge or cognition of facts is one
+minimal interpretation (Grisso & Appelbaum 1998: 37–42).
+However, most commentators recognize that this level of mental ability
+is not enough for generating the sort of medical decisions we are
+concerned with. On the other hand, the standard cannot be set too high
+lest we rule too many people incompetent (see inclusivity
+ §5.1).
+In addition to understanding in the basic factual sense alluded to
+above, most writers on capacity agree that subjects must also have
+some appreciation of the nature and significance of the decision that
+they are faced with (Grisso & Appelbaum 1998: 42–52). The
+facts, and the implications of those facts for the subject’s
+life, must mean something to the subject. The most minimal
+way of interpreting this requirement is to see it as requiring that
+the subject not only grasp information but genuinely
+believe that it truly applies to him. The appreciation
+element of capacity is sometimes held to derive from the legal
+requirement that each subject must have “insight” into the
+circumstances of a given decision (Glass 1997).
+Many theorists stop at this minimal interpretation, but even this
+requirement is significant, for it rules out certain kinds of patients
+who are delusional, who can grasp what their doctor is saying to them,
+but refuse to believe that anything their doctor says is true (Grisso
+& Appelbaum 1998: 42–43). In addition, in order to apply
+this requirement, clinicians must be able to distinguish between cases
+where patients refuse to believe doctors for doctrinal or cultural
+reasons—for example a Christian Scientist who believes that
+despite what her doctor says only prayer can heal—and cases
+where failure of appreciation results from losing touch with reality
+(Grisso & Appelbaum 1998: 45–49). For example, imagine a
+case in which an elderly demented woman clearly grasps the fact
+that her surgeons wish to amputate her feet because her feet are
+gangrenous and they believe that she is in real danger of dying if
+they do not amputate. But despite being able to state these facts back
+to her doctors, the woman, who seems confused and disoriented, says
+things that reveal she does not really believe there is anything
+seriously wrong with her feet. For example, she talks about what she
+will do once her feet are all healed. She may fail appreciation and so
+may not be deemed competent to refuse the treatment (based on a case
+described in Abernathy 1984).
+More robustly, appreciation may be understood as going beyond just
+acceptance of, or belief in, the facts. Some theorists argue further
+that appreciation involves being able to 
+appreciate the nature and meaning of potential alternatives—what
+it would be like and “feel” like to be in possible future
+states and to undergo various experiences—and to integrate this
+appreciation into one’s decision-making. (Buchanan & Brock
+1989: 24) 
+However, there are no easy ways to determine when this deeper kind of
+appreciation is present. Moreover, contemporary psychology has shown
+us just how infrequent such appreciation of future scenarios is among
+most people. Appreciating what a future option will feel like requires
+what psychologists call “affective forecasting”, and
+numerous studies have shown that we are, most of us anyway, very poor
+affective forecasters (Ubel, Loewenstein, Hershey, et al. 2001;
+Wilson, Wheatley, Meyers, et al. 2000; Gilbert, Gill & Wilson 2002; Gilbert, Pinel, Wilson, et al. 1998; Wilson, Meyers & Gilbert 2001; Wilson & Gilbert 2005; Ubel,
+Loewenstein, Schwarz, et. al 2005; Ubel, Loewenstein, &
+Jepson 2005; on the relevance of this to capacity see Halpern &
+Arnold 2008). But given this, if we were to require such deep
+appreciation we would again risk ruling too many people incompetent
+(see inclusivity
+ §5.1).
+Without the mental ability to engage in reasoning and manipulate
+information rationally, it is impossible for understanding and
+appreciation to issue in a decision (Buchanan & Brock 1989:
+24–25; Grisso & Appelbaum 1998: 52–58). Interestingly,
+however, the concept of reasoning is often left vague in discussions
+of decisional capacity. Probably this is because insisting on too high
+and specific a normative standard of reasoning might risk ruling that
+a majority of subjects lack capacity, which, again, risks ruling too
+many people incompetent.
+Yet normative standards of reasoning sometimes do get mentioned, for
+example, consistency and the ability to derive conclusions from
+premises (Freedman 1981). More often reasoning is said to include the
+ability to weigh risks and benefits and evaluate putative
+consequences. Again, no specific normative criteria for success are
+spelled out. Difficult cases must therefore be assessed
+individually.
+Most theorists seem to agree that possessing these four abilities, at
+least to some degree, is necessary for capacity. The primary
+issue (explored further in
+ §6)
+ is about whether the four abilities are always sufficient or
+whether there are cases in which something else, some further
+abilities or some further feature of the subject’s choice, might
+be relevant to the assessment of capacity. The three elements most
+commonly cited by critics are (1) the subject’s emotions, (2)
+the subject’s values, and (3) the authenticity of a
+subject’s choice.
+There are five important assumptions that underlie virtually all
+contemporary work on decisional capacity and with which anyone
+interested in the topic must be familiar. For ease of reference we
+have named them: (1) inclusivity, (2) decision-relativity, (3)
+all-or-nothing assessment, (4) value neutrality, and (5) independence
+from diagnosis. These are supported both by ethical theory and by
+requirements that law imposes on the ethics of informed consent. A
+sixth assumption, (6) asymmetry, is fairly widely accepted, but
+continues to be debated.
+The inclusiveness constraint derives entirely from the needs of
+practice. No matter what theory of decisional capacity we develop, it
+must turn out that most ordinary adults count as having capacity most
+of the time (Buchanan & Brock 1989: 21; Appelbaum 1998). In other
+words, as a society we are morally committed to imposing minimal
+restraints on individual choice. Most people are free to make most
+choices in their lives for themselves, even including self-harming
+choices. It would therefore be intolerable if our account of
+decisional capacity in medicine were to differ significantly from that
+norm, especially given that the doctrine of informed consent arose in
+the context of a movement aiming to give greater decisional power to
+patients and research subjects. Thus, it is generally recognized that
+failure of a theory to be inclusive enough would be sufficient by
+itself for rejecting an account of decisional capacity.
+Decision relativity refers to the now almost universally accepted idea
+that an individual’s decisional capacity should be assessed
+relative to a specific decision, at a particular time, in a particular
+context (Buchanan & Brock 1989: 18–20; Culver & Gert
+1990: 620; Zapf & Roesch 2005). The requirement issues from the
+value placed on freedom to choose, along with the recognition of
+several facts. First, not all decisions require the same level of
+mental ability. Understanding all the facts relevant to making
+decision A might be much easier than understanding all the
+facts relevant to making decision B. The idea is to allow
+people to make the most use they can of the mental abilities they
+have.
+It is also important to note that decisional capacity can vary within
+a single individual over time and in relation to what else is going
+on. For example, medications can make people drowsy or confused, but
+between doses when the medication wears off individuals may be
+perfectly capable of making decisions. Similarly, someone with
+moderate dementia may become more disoriented in unfamiliar
+surroundings or in the presence of someone she does not know, and so
+be less able to focus on a decision. Commitment to maximizing a
+person’s chance of deciding for herself means that we ought to
+be sensitive to such factors and should try to assess capacity under
+the most favorable conditions (Appelbaum 2007).
+This emphasis on decision-relativity differs markedly from ideas
+accepted in an earlier era when decisional capacity was thought to
+extend globally over time and place, irrespective of context. Indeed,
+this more global notion continues to be employed in some areas of law.
+One illustration of the now widespread acceptance of decision
+relativity in medicine is that certain tests once thought to be
+perfectly acceptable tests of decisional capacity are no longer deemed
+to be so. A case in point is the mini-mental state examination
+(Folstein, Folstein, & McHugh 1975). This is a simple psychometric
+tool that was developed to help clinicians assess how disoriented (or
+not) their patients are, by ranking patient responses to familiar
+questions such as, “Where are you right now?” Some
+questions also address basic perceptual and mental skills (Can you
+count back from 100 subtracting 7 at a time?). Although extremely
+popular and still used as a rough assessment of orientation, it is now
+thought to be too global and general to serve as assessment of a
+patient’s mental capacity to make treatment decisions. By law,
+assessment must now be more “case-specific” and responsive
+to “situational variations in demands” (Grisso &
+Appelbaum 1998: 22).
+A third assumption that pervades contemporary work on decisional
+capacity is that for practical purposes, a ruling on capacity must be
+all-or-nothing: either the patient in question has decisional capacity
+or she lacks it. Of course, in many contexts there is an obvious sense
+in which we can speak meaningfully of “degrees” of
+capacity, for we are indeed measuring abilities that fall along a
+spectrum. However, in practice we need a judgment of a bivalent type.
+This is because we need to know who has final decision-making
+authority and there is no such thing as “sort of” having
+authority over a decision. If a patient has the capacity to make
+decision X, then others must honor her choice even if they disagree
+with it. But if she lacks capacity to make decision X, someone else, a
+guardian or surrogate will have to decide for her. To avoid
+potentially endless controversy and ensure the smooth operation of the
+healthcare system, law and practice need a “yes-or-no”
+verdict about whether a person can make a particular decision for
+herself or not (Buchanan & Brock 1989: 27).
+What we here call “the value neutrality constraint” is a
+bit more complex, but its significance makes it important to explain
+clearly. Value neutrality refers to the idea that we need to leave
+room for patients to make unusual or unpopular choices (Craigie 2013a:
+1). People vary greatly in their values and so, even when confronted
+with similar situations, make very different kinds of choices. If the
+freedom to decide for oneself is to be meaningful, we need to ensure
+that individuals are not deemed to lack decisional capacity to make a
+choice simply because they are choosing something others disapprove
+of. The worry is real. In the not-too-distant medical past, doctors
+often did assume incapacity and would therefore refuse to honor
+patient wishes whenever a patient rejected what the doctor saw as
+beneficial treatment (Culver, Ferrell, & Green 1980: 587). Thus it
+seems important to find a way to distinguish competent though unusual
+choices from choices that are unusual because incompetent
+(because arrived at by flawed or inadequate mental processes).
+Consider the decision to accept death rather than a certain form of
+treatment. The desire to die can, of course, be a sign of mental
+illness in certain cases and so possibly a sign of incapacity
+(though merely being mentally ill doesn’t make someone
+incompetent: see
+ §5.5).
+ But it would be hugely problematic to view all refusals of
+life-sustaining treatment as indicative of either mental illness or
+decisional incapacity (or both!). Some people refuse life-sustaining
+transfusion of blood for doctrinal religious reasons (Charland 2001:
+137). Others may choose death as a preferable alternative to
+suffering. For example, a long-term dialysis patient who is not a
+candidate for transplant may accept death as the only way to escape
+from an existence she finds unbearable. Such a choice is intelligible
+even if it is not the choice most dialysis patients make. In both the
+religious case and the dialysis case the choice appears to reflect
+values that are not shared by all people. Yet disagreements about
+values, troubling though they may be, are not generally thought to be
+indicative of any lack of mental ability. Since death can be chosen by
+competent individuals as well as incompetent ones, many theorists have
+argued that we must look to something other than simply what is
+chosen to distinguish competent choice from incompetent
+choice.
+It is usually assumed that the only way to satisfy the requirement of
+value neutrality is to draw a sharp distinction between process and
+outcome (Freedman 1981; Buchanan & Brock, 1989: 50–51;
+Banner 2013: 1). On this view, capacity has more to do with the nature
+of the process whereby one arrives at a decision, rather than the
+content or outcome of the actual decision itself.
+Closely associated with this approach is a particular picture of what
+it is for a decision to be rational. This is sometimes referred to as
+“internal” rationality, because it makes rationality a
+matter of the internal relations between beliefs, values and
+particular choices. It could also be called “instrumental
+rationality plus”. On this view, there must be internal
+consistency among the beliefs and values relevant to the decision at
+hand. In addition, an individual must be able to prioritize among her
+(decision-relevant) ends, and continue to update this priority ranking
+as circumstances change and evolve. And it requires (this is the
+instrumental part) being able to recognize which of the options
+available will best serve her ends. So consider again refusal of
+life-saving transfusion based on adherence to religious doctrine. It
+can be argued that, in such a case, the subject is decisionally
+capable to refuse the transfusion as long as the decision is rational
+according to internal reasons that he recognizes as his own, i.e., his
+choice (refusing transfusion/accepting death) best serves his
+ends (adherence to God’s commands as his religion interprets
+these), even if others find the choice puzzling.
+However, there remain some theorists who insist that there are cases
+in which irrationality is also a matter of outcome, of what one
+chooses. They resist the idea that we should focus exclusively on
+process when assessing capacity because of worries about particular
+kinds of cases. Consider the example of a subject who refuses
+electroconvulsive therapy for a severe depression that has not
+responded to any other forms of treatment. The patient refuses because
+of a deep fear of the procedure, even though she consented to it and
+benefited from it at one point in the past (Culver, Ferrell, &
+Green 1980; Culver & Gert 2004). In this case, given how harmful
+the subject’s choice may ultimately be to her, the decision not
+to accept the treatment seems problematic and, according to Culver
+& Gert, ought to be challenged. However, in order to say that this
+patient is not capable of refusing this treatment, it seems that we
+would be forced to abandon a restricted focus on process. For it is
+most likely true that the process by which she reaches the
+decision is beyond reproach from the standpoint of internal
+rationality. Her current fear of the therapy is so great that she
+would rather die than undergo the treatment. Even if one thinks this
+is a re-prioritization of values brought on by her fear (which would
+be hard to establish), it remains true that currently she is
+reaching a decision consistent with what she currently cares
+most about. And that is all that is required by internal rationality.
+Yet Culver & Gert think such a choice should be grounds for
+declaring the patient incompetent. They think such a choice is
+irrational in a broader sense than allowed by internal
+rationality.
+Like other theorists of capacity, Culver & Gert acknowledge the
+moral importance of avoiding any approach to capacity assessment that
+results in doctors being able to declare a patient incompetent
+whenever a patient refuses a recommended treatment. But they think
+there are ways to avoid this problem without recourse to the strong
+policy of focusing exclusively on the processes leading up to a
+decision. They suggest instead that we can appeal to a general notion
+of how “most reasonable people would judge”.
+Although the problems raised by the ECT case are real, many theorists
+think that the solution offered by Culver & Gert is deeply
+problematic. Relying on what many people view as rational (in some
+broad, non-internal sense of rational) or on what many people view as
+“a significant harm” will not offer sufficient protection
+for competent adults with unusual values. If our goal is to ensure
+that mentally intact individuals are free to pursue their own
+idiosyncratic and at times unpopular values, then we must avoid
+building into our account of capacity any specific requirements on
+choice. Culver & Gert may be right that their proposal would allow
+them to handle religious cases properly, since many people these days
+recognize the existence of religious diversity and the need to
+tolerate certain religiously motivated choices, particularly if those
+choices primarily affect the subject making the choice. But it is not
+at all clear that their view could handle the dialysis case mentioned
+earlier. When precisely does the refusal of further life-saving
+treatment make sense? How much suffering is too much? Deep continuing
+disagreements about the proper answer to such questions suggests that
+it would not be safe to build any particular answer into our notion of
+competence. To do so is to risk allowing majority values to limit the
+free choice of others in inappropriate ways by ruling too many people
+incompetent for the wrong reasons.
+These days clinicians and others working in clinical settings take it
+as axiomatic that 
+clinicians should not conclude that patients lack decision-making
+capacity just because they make a decision contrary to medical advice.
+(Ganzini 2005: S101) 
+Moreover, discussions of capacity assessment tend to assume (contra
+Culver & Gert) that the only safe way to avoid this problem (the
+problem of equating disagreement with incapacity) is to focus
+exclusively on how patients reach a decision. So although
+philosophers may still see issues to be explored further, for now the
+clinical realm views these issues as resolved. It is taken for granted
+that the need to maintain value neutrality is real, and that
+the way to do this is to adopt an exclusively process-oriented
+approach to capacity assessment.
+Just as it is usually assumed that a patient cannot be declared
+incompetent simply on the basis of her (perhaps unusual) values,
+similarly a patient cannot be declared incompetent simply on the basis
+of her diagnosis. For obvious reasons this is most relevant for
+patients with mental illnesses or cognitive impairments, where there
+is a history of assuming that all such patients are globally
+incompetent (Kim 2010: 11). Historically this resulted in large losses
+of freedom for many individuals.
+Today it is generally assumed that the diagnosis itself does not mean
+a person is
+ incompetent.[2]
+ Rather, we must look to see if in fact the mental illness (or the
+cognitive impairment) is undermining decision-making capacity for a
+particular individual and in relation to a particular decision.
+Clinicians look for the same features that are supposedly relevant for
+ordinary patients: understanding, appreciation, and reasoning, as
+described above (Whiting 2015). This has the result that while some
+patients with a psychiatric diagnosis or a cognitive impairment are
+deemed incompetent to make some decisions, many are deemed competent
+to make at least some decisions and still others may be deemed
+competent to make all of their own decisions. This has had the result
+that these patient groups have much greater input into their own
+treatment than in previous eras. Arguably, it has also helped to
+decrease somewhat the stigma of mental illness and cognitive
+impairment.
+Part of what is involved in reasoning about a particular course of
+action and reaching a decision is weighing the risks and benefits
+associated with the likely consequences of proposed options. In health
+care contexts where consent is at issue, this normally amounts to a
+decisional problem that is framed in symmetrical terms: either one
+consents to a given treatment option, or one refuses that same option.
+This way of framing things seems to assume that both poles of the
+decision are symmetrical and that mental capacity necessarily remains
+fixed as one evaluates the two options. Yet this is an assumption that
+can be philosophically challenged.
+It is sometimes argued that consent and refusal to the same proposed
+intervention should not always be treated symmetrically, by which it
+is meant that an individual could sometimes be competent to consent to
+a treatment that she is not competent to refuse. The reasoning is that
+the risks respectively associated with consenting to or refusing
+treatment are not always the same. From this it is inferred that the
+decisions are not the same and that therefore, decisions to consent or
+refuse the very same treatment should not automatically be
+treated symmetrically.
+To see what is at stake consider a case where a patient is refusing a
+low risk treatment that is highly beneficial for those with her
+condition. And suppose as well that the patient will die without it.
+Of course, it is always true of any patient in any situation that she
+might make a mistake, i.e., a judgment that does not really serve her
+interests even as she understands them. But in this case if refusal is
+a mistake it is a mistake with much worse consequences for the
+patient. Since in this case the harms associated with mistaken refusal
+are much greater than the harms associated with mistaken consent, the
+level of competence required to refuse can legitimately be set higher.
+There have been substantial debates over the symmetricality question
+(Brock 1991; Buller 2001; Cale 1999; Checkland 2001; Skene 1991;
+Wicclair 1991, 1999; Wilks 1997, 1999). A key feature of the debate is
+whether or not mental capacity should be considered a fixed mental
+commodity (Buchanan & Brock 1989: 60). In other words, relative to
+a particular yes-or-no decision such as the one described above,
+should we articulate a single threshold (a certain level or degree of
+understanding, appreciation, etc. that the patient must have) such
+that any patient above the threshold should be free to either consent
+or refuse? Or is it better to view such a choice as two different
+decisions and so articulate two different thresholds, one for
+acceptance and one for refusal, setting the threshold higher for those
+patients inclined to refuse?
+Those who are skeptical of this approach point out that it is highly
+counterintuitive to say that mental capacity can vary
+according to external circumstances. Moreover, as some critics claim,
+One point of determining whether a person is competent to make a
+decision about medical treatment is to allow a competent patient to
+make any decisions he wants regarding that kind of treatment. (Culver
+& Gert 1990: 620; Culver & Gert 2004) 
+In a way, it is true that abilities don’t change simply because
+the risks of exercising them do. To illustrate with a simple,
+non-medical analogy, consider a cooking student who has learned to
+make a perfect omelet and now succeeds in making one nine out of ten
+attempts. This is her current ability level and it does not change
+even if the consequences of failure change. In one case, perhaps,
+failure simply means she has no omelet, but only scrambled eggs, for
+breakfast, whereas in another case failure to make the omelet properly
+might cost her admission to chef school. But the odds of failure are
+the same in each case: 1 in 10. In effect those who favor an
+asymmetrical requirement think that it is fair to require a higher
+level of ability (and so a lower chance of failure) when the negative
+consequences of failure are higher. And this does seem to be about
+protection rather than ability per se.
+However, the moral rationale for the approach appeals to a more
+general, overarching rationale for assessing capacity in the first
+place (Buchanan & Brock 1989: 51). The claim is that we assess
+capacity because we recognize the need to strike a balance between two
+distinct and potentially conflicting values. On the one hand, as a
+society we place a very high value on personal autonomy and free
+choice. But if that was our only societal value we would not bother to
+assess capacity but would simply honor any choice that a patient made
+(as long as she could express it). That we don’t do this
+demonstrates that we also clearly value patient welfare and recognize
+that as mental capacities become more and more compromised the risk to
+welfare posed by free choice increases. From the start then, setting
+thresholds for decision-making capacity is an exercise in trying to
+strike the right balance between giving people as much freedom as
+possible while protecting the most vulnerable among us.
+The asymmetrical approach to decisions simply extends this basic
+idea—this desire to balance concern for autonomy and protection
+of welfare—further. Once we recognize that choosing one way can
+place welfare at much greater risk than choosing the other way, it
+makes sense to strike the autonomy-welfare balance differently for
+each prong of the choice. Since welfare is more at risk in one case
+than the other, we set the threshold for selecting that option higher
+(thereby slightly reducing the chance that the subject will be free to
+make it). But since welfare is not at risk in the other case, the
+threshold remains low, to maximize the chance that the patient will be
+free to make that choice if she is inclined to.
+As indicated earlier, there are two slightly different questions
+theorists might have in mind when they ask: “Are we measuring
+the right thing?” On the one hand, one might be asking whether a
+particular instrument developed to help clinicians assess capacity is
+empirically valid. Or (closely related), one might be asking whether a
+particular empirically valid instrument developed in one context, is
+applicable in a different legal context. On the other hand, one might
+be asking a deeper question about whether the underlying standards
+which inspired the development of the instrument, and which the
+instrument supposedly tracks, are really themselves adequate. In
+short, the second question challenges the underlying framework itself,
+asking whether we ought to be considering things that it
+fails to capture. Here, the first sort of question will be considered
+briefly before turning to the second. 
+At this point in time, the most widely used instrument is the MacCAT-T
+(Grisso, Appelbaum, & Hill-Fotouhi 1997). It reflects the most
+widely influential theory of competence to date, that of Grisso and
+Appelbaum (1998). At the core of this theory are the same four
+abilities mentioned in
+ §4
+ of this entry: the ability to communicate a choice, the ability to
+understand, the ability to appreciate, and the ability to reason.
+However, Grisso and Appelbaum (1998) develop detailed specifications
+for how these four abilities should be interpreted. We shall call the
+view of competence defined in terms of these four abilities as
+interpreted by Grisso and Appelbaum the “four-abilities
+model”. The MacCAT-T is an instrument designed to help
+clinicians quickly and efficiently assess competence according to the
+four-abilities model. Thus to ask if the MacCAT-T is empirically valid
+is to ask whether it is good at detecting the presence of the four
+abilities as specified by the model and whether it is good at
+measuring the degree to which a patient possesses them. A great deal
+of research has been done on the MacCAT-T, and at this point the
+general consensus appears to be that the MacCAT-T is empirically valid
+in this narrow sense.
+A slightly different question is about whether the MacCAT-T can be
+applied in different legal contexts. The legal history in the United
+States, Canada, and Great Britain has many common roots, and because
+of this many people assume that the same criteria apply in these
+different regions. However, it is not always obvious that this is so.
+In 2005 The Mental Capacity Act (MCA) was passed in England and Wales
+that, at least on the surface, seems to embrace different criteria
+from the ones listed above. The MCA criteria are (1) understanding,
+(2) retaining, (3) using, and (4) weighing and communicating (see
+Mental Capacity Act in
+ Other Internet Resources).
+ Some researchers have concluded that, for all practical purposes,
+this is the same model. They take “using” to cover
+appreciation (since one does not use information one does not fully
+accept) and “weighing” to cover reasoning (which is often
+understood as the ability to weigh and compare options). But as of now
+there is no real consensus. Viewing the two sets of criteria as
+equivalent is, of course, convenient, since then one can make use of
+the broader English-language literature on capacity assessment without
+worries about whether it strictly applies to one’s own legal
+context. For example, based on the assumption that the two models are
+basically equivalent, some researchers in England have conducted
+empirical studies of capacity in specific populations of patients
+using the MacCAT-T (Owen, Szmukler, et al. 2009; Owen, Szmukler, et
+al. 2013).
+Of course, the MacCAT-T is only one of many instruments that have been
+developed to assess capacity (Etchells et al. 1999; S. Welie 2001;
+Vellinga et al. 2004; Dunn et al. 2006; Kim 2010: 61–65) and all
+such instruments must be assessed for empirical validity, namely the
+extent to which they successfully track and measure the properties
+they claim to track and measure. However, questions of empirical
+validity, though obviously important, are generally of less interest
+to philosophers. The more interesting questions arise when we consider
+the adequacy of the underlying theory a particular instrument is based
+upon. That means that in the case of the MacCAT-T, the deeper,
+interesting question is whether the four abilities model as specified
+by Grisso and Appelbaum captures everything important about
+decision-making capacity. Since to date the four abilities model has
+been the most influential model by far, the following discussion
+focuses on it.
+At the origin of any theory of capacity, there lies a set of paradigm
+examples around which the theory is built and which it must account
+for. Thus, in the initial instance, a theory is built around a
+selection of paradigm examples of what capacity and incapacity should
+be taken to be. The criticisms examined below all appeal to cases that
+the critics take to be obvious examples of incapacity, but which the
+four abilities model seems to classify as cases of capacity. Most
+theorists seem to agree that possessing the four abilities, at least
+to some degree, is necessary for capacity. The primary issue
+is about whether the four abilities are always sufficient or
+whether there are cases in which something else, some further
+abilities or some further feature of the subject’s choice, might
+be relevant to the assessment of capacity. The three elements most
+commonly cited by critics are (1) the subject’s emotions, (2)
+the subject’s values, and (3) the authenticity of a
+subject’s choice.
+Emotions obviously play an important role in decision-making, yet the
+four abilities model does not directly address the role of emotions. A
+number of critics of the model remain convinced that failure to attend
+to emotion in capacity assessment is problematic (White 1994; Charland
+1998b; Halpern 2011, 2012; Bursztajn et al. 1991; Breden &
+Vollmann 2004; Hermann et al. 2016).
+When they think of emotion, most people think of discrete emotional
+episodes, for example, particular experiences of anger, sadness or
+joy. While these are no doubt important, the realm of emotional
+phenomena is much broader, something that some theorists capture by
+talking more generally of “affect” or “affective
+phenomena”. In addition to particular episodes of emotion,
+people have emotional dispositions, moods and longer-term emotionally
+shaped outlooks. For example, someone who is depressed experiences
+much more than just a single discrete episode of sadness. To be
+depressed is to view many things through a dark emotional lens that
+can shape how a person views her life, what she cares about, and what
+she sees as worth pursuing. 
+There are now a number of published studies that report that depressed
+patients are often decisionally capable and compare well with matched
+controls (Appelbaum & Grisso 1995; Vollmann et al. 2003;
+Appelbaum, Grisso, et al. 1999). However, what is being reported is
+that these patients did well when assessed using instruments like
+the MacCAT-T which is based on the four abilities model. Because
+the authors of the studies have faith in that model they clearly
+intend their results to license normative conclusions. However,
+critics worry that negative emotional outlooks can lead depressed
+patients to weigh risks and benefits differently (Elliot 1997; Rudnick 2002). Since such patients do not care as much about themselves or their own lives, they may not
+care about risks in the same way they would if not depressed.
+Such patients are cognitively intact: they understand the relevant
+facts and grasp that the facts apply to them. But depressed affect may
+still (so it is argued) undermine their ability to decide. More
+recently it has been suggested that those who assess the capacity of
+persons with severe depression may need to consider their ability to
+project themselves into the future as this may relate to hope or loss
+of hope that may impact on decision-making (Halpern 2012; Meynen 2011;
+Owen, Freyenhagen, et al. 2015; Owen, Martin, & Gergel 2018). Some
+theorists have argued that affect and emotion play a central role in
+many other mental disorders, even those not necessarily thought of as
+disorders of affect. On that basis they have argued that the problems
+outlined here—problems related to the fact that the
+four-abilities model ignores emotion—may also arise with these
+patients. Examples include addiction (Charland 2011), patients with
+OCD (Ruissen 2015; Ruissen et al. 2016), and patients with anorexia
+nervosa (Charland, Hope, et al. 2013; Charland 2015).
+Certainly it is true that emotional influences on decision-making can
+be profound. Our cultural bias (no doubt elicited by the previous
+example) is to think of emotions as making decisions worse (Charland,
+1998a: 359). But this is to overlook the very real ways that
+emotion—even strong emotion—can improve decision-making.
+Moreover, although it is not often acknowledged, it is only because we
+are creatures with affective capacities that we care about
+things. A creature completely devoid of emotion or affect would
+presumably not care about anything and so would have no basis for
+making decisions (Charland 1998a,b).
+Still, the difficulty of focusing on emotions in the current context
+is that we do not have a principled way of distinguishing between the
+good influences of emotion on decision-making and the bad influences.
+Moreover we need a way to draw this distinction that is independent of
+our opinion about the goodness or badness of the choices being made.
+Most of us tend to see the influence of emotion as bad when we think
+the decision reached is bad, and vice versa. But value neutrality and
+the related commitment to a process-based approach rule this out.
+Finally, some theorists have recently voiced worries about what might
+happen if emotionality were included in capacity assessments in
+the wrong way. Including emotionality might be good for some
+patients, e.g., those with depression, but might result in too much
+loss of freedom for autistic persons or other neurodiverse people
+whose emotional responses are different from the norm but who arguably
+are quite able to make decisions for themselves (Mackenzie & Watts
+2011a,b).
+Many of the same theorists who invoke emotion also point to the fact
+that the four abilities model ignores patient values (Charland 2002).
+However, in some cases where, intuitively, patients appear to lack
+capacity, it is precisely their pursuit of unusual and
+self-destructive values that seems to be problematic. Addicts pursuing
+their drug of choice (Levy 2016) or anorexia patients pursuing extreme
+thinness are cases in point. Might there yet be a way to appeal to
+values in an assessment of capacity?
+The adequacy of the four abilities model was challenged along these
+lines by Tan, Hope, Stewart and colleagues in a series of articles
+exploring the results of a small empirical study of patients with
+anorexia nervosa (Tan, Hope, & Stewart 2003a,b; Tan, Stewart,
+Fitzpatrick, & Hope 2006a,b; Tan, Stewart, & Hope 2009). Ten
+young women with the illness were interviewed at length about their
+own understanding of their illness, why they pursued extreme weight
+loss, how they felt about treatment and what might lead them to refuse
+treatment. In addition, the women were all assessed for
+decision-making capacity using the MacCAT-T. They all scored very well
+on the MacCAT-T, demonstrating high levels of understanding and
+reasoning ability, with scores basically equivalent to healthy
+controls (Tan, Stewart, et al. 2006a: 270). By the typical, purely
+cognitive criteria of capacity assessment, they were all (or mostly
+all, depending on how much emphasis one places on appreciation)
+ competent.[3]
+ Yet most of them also clearly intended to keep trying to lose weight.
+The extremely high value they placed on being thin led them to
+downplay other values that had once been more central to them. As they
+explained to interviewers, thinness was more important to them than
+family, friends, education, work, and even life itself. In the words
+of one participant, 
+Although I didn’t mind dying, I really didn’t want to,
+it’s just I wanted to lose weight, that was the main thing.
+(Tan, Hope, & Stewart 2003a: 702)
+Intuitively, at least for many people, these young women, diagnosed
+with a serious mental disorder and pursuing thinness at the expense of
+health and life, lack the ability to make their own decisions. For
+some theorists, indeed, such cases are paradigm cases of incapacity,
+the kinds of cases a theory ought to be able to account for. However,
+the cognitively focused four-abilities model cannot account for these
+cases because the young women, though pursuing self-destructive
+behavior, are cognitively intact. Indeed, it is not uncommon for
+patients with severe anorexia to count as having capacity by the usual
+criteria (Elzakkers et al. 2016). The only unusual thing about their
+decisions seems to be what they decide to pursue and the
+values that lie behind this. Is there, then, a way to appeal to the
+values such patients express as part of explaining why they lack
+capacity? The traditional understanding of value neutrality
+ (§5.4
+ above) suggests we can’t. But Tan and others (Tan, Hope, &
+Stewart 2003a,b; Tan, Stewart, et al. 2006a) suggest that the key is
+to recognize that these values (unlike, for example, the unusual
+values of the Jehovah’s Witness) are caused by the
+mental disorder itself (For a similar point in relation to addiction
+see Charland 2002, 2011). The values in question are
+“pathological values”.
+Although this seems promising at first, a number of problems remain.
+To start with, this view appeals to the idea that anorexia is the
+source or cause of these values. Even if that were so, we would need
+to know more before we could leverage that into an explanation of
+incapacity. We need a way of explaining how these values
+undermine or are bad-for decision-making.
+Some critics of Tan et al. come very close to just asserting that
+since the anorexic values in question do not undermine the usual four
+abilities, the values in question clearly should not be taken as
+evidence of incapacity (Whiting 2009). This is too simplistic,
+however, for it begs the question of whether there might be further
+abilities, in addition to the traditional four, that matter. However,
+it is also true that Tan et al. have not yet given a fully
+satisfactory account. Even if the values driving decision-making are a
+product of mental illness, this doesn’t by itself license the
+conclusion that these values are problematic. An additional link
+between the values in question and decision-making is needed and it is
+not yet clear whether one can be provided.
+A second worry is that such an approach (one that appeals to
+pathological values) risks giving up one feature of the current
+framework prized by many psychiatrists, namely the refusal to use
+diagnosis as a basis for determinations of capacity
+ (§5.5
+ above). If anorexia causes problematic values and if this is
+sufficient to render patients incompetent, then since all patients
+with anorexia have such values, we will in effect be saying that all
+such patients lack the capacity to refuse treatment.
+Finally, it is controversial whether or not we can really say that
+anorexia causes these values, even though it is clear that
+anorexia correlates with the existence of them. Like most mental
+disorders, anorexia nervosa is defined in terms of its symptoms rather
+than an underlying cause. Namely, the disorder is defined in terms of
+the strong desires for extreme thinness we have been discussing, as
+well as the behavioral consequences of these desires. And these
+desires in turn reflect the value these patients place on extreme
+thinness. It is thus not explanatorily helpful or illuminating in any
+way to say that these desires are caused by anorexia, for
+this amounts to saying (unhelpfully) that strong desires for extreme
+thinness are caused by strong desires for extreme thinness or that
+valuing extreme thinness causes the valuing of extreme thinness.
+The issue here is not about whether anorexia is really an illness
+(undoubtedly it is, and a very serious one at that). Rather, the point
+is about our current resources for explanation. Individuals
+can agree that (a) anorexia is a devastating condition and be puzzled
+by (b) the fact that such individuals typically count as having
+decision-making capacity, and yet also remain puzzled about (c) how
+precisely to explain incapacity in these cases in a way consistent
+with the general values described earlier
+ (§5.1–5.5).
+A slightly different point about values and decision-making capacity
+has been made more recently, also in the context of trying to
+understand patients with anorexia. After extensive and careful
+analysis of the ways individual patients talk about and describe their
+illness, Hope et al. (2011, 2013) have raised doubts about whether or
+not we can trust a patient’s own description of her mental
+states, because patients appear to use different words for the same
+experience at different times. This is extremely important because,
+given the existing framework, everything turns on whether or not
+patients have false beliefs (thereby failing either the understanding
+requirement or the appreciation requirement). But unusual values are
+(on the standard approach) allowed to stand. However, the research of
+Hope et al. suggests that the line between beliefs and values can
+actually be deeply obscure for patients as well as clinicians.
+Hope et al. (2013) have argued that individuals with anorexia are in
+the grip of affective states that shape how they see the world. Yet,
+although the world presents to them as one way, they may at another
+more reflective level, reject the appearances. Thus an individual may
+have a strong feeling or emotional sense that she is
+fat. But even though these feelings incline her to accept the
+proposition that she is fat she may not in fact believe at a higher
+level that she is fat. She may know quite well that she is dangerously
+thin. An analogy here with optical illusions is helpful. The
+experience of seeing a stick in water as bent is incredibly powerful,
+but we may nonetheless know it is not bent. However, the mental state
+that is most authoritative when it comes to reporting our beliefs may
+not be the same as the mental state that is most motivationally
+powerful. When it comes time to make choices about treatment, the
+salience of the affective phenomena and the relative lack of salience
+of the dangers of self-starvation may lead a person to refuse
+treatment.
+Here is where the puzzle for capacity assessment arises. In a very
+real sense, the refusal is based on a mental state with a certain
+propositional content that is false. So, under the traditional
+analysis, it seems we should count the patient as lacking capacity.
+But in another sense, since her reflective self does not accept that
+content (she does not strictly speaking believe it) she has no false
+beliefs (Hope et al. 2013: 30). And she is credible in
+reporting this. So, again following the traditional analysis, it seems
+we should count the patient as having capacity.
+She will, of course, be called upon to justify her decision and it may
+not be clear to her how to describe her mental states. We do not
+typically report affective experiences in the same way we report
+beliefs. The only logical argument she could possibly offer would be:
+I would prefer to risk death than to put on weight (Hope et al. 2013:
+30). And this looks like a preference. On the classic analysis she is
+competent because her refusing treatment logically follows, given her
+preferences. But as Hope et al. say:
+But this preference is not one she clearly held before discussion with
+her physician. It was constructed to create a rational argument for
+refusing treatment that can satisfy her physician. (Hope et al. 2013:
+30)
+If these descriptions of what happens with anorexia patients are
+correct, it seems plausible to suppose such patients should not
+(normatively speaking) be counted as having decision-making capacity.
+They are, on this picture, subject to the emotional equivalent of a
+powerful illusion, and they are unable to resist the illusion when it
+comes to choice. However, many problems remain about how to properly
+distinguish cases of capacity and incapacity. The description offered
+by Hope et al. is extremely important for what it calls to our
+attention, but it still leaves most of the core issues unresolved.
+Finally, a slightly different (but related) challenge to the
+four-abilities model is made using the notion of authenticity.
+Building on the idea introduced by Tan, Stewart, Fitzpatrick, and Hope
+(2006a) that certain values are caused by mental disorder and suspect
+in virtue of this, these critics raise the worry that the values
+driving decisions may not be authentic values of the patient. If
+authenticity is, in turn, thought of as part of autonomy, then it
+might be thought that inauthentic values undermine capacity (though
+see discussion of autonomy and capacity
+ §2).
+ So the question then becomes: can we require that the values driving
+a treatment decision be authentic, and if not may we declare the
+person incompetent?
+Kim (2016) has recently defended a mild form of authenticity
+requirement that he calls “the ability to value”. The
+terminology can be misleading because it is not about whether one is
+able to value something as opposed to nothing, but
+about whether one is able to bring one’s own authentic values to
+bear on decision-making (Hawkins 2016). There are two questions raised
+by Kim that correspond neatly to the two requirements he sketches for
+the ability to value: first, are the values driving a particular
+treatment decision really the patient’s own values, or is the
+patient acting out of character? Second, if the values seem
+inauthentic, can we demonstrate that the new problematic values arose
+with the onset of mental disorder or after some illness related event
+(for example, a depressed person who stopped taking meds three weeks
+ago, and started wanting to die shortly thereafter)? The second
+question is analogous to the second question that arises in assessing
+appreciation, where we have to determine whether or not a
+patient’s failure to believe that the facts are true of her is
+caused by a mental problem of some sort (e.g., dementia induced
+confusion or ICU psychosis). If appreciation fails because of
+religious or cultural beliefs, this is not a sign of incapacity. Kim
+is clear that he intends this requirement to be applied very
+carefully, and that impairment in this domain is not sufficient for a
+determination of incapacity, though he is vague about what precisely
+it can contribute to such a decision.
+One problem with this view arises if one considers the fact that some
+individuals with mental disorder identify with their illness (Erler
+& Hope 2014). Tan, Hope, and Stewart (2003b) explore the ways that
+many young women with anorexia see their illness as an essential part
+of who they are. Yet it is these same values that are influencing
+their treatment decisions. If we wish to find a way of explaining the
+deep intuition that these women lack decision-making capacity, then if
+we do so through appeals to authenticity, we will most likely have to
+give up on the idea that individuals are themselves the final
+authority about which values or features of themselves are the
+authentic ones.
+Appeals to authenticity also face problems related to our ability to
+distinguish truly inauthentic values from new but still authentic
+ones. Not all new values are inauthentic, for it is possible for a
+person to autonomously change her mind. Moreover, sometimes illness
+gives us experiences that seem highly relevant to our choices. Having
+once experienced illness we may be inclined to make decisions we would
+never have expected ourselves to make before we were ill. The
+decisions are not caused by our illness, but rather reflect what we
+have learned from illness. As such they should not count against
+capacity. But to ensure this doesn’t happen we need reliable
+ways of distinguishing cases that can, in fact, be very hard to
+distinguish from the outside. [Also, insofar as we are looking for
+suspicious changes in values as signs of inauthenticity, this
+will not help in many cases of anorexia nervosa, where the patients in
+question typically acquire the illness at a very young age before they
+have developed characteristic values distinguishable from the values
+of the illness.]
+Kim’s awareness of the dangers of confusing real value changes
+with pathologically induced changes leads him to emphasize the need
+for extreme caution in this area. Indeed, one problem with Kim’s
+approach is that his understandable caution means that in many cases
+where intuitively a patient may lack capacity, we will still not be
+able to rule the patient incompetent (Hawkins 2016). In short, the
+original range of ethical constraints on capacity assessment continues
+to make it difficult to capture all and only the cases that seem
+intuitively to be cases of genuine incapacity, and Kim’s
+solution, though perhaps capturing a few more cases than other views,
+is still restrained in ways that leave us with some highly
+counterintuitive cases.
+Informed consent requires that a patient be able to make a
+meaningful decision for herself. But this is just the pre-requisite.
+If the individual has capacity then he or she must be given all
+relevant information, and then he or she must make a free or
+voluntary decision. Voluntariness is complicated terrain, and
+most of the discussion of voluntariness in informed consent has
+focused on the sorts of illegitimate behaviors by other people that
+can undermine voluntariness: force, coercion (threats) and undue
+inducement (Hawkins & Emanuel 2005).
+However, a more neglected question (at least in the literature on
+informed consent) is the question of whether factors internal
+to the person can undermine voluntariness. If so, what are these
+factors and how do we identify them? If such factors exist, then they
+may most usefully be discussed in connection with decisional capacity
+as opposed to external topics like coercion. This is because questions
+about internal psychological barriers bring us back once more to
+questions about the particular abilities of the individual patient or
+subject, and because if there are problems here, their presence and
+extent are most likely to be assessed by clinicians. Arguably, just as
+failure to grasp the facts of the situation can make a choice
+meaningless, something like addiction—which in certain contexts
+almost guarantees that the person will choose in a particular
+way—may also thereby make choice meaningless (Charland 2002,
+2011).
+In the early days of psychiatry, it was widely recognized that there
+could be lesions of the will, just as there could be lesions of the
+understanding and affective capacities. Towards the end of the
+nineteenth century the French philosopher-psychologist Theodule Ribot
+published a highly influential book on the topic, entitled Les
+maladies de la volenté—later translated as
+Diseases of the Will (Ribot 1883). Ribot argued that the
+capacity for voluntary choice could sometimes be compromised,
+perverted, or even virtually obliterated, by disease, and that the
+various impairments that resulted deserved to be scientifically
+studied and classified. While it is no longer popular to speak of
+“diseases of the will” contemporary clinicians and
+researchers do recognize that human will and agency can be impaired or
+even depleted (Baumeister et al. 1998) in various ways by diseases of
+many sorts. But there is still little understanding of what such
+deficits mean for the doctrine of informed consent.
+Those contemporary theorists who think we need to acknowledge the
+possibility of genuine psychological barriers to voluntariness tend to
+ask questions about the decision-making ability of patients with
+addiction (Charland 2002, 2011) or obsessive-compulsive disorder
+(Ruissen 2015; Ruissen et al. 2016).
+Unfortunately, the literature has paid little attention to the
+distinction made above between internal psychological barriers and
+external barriers. For example, Appelbaum, Lidz, and Klitzman (2009)
+set out to chart the domain of voluntariness, but ended up focusing
+exclusively on external factors such as coercion and undue inducement.
+They are explicit that since the law has traditionally treated
+voluntariness in an external fashion—as the absence of force,
+coercion or undue inducement—they have sought to explain only
+these kinds of phenomena. However, this begs the ethical question of
+whether there really might be internal barriers to meaningful choice
+and if so, whether the law ought to recognize them even if it
+currently doesn’t. Other theorists such as Laura Weiss Roberts
+(2002a,b) have explored a wider range of factors that might affect voluntariness, but with the
+result that far too much is included (as opposed to too much
+being excluded, as above). Approaches like hers fail to make crucial
+distinctions between strong, though understandable, feelings a person
+might have in response to a situation (but which need not undermine
+the voluntariness of a choice) and more plausible threats to
+voluntariness such as addiction. The difficulty is precisely to
+distinguish genuine impediments to voluntary choice from the many and
+varied internal factors that can influence choice, and/or lead to
+imprudent or unwise choices. Much work remains to be done here. 
+The literature on decision-making capacity has grown exponentially
+over the last decade, though interestingly most of the explosion is in
+the clinical and research literature and has a decidedly empirical
+bent. Although new topics continue to be introduced, it is clear that
+outside philosophy much is assumed as settled that would not look
+settled to a philosophical eye. Thus it will be interesting to see how
+things develop over the next decade.
+In addition, decision-making capacity is becoming more and more
+relevant as certain types of ethical questions become hot topics of
+public debate. For example, decisional-capacity is obviously of great
+importance in relation to medical-assistance-in-dying laws
+ (MAID),[4]
+ and yet the public often fails to understand what is actually meant
+by decisional-capacity as well as how variable the practices of
+assessing capacity really are (Kim, Appelbaum, et al. 2011; Seyfried,
+Ryan, & Kim 2013). This is particularly important since one of the
+most divisive issues currently concerns whether those with mental
+illness or cognitive impairment should be candidates for assisted
+dying (Stewart, Peisah, & Draper 2011; Broome & de Cates 2015;
+Price 2015; Schuklenk & van de Vathorst 2015; Appelbaum 2016;
+Charland, Lemmens, & Wada 2016; Doernberg, Peteet, & Kim 2016;
+Kim & Lemmens 2016; Blikshavn, Husum, & Magelssen 2017). As
+this entry makes clear, some of the most difficult questions about
+decisional capacity arise specifically in the case of mental illness,
+making it even harder to determine whether MAID for the mentally ill
+is a policy that could be implemented appropriately, where
+“appropriate” here just means an implementation that
+strikes just the right balance between protecting the truly
+vulnerable, on the one hand, and promoting freedom for those who can
+meaningfully exercise it, on the other.

@@ -1,0 +1,1070 @@
+Norms are the rules of a group of people that mark out what is
+appropriate, allowed, required, or forbidden for various members in
+different situations. They are typically manifest in common behavioral
+regularities that are kept in place by social sanctions. From an early
+age, humans see certain behaviors, contexts, and roles as governed by
+norms. Once a person adopts a norm, it functions both as a rule that
+guides behavior and as a standard against which behavior is evaluated.
+Moreover, individuals typically become motivated to enforce the norms
+they adopt, and so to participate in regulative practices such as
+punishment and the ascription of blame. Such practices in turn help
+stabilize the community’s social arrangements and the norms that
+structure them. Norms are often classified into kinds or
+subcategories, with common examples including moral, social,
+conventional, epistemic, aesthetic, and organizational norms. The
+correct or theoretically most useful way to distinguish and taxonomize
+kinds of norm is the subject of much debate, but one that will be set
+aside here (see O’Neill 2017 for a review, Kelly forthcoming
+for discussion). Rather, this section will sketch a general overview
+of the conceptual space common to cognitive-evolutionary work on the
+psychology of norms, and later sections will elaborate on its
+contents, locating different claims and specific theories within
+it.
+An idea central to work on the psychology of norms is that human minds
+contain a norm system of some kind, a set of psychological
+mechanisms dedicated to handling information and producing behaviors
+relevant to norms. Such mechanisms feature in an explanatory strategy
+common throughout psychology (R. Cummins 2000). In this case,
+theorists appeal to different properties of the norm system to help
+account for different aspects of a complex capacity for norm-guided
+behavior—a capacity to “do” norms. This capacity is
+characterized by a broad but distinctive pattern of behavior: when
+faced with norm relevant stimuli, typically centered on other
+peoples’ actions or their own, along with other cues concerning
+the context of those actions and the roles of the actors, individuals
+exhibit a robust and multifaceted type of response that is centered on
+conformity and punishment. Taken together, the responses of
+individuals aggregate up to produce stabilizing group-level effects on
+patterns of collective social organization. The complexity and
+robustness of the individual capacity suggests the operation of
+dedicated psychological machinery—a norm system—which
+sensitizes humans to certain social stimuli (behavior, contexts,
+roles) and reliably produces the coordinated facets (physiologically,
+inferentially, behaviorally) of the characteristic response.
+This picture raises the question of how it is that humans are
+able to spontaneously and reliably track norm-relevant features of
+their world, infer the rules which govern it, and bring those rules to
+bear on their own and others’ behavior. It also calls for a
+psychological answer, one that sheds light on what mediates the
+stimuli and the response. By analogy, an automobile is capable of
+acceleration—it reliably speeds up in response to the depression
+of the gas pedal—but one needs to “look under the
+hood” to see what sort of mechanisms are reliably translating
+that kind of input into that kind of output. Moving from the
+acceleration of a car to the norm-guided activity of a person,
+cognitive-evolutionary approaches posit and investigate the
+psychological machinery that is responsible for translating certain
+kinds of social inputs into the kind of behavioral outputs associated
+with norms. This strategy—of positing psychological mechanisms
+that mediate stimulus and response—is supported by a now
+familiar way of understanding the mind as an information processing
+system. The inputs under consideration are treated as information,
+which is routed and processed by a suite of psychological mechanisms
+and finally translated into behavioral outputs. Those focused on the
+psychology distinctive of normative cognition have posited the
+existence of this kind of dedicated package of mechanisms, and have
+investigated different possibilities about its nature.
+To introduce a couple terms of art, accounts of psychological
+capacities often aspire to provide both a proximate
+explanation and an ultimate explanation. Where proximate
+explanations try to answer, “How does it work?”, ultimate
+explanations try to answer, “How did we come to be like
+this?” This distinction originates in biology (Mayr 1961; Ariew 2003), but is
+applicable to behavioral and psychological traits as well (Griffiths
+2007). Central to proximate explanations in these latter contexts are
+the models of the psychological processes that underlie specific
+capacities. After identifying a relatively complex ability, that
+ability is explained in terms of the operation and interaction of a
+set of relatively simpler underlying component mechanisms. Thus,
+proximate explanations of norms aim to show how human individuals are
+psychologically capable of the rich array of activity associated with
+norm-guided behavior by identifying the component parts of the norm
+system and describing how they operate.
+Ultimate explanations, on the other hand, aim to explain the
+likely origins of different traits. It is now common for the cognitive
+sciences to make extensive use of evolutionary theory, taking what is
+known about the environments and selective pressures faced by
+ancestral populations and using it to help inform hypotheses about
+minds (Barkow, Cosmides, & Tooby 1992). Central to many of the
+ultimate explanations proposed by researchers interested in the
+psychology of norms are the adaptive challenges raised by collective
+action and large-scale cooperation (Gintis, Bowles, et al. 2005; Boyd
+& Richerson 2005b; N. Henrich & J. Henrich 2007; Tomasello
+2009). For the sake of clarity, it is helpful to remember that these
+two styles of explanation are analytically distinct, but that
+proximate and ultimate explanations for a given trait will ideally be
+complementary and mutually reinforcing. Thus, evolutionary accounts of
+norm cognition can inform and constrain proximate models, and vice
+versa.
+The psychological focus of cognitive-evolutionary approaches to norms
+gives them a fairly clear research agenda. It is worth noting,
+however, that while questions about the nature of norms are relevant
+to a range of debates in philosophy (and beyond), work on the
+psychology of norms is not primarily driven by one particular
+philosophical tradition or debate. Rather, those focused on
+normative psychology are typically guided by a set of general
+issues concerning human nature: the structure and distinctive features
+of human minds, the pathways of human evolution that produced them,
+and the commonalities and differences between human minds and
+behaviors, on one hand, and those found in non-human species, on the
+other (Tomasello 1999; Richerson & Boyd 2005; Tooby & Cosmides
+2005; J. Henrich 2015; Vincent Ring, & Andrews 2018). One upshot
+of this is that theorists draw on the full range of explanatory
+resources made available by contemporary cognitive science. Thus,
+these accounts of normative cognition are not constrained by
+folk-psychological explanations of behavior, and so are free to posit
+and appeal to psychological mechanisms, states, and processes that
+need not bear much resemblance to beliefs and desires, credences and
+preferences, conscious deliberation and explicit inference.
+This entry is organized around research whose focal point is the
+psychology distinctive of normative cognition. However, any
+discussion of norms and norm-guided behavior will involve, tacitly or
+otherwise, some picture or other of agents and the
+characteristics that make them responsive to normative influence. Some
+begin with analytic formalizations of the kinds of agents and mental
+states assumed by common sense folk psychology, and use these
+formalizations, along with various refinements, to account for
+different norm related phenomena. These fall beyond the scope of this
+entry, but see especially Bicchieri, Muldoon, and Sontuoso (2018) for
+an overview of such approaches (also see Bicchieri 2006, 2016; Brennan
+et al. 2013; Conte, Andrighetto, & Campennì 2013; Hawkins,
+Goodman, & Goldstone 2019; cf. Morris et al. 2015). It is also
+worth noting that cognitive-evolutionary approaches are sometimes
+presented as importantly different from classic rational choice
+approaches to human decision and social behavior (Boyd & Richerson
+2001; Henrich, Boyd, et al. 2001, 2005). Whether these are
+genuinely distinct alternatives remains unclear (Elster 1991, cf.
+Wendel 2001), but those who make the case typically point to a growing
+body of evidence that suggests humans rarely approximate the
+unboundedly rational, purely self-interested agents of classical
+economics (Gigerenzer & Selten 2001; Kahneman 2011, cf. Millgram
+2019, Other Internet Resources).  To illustrate, participants in
+one-time, anonymous cooperation games have been observed to routinely
+cooperate, even when they are made explicitly aware of their anonymity
+and the fact that they will play the game just once (Marwell &
+Ames 1981; see Thaler 1992 for a review). Those sympathetic to
+cognitive-evolutionary approaches to norms have an explanatory
+template for this kind of finding ready at hand, and will construe
+participants’ behavior as motivated by their norm systems and
+the pro-social norms that they have internalized.
+With the expanded repertoire of psychological entities at their
+disposal, explanations that appeal to a psychological capacity
+dedicated to norms also appear well suited to capture the kinds of
+dissonance and dissociation that can occur between individuals’
+attention, implicit categorization, and normative motivation, on the
+one hand, and their explicit beliefs and avowed principles, on the
+other. A person may, for example, explicitly endorse feminism and
+sincerely wish to extinguish the sexist norms and expectations he has
+about women, but nevertheless find himself monitoring the social world
+through the lens of those sexist norms, and experiencing recalcitrant
+motivation to enforce and comply with them (cf. work on implicit
+biases Brownstein & Saul 2016). In short, on this kind of picture
+different psychological systems that comprise an individual’s
+mind (perhaps the norm system and the practical reasoning system) can
+work independently from, and be at slight odds with, each other.
+Several more specific features that appear distinctive of normative
+cognition have drawn considerable attention from psychological
+researchers. These include the propensities to acquire norms,
+to comply with norms, and to enforce norms. When a
+person is born into or otherwise enters a community, she needs to be
+able to identify and extract information about the broad assortment of
+norms that shape it, who different norms apply to and when, and what
+the consequences of breaking them are. She must be able to see some
+behaviors as normatively regulated, and then to infer what
+the governing rule is. Learning how to do this is sometimes supported
+by intentional pedagogical behavior by her mentors (Sterelny 2012),
+but need not be (Schmidt, Rakoczy, & Tomasello 2011). Gaining
+knowledge of the rules is not where it ends. Individuals rarely just
+observe such social activities, but rather come to competently
+participate in them. To do this, a person typically learns to behave
+in compliance with the norms she identifies as applying to herself;
+acquiring those norms results in their coming to guide her own
+conduct. Finally, prevalent norms and standards of conduct are
+collectively maintained by a community when its members enforce them,
+punishing those who fail to follow the rules. Enforcement and
+punishment are broad categories, and can include correcting, withholding cooperation,
+communicating disapproval through body language or explicit criticism,
+ostracizing or gossiping about norm violators, or even physical
+violence. Thus, individuals become responsive to norms and the social
+pressure by which they are enforced, and motivated to apply social
+pressure to others who transgress.
+Further questions arise about each of these propensities. One cluster
+of questions concerns the details of acquisition: what sort of
+perceivable cues are salient to the norm system, prompting a person to
+perceive a behavior, context, or role as normatively
+governed? And once a norm is identified, what causes a person to
+internalize it? Perhaps the merely statistical fact that most people
+behave the same way suffices in some cases, while in others a
+sanctioning response may be required to activate the acquisition
+process. A second family of issues concerns motivation: is norm-guided
+behavior typically driven by intrinsic or instrumental motivation?
+People may comply with a norm for its own sake, simply because it is
+felt to be the right thing to do. They may also, however, obey a norm
+merely in order to avoid punishment and blame. Some behaviors may be
+driven by both kinds of motivation. Similar and perhaps more puzzling
+questions arise about the psychological roots of people’s
+motivation to punish others who violate norms. A third family of
+questions can be framed in terms of innateness: to what degree are the
+mechanisms responsible for norm cognition innately specified or
+culturally acquired? Aside from the mechanisms, is any of the
+content—any of the norms themselves—innately
+specified?
+Cognitive-evolutionary approaches to norms treat these as empirical
+questions, and thus see value in, and aspire to be sensitive to, a
+wide range of evidence. Before looking more closely at some of that
+evidence however, it will be useful to be familiar with the types of
+theoretical tools researchers typically use to generate and interpret
+it.
+A working hypothesis of cognitive-evolutionary approaches is that the
+psychological mechanisms underlying norm cognition are evolved
+adaptations to important selection pressures in human evolutionary
+history (Richerson & Boyd 2005; Sripada & Stich 2007,
+Tomasello 2009; Chudek & Henrich 2011; Kelly & Davis 2018, cf.
+Cosmides & Tooby 1992). Even if a detailed proximate account were
+already available, other questions could be asked about the provenance
+of the norm system: how—that is, due to which evolutionary
+factors—did human minds come to be equipped with these
+psychological mechanisms? To what adaptive problem or problems was
+normative cognition a solution? What selection pressures were
+primarily responsible for the evolution of a norm system, and what
+phylogenetic trajectory did that evolution take? A brief summary of
+the types of answers currently on offer to these questions provides
+useful context for the discussion of proximate explanations that
+follows.
+A fairly uncontroversial background tenet of the received view is that
+humans are extraordinarily social animals, and that our hypertrophied
+abilities to learn from and cooperate with each other are key to what
+set us apart from our closest primate ancestors and other hominid
+species. A crucial difference is thought to be that human capacities
+to imitate and learn from each other became powerful enough to sustain
+cumulative culture (Tomasello 1999; J. Henrich &
+McElreath 2003, Laland 2017). Culture is understood as information
+that is transmitted between individuals and groups via behavior,
+rather than processes like genetic transmission (Ramsey 2013).
+Beliefs, preferences, norms, skills, techniques,
+information-containing artifacts, etc., are passed from individual to
+individual, and thus across populations and between generations,
+mainly by social learning (Mathew & Perreault 2015). For
+example, development of the set of techniques and skills associated
+with throwing spears, or the knowledge and tools enabling the
+controlled use of fire, have been tied to increases in opportunities
+for social learning provided by expanding social networks and more
+complex forms of social activity (Thieme 1997; Gowlett 2006). Culture
+is cumulative in the sense that the body of information in
+the cultural repository does not remain static, but can itself grow
+larger and more complex. Grass huts evolve into wood-frame houses,
+then brick buildings, and eventually skyscrapers. Tribal leaders
+evolve into kings, then emperors, then prime ministers. Simple sets of
+norms evolve into more complicated informal institutions, then
+byzantine formalized legal codes. As each generation adds its own new
+innovations, discoveries, and improvements, functional sophistication
+is accumulated in cultural traits in much the same way as it is
+accumulated in genetic traits.
+This general evolutionary outlook gives reason to think that as human
+groups increased in size, they also grew in their capacity to carry
+more culture and produce more cultural innovations (Kline & Boyd
+2010; J. Henrich 2015: chapter 12), though the causal relationship
+between population size and cultural complexity remains controversial
+(Fogarty & Creanza 2017, cf. Vaesen et al. 2016). As cultural
+innovations continued to accumulate, they allowed humans to more
+significantly control and reshape the environments in which they
+lived. Such transformations also reshaped the environments inhabited
+by subsequent generations, thus shifting the contours of the physical,
+social, and informational niches in which they evolved. Such changes,
+in turn, created a range of new selection pressures, many of which
+favored bodies, brains, and minds better equipped for sociality and
+cultural inheritance. Researchers continue to develop and debate the
+merits of different conceptual tools with which to conceive of this
+kind of evolutionary dynamic (Tomasello 1999; Laland, Odling-Smee,
+& Feldman 2001; Laland, Odling-Smee, & Myles 2010; Sterelny
+2003, 2012; Richerson & Boyd 2005; Tennie, Call, & Tomasello
+2009; Boyd, Richerson, & Henrich 2011, J. Henrich 2015; Boyd
+2017).
+Humans are able to inhabit a wide range of environments, and socially
+transmitted information—as opposed to innately specified and
+biologically transmitted information—is particularly useful in
+the face of ecological and social variation (Richerson & Boyd
+2013). Information about which plants in various environments are
+edible and which are toxic has straightforward adaptive advantage.
+Information about what kinds of norms prevail in various social
+environments is also important, and knowing it allows individuals to
+smoothly participate in their community and coordinate with other
+members in an array of collective activities that ranges from
+producing food and raising children to responding to threats and
+dealing with outsiders (Chudek & Henrich 2011). While different
+types of cultural variants can be useful in different ways,
+not all socially transmittable information is equally valuable, and
+individuals are not indiscriminate social learners. Theorists posit
+that human minds evolved to contain a number of social learning
+biases or heuristics that help facilitate more
+selective learning. These influence which, of the many cultural
+variants to which an individual is exposed, she will actually adopt
+for herself. Two heuristics appear to be particularly important in
+amplifying the advantages of a system of cultural inheritance. One is
+a conformity bias, which prompts individuals to adopt those
+cultural variants that have been adopted by most others in their
+community (Muthukrishna, Morgan, & Henrich 2016), and another is a
+prestige bias, which sensitizes individuals to hierarchy and
+status, prompting them to model their behavior on those who have
+achieved success and high social rank (J. Henrich & Gil-White
+2001; Cheng et al. 2012; Maner 2017). In addition to these two,
+researchers have posited other learning biases that can influence norm
+acquisition, including one that makes information about norms easier
+to remember than other, non-normative information about behavior
+(O’Gorman, Wilson, & Miller 2008).
+Culture looms increasingly large in evolutionary explanations of human
+ultrasociality, i.e., our species’ ability to cooperate on a
+remarkably large scale (Tomasello 2009, 2016; Richerson 2013; though
+see Hagen & Hammerstein 2006; Burnham & Johnson 2005 for
+alternative views, and Sterelny, Calcott, & Fraser 2013 for
+broader context on the evolution of cooperation). An increasingly
+prominent idea is that explaining the full range of behaviors involved
+in human sociality will require some appeal not just to culture in
+general, but to culturally transmitted norms and institutions in
+particular (Mathew, Boyd, & van Veelen 2013). Some have taken the
+significance and complexity of the adaptive challenges posed by
+large-scale cooperation to have implications for human psychology,
+arguing from these grounds that human minds have a capacity specific to
+norms (Chudek, Zhao, & Henrich 2013), which may have evolved in
+tandem with our capacities for language (Lamm 2014). Others argue
+further that cultural group selection, generated by various forms of
+competition between cultural groups like communities, tribes, clans,
+and even nations, has contributed to the spread of more effective
+cooperative norms (Turchin 2018; Richerson, Baldini, et al. 2016,
+though see Krasnow et al. 2015). On such views, these kinds of
+selective pressures further remodeled human social psychology,
+supplementing more evolutionarily ancient social instincts to form
+what have been called tribal social instincts (Richerson & Boyd
+2001; Boyd & Richerson 2008; Richerson & Henrich 2012). This family of
+evolutionarily recent “instincts” is posited as including
+a capacity for norms, but also other psychological features thought to
+refine norm-guided behavior in various ways, including sensitivities
+to markers of tribal membership and the boundaries between ethnic
+groups (McElreath, Boyd, & Richerson 2003) and social emotions
+like guilt, pride, and loyalty.
+The theoretical toolkit common in the cognitive and behavioral
+sciences affords several key dimensions along which different
+theorists stake out and explore more specific positions about
+normative psychology. Capacities like the one for norms are understood
+as complex in the sense that they are subserved by a number of
+simpler, interrelated processes and subsystems. Such complex systems
+are usefully analyzed by reference to those simpler ones that comprise
+them. When used in psychology, this general method of analyzing
+complex systems by appeal to the character and interactions of their
+component parts often takes the form of what has been called
+homuncular functionalism (Lycan 1990), where it is paired with the
+metaphysical doctrine of functionalism about the mind. This, briefly
+stated, is the view that mental states and processes are functional
+states, identified by the characteristic role they play in the
+psychological system of which they are a part (Putnam 1963, 1967;
+Fodor 1968; Levin 2004 [2018]). Dennett, an early proponent of
+homuncular functionalism, urged psychologists to follow a method
+parallel to that used in artificial intelligence research:
+The AI researcher starts with an intentionally characterized
+problem (e.g., how can I get a computer to understand
+questions of English?), breaks it down into sub-problems that are also
+intentionally characterized (e.g., how do I get the computer to
+recognize questions, distinguish subjects from
+predicates, ignore irrelevant parsing?) and then breaks these
+problems down further until he reaches problem or task descriptions
+that are obviously mechanistic. (Dennett 1978: 80)
+An important step in any explanation is delineating the target
+phenomena itself. In cognitive science, this step often takes the form
+of characterizing a capacity via task analysis, which amounts to
+identifying and distinguishing the tasks or functions that
+are performed in exercising the relevant capacity. For example, some
+tasks currently thought to be central to the functioning of a norm
+system include those mentioned above: acquisition, compliance, and
+enforcement. Another step is concerned with modeling the
+psychological mechanisms responsible for carrying out those
+tasks: the typical algorithms and patterns of information processing
+that perform those functions. The final step in completing a full
+account of a capacity would be an explanation of how those mechanisms
+and algorithms are implemented and thus realized in the
+person’s physical, chemical, and biological structures (see Marr
+1982 for the classical discussion of these different levels of
+explanation).
+While experimental and other behavioral evidence can help to more
+directly characterize a capacity and identify its associated tasks,
+many theoretically important issues have to do with determining what
+kind of psychological mechanisms should be posited to account for
+them. Theorists defending different views might hypothesize different
+mechanisms that underpin a particular capacity, or give different
+accounts of how a mechanism performs its function. They can also agree
+or disagree about how the relevant mechanisms are organized,
+developing different accounts of their proprietary algorithms, and the
+types of causal and informational links each bears to each other and
+to other elements of a person’s overall psychological economy
+(perceptual systems, short term memory, action production systems,
+etc.).
+Within this conceptual space there are number of prominent dimensions
+along which accounts might vary. The following list of such dimensions
+is not exhaustive, but it gives a sense of some of the most
+significant ones. The psychological mechanisms posited by different
+proximate accounts of a norm system can differ with respect to
+The first dimension concerns a distinction between type 1 and
+type 2 cognitive processes made by dual processing and dual
+systems theories (see Frankish 2010 for a review, Cushman, Young,
+& Greene 2010). Type 1 processes are typically characterized as
+“fast and frugal,” intuitive, heuristic processes which
+deliver “rough-and-ready” responses (Gigerenzer et al.
+2000). These processes take place automatically and unconsciously and
+are prone to error, but they make up in speed and resource-efficiency
+what they lack in precision. Type 2 processes, by contrast, are
+typically characterized as slower, rule-based, analytical processes
+which require more concentration and cognitive effort, take place
+consciously, and deliver more precise responses.
+The second dimension concerns the view that the mind is, to some
+degree, made up of modules: psychological mechanisms that are
+informationally encapsulated, fairly autonomous, automatic, and
+domain-specific (Fodor 1983; Carruthers 2006; Robbins 2009 [2017]).
+Modules are informationally encapsulated in the sense that they are
+insensitive to information present in the mind but not contained
+within the mechanism itself, leaving their internal processes
+unaffected by, for example, what the person reflectively believes or
+prefers. A related property is cognitive impenetrability. This
+captures the fact that the information and processes inside a module
+are themselves inaccessible to central systems, such as those involved
+in introspection or deliberation. Although it is often possible to
+consciously consider the output of a modular mechanism, the endogenous
+processes responsible for producing that output will remain opaque to
+direct introspection (Carruthers 2011).
+Turning to the third dimension, it should be clear how commitments
+along the first two dimensions could support different views about the
+extent to which normatively governed expectations and behavior require
+or are susceptible to voluntary control. If the processes subserving
+the capacity for norms are to some degree automatic and unconscious,
+and are insensitive to changes a person makes to her explicit beliefs,
+judgments, or volitions, those processes would be able to affect her
+behavior without the need of any guidance from her will, and could
+help produce behaviors and judgments that oppose it. Research on
+implicit bias may provide useful resources for thinking about the
+relationship between normative cognition and voluntary control. Recent
+work sheds light on what kind of intervention strategies are effective
+(Lai et al. 2014; Devine et al. 2012), and suggests that deliberate
+cognitive effort and voluntary control can, under certain conditions,
+override the influence of implicit and automatic cognition. Turning to normative cognition, research
+suggests that self-control may be required to violate a norm one has
+internalized, such as the norm against breaking promises (Baumgartner
+et al. 2009), but the details remain unclear (Peach, Yoshida, &
+Zanna 2011; Yoshida et al. 2012; also see Kelly forthcoming for
+discussion of differences between internalized and avowed norms).
+The fourth and fifth dimensions are where the traditional
+nature/nurture debate plays out with respect to norms and normative
+psychology. It is part of the standard account of modules that they
+are innate in the sense that they will develop in more or less the
+same way in normal humans, irrespective of cultural setting. Advocates
+of so-called Evolutionary Psychology, one especially visible way of
+applying evolutionary thought to human behavior, have embraced the
+idea of modules, even arguing that human minds are “massively
+modular”, i.e., composed exhaustively or almost entirely of
+modular psychological mechanisms (Barkow, Cosmides, & Tooby 1992;
+Samuels 1998; Carruthers 2006). On such a view, normative psychology
+will also be modular in many respects. One way to develop this idea
+would be to make the case that all human cultures are structured by
+some set of norms or another, suggesting the presence of modular
+cognition. The ways in which norms differ from one group to the next
+might then be explained by appeal to an evoked culture model
+(Tooby & Cosmides 1992, though see Sperber 1996 for a different
+account of the relationship between modular cognition and culture).
+According to this model, the norm-guided behaviors found across
+cultures would be construed as innately constrained, rooted in
+endogenous mental form and content of the “cognitive adaptations
+for social exchange” common to all human minds. Normative
+variation, then, would be explained by appeal to the fact that
+different groups live in different circumstances, and variation in the
+external conditions they face evokes different subsets of the set of
+all norms and norm-governed behaviors made possible by the norm
+system. Such a view has been suggested but not yet fully worked out
+(though see Buchanan & Powell 2018). An alternative family of
+views puts the ideas of innateness and domain-specificity to different
+uses (Fessler & Machery 2012). These, which have been more
+developed for normative psychology, depict humans as having an innate
+capacity dedicated to acquiring and performing norms, but whose
+underlying mechanisms contain little if any innately specified
+content. No particular norms would be innate on such a view; rather,
+the capacity (perhaps together with some set of learning biases)
+guides acquisition in its specific domain, and thus equips individuals
+to easily internalize whatever norms are present in her local social
+environment (Boyd & Richerson 2005a; Sripada & Stich 2007;
+Chudek & Henrich 2011; Kelly & Davis 2018).
+A general alternative to these kinds of nativist, modular views has
+recently been developed in more detail. It holds that psychological
+mechanisms bearing many characteristics of type 1 processes might be
+learned cognitive gadgets rather than innate cognitive
+instincts or modules. On this account, a complex capacity—for,
+say, reading and writing or playing chess—is still underpinned
+by a number of relatively integrated psychological mechanisms and
+routinized processes, but these mechanisms themselves (as opposed to
+merely the content they process) are fashioned and bundled together by
+cultural evolution. These packages of skills, once available in the
+group’s cultural repertoire, can then be acquired by individuals
+via domain general learning processes (Heyes 2018). The idea of a
+cognitive gadget provides a promising new theoretical option for
+psychology in general. Its advocates have not yet systematically
+addressed the question of whether it best captures the capacity for
+norms, however (though see Sterelny 2012 chapter 7 for a discussion
+that anticipates this line of thought).
+Others interested in moral cognition more generally—which
+outstrips work on norm-guided behavior to include work on the
+psychology of altruism, well-being, character and virtue, moral
+emotions, intentional versus unintentional action, and so
+forth—have sought to develop an analogy between Chomskyan
+theories of language acquisition and use, on one hand, and the
+acquisition and application of moral rules, on the other (Mikhail
+2007, 2011; Dwyer, Huebner, & Hauser 2010; Hauser, Young, &
+Cushman 2008; Roedder & Harman 2010).  This approach is generally
+nativist, positing a universal moral competence that guides learning
+specifically in the domain of morality, and contains enough innately
+specified structure to account for the putative poverty of moral
+stimulus that children face when attempting to learn the norms that
+prevail in their local environment (see Laurence & Margolis 2001
+for discussion of poverty of the stimulus arguments in cognitive
+science). Some advocates also suggest that in addition to information
+specifying the structure of the mechanisms dedicated to acquiring and
+processing moral norms, a few particular norms themselves may also be
+included as part of the innate moral capacity, perhaps norms against
+incest or intentionally causing harm (e.g., Mikhail 2007,
+2011). Others have criticized this view (Prinz 2008; Sterelny 2012),
+but only recently has a more detailed positive account of rule
+acquisition begun to be developed. Central to this newly emerging
+empiricist alternative is the idea that individuals are rational rule
+learners, but they rely on domain general learning strategies to
+acquire norms from their social environment, rather than on an
+innately specified, domain specific moral competence (Gaus &
+Nichols 2017; Ayars & Nichols 2017, 2020; Nichols
+forthcoming.)
+The sixth and final dimension concerns motivation. Especially in light
+of the roles that punishment and reward play in the stabilization of
+group-level patterns of behavior, an initially plausible idea is that
+normative motivation is instrumental (for discussion see Fehr
+& Falk 2002). On such views, an individual conforms to a norm in
+order to receive some benefit, or to avoid reprimand, or because she
+wants to behave in the way she thinks others expect her to behave.
+Such motivation would be instrumental in the sense that people obey
+norms merely as a means to some further end that more fundamentally
+drives them; in counterfactual terms, remove the external reward,
+punishment, or social expectation, and the individual’s norm
+compliant behavior will disappear along with it. Those who explore
+this kind of account have recently emphasized the role of
+psychological states like conditional preferences, together with
+2nd order social beliefs, i.e., people’s beliefs
+about other people’s expectations, and people’s beliefs
+about other people’s beliefs about what should be done (see
+Bicchieri, Muldoon, & Sontuoso 2018 for discussion of such a
+family views).
+Other accounts construe normative motivation as intrinsic
+(Kelly & Davis 2018; Nichols forthcoming,
+especially chapter 10). On such a
+view, once a norm is acquired and internalized, it typically becomes
+infused with some kind of non-instrumental motivation. People will be
+motivated to comply with and enforce a such rule for its own sake, and
+experience an impetus to do so that is independent of external
+circumstances or the perceived likelihood that they will receive
+social sanctions even if they flout the norm. Intrinsic motivation
+does not imply unconditional behavioral conformity, of course. For
+example, a person may feel the intrinsic pull of a norm that
+prescribes leaving a 20% tip, but still choose to override it and
+instead act out of material self-interest, stiffing the waiter. This
+second family of accounts raises a broader set of questions about the
+psychological nature of normative motivation, and if and how it might
+be special. Is normative motivation best treated as a primitive, its
+own sui generis psychological category? Or is it better
+construed as being generated by more familiar psychological elements
+like desires, emotions, drives, or other types of conative states,
+posited on independent grounds, that are recruited to work in
+conjunction with normative psychology? (see Kelly 2020 for
+discussion)
+An early and influential account of the psychology of norms given by
+Sripada and Stich (2007) illustrates how these kinds of theoretical
+pieces might be put together. The preliminary model posits two innate
+mechanisms, a norm acquisition mechanism and a norm
+execution mechanism. The functions or tasks of the norm
+acquisition mechanism are
+The tasks of the norm execution mechanism, on the other hand, are
+Sripada and Stich provide an initial pictorial representation:
+Figure: Sripada & Stich 2007: 290,
+figure redrawn.
+ [An
+ extended description of the figure
+ is in the supplement.]
+The acquisition and execution mechanisms themselves are posited as
+innate, but are highly sensitive to the local social setting in which
+an individual develops. As described above, this bifurcation into
+innate psychological architecture, on the one hand, and socially
+learned normative content, on the other, is taken to explain why the
+presence of norms is culturally universal, whereas the behaviors,
+roles, and social arrangements governed by those norms exhibit
+variation. In addition, the model depicts the operation of many
+components of the norm system as “automatic and
+involuntary” (Sripada & Stich 2007: 290), but takes no stand
+on particular processes or more granular characteristics associated
+with modularity or dual processing. Finally, the model is designed to
+accommodate evidence suggesting that when a norm is acquired and
+represented in the database it thereby gains a distinctive kind of
+motivational profile. Specifically, this profile construes normative
+motivation as
+On this account, normative motivation has the third property in the
+sense that in some cases it is capable of overpowering even fairly
+compelling motivations that pull in conflicting directions; extreme
+examples include suicide bombers overriding their instincts for
+self-preservation, or other fanatics who expend significant resources
+to enforce their favored norms on others. The self- and
+other-directedness of normative motivation captures the idea that the
+norm system produces motivation to keep one’s own behavior in
+compliance with a norm as well as motivation to enforce it by
+punishing others who violate it.
+Finally, the model depicts normative motivation as intrinsic in the
+usual sense that people comply with norms as ultimate ends, or for
+their own sake. Sripada and Stich suggest that intrinsic motivation
+helps explain a property of norms they call “independent
+normativity”. This marks the fact that norms can exert reliable
+influence on people’s behavior even when those norms are not
+written down or formally articulated in any formal institution, and
+thus not enforced via any official mechanisms of punishment and reward
+(also see Davidson & Kelly 2020). They also discuss motivation and
+independent normativity in terms of an “internalization
+hypothesis” drawn from sociology and anthropology, and suggest
+that the idea of internalization can be interpreted in terms of their
+model. On this story, a person has internalized a norm when it has
+been acquired by and represented in her norm database. The
+internalization hypothesis can then be construed as a claim that
+internalized norms are intrinsically motivating for the simple reason
+that it is a fundamental psychological feature of normative psychology
+that once a norm has been acquired, delivered to, and represented in a
+person’s norm database, the norm system automatically confers
+this distinctive motivational profile on the norm. Being accompanied
+by self- and other-directed intrinsic motivation is part of the
+functional role a rule comes to occupy once it is represented in the
+database of a person’s norm system—when it is
+“internalized”—in something analogous to the way
+that being accompanied by avoidance motivation and contamination
+sensitivity is part of the functional role a cue comes to occupy once
+it is represented in a person’s disgust system (Kelly 2011; also
+see Gavrilets & Richerson 2017 for a computational model exploring
+the evolution of norm internalization and the kinds of selective
+forces that may have given normative psychology this intriguing
+characteristic).
+The explanatory strategies and theoretical toolkit of the cognitive
+sciences have been used to guide and account for an enormous range of
+empirical work. Cognitive-evolutionary approaches to normative
+psychology are likewise interdisciplinary, and aspire to
+accommodate empirical research done on norms by anthropologists,
+sociologists, behavioral economists, and developmental, comparative,
+and other kinds of psychologists. This section provides a sampling of
+the sorts of findings that have been marshalled to illuminate
+interesting aspects of norm-guided behavior and support different
+claims about normative cognition.
+As noted above, the ethnographic record indicates that all cultures
+are structured by norms—rules that guide behavior and standards
+by which it is evaluated (Brown 1991). Evidence also suggests that
+norms are fairly evolutionarily ancient, as there is little indication
+that the capacity for norms spread from society to society in the
+recent past. Anthropologists also have shown that norms governing,
+e.g., food sharing, marriage practices, kinship networks, communal
+rituals, etc., regulate the practices of extant hunter-gatherers and
+relatively culturally isolated groups, which would be unlikely if
+norms were a recent innovation (see J. Henrich 2015 for a review).
+Much attention, however, has been given to the ways in which the
+prevailing sets of norms vary between cultures (House, Kanngiesser, et
+al. 2020; cf. Hofstede 1980, 2001) and the manner in which packages of
+norms develop and change over time within particular cultures (Gaus
+2016, Schulz et al. 2019; cf. Inglehart 1997; Bednar et al. 2010).
+For example, one line of evidence from comparative ethnography looks
+at cooperative behavior, and reveals variation between groups even in
+the kinds of activities, relationships, and contexts that are governed
+by norms. Some groups “cooperate only in warfare and fishing,
+while others, just downstream, cooperate only in housebuilding and
+communal rituals” (Chudek, Zhao, & Henrich 2013: 426). That
+behavioral variations like these can persist even in the face of the
+same ecological context (i.e., “just downstream”) suggests
+that they are due to differences in norms and other socially
+transmitted elements of culture, rather than responses more directly
+evoked by the physical environment (also see N. Henrich & J.
+Henrich 2007).
+It is a platitude that different individual norms, identified by the
+context in which they apply, their scope and content, and the specific
+behaviors they prescribe and proscribe, are present in different
+cultures. Systematic empirical work has also recently investigated the
+prominence of different normative themes across cultures.
+Familiar examples include the different families of norms that mark
+cultures of honor versus cultures of shame, especially those that that
+govern violence and its aftermath (Nisbett & Cohen 1996; Uskal et
+al. 2019), or the different kinds of norms found in societies that
+prize individualistic values versus those dominated by more
+collectivist ones, especially norms that delimit the scope of personal
+choice (McAuliffe et al. 2003; Nisbett 2004; Ross 2012, Hagger
+Rentzelas, & Chatzisarantis 2014; J. Henrich forthcoming, also see
+J. Henrich, Heine, & Norenzayan 2010 for discussion of
+methodological issues). Other researchers have distinguished still
+other themes, for instance identifying the kinds of values and
+“purity” norms that predominate in a community governed by
+what they call an ethics of divinity, in comparison to those prevalent
+in communities that are governed by an ethics of autonomy or an ethics
+of community (Shweder et al. 1997; Rozin et al. 1999; this line of
+thought has been further developed in the influential Moral
+Foundations Theory, Haidt 2012; Graham et al. 2013). Theorists also
+use these kinds of empirical findings to help assess claims about norm
+psychology, shedding light on those features of individual normative
+cognition that are more rigid and universal versus those that are more
+culturally malleable, and on how such psychological features might
+make various patterns of group-level variation more or less likely
+(O’Neill & Machery 2018).
+A recent and intriguing contribution along these lines is Gelfand and
+colleagues’ investigation of patterns in the tightness
+and looseness of different cultures’ norms. This work
+looks at differences in the general overall “strength” of
+norms within and across cultures: how many norms there are, how
+tolerant members of a culture tend to be of deviations from
+normatively prescribed behavior, and how severely they punish
+violations (Gelfand, Nishii, & Raver 2006; Gelfand, Raver, et al.
+2011; Gelfand, Harrington, & Jackson 2017). Tighter cultures have
+more numerous and exacting standards, with members who are less
+tolerant of slight deviancies and prone to impose more severe
+sanctions. Cultures whose members are more lenient and accepting of
+wiggle room around a norm, and who are less extreme in their
+enforcement, fall more towards the loose end of this spectrum. Gelfand
+and colleagues explore the manifestations of tightness and looseness
+not just at the level of cultures but also across a number of other
+levels of description, from the communal and historical down to the
+behavioral, cognitive, and neural (Gelfand 2018). A central claim of
+this account is that a culture’s orientation towards
+norms—whether the norm systems of its members tend to be
+calibrated more tightly or more loosely—reflects the severity of
+the challenges faced in its past and present: 
+[t]he evolution of norm strength is adaptive to features of
+ecological environments and, in turn, is afforded by a suite of
+adaptive psychological processes. (Gelfand, Harrington, & Jackson
+2017: 802, our italics) 
+A group whose ecology is characterized by things like frequent natural
+disasters, disease, territorial invasion, or resource scarcity is
+likely to possess a more comprehensive and exacting system of norms
+and to take a stricter stance towards its norms, in part because more
+efficiently coordinated social action is required to overcome more
+severe threats. Groups faced with less extreme ecological stressors
+have less dire need for tightly coordinated social action, and so can
+afford to have weaker norms and more tolerance for deviation.
+Behavioral economics began by focusing on how real people make actual
+economic decisions, and on explaining the type of information
+processing that leads them to fall short of ideal economic rationality
+(Kahneman 2011). In the last few decades, many behavioral economists
+have also begun to investigate cross cultural variation in economic
+behavior, and to interpret findings in terms of the different norms
+of, e.g., fairness, equity, and cooperation adopted by their
+participants (e.g., Lesorogol 2007). Much of this evidence comes from
+patterns in how people from different cultures perform in economic
+games (J. Henrich, Boyd, et al. 2001, 2005). Such variation, for
+example, has been found in ultimatum game experiments, in which two
+participants bargain about how to divide a non-trivial sum of
+money. The first participant makes a proposal for how to divide the
+sum between the two, which is offered as an ultimatum to the
+other. The second participant can either accept or reject the
+offer. If she accepts, then both participants receive the respective
+amounts specified by the proposal; if she rejects it, however, neither
+participant receives anything. If they were ideal economic agents,
+then the first participant, acting from self-interest, would offer the
+lowest possible non-zero amount to the second participant, who would
+accept it because something is better than nothing. This result is
+quite rare in humans, however (though it is more common, intriguingly,
+in chimpanzees; see Jensen, Call, & Tomasello 2007). Actual people
+do not just diverge from it, but diverge from it in different
+ways. Several experiments found that cultural factors affect how
+people tend to play the game, and that variability in norms and
+conceptions of fairness can help explain different patterns in the
+offers participants make and are willing to accept (Roth et al. 1991;
+though see Oosterbeek, Sloof & van de Kuilen 2004 for discussion
+of difficulties in interpreting such results). Other experiments use a
+wider range of games to gather evidence of similar patterns of
+cultural variation in economic behavior (see J. Henrich, Boyd, et al.
+2004 for a collection of such work).
+Another family of findings that is puzzling from the point of view of
+classical economic rationality shows that individuals will routinely
+punish others even at a cost to themselves (Fehr & Gachter 2002;
+J. Henrich, McElreath, et al. 2006). Evidence suggests that this
+propensity to punish is influenced by norms and other cultural factors
+as well (Bone, McAuliffe, & Raihani 2016). For example, in public
+goods games participants are given a non-trivial sum of money and must
+decide if and how much to contribute to a common pool over the course of
+several rounds. How much each investment pays off depends on how much
+everyone collectively contributes that round, so each
+participant’s decisions should factor in the behavior of every
+other participant. In some versions, participants can also spend their
+money to punish others, based on knowledge of the contributions they
+have made. Results indicate that some participants are willing to
+incur a cost to themselves to sanction low contributors, but also to
+punish high contributors, a surprising phenomenon called
+anti-social punishment. Participants from different cultures
+exhibit different patterns in their willingness to punish others,
+including in their enthusiasm for anti-social punishment (Herrman,
+Thöni, and Gächter 2008). Another noteworthy aspect of
+punitive behavior revealed by behavioral economic experiments is that
+humans are willing to punish even when they are mere bystanders to the
+incident that they are responding to. In such cases of third-party
+punishment, an individual enforces a norm despite the fact that
+she is neither the offender who commits the violation and
+becomes the target of the punishment, nor the offended who
+was wronged or the victim affected by the transgression (Fehr &
+Fischbacher 2004; though see Bone, Silva, & Raihani 2014).
+More broadly, the general psychological propensity for punishment
+illuminated by this kind of empirical work has been claimed by
+researchers to emerge early in humans (Schmidt & Tomasello 2012;
+McAuliffe, Jordan, & Richerson 2015). Some have argued that it is
+crucial to a host of features of human social life, including the
+group-level stabilization of norms (Boyd & Richerson 1992) and the
+capacity to sustain cooperation on large scales (Price, Cosmides,
+& Tooby 2002; Mathew & Boyd 2011; Mathew, Boyd, & van
+Veelen 2013). Others have used such results to support inferences
+about the character of normative psychology, including the nature of
+normative motivation. For instance, Chudek and Henrich summarize
+several neuroeconomic studies (Fehr & Camerer 2007; Tabibnia,
+Satpute, & Lieberman 2008; and de Quervain et al. 2004) that
+investigate economic behavior using the methods and technology of
+neuroscience (i.e., fMRI) by pointing out that 
+both cooperating and punishing in locally normative ways activates the
+brain’s rewards or reward anticipation circuits in the same
+manner as does obtaining a direct cash payment. (Chudek & Henrich
+2011: 224)
+An impressive range of evidence suggests that humans are natural-born
+norm learners. The developmental trajectory of norm-guided cognition
+in humans appears to exhibit robust similarities across cultures, with
+children beginning to participate in normative behavior around the
+same early age (see House et al. 2013 and Tomasello 2019 for context).
+Between three and five years of age children exhibit knowledge of
+different kinds of normative rules (Turiel 1983; Smetana 1993; Nucci
+2001), and at as early as three years of age they are able to perform
+competently in deontic reasoning tasks (R. Cummins 1996; Beller 2010).
+They also enforce norms, both when they believe the transgressive
+behavior was freely chosen (Josephs et al. 2016) but also when they
+understand that it was unintentional (Samland et al. 2016) at least in
+some circumstances (cf. Chernyak & Sobel 2016; also see Barrett et
+al. 2016 and Curtin et al. forthcoming for evidence and discussion of
+cross cultural variation in people’s sensitivity to the mental
+states of norm violators). Moreover, children are alert to how other
+people respond to transgressions, showing more positive feelings
+towards those who enforce a norm violation than toward those who leave
+violations uncorrected (Vaish et al. 2016).
+Perhaps most striking is the ease and rapidity with which children
+acquire norms. Preschoolers have been found to learn norms quickly
+(Rakoczy, Warneken, & Tomasello 2008), even without explicit
+instruction (Schmidt, Rakoczy, & Tomasello 2011), although
+learning is facilitated when norms are modeled by adults (Rakoczy,
+Haman, et al. 2010). Children’s enthusiasm for rules—their
+“promiscuous normativity” (Schmidt, Butler, et al.
+2016)—even appears to outstrip being sensitive to common
+norm-governed behavior in their social environment. Evidence suggests
+that sometimes a single observation of an action is sufficient for
+children to infer the existence of a norm, and that left to their own
+devices they will spontaneously create their own norms and teach them
+to others (Göckeritz, Schmidt, & Tomasello 2014).
+That said, behaviors that are perceived to be normal in a community are
+particularly salient to individuals’ norm psychology. Children
+are also normatively promiscuous in that they appear prone to false
+positives in the course of acquisition, seeing behavior as norm-guided
+even when it is merely common, and inferring the presence of normative
+rules when there are none. One series of studies found that when
+participants (children and adults from both the United States and
+China) detected or were told that a type of behavior was common among
+a group of people, they came to negatively evaluate group members who
+behaved in a non-conforming way (Roberts et al. 2018; Roberts, Ho,
+& Gelman 2019). Researchers have investigated this feature of norm
+acquisition from different angles, and have labeled it with various
+names, including the “descriptive-to-prescriptive
+tendency” (Roberts, Gelman, & Ho 2017) the “common is
+moral heuristic” (Lindström et al. 2017), and the
+“injunctive inference hypothesis” (Davis, Hennes, &
+Raymond 2018, discussing, e.g., Schultz et al. 2007). Since the
+evidence suggests that human normative cognition invites an easy
+inference from the “is” of a perceived pattern of common
+behavior to the “ought” of a norm (Tworek & Cimpian
+2016), philosophers may be tempted to think of this as a
+“naturalistic fallacy bias”.
+Another line of research suggests that key to understanding the roots
+of human normativity is the fact that human children are
+overimitators. They are not just spontaneous, intuitive, and
+excellent imitators, but they also tend to copy all of the
+elements in the sequence of a model’s behavior, even when they
+recognize some of those elements are superfluous to the task at hand
+(Lyons, Young, & Keil 2007; Kenward, Karlsson, & Persson 2011;
+Keupp, Behne, & Rakoczy 2013; Nielsen, Kapitány, &
+Elkins 2014, cf. Heyes 2018: chapter 6). Children attend to the
+specific manner in which an action is carried out rather than merely
+to the goal it is aimed at, and conform to the full script even if
+they see that the goal can be achieved in some more direct way.
+Moreover, children monitor others to see if they are doing likewise,
+and enforce overimitation on their peers by criticizing those who fail
+to perform the entire sequence of steps (Kenward 2012; Rakoczy &
+Schmidt 2013). Overimitation can lead to the unnecessary expenditure
+of energy on these extraneous behaviors, but the trait may be an
+adaptation nevertheless. According to this argument, the costs of what
+look like individual “mistakes” are ultimately outweighed
+by the communal benefits generated by a population whose individual
+capacities for transmitting norms and other cultural variants are more
+insistent in this way, erring on the side of too much imitation rather
+than too little (J. Henrich 2015: chapter 7). Whatever it was
+initially selected for, researchers have suggested that the
+psychological machinery responsible for overimitation makes important
+contributions to normative cognition. Evidence indicates that this
+machinery generates strong (perhaps intrinsic) social motivation aimed
+at behavioral conformity with others. When working in conjunction with
+a norm system, this source of motivation may also help facilitate
+performance of the key task of keeping an individual’s behavior
+compliant, inducing her to conform not just to behaviors she is
+observing but to those norms she has internalized (Hoehl et al. 2019
+for overview).
+Overimitation is also noteworthy because it may be distinctively
+human. For example, although chimpanzees imitate the way conspecifics
+instrumentally manipulate their environment to achieve a goal, they
+will copy the behavior only selectively, skipping steps which they
+recognize as unnecessary (Whiten et al. 2009, also see Clay &
+Tennie 2018 for similar results with bonobos). Evidence suggests that
+learning in human children is comparatively more attuned to peer
+influence in other ways as well. Once chimpanzees and orangutans have
+figured out how to solve a problem, they are conservative, sticking to
+whatever solution they learn first. Humans, in contrast, will often
+switch to a new solution that is demonstrated by peers, sometimes even
+switching to less effective strategies under peer influence
+(Haun, Rekers, & Tomasello 2014).
+However, other researchers have recently contested the claim that
+overimitation is strictly absent in non-humans (Andrews 2017). This is one front of a much
+larger debate over which features of human psychology are unique to
+our species, and which are shared with others. Recent work relevant to
+norms has focused on whether and to what extent species other than
+humans have the capacities to sustain cumulative culture (Dean et al.
+2014), with plausible cases being made that the basic psychological
+wherewithal is present not just in some great apes but also in
+songbirds (Whiten 2019) as well as whales and dolphins (Whitehead
+& Rendell 2015). Another area of focus has been on aspects of
+moral cognition, where much illuminating work has explored the
+continuities between humans and other animals (de Waal 2006; Andrews
+& Monsó forthcoming). Much of this is relevant to, but does
+not directly address, the question of whether a psychological capacity
+dedicated to norms is distinctively human, or which of its
+component mechanisms might be present in rudimentary form in other
+animals. Some have suggested that the propensity to punish, and
+especially the tendency for third party sanctioning of norm
+violations, is not found in other species (Riedl et al. 2012; Prooijen
+2018, though see Suchak et al. 2016). Others point to humans’
+exceptional ability to cooperate and their resulting ecological
+dominance, suggesting it provides indirect evidence for the uniqueness
+of our capacities for culturally transmitted norms (J. Henrich 2015;
+Boyd 2017). Not all are convinced, arguing that animals like elephants
+(Ross 2019) and chimpanzees (von Rohr et al. 2011) exhibit socially
+sophisticated behaviors best explained by the presence of
+psychological precursors to core components of the human norm system.
+Important preliminary progress has been made on this cluster of
+questions concerning non-human normativity (Vincent, Ring, &
+Andrews 2018; Andrews 2020; Fitzpatrick forthcoming),
+but much conceptual and empirical
+work remains to be done.
+Norms are relevant to areas of research across philosophy, the
+humanities, and the behavioral sciences, and the kinds of
+cognitive-evolutionary accounts of norm psychology described here have
+the potential to inform and enrich many of them. The most immediate
+implications would seem to fall within the domain of moral theory.
+However, the relationship of norms and norm psychology to morality and
+moral psychology is not straightforward, and is itself a subject of
+debate (Machery 2012). The quest to delimit the boundaries of the
+moral domain, and to distinguish the genuinely moral from non-moral
+norms, has a long history, but has yet to produce a view that is
+widely accepted (Stich 2018). For example, some researchers argue that
+there are proximate psychological differences that can be used to
+distinguish a set of moral rules from others (conventional rules,
+etiquette rules, pragmatic rules). According to one prominent account
+rooted in developmental psychology, moral rules are marked by the fact
+that individuals judge them to hold generally rather than only
+locally, and to apply independently of the pronouncement of any
+authority figure, and to govern matters concerning harm, welfare,
+justice, and rights (Turiel 1983; Nucci 2001). Some have drawn
+inspiration from the sentimentalist tradition in moral theory to build
+on this account, explaining the features posited as distinctive of
+moral rules by appeal to their connection to emotions like anger or
+disgust (Nichols 2004; cf. Haidt 2001). Others have contested the
+initial characterization of moral norms, marshalling arguments and
+evidence that it is not psychologically universal, but is rather
+parochial to certain cultures (Kelly et al. 2007; Kelly & Stich
+2007, also see Berniūnas, Dranseika, & Sousa, 2016;
+Berniūnas, Silius, & Dranseika, 2020; cf. Kumar 2015; Heath
+2017).
+Shifting focus from proximate to ultimate considerations seems to add
+little clarity. While some theorists hold that our species possesses
+an evolved psychological system dedicated specifically to morality
+(Joyce 2007; Mameli 2013; Stanford 2018; cf. Kitcher 2011), others
+remain skeptical. They argue instead that the evidence better supports
+the view that humans have an evolved psychological system dedicated to
+norms in general, but there is nothing about the mechanisms that
+underlie it, the adaptive pressures that selected for it, or the norms
+that it can come to contain that would support a distinction between
+moral norms and non-moral norms (Machery & Mallon 2010; Davis
+& Kelly 2018; Stich forthcoming). On this view, rather, the human
+norm system evolved to be able to deal with, and can still acquire and
+internalize, a wide range of norms, including epistemic norms,
+linguistic norms, sartorial norms, religious norms, etiquette norms,
+and norms that might be classified by a contemporary westerner as
+moral. Indeed, the claim has been taken to support a historicist view
+of morality itself, according to which the practice of distinguishing
+some subset of norms and normative judgments as moral, and thus as
+possessing special status or authority, is a culturally parochial and
+relatively recent historical invention (Machery 2018).
+That said, several debates with broadly moral subject matter have
+already begun drawing on empirically inspired accounts of norm
+psychology. For example, philosophical discussions of the moral
+questions raised by implicit social biases have recently assumed the
+shape of venerable and long-standing debates between individualists
+and structuralists (Beeghly & Holroyd 2020, also see Brownstein
+2015 [2019]). A central issue has been whether behaviors are best
+explained and injustices best addressed by focusing attention on
+individual agents and their implicit biases and other psychological
+characteristics, on the one hand, or on features of the institutions
+and social structures that those agents inhabit, on the other
+(Haslanger 2015). This has inspired attempts to develop an
+interactionist account that can combine the virtues of both approaches
+(Madva 2016; Soon 2020).
+Several of these have put norms center stage (Ayala-López
+2018), and drawn on empirical research on norm psychology to show how
+norms serve as a connective tissue that weaves individuals and soft
+social structures together (Davidson & Kelly 2020).
+Cultural variation in norms and persistent disputes over right and
+wrong have been thought to have significant implications for
+metaethics as well. The “argument from disagreement” (Loeb
+1998) holds that if dispute over the permissibility of some activity
+or practice persists even after reasoning errors and non-moral factual
+disagreements have been resolved, such intractable disagreement would
+militate against moral realism (Mackie 1977). Empirically establishing
+the existence of persistent disagreement is difficult (Doris &
+Plakias 2008), but the character of the norm system and its influence
+on judgment may speak to whether or not it is likely. Consider two
+individuals from different cultures, who have internalized divergent
+families of norms (individualistic and collectivist, honor based and
+shame based, divinity and autonomy, tight and loose, etc.) Such
+individuals are likely to disagree about the permissibility of a range
+of activities and practices, such as what counts as a fair division of
+resources, or whether people should get to choose who they marry, or
+what is and is not an appropriate way to respond to an insult. This
+disagreement may very well endure even in the face of agreement about the
+non-moral facts of the matter, and even when neither side of the
+dispute is being partial or making any reasoning errors. Such
+persistent disagreement may be explainable by appeal to differences in
+the individual’s respective norm systems, and to the different
+norms each has internalized from his or her culture (Machery et al.
+2005). Empirical details of the operational principles of normative
+cognition—especially knowing whether and the extent to which it
+is informationally encapsulated, cognitively impenetrable, or
+otherwise recalcitrant and insensitive to other psychological
+processes—can help assess the plausibility of this argument.
+A final set of debates to which the details of norm psychology are
+becoming increasingly relevant are those concerning the nature and
+explanation of moral progress. Recent progress is understood to have
+largely come in the form of expansions of the moral circle, the spread
+of inclusive norms, and the demoralization of invalid ones (Singer 1981; Buchanan
+& Powell 2018; cf. Sauer 2019.) Much attention has focused on
+understanding changes in the distribution of norms that occur as the
+result of reasoning about norms (Campbell & Kumar 2012), but
+important steps towards moral progress may also occur as the result of
+myopic, though not fully blind, processes of cultural evolution (cf.
+Kling 2016; Brownstein & Kelly 2019). A more detailed empirical
+understanding of the relationship of internalized norms to
+rationalization, critical reasoning, and explicit argumentation
+(Summers 2017; Mercier & Sperber 2017), along with a clearer view
+of the other psychological and social factors that influence norms and the
+dynamics of their transmission, will help further illuminate these
+important philosophical debates.

@@ -1,0 +1,1535 @@
+Deontic logic has been regularly influenced by reflection on the logic
+of modal notions, such as necessity (in varying senses of the
+term). In particular, analogies between alethic (truth-implicating)
+modal notions and deontic notions were noticed before the fourteenth
+century in Europe, where we might say that the rudiments of formal
+(though not symbolic) deontic logic experienced its initial European
+stirrings. In Islamic thought, such analogies go back at least as far
+as the tenth century.
+Although interest in what can be arguably called formal aspects of
+deontic logic continued off and on, the trend toward studying logic
+using the symbolic and exact techniques of mathematics began
+primarily in the nineteenth century, and became dominant in the
+twentieth century. Work in twentieth century symbolic modal logic
+provided the explicit impetus for von Wright (1951a, 1951b), the
+central early figure in the emergence of deontic logic as a
+full-fledged branch of symbolic logic in the twentieth
+century. However, we note that prior to von Wright 1951a, there was
+one significant earlier episode in symbolic deontic logic, namely
+Mally 1926. See supplement A:
+ Mally and Symbolic Deontic Logic.[6]
+In the remainder of this section, we first spell out a few
+folk-logical features of alethic modal notions, and then give an
+impressionistic sense of how natural it was for early developments of
+deontic logic to explore deontic analogs to those features.
+Alethic modal logic is the logic of necessary truth and related
+notions. Consider six basic alethic modal notions, expressed as
+sentential operators—constructions that, when applied to a
+sentence, yield a sentence (as does “it is not the case
+that”):
+Although all of the above operators are generally deemed definable in
+terms of any one of the first four, the necessity operator, usually
+symbolized as a box, \(\Box\), is typically taken as primitive and the
+rest defined accordingly. Where “\(\neg\)”,
+“&” , and “\(\vee\)“ denote classical
+negation, conjunction, and disjunction, the definitions are as
+follows:
+It was also routinely assumed that the following threefold partition
+of propositions holds:
+Fig. 1
+The three rectangular cells are intended to be jointly exhaustive and
+mutually exclusive: every proposition is either necessary, contingent
+(possibly true but also possibly false), or impossible, but no
+proposition is more than one of these. The possible propositions are
+those that are either necessary or contingent, the non-necessary
+propositions are those that are either impossible or contingent, and
+the non-contingent ones are those either necessary or impossible.
+Thirdly, dating back at least to the twelfth and thirteenth century
+(Knuuttila 2008), the following modal square of opposition is often
+ noted:[8]
+Fig. 2
+ [An extended description of figure 2.]
+Furthermore it is generally assumed that the following hold:
+If \(\Box p\) then \(p\) (if it is necessary that \(p\), then \(p\) is
+true).
+If \(p\), then \(\Diamond p\) (if \(p\) is true, then it is
+possible).
+These indicate that the idea of necessity here is alethic or
+truth-implicating. Many of the ideas above were noted in medieval
+times. (See, e.g., the entry on
+ medieval theories of modality.)
+We now turn to some of the analogies involved in what is a
+corresponding bit of deontic folk logic, following the exposition in
+McNamara 1996a,b. This is a minor elaboration of elements that can be
+found explicitly in von Wright 1951b and Prior 1955 [1962]. However,
+much of it has roots in medieval Islamic and late medieval European
+thought, where possible analogies between deontic modals and alethic
+modals were being explored and formal deontic schemes were
+ proposed.[9]
+Expressed as sentential operators, the six normative statuses of what
+we will call “the Traditional Scheme” are:
+The first three are the most often cited, the fourth is often not
+labeled, and the fifth has regularly been mislabeled as “it is a
+matter of indifference that”, and so likewise for the
+sixth. Typically, one of the first two is taken as primitive, and the
+others defined in terms of it, but any of the first four can play the
+same defining role. The most prevalent approach is to take \(\OB\) as
+primitive, and define the rest as
+ follows:[11]
+These definitions imply that something is permissible iff (if and only
+if) its negation is not obligatory, impermissible iff its negation is
+obligatory, omissible iff it is not obligatory, optional iff neither
+it nor its negation is obligatory, and non-optional iff it is either
+obligatory or impermissible. Call this “The Traditional
+Definitional Scheme (TDS)”. It, or minor variants, are
+found as far back as Ockham in European thought, and quite explicitly
+in Leibniz in the modern
+ period.[12]
+ If one began with \(\OB\) alone and considered the formulas on the
+right above, one could easily be led to consider them as at least
+candidate defining conditions for those on the left. Although not
+uncontestable, they are natural, and this scheme has been very widely
+employed. Now if the reader looks back at our use of the necessity
+operator in defining the remaining five alethic modal operators, it
+will be clear that these are perfectly analogous to the five deontic
+definitions above. From the formal standpoint, the one is merely a
+syntactic variant of the other: just replace \(\OB\) with \(\Box\),
+\(\PE\) with \(\Diamond\), etc.
+In addition to the TDS, it was traditionally assumed that the
+following, call it “The Traditional Threefold Classification
+(TTC)” holds:
+Fig. 3
+As in the modal case, the thought is that all propositions are divided
+into three jointly exhaustive and mutually exclusive classes: every
+proposition is obligatory, impermissible or neither (that is,
+optional) and no proposition falls into more than one of these three
+categories. Furthermore, the permissible propositions are those that
+are obligatory or optional, the omissible propositions are those that
+are impermissible or optional, and the non-optional propositions are
+those that are either obligatory or impermissible. This classification
+too has roots centuries
+ ago.[13]
+ The reader can easily confirm that this natural scheme is also
+perfectly analogous to the threefold classification we gave above for
+necessary, contingent and impossible propositions.
+Furthermore, as indicated earlier, “The Deontic Square”
+(DS) is also often cited in the historical literature:
+Fig. 4
+ [An extended description of figure 4.]
+The relationships between the logical operators at the corners are to
+be interpreted as in the modal square of opposition. The two squares
+are perfectly analogous. If we weave in nodes for optionality and
+non-optionality, we get a deontic
+ hexagon:[14]
+Fig. 5
+ [An extended description of figure 5.]
+Given these analogies, it is unsurprising that our primitive operator,
+read here as “it is obligatory that”, is often referred to
+as “deontic necessity”. However, there are also
+obvious disanalogies with alethic necessity. Before, we cited two
+principles for alethic necessity whose deontic analogs are clearly
+false:
+Obligations can be violated, and impermissible things do
+ happen.[15]
+ However, as researchers turned to generalizations of alethic modal
+logic, they began to consider wider classes of modal logics, including
+ones where the necessity operator was not truth-implicating.
+This too encouraged seeing deontic logic as falling within modal logic
+so-generalized. In fact, recognizing possibilities like this helped to
+fuel the generalizations of what began with a focus on alethic modal
+logic to normal modal logics (Lemmon & Scott 1977).
+We will revisit the Traditional Scheme in a more precise and unifying
+way in the next section. There is a sense in which it is an earlier
+informal and widely endorsed fragment of the most well-known deontic
+logic, a logic that makes the connection to alethic modal logic even
+tighter. We now turn to that logic.
+Standard Deontic Logic (SDL) is the most cited and studied
+system of deontic logic, and one of the first deontic logics
+axiomatically specified. SDL includes classical propositional logic,
+and is essentially a distinguished member of the most studied class of
+propositional modal logics, “normal modal logics”. SDL is
+a “monadic” deontic logic, since its primitive deontic
+operator is a one-place operator (like \(\neg\), and unlike &): it
+applies to a single sentence to yield a compound
+ sentence.[16]
+ This operator, \(\OB\), is taken as primitive within SDL; as
+explained in
+ Section 1.2,
+ other operators such as \(\PE\) and \(\IM\) can be defined from it
+following the Traditional Definitional Scheme.
+Assume again that we have a language of classical propositional logic
+(PC) with an infinite set of propositional variables, the truth
+functional operators \(\neg\) and \(\rightarrow\) (and perhaps any of
+&, \(\vee\) and \(\leftrightarrow\) as well), and the operator,
+\(\OB\). SDL is then often axiomatized as
+ follows:[17]
+TAUT combined with modus ponens (MP) gives us the full inferential
+power of PC. \(\OB\)-K, which is the K-axiom common to all normal
+modal logics, tells us that if a material conditional is obligatory,
+and its antecedent is too, then so is its
+ consequent.[18]
+ NC tells us that \(p\) is obligatory only if its negation
+isn’t. The rule \(\OB\)-NEC tells us that if anything is a
+theorem, then the claim that that thing is obligatory is also a
+theorem. Note that this guarantees that something is always obligatory
+(even if only logical
+ truths).[19]
+Each of the distinctively deontic principles, \(\OB\)-K, NC, and
+\(\OB\)-NEC are contestable, and we will consider criticisms of them
+in
+ Section 6.
+ However, to avoid immediate confusion for those new to deontic logic,
+it is perhaps worth noting that \(\OB\)-NEC is generally deemed a
+convenience that, among other things, assures that SDL is in fact one
+of the well-studied normal modal
+ logics.[20]
+ Few have spilled blood to defend its cogency substantively, and often
+these practical compromises are wise, especially in early stages of
+research.
+SDL can be seen as a normalized version of von Wright’s original
+proposal in von Wright 1951a, though there are some significant
+differences in terms of the formal language, validities, and its
+interpretation. A quick comparison of both systems can be found in the
+supplement B on
+ von Wright’s 1951a System and SDL.
+Below we list some theorems and two important derived rules of
+ SDL.[21]
+We will be discussing virtually all of these subsequently. For now,
+let’s indicate a few derivations. We show that \(\OB\)-RM is a
+derived rule of SDL, and note three
+ corollaries.[22]
+An alternative formulation of SDL can be found in supplement C on
+ Alternative Axiomatization of SDL.
+SDL can be strengthened by adding additional axioms; in particular, we
+might consider adding axioms with nested deontic operators. For
+example, suppose we added the following formula as an axiom to
+SDL:
+Call the resulting system “SDL+” for easy reference in
+this section. This says (roughly) that it is required that obligations
+be fulfilled. This is not a theorem of SDL (as we will see in
+ Section 2.3),
+ so SDL+ is a genuine strengthening of SDL. Furthermore, it makes a
+logically contingent proposition (i.e., that \(\OB p
+\rightarrow p)\) obligatory as a matter of deontic logic. SDL
+does not have this feature. With this addition to SDL, it is easy to
+prove \(\OB \OB p \rightarrow \OB p\), a formula involving an iterated
+occurrence of our main
+ operator.[23]
+ This formula asserts that if it is obligatory that \(p\) be
+obligatory, then \(p\) is obligatory. (Cf. “the only
+things that are required to be obligatory are those that actually
+ are”).[24]
+ It should be noted that these are often given an impersonal ought
+reading, so that \(\OB\)-U would be read as “It ought to be the
+case that if it ought to be the case that \(p\) then it
+ is)”.[25]
+In identifying the Traditional Definitional Scheme (TDS) in
+ Section 1.2,
+ we noted that it was widely recognized that we could have taken
+another notion than obligation from our first four primary
+normative statuses and defined the rest in terms of that one. So it is
+expected that we should be able to generate the corresponding
+equivalences derivatively from the scheme we did settle on, where
+\(\OB\) is taken as primitive. For example, it is obviously desirable
+to have \(\OB p \leftrightarrow \neg \PE \neg p\) as part of the
+Traditional Scheme, as this expresses the equivalence between what
+would have been definiens and definiendum had “\(\PE\)”
+been taken as primitive. However, this equivalence is not thus far
+derivable. For \(\OB p \leftrightarrow \neg \PE \neg p\) is
+definitionally equivalent to \(\OB p \leftrightarrow \neg \neg \OB
+\neg \neg p\), that is, \(\OB p \leftrightarrow \OB \neg \neg p\), but
+the latter formula is not a tautology, so we cannot in turn derive
+\(\OB p \leftrightarrow \neg \PE \neg p\). So more is presupposed in
+the Traditional Scheme than what has been noted above. A natural
+thought is a rule of inference needs to be added, one allowing for the
+replacement of provably equivalent formulas in the context of
+“\(\OB\)”, namely \(\OB\)-RE in Corollary 2 above
+Let’s take this to be tacitly part of the Traditional
+Scheme.
+Suppose now that we have the same language as that of SDL, along with
+the rule RE governing \(\OB\). We saw in
+ Section 1.2
+ that in addition to TDS, the Traditional Threefold Classification
+(TTC) and/or the Deontic Square (DS) of Opposition were often
+explicitly endorsed in pre-symbolic investigations of deontic logic.
+Symbolically formulated, these are:
+Given TDS and RE, it turns out that DS and TTC are each
+tautologically equivalent to the principle that obligations
+cannot conflict (and thus to one another):
+For in primitive notation, DS becomes
+and although the first two conjuncts are tautologies, the remaining
+four are each tautologically equivalent to NC above. Similarly, TTC
+becomes
+and although the exhaustiveness clause is tautological, as are the
+last two conjuncts of the exclusiveness clause, the first conjunct of
+that clause is just NC
+ again.[26]
+So the Traditional Scheme rests squarely on the soundness of NC, along
+with \(\OB\)-RE and the TDS. In fact, the Traditional Scheme can be
+seen as a widely endorsed, informal counterpart of a deontic logic
+composed of just PC, \(\OB\)-RE and NC. Since that logic is a (proper)
+fragment of SDL, it follows that the Traditional Scheme (symbolized)
+is entailed by
+ SDL.[27]
+The reader familiar with elementary textbook logic will have perhaps
+noticed that the deontic square and the modal square both have even
+better-known analogs for the quantifiers as interpreted in classical
+predicate logic:
+Fig. 6
+ [An extended description of figure 6.]
+Though less widely noted in textbooks, there is also a threefold
+partition for classical quantifiers regarding any condition,
+\(p\):
+Fig. 7
+ [An extended description of figure 7.]
+These quantificational analogies reflect possible inspiration behind
+what is most often called “possible worlds semantics” for
+such logics, to which we now
+ turn.[28]
+ Once the analogies are noticed, spelling out this sort of semantics
+seems all but
+ inevitable.[29]
+We choose a standard “Kripke-style” possible world
+semantics for SDL (Kripke 1959,
+ 1963).[30]
+ We assume that we have a set of possible worlds, \(W\), and a
+relation, \(A\), relating worlds to worlds, with the intention that
+\(Aij\) iff \(j\) is a world where everything that holds at \(j\) is
+acceptable from the standpoint of \(i\), so that everything obligatory
+at \(i\) holds in \(j\). For brevity, we will call all worlds so
+related to \(i\), “\(i\)-acceptable” worlds and denote
+them by
+ \(A^i\).[31]
+ We then add that the acceptability relation is “serial”:
+for every world, \(i\), there is at least one \(i\)-acceptable world.
+Finally, propositions are either true or false at a world, never both,
+and when a proposition, \(p\), is true at a world, we will often
+indicate this by referring to that world as a
+“\(p\)-world”. The truth-functional operators have their
+usual behavior at each world.
+The fundamental idea here is that the normative status of a
+proposition from the standpoint of a world \(i\) can be assessed by
+looking at how that proposition fairs at the \(i\)-acceptable worlds.
+For any given world, \(i\), we can easily picture the \(i\)-accessible
+worlds as all corralled together in logical space, where seriality is
+reflected by a small dot representing the presence of at least one
+\(i\)-acceptable world. The intended truth-conditions, relative to
+\(i\), for our five deontic operators can now be pictured as
+follows:
+Fig. 8
+ [An extended description of figure 8.]
+Thus, \(p\) is obligatory iff it holds in all the
+\(i\)-acceptable worlds, permissible iff it holds in some
+such world, impermissible iff it holds in no such world,
+omissible iff its negation holds in some such world,
+optional iff \(p\) holds in some such world, and so does
+\(\neg p\), and non-optional when \(p\) either holds at
+all such worlds or at none. If a formula is true at every world
+in any such model of serially-related worlds, then the formula is
+ valid.[32]
+To illustrate the workings of this framework, consider NC, \(\OB p
+\rightarrow \neg \OB \neg p\). This is valid in this framework because
+of seriality. For suppose that \(\OB p\) holds at any world \(i\) in
+any model. Then each \(i\)-accessible world is one where \(p\) holds,
+and by the seriality of accessibility, there must be at least one such
+world. Call it \(j\). Now we can see that \(\neg \OB \neg p\) must
+hold at \(i\) as well, for otherwise, \(\OB \neg p\) would hold at
+\(i\), in which case, \(\neg p\) would have to hold at all the
+\(i\)-accessible worlds, including \(j\). But then p as well as \(\neg
+p\) would hold at \(j\) itself, which is impossible (by the semantics
+for “\(\neg\)”). The other axioms and rules of SDL can be
+similarly shown to be valid, as can all the principles listed above as
+derivable in SDL.
+In contrast, \(\OB\)-U, the axiom \(\OB (\OB p \rightarrow p)\) that
+we added to SDL to get SDL+, is not valid in the class of serial
+models. In order to validate \(\OB\)-U, we need the further
+requirement of “secondary seriality”: that any
+\(i\)-acceptable world, \(j\), must be in turn acceptable to
+itself. We can illustrate such an \(i\) and \(j\) as follows:
+Fig. 9
+Here we imagine that the arrow connectors indicate relative
+acceptability, thus here, \(j\) (and only \(j)\) is acceptable to
+\(i\), and \(j\) (and only \(j)\) is acceptable to \(j\). If all
+worlds that are acceptable to any given world have this property of
+self-acceptability, then our axiom is valid. For assume that this
+property holds throughout our models, and for reductio, suppose that
+for some arbitrary world \(i, \OB (\OB p \rightarrow p)\) is false at
+\(i\). Then not all \(i\)-acceptable worlds are worlds where \(\OB p
+\rightarrow p\) is true. So, there must be an \(i\)-acceptable world,
+say \(j\), where \(\OB p\) is true, but \(p\) is false. Since \(\OB
+p\) is true at \(j\), then \(p\) must be true at all \(j\)-acceptable
+worlds. But by stipulation, \(j\) is acceptable to itself, so \(p\)
+must be true at \(j\), but this contradicts our assumption that \(p\)
+was false at \(j\). Thus \(\OB (\OB p \rightarrow p)\) must be true at
+all worlds, after all. Two counter-models showing that \(\OB\)-U is
+not derivable in SDL, and that SDL \(+ \OB \OB p \rightarrow \OB p\)
+does not imply \(\OB\)-U can be found in supplement D:
+ Two Counter-Models Regarding Additions to SDL.
+We should also note that one alternative semantic picture for SDL is
+where we have a set of world-relative ordering relations, one for each
+world \(i\) in W, where \(j \ge_i k\) iff \(j\) is as good as \(k\)
+(and perhaps better) relative to \(i\). We might then assume that from
+the standpoint of any world \(i\), a) each world is as good as itself,
+b) if one is as good as a second, and the second is as good as a
+third, then the first is as good as the third, c) and for any two
+worlds, either the first is as good as the second or vice versa (i.e.,
+respectively, each such \(\ge_i\) is reflexive, transitive, and
+connected in W). As a matter of fact, this approach also determines
+SDL. (See Goble 2003 for one of the few proofs of this claim.) If we
+then add “The Limit Assumption”, that for each world
+\(i\), there is always at least one world as good as all worlds (i.e.,
+one \(i\)-best world) we can easily generate our earlier semantics for
+SDL derivatively. We need only add the natural analogue here to our
+prior truth-conditions for \(\OB\): \(\OB p\) is true at a world \(i\)
+iff \(p\) is true at all the \(i\)-best worlds:
+Fig. 10
+ [An extended description of figure 10.]
+Essentially, the ordering relation coupled with the limit assumption
+just gives us a way to generate the set of \(i\)-acceptable
+worlds instead of taking them as primitive in the semantics: \(j\) is
+\(i\)-acceptable iff \(j\) is \(i\)-best. Once generated, we look only
+at what is going on in the \(i\)-acceptable (as \(i\)-best) worlds to
+interpret the truth-conditions for the deontic operators, just as with
+our simpler Kripke-Style semantics. The analogue to the seriality of
+our earlier \(i\)-acceptability relation is also assured by the Limit
+Assumption, since it entails that for each world \(i\), there is
+always some \(i\)-best (so \(i\)-acceptable) world. Although this
+ordering semantics approach appears to be a bit of overkill here, as
+we shall see in
+ Section 4
+ and
+ Section 5,
+ it became quite important later on in the endeavor to develop
+expressively richer deontic logics. For now, we turn to the
+second-most well-known approach to monadic deontic logic, one in which
+SDL emerges derivatively.
+The Andersonian-Kangerian reduction is dually-named in
+acknowledgment of Kanger’s and Anderson’s independent
+formulation of it around the same
+ time.[33]
+ As Hilpinen 2001a points out, the approach is adumbrated much earlier
+in Leibniz. We follow Kanger’s development here, noting
+Anderson’s toward the end.
+Assume that we have a language of classical modal propositional logic,
+with a distinguished (deontic) propositional constant:
+“\(d\)” for “all (relevant) normative demands are
+met”.
+Now consider the following axiom system, “Kd”:
+Kd is just the normal modal logic K with \(\Diamond d\)
+ added.[34]
+ \(\Diamond d\) is interpreted as telling us that it is possible that
+all normative demands are met. In import when added to system K, it is
+similar to (though stronger than) the “No Conflicts” axiom
+of SDL. All of the Traditional Scheme’s deontic
+operators are easily defined derivatively once we provide “the
+reductive clause” for \(\OB\):
+So in Kd, \(p\) is obligatory if \(p\) is necessitated
+by all normative demands being met, permissible if \(p\) is
+compatible with all normative demands being met,
+impermissible if \(p\) is incompatible with all normative
+demands, etc. Since none of the operators of the Traditional Scheme
+are taken as primitive, and the basic logic is a modal logic with
+necessity and possibility as the primitive modal operators, this is
+referred to as “a reduction” (of deontic logic to modal
+logic)
+Proofs of SDL-ish formulas are then just K-proofs of the corresponding
+modal formulae involving
+ “\(d\)”.[35]
+ It is well-known that all theorems of SDL are derivable in Kd
+and conversely, that if some formula in the language of SDL is not a
+theorem of SDL, then its translation following the Kangerian reduction
+is also not a theorem of
+ Kd.[36]
+ In addition to containing all theorems of SDL, we note a few theorems
+that are specific to Kd because of the non-overlapping
+syntactic ingredients, \(d, \Box\), and \(\Diamond\):
+These are easily
+ derived.[38]
+Although our underlying modal system is just K, adding further
+non-deontic axiom schema (i.e., those that cannot be abbreviated via
+SDL formulas, nor involving \(d\) specifically) can nonetheless have a
+deontic impact. To illustrate, suppose we added a fourth axiom, one to
+the effect that necessity is truth-implicating, standardly called
+axiom “T”:
+Call the system that results from adding this formula to our current
+system “KTd”. The addition of T makes derivable our
+previously mentioned axiom \(\OB\)-U of SDL+, which we have shown is
+not derivable in SDL
+ itself:[39]
+So, reflecting on the fact that SDL+ is derivable in KTd, we
+see that the Andersonian-Kangerian reduction must either rely on a
+non-truth-implicating conception of necessity in order for its pure
+deontic fragment to match SDL, or SDL itself is not susceptible to the
+Andersonian-Kangerian reduction. Put another way, the most plausible
+version of the Andersonian-Kangerian reduction can’t help but
+view “Standard Deontic Logic” as too weak.
+Anderson’s approach is practically equivalent to Kanger’s.
+First, consider the fact that we can easily define another constant in
+Kd, as follows:
+where this new constant would now be derivatively read as follows:
+“some (relevant) normative demand has been violated”.
+Clearly our current axiom, \(\Diamond d\), could be replaced with
+\(\neg \Box s\), asserting that it is not necessary that some
+normative demand is violated. We could then define \(\OB\) as:
+Essentially, Anderson took this equivalent course with
+“\(s\)” being his primitive (initially standing for
+something like “the sanction has been invoked” or
+“there is a liability to sanction”), and \(\neg \Box s\),
+as the axiom added to some modal system (e.g., at least as strong as
+modal system KT).
+We should also note that Anderson was famous as a founding figure in
+ relevance logic,
+ and along with using strict implication, \(\Box(p \rightarrow q)\),
+he also explored the use of a relevant (and thus neither material nor
+strict) form of implication, \(\Rightarrow\), to express the reduction
+as: \(\OB p \eqdf \neg p \Rightarrow
+ s\).[40]
+ (A bit more on this can be found within the entry on
+ Mally’s deontic logic.
+ See further references there.) This alternative reflects the fact
+that there is an issue in both Kanger’s and Anderson’s
+strict necessitation (or entailment) approaches of just what notion of
+“necessity” is involved in claiming that meetings all
+normative demands (or avoiding the sanction) in some sense
+necessitates \(p\).
+As a substantive matter, how should we think of these
+“reductions”? For example, should we view them as giving
+us an analysis of what it is for something to be obligatory?
+Taking Kanger's approach first, it would seem that \(d\) must be read
+as a distinctive deontic ingredient, if we are to get the derivative
+deontic reading for the “reduced” deontic operators. Also,
+as our reading suggests, it is not clear that \(d\) does not, at least
+by intention, express a complex quantificational notion involving the
+very concept of obligation (demand) as a proper part, namely that all
+obligations have been fulfilled, so that the “reduction”,
+presented as an analysis, would appear to be circular. If we
+read \(d\) instead as “ideal circumstances obtain”, the
+claim of a substantive reduction or analysis appears more promising,
+until we ask: Are the circumstances ideal only with respect to meeting
+normative demands or obligations, or are they ideal in other
+(for example supererogatory) ways that go beyond merely satisfying
+normative demands? Anderson’s “liability to
+sanction” approach may appear more promising, since the idea
+that something is obligatory if (and only if) and because
+non-compliance necessitates (in some sense) liability to (or perhaps
+desert of) punishment does not appear to be circular (unless the
+notion of “liability” itself ultimately involves the idea
+of permissibility of punishment), but is it plausible? Alternatively,
+perhaps a norm that is merely an ideal cannot be
+violated, in which case perhaps norms that have been
+violated can be distinguished (as a subset) from norms that
+have not been complied with, and then the notion of an
+obligation as something that must obtain unless some norm is violated
+will not be obviously circular. There is a substantive philosophical
+question lingering here that the language of a “reduction”
+brings naturally to the surface, but is sloughed over. The formal
+utility of the reduction does not hinge on this, but its philosophical
+significance does.
+The semantic elements here are in large part analogous to those for
+SDL. We have a binary relation again, but this time instead of a
+relation interpreted as relating worlds acceptable to a given
+world, here we will have a relation, \(R\), relating worlds
+“accessible” to a given world (e.g., possible relative to
+the given world). The only novelties are two: (1) we add a simple
+semantic element to match our syntactic constant “\(d\)”,
+and (2) we add a slightly more complex analog to seriality, one that
+links the accessibility relation to the semantic element added in
+order to model \(d\).
+Once again, assume that we have a set of possible worlds, \(W\), and
+we assume that we have a relation, \(R\), relating worlds to worlds,
+with the intention that \(Rij\) iff \(j\) is accessible to \(i\)
+(e.g., \(j\) is a world where everything true in \(j\) is possible
+relative to
+ \(i\).[41]
+ For brevity, we will call all worlds possible relative to \(i\),
+“\(i\)-accessible worlds” and denote them by
+\(R^i\). For the moment, no restrictions are placed on the relation
+\(R\). We can illustrate the truth-conditions for necessity, and
+possibility with obvious abbreviations, as follows:
+Fig. 11
+ [An extended description of figure 11.]
+Here we imagine that for any given world, \(i\), we have corralled all
+the \(i\)-accessible worlds together. We then simply look at the
+quantificational status of \(p\) (and/or \(\neg p)\) in these
+\(i\)-accessible worlds to determine \(p\)’s modal status back
+at \(i\). For example\(,\) at a given world \(i, p\) is
+necessary if \(p\) holds throughout \(R^i\) and
+possible if \(p\) holds somewhere in \(R^i\).
+The only deontic element in the syntax of Kd is our
+distinguished constant, \(d\), intended to express the fact that all
+normative demands are met\(.\) To model that feature, we simply assume
+that the worlds are divided into those where all normative demands are
+met and those that are not. We denote the former subset of worlds by
+“DEM” in a model. Then \(d\) is true at a world \(j\) iff
+\(j\) belongs to DEM. Here is a picture where \(d\) is true at an
+arbitrary world, \(j\):
+Fig. 12
+ [An extended description of figure 12.]
+Since \(j\) is contained in DEM, that means all normative demands are
+met at
+ \(j\).[42]
+Corresponding to simple seriality for SDL (that there is always an
+\(i\)-acceptable world), we assume what I will call “strong
+seriality” for Kd: for every world \(i\), there is an
+\(i\)-accessible world that is among those where all normative demands
+are met. In other words, for every world \(i\), the intersection of
+the \(i\)-accessible worlds with DEM is non-empty. Given the truth
+conditions for \(d\), strong seriality validates \(\Diamond d\),
+ensuring that for any world \(i\), there is always some
+\(i\)-accessible world where \(d\) is true:
+Fig. 13
+ [An extended description of figure 13.]
+Given these semantic elements, if you apply them carefully to the
+definitions of the deontic operators of Kd, you will see that
+in each case, the normative status of \(p\) at \(i\) depends on
+\(p\)’s relationship to this intersection of the i-accessible
+worlds and the worlds where all normative demands are met:
+Fig. 14
+ [An extended description of figure 14.]
+If that intersection is permeated by \(p\)-worlds, \(p\) is
+obligatory; if it contains some \(p\)-world, \(p\) is permissible,
+ etc.[43]
+If we wish to validate T, \(\Box p \rightarrow p\) (and derivatively,
+\(\OB\)-U, \((\OB (\OB p \rightarrow p))\), we need only stipulate
+that the accessibility relation, R, is reflexive: that each world
+\(i\) is \(i\)-accessible (possible relative to itself):
+Fig. 15
+For then \(\Box p \rightarrow p\) must be true at any world \(i\), for
+if \(\Box p\) is true at \(i\), then \(p\) is true at each
+\(i\)-accessible world, which includes \(i\), since \(i\) is
+self-accessible. This will indirectly yield the result that \(\OB (\OB
+p \rightarrow p)\) is true in all such models as well.
+Having introduced deontic logic’s classical points of departure,
+we now turn to a number of problems, paradoxes, and related logics
+that are studied in the field today. Here, our aim is mainly to map
+out the various topics that are central stage in deontic logic; for
+reasons of space, we cannot present theories or logics in much
+detail.
+Consider the following four premises (Chisholm 1963a) and their most
+straightforward symbolization in SDL:
+(1)–(4) certainly appear to describe a possible situation. They
+appear to constitute both a mutually consistent and
+logically independent set of sentences. Note that (1) is a
+primary obligation, saying what Jones ought to do
+unconditionally. (2) is a compatible-with-duty obligation,
+telling us what else Jones ought to do on the condition that Jones
+fulfills his primary obligation. In contrast, (3) is a
+contrary-to-duty obligation or “imperative” (a
+“CTD”) expressing what Jones ought to do
+conditional on his violating his primary obligation. (4) is a factual
+claim, which conjoined with (1), implies that Jones violates
+his primary obligation. Thus this puzzle also places not only deontic
+conditional constructions, but the violability of
+obligations, at center stage. It raises the challenging question: what
+constitutes proper reasoning about what to do in the face of
+violations of obligations?
+One obvious answer would be: just apply SDL to
+(1′)–(4′) above. The following table displays the
+difficulties in trying in to interpret the reasoning in SDL:
+From (1′), (2′), \(\OB t.\)
+
+From (3′), (4′), \(\OB \neg t.\)
+
+By NC, consistency is lost.
+(1′) implies (3″ ).
+Independence is lost.
+(4′) implies (2″).
+Independence is lost.
+The first path, as Chisholm notes, leads to contradiction via
+\(\OB\)-K, MP and NC. The second and third paths take a different
+route, interpreting the conditionals in (2) and (3) uniformly.
+However, for the second path, the symbolization of (3) follows from
+that of (1), and for the third path, the symbolization of (2) follows
+from that of (4). Each SDL symbolization of the original violates one
+of our desiderata: either mutual consistency or joint
+independence.
+If von Wright launched deontic logic as an academic area of research,
+Chisholm’s paradox, and similar cases, were the booster rocket
+that provided the escape velocity deontic logic needed from
+ subsumption
+ under normal modal logics, thus solidifying deontic logic’s
+status as a distinct branch of
+ logic.[44]
+ It is now virtually universally acknowledged that Chisholm was right:
+the sort of conditional deontic claim expressed in (3) can’t be
+faithfully represented in SDL, nor more generally by a composite of
+some sort of unary deontic operator and material conditional.
+The views diverge however where it comes to exactly what should be
+added to SDL in order to represent conditional obligations. This
+divergence in turn relates to a distinction between two types of
+detachment in deontic
+ reasoning.[45]
+Let “\(\OB (q\mid p)\)” be shorthand for a conditional
+obligation or ought statement like that in the natural language
+sentence, (3), above. So we will read \(\OB (q\mid p)\) as “if
+\(p\), then it ought to be (or it is obligatory) that \(q\)”.
+Suppose we also assume that monadic obligations are disguised dyadic
+obligations, per the following analysis:
+This analysis has been widely
+ employed.[46]
+With this in mind, we distinguish between two relevant types
+of“detachment principles” (Greenspan 1975) that we might
+ascribe to these iffy-‘ought’s:
+Factual detachment tells us that from \(p\), and a deontic
+conditional to the effect that if \(p\) then it ought to be that
+\(q\), we can conclude that it ought to be that \(q\). Deontic
+Detachment in contrast tells us that from it ought to be that
+\(p\) and if \(p\), then it ought to be that \(q\), we can conclude
+that it ought to be that \(q\). If we interpret a deontic conditional
+as a material conditional with an obligatory consequent (as in
+(3′) above), FD, but not DD is supported. Conversely, if we
+interpret deontic conditionals as obligatory material conditionals (as
+in (2′) above), DD, but not FD is supported. Although we have
+shown earlier that neither of these interpretations is acceptable, the
+contrast reveals a general problem. Unrestricted endorsement of both
+types of detachment is not tenable, since it leads implausibly to the
+conclusion that Jones is both obligated to tell (the neighbor he is
+coming) and obligated to not tell. Thus researchers tended to part
+company over which principle of the two to endorse (Loewer and Belzer
+1983).
+The Factual Detachment camp typically endorses the view that the
+conditional in (3) in the Chisholm Quartet needs to be interpreted as
+a non-material conditional, but otherwise things are as they seem in
+(3): we have a conditional obligation that is a simple composite of a
+non-material conditional and a pure unary deontic operator in the
+consequent:
+\(\OB (q\mid p) \eqdf p \Rightarrow \OB q\), for some independent
+ conditional.[48]
+Typically, the conditional \(\Rightarrow\) is of the sort made famous
+by Stalnaker and Lewis (Stalnaker 1968, Lewis
+ 1973).[49]
+ It is then generally maintained that deontic detachment is flawed,
+since the conditional obligations like those in (2) tell us only what
+to do in ideal circumstances, but they do not necessarily provide
+ “cues”[50]
+ for action in the actual world, where things are often
+typically quite sub-ideal, as (4) combined with (1) indicate. Thus
+from the fact that Jones ought to go and he ought to tell if he goes,
+it doesn’t follow that what he ought to actually do is
+tell—that would be so only if it was also a fact that he goes to
+their aid. At best, we can only say that he ought ideally to
+go.
+This suggestion seems a bit more difficult when we change the
+conditional to something like “If Doe does kill his mother, then
+it is obligatory that Doe kills her gently” (Forrester 1984).
+The idea that my obligation to not kill my mother gently (say for an
+inheritance) merely expresses an “ideal” obligation, but
+not an actual obligation, given that I will kill her, seems hard to
+swallow. So this case makes matters a bit harder for those favoring a
+factual detachment approach for generating actual obligations.
+Similarly, it would seem that if it is impermissible for me to kill my
+mother, then it is impermissible for me to do so gently, or to do so
+while
+ dancing.[51]
+ So carte blanche factual detachment seems to allow the mere
+fact that I will take an action in the future (killing my mother) that
+is horribly wrong and completely avoidable now to render obligatory
+another horrible (but slightly less horrible) action in the future
+(killing my mother gently). The latter action must be completely
+avoidable if the former is, and the latter action is one that I would
+seem to be equally obligated to not perform intuitively.
+The deontic detachment camp represented conditional obligations via
+dyadic non-composite obligation operators modeled syntactically on
+conditional probability, following Danielsson 1968; B. Hansson 1969;
+von Wright 1956, 1964; Lewis 1973, 1974; and Feldman
+ 1986.[52]
+ On this view, deontic conditionals are viewed as idioms: the meaning
+of the compound is not a straightforward function of the meaning of
+the parts. The underlying intuition regarding the Chisholm example is
+that even if it might be true that we will violate some obligation,
+that doesn’t get us off the hook from obligations that derive
+from the original one that we will violate. If I must go help and I
+must inform my neighbors that I’m coming, if I do go help, then
+I must inform them, and the fact that I will in fact violate the
+primary obligation does not block the derivative obligation any more
+than it blocks the primary obligation.
+One early semantic picture for the latter camp was that a sentence of
+the form \(\OB (q\mid p)\) is true at a world \(i\) iff the \(i\)-best
+\(p\)-worlds are all \(q\)-worlds. \(\OB q\) is then true iff \(\OB
+(q\mid \top),\) and so iff all the unqualifiedly \(i\)-best worlds are
+\(q\)-worlds (B. Hansson 1969). Note that this weds preference-based
+semantic orderings with dyadic conditional
+ obligations.[53]
+ This reflects a widespread trend. Factual detachment does not work in
+this case, since even if our world is an I-don’t-go-help-world,
+and the best among the I-don’t-go-help-worlds are
+I-don’t-call-worlds, it does not follow that the
+unqualifiedly best worlds are I-don’t-call-worlds. In
+this example, these authors would maintain that the unqualifiedly best
+worlds are both I-go worlds and I-call worlds, and the fact that I
+won’t do what I’m supposed to do won’t change
+that.
+But one is compelled to ask those in the Deontic Detachment camp: what
+then is the point of such apparent conditionals if we can’t ever
+detach them from their apparent antecedents, and how are these
+conditionals related to regular ones? This seems to be the central
+challenge for this camp. Thus they often endorse a restricted form of
+factual detachment, of which the following is a representative
+instance:
+Here \(\Box p\) might mean various things, for example that \(p\) is
+physically unalterable or necessary as of this moment in
+ history.[54]
+ Only if \(p\) is settled true in some sense, can we conclude from
+\(\OB (q\mid p)\) that \(\OB q\). This certainly helps, but it still
+leaves us with a bit of a puzzle about why this apparent composite of
+a conditional and a deontic operator is actually some sort of
+primitive
+ idiom.[55]
+While conditional obligations and the puzzles they generate call for
+extensions of SDL, other problems and distinctions in normative
+discourse motivate further, mostly orthogonal enrichments. In this
+section we point to a few of these.
+Even among monadic deontic notions, and even if we stay within the
+realm of all-things-considered, unconflicted obligations (cf.
+ Section 6.3),
+ SDL displays various expressive weaknesses compared to our everyday
+and more theorized ethical argumentation.
+Let us start with the distinction between indifference and
+ optionality.[56]
+ In general, optionality of a given state of affairs or
+action need not imply that it is morally indifferent. For instance, it
+may be optional that you attend a faculty meeting, but not a matter of
+indifference that you do so. However, when deontic logicians and
+ethicists gave an operator label for the condition \((\neg \OB p \amp
+\neg \OB \neg p)\), it was almost invariably “It is indifferent
+that \(p\)”, “\(\IN p\)”. It would seem to follow
+from the theorem
+that
+that is, everything that is neither obligatory nor prohibited is a
+matter of indifference. But many actions are neither obligatory nor
+prohibited, yet they are hardly matters of indifference. A
+particularly intriguing class of such actions are those that are
+deemed supererogatory (e.g., volunteering for a costly or risky good
+endeavor where others are equally qualified and no one person is
+obligated). SDL can represent optionality, but not indifference,
+despite the fact that the latter concept has been a purported target
+for representation since nearly its beginning.
+The distinction between optionality and indifference is moreover
+strongly linked to that between “must” (and its dual
+“can”) and 
+ “ought”.[57]
+ Consider the following utterance:
+This seems to be a perfectly sensible piece of advice. (1) appears to
+imply that it is optional that you attend—that you can
+attend and that you can fail to attend. The latter two uses
+of “can” express permissibility. Yet “ought”
+is routinely the reading given for deontic necessity in deontic logic
+(and in ethical theory), and then “permissibility” is
+routinely presented as its dual. However, if we symbolize (1) above
+accordingly, we get,
+which is just \(\neg \OB p \amp \OB p\) in disguise (given \(\OB\)-RE
+and the Traditional Definitional Scheme). So (1′), given NC,
+yields a contradiction. Another way to put this is that the
+“can” of permissibility seems to be the dual of
+“must” not the dual of “ought”. This yields a
+dilemma: either deontic necessity represents “ought”, in
+which case, its dual does not represent permissibility (and neither
+does any other construction in SDL), or permissibility is represented,
+but “ought” is inexpressible, despite the ubiquitous
+assumption otherwise. That “ought” is the dual of
+permissibility is really a largely overlooked dubious yet pervasive
+bipartisan presupposition in both ethical theory and deontic
+ logic.[58]
+A widely neglected normative notion is exemplified by the following
+ complaint:[59]
+The expression in the second clause of (LYCD), i.e., “the least
+you could do”, has been largely ignored in the literature on
+deontic logic and ethical theory both. (LYCD) appears to express the
+idea that there is some minimal but acceptable alternative. This
+notion of what is minimally acceptable among the permissible options
+is not expressible in SDL.
+To go beyond the call of duty or to supererogate is to permissibly do
+more than you would do if you did the least you could 
+ do.[60]
+ It has a
+mirror image, permissible suboptimality, or that which you
+can but ought not do. These are plainly not representable in SDL,
+given the preceding remarks.
+McNamara 1996c and Mares & McNamara 1997 provides a semantic and
+logical framework for distinguishing “must” from
+“ought”, indifference from optionality, as well as
+distinctly representing “the least you can do” idiom and
+analyzing one central sense of “supererogation” via that
+otherwise unstudied idiom. As a measure of the increased expressive
+power, the three-fold partition of normative positions for SDL is
+extended to a twelve-fold partition; with an extension to accommodate
+praiseworthiness and blameworthiness (McNamara 2011a,b), an
+eighty-four fold partition results. See McNamara forthcoming for a
+thorough introduction to this area of research.
+We routinely talk about both what ought to be and what people
+ought to do. These hardly look like the same things (for
+example, the latter notion calls for an agent, the former does not).
+This issue, and the general issue of representing agency in deontic
+logic has been much discussed, and continues to be an area of active
+concern. In the present section we provide an overview of the
+literature on deontic logics that allow for the expression of agency;
+in
+ Section 6.2
+ we consider a more fundamental revision of SDL in order to
+accommodate deontic claims about actions.
+Let us start by introducing some basics from the logical study of
+ agency.[61]
+ Here, the idea is that we treat expressions of the type “x
+brings it about that” or “x sees to it that” as
+agent-indexed modal operators. Focusing, as we will do here, on the
+case of a single agent called Jane Doe, let us introduce the following
+notation:
+Then the following claims expressing Jane Doe’s agency with
+respect to a proposition p are to be distinguished:
+Plainly, if neither of the first two hold, then the conjunction of the
+last two holds. In such a case we might say that Jane Doe is
+passive with respect to \(p\), or more adequately, passive
+with respect to herself bringing about p or its
+ negation.[63]
+ Let’s introduce \(\PV\) as an abbreviation for
+ this:[64]
+See also supplement E:
+ Non-Performance versus Refraining/Forbearing.
+Having thus enriched our propositional language, we can now consider
+some logical principles for the new operator. Virtually all accounts
+take it to satisfy the rule for replacement of equivalents:
+If \(p \leftrightarrow q\) is a theorem, so is \(\BA p \leftrightarrow
+\BA q\) (\(\BA\)-RE),
+as well as the truth scheme,
+Taken together, these principles entail that, relative to a fixed
+proposition \(p\) and an agent, a threefold partition emerges:
+Fig. 16
+Returning to deontic matters, we can now ask: how do we represent
+agential obligation? With an agency operator in hand, we might invoke
+the famous Meinong-Chisholm Reduction: the idea that what
+Jane ought to do is what it ought to be that she
+ does.[66]
+ If we regiment this a bit using our operator for agency, we get the
+following versions of the “reduction”:
+Meinong-Chisholm Reduction: Jane Doe is obligated to bring it
+about that \(p\) iff it is obligatory that Jane Doe brings it about
+that \(p\).
+This is sometimes taken to be a reduction of personal, agentive
+obligation to impersonal obligation on the one hand, and (mere) agency
+on the other. In terms of modal operators, it is a reduction of
+“ought to do” to “ought to be” and
+“brings it about
+ that”.[67]
+ Although not uncontested (cf. Section 5.2.4 below), by relying on
+this analysis we can make many fine distinctions. Suppose, for
+instance, that “Jane Doe lights the candle” is equivalent
+to “Jane Doe sees to it that the candle is lit”, and let
+“the candle is lit” be represented by p. Then we can
+distinguish the following claims, while keeping track of their formal
+interrelations:
+Here, (2′) would, e.g., express that Jane Doe is positively
+obligated to not bring it about that \(p\); note that this need not
+preclude that some other agent can still bring it about that \(p\), or
+that \(p\) is in itself obligatory. Note also that (2′) is
+distinct from (5′), which merely expresses that it is not
+required of Jane Doe that she lights the candle. That is, Jane’s
+lighting the candle would be a violation of (2), but not of (5). (3)
+is, on most accounts of agency and obligation, strictly stronger than
+(2): (3) implies not only that Jane should not light the candle, but
+that she should bring it about that no one else lights the candle
+either (e.g., by keeping it in some locked box).
+Logics that combine operators for (impersonal) obligation and agency
+have been very widely
+ employed.[68]
+ Krogh and Herrestad 1996 reinterpret the Meinong-Chisholm analysis so
+that the deontic operator is personal, yet not agential. This
+is arguably a more plausible way to preserve a componential analysis
+of agential obligation. McNamara 2004a also makes the case that a
+person’s being obligated to be such that a certain condition
+holds (e.g., being obligated to be at home at noon, as promised) is
+the more basic idiom, and being obligated to bring about something is
+just being obligated to be such that you do bring it about.
+One way in which agency operators have been fruitfully employed is in
+the study of what are called normative
+ positions.[69]
+ A set of normative positions is intended to describe the set of
+mutually exclusive and jointly exhaustive positions that a person or
+set of persons may be in regarding a proposition and with respect to a
+logic governing a set of selected primitive normative statuses and/or
+agency operators. Recall the partition regarding how Jane Doe may be
+positioned agentially with respect to \(p\): she may either bring
+about \(p\), bring about its negation, or be passive with respect to
+\(p\). Now also recall our partition with respect obligation from
+ Section 1:
+Fig. 17 
+We might consider “merging” these two partitions, as it
+were, and try to get a representation of the possible ways Jane Doe
+may be positioned normatively with respect to her agency regarding
+\(p\). Given certain choices of logic for \(\BA\) and for \(\OB\), we
+obtain a set of mutually exclusive and exhaustive “normative
+positions”:
+The Meinong-Chisholm analysis that lies at the core of the theory of
+normative positions is, however, not uncontested. Following an earlier
+criticism by Geach (1982), in the third chapter of the influential monograph,
+Horty (2001), Horty has attacked one specific form of the
+Meinong-Chisholm reduction from a semantic viewpoint. Recall that in
+the standard semantics for SDL, for any formula p, \(\OB\)p is true
+whenever p holds at all the deontically best alternatives. Horty shows
+that, when combined with the STIT semantics for agency championed in
+Belnap et al. 2001, this gives rise to counterintuitive
+ cases.[70]
+ Suppose, e.g., that an agent can choose between two things: to gamble
+or not to gamble. Simplifying somewhat, say all possible states of
+affairs are ones where either the agent gambles, or he doesn’t.
+If the agent gambles, there is a possibility that he wins $5, but
+there is also a possibility that he loses the $5 he currently has. If
+he doesn’t gamble, then he keeps his money but cannot make any
+profit. Now, granting that worlds where one has more money are better
+than worlds where one has less, the best worlds are those where the
+agent wins $5. Consequently, the best worlds are worlds in which the
+agent does gamble. Hence, where g denotes that the agent gambles,
+is true in this case. Yet intuitively, it is not true that the agent
+ought to gamble. Absent further information, gambling and not gambling
+both have their pros and cons in this case, and hence one would not
+make any recommendation for
+ either.[71]
+ More generally, Horty takes this example to show that from “it
+ought to be that the agent brings about \(p\)”, it does not
+follow that “the agent ought to bring about
+ \(p\)”.[72]
+Horty’s argument has been criticized from various angles: one
+may, e.g., question whether the same applies to non-standard semantics
+for \(\OB\) (Broersen & van der Torre 2003; McNamara 2004b), or
+one may argue that very similar issues also arise in context where no
+agency is involved (Danielsson 2002). Finally, it should be noted that
+at the syntactic level, relatively little changes to the basic
+properties of the (now agent-relative) operator \(\OB\): it will still
+be a KD-type normal modal operator. However, its interaction with
+other such modal operators, and the relation between obligations of
+different agents and groups can now be studied in much more
+fine-grained
+ terms.[73]
+ Moreover, Horty’s incorporation of game-theoretic ideas into
+the semantics of deontic logic opens up a whole range of new
+possibilities for logical investigations, a suggestion from Bartha
+2002 that was taken up in Tamminga 2013.
+Another issue that has been disputed in this context is whether or not
+deontic operators necessarily call for agential complements or 
+ not.[74]
+ Consider the
+Strict Deontic Complement Thesis (SDCT): Each fundamental
+deontic status must be followed immediately by an operator ascribing
+agency to an agent (here, by “\(\BA\)”) to be
+well-formed.
+A strict omission (refraining) is now a formula of the form
+\(\RF p\) (i.e., \(\BA \neg \BA p)\). “\(\neg \BA p\)” is
+just a non-action. Strict deontic omissions are
+deontic operators immediately followed by strict omissions. Note that
+if we substitute “\(\BA p\)” for “\(p\)” in
+the equivalences associated with the Traditional Definitional Scheme,
+we obtain formulas that violate SDCT. For instance, the first schema
+would yield
+Essentially, non-action statements would have to be replaced by strict
+omissions.
+Belnap et al. 2001 provisionally defends SDCT. McNamara 2004a raises
+doubts about this thesis. He notes that we are sometimes obligated to
+be a certain way (e.g., to be in our office), and furthermore, it is
+plausible to think that agential obligations reduce to these stative
+obligations— obligations to be the agents of states of affairs,
+so that obligations to be a certain way are analytically prior to
+agential obligations. A related issue is whether there can be cases
+where a certain person \(i\) faces a given obligation, but these
+obligations can (in principle or even in practice) be fulfilled by
+some other person \(j\)—and hence, they are not, strictly
+speaking, agential obligations for \(i\) (Krogh & Herrestad 1996;
+McNamara 2004a).
+Aside from the preceding operators in this section, there are a number
+of other types of modal operators one could sensibly add to a given
+deontic logic. Far from being exhaustive, let us just give a few
+examples and mention well-known issues that arise from such
+enrichments.
+In some normative systems (e.g., legal systems), explicit permissions,
+prohibitions and obligations are given. So it would seem to be
+possible for there to be normative systems with gaps: systems where
+something is neither explicitly obligatory, impermissible, nor
+permissible because, say, it is neither explicitly commanded,
+prohibited or permitted by the relevant authority. For instance, it
+may well have been undecided, legally speaking, whether storing
+someone’s search data on a website was permissible or not prior
+to any new law being cast to regulate this practice. Yet \(\OB p
+\vee(\PE p \amp \PE \neg p) \vee \IM p\) is a thesis
+(“exhaustion”) of SDL (given the Traditional Definitional
+Scheme), which makes any such gaps impossible. There is no place for
+this fourth category in SDL, as it does not allow for such
+normative gaps (von Wright
+ 1968).[75]
+ SDL is not designed to represent a notion of explicitly stated
+obligations, permissions, etc.
+One way to accommodate gaps, without revising the Traditional
+Definitional Scheme or the underlying logic of the classical
+connectives, is by enriching SDL with a modal operator \(\NS\) that
+refers explicitly to the normative system at hand: \(\NS\OB p\) then
+means something like “according to the normative system, \(p\)
+is obligatory”. Normative gaps can be expressed by such
+sentences as
+Note that this is perfectly consistent with the claim
+which just says that according to the normative system, the
+proposition \(p\) is either obligatory, optional, or
+ impermissible.[76]
+Other types of modalities that display interesting interaction with
+deontic notions are temporal modalities. For instance, it is plausible
+to think that one is obligated to do something only if that
+thing is in the future. This suggests that the deontic necessity
+operator quantifies over states that form a subset of the set of all
+future states; and hence a principle of the type
+should hold. Similar observations can be made in terms of the
+Andersonian-Kangerian reduction of SDL. If we read the deontic
+constant \(d\) atemporally as “all obligations past, present,
+and future are met”, then the only relevant worlds are those so
+ideal that in them there has never been a single violation of a
+mandatory norm. But as a parent, I may be obligated to lock the front
+door at night even though this would not be a norm unless there had
+been past violations of other norms (e.g., against theft and murder).
+People also acquire obligations over time, create them for themselves
+and for others, discharge them,
+ etc.[77]
+Finally, one may also combine deontic and epistemic or doxastic
+logics. Such combinations may serve two distinct aims: to capture
+distinctively epistemic obligations such as “Jane ought to know
+that there is no cure to this illness (as she is a doctor)”, or
+to study subjective, knowledge-dependent obligations as in
+“Given what you know about their production, you ought not to
+buy these clothes”. For a famous puzzle concerning the first
+type of extension, see supplement F on
+ the Paradox of Epistemic Obligation.
+For the second type of extension, a recent puzzle that has received
+much attention is the so-called Miners Paradox (Kolodny &
+MacFarlane 2010; Parfit ms. [see
+ Other Internet Resources]).
+ A proposal for dealing with the latter in the context of deontic STIT
+logic can be found in Horty 2019; earlier proposals for dealing with
+knowledge-based obligations are Pacuit, Parikh and Cogan 2006 and
+Broersen 2008. Clearly, however fundamental the monadic operators
+represented in SDL, they are but a fragment of those employed in
+normative discourse.
+When one meets a problem in formalizing certain aspects of reasoning
+via a given formal system (e.g., SDL), one may diagnose the situation
+in two different ways: as caused by a lack of expressive power in the
+formalism, one that can be remedied by augmentation, or as a
+fundamental problem with the initial formalism itself calling for
+modification or replacement of the initial formalism. In the present
+section, we survey some attempts to revise the foundations of deontic
+logic, in view of specific puzzles related to SDL and its
+extensions.
+A view still held by some researchers within deontic logic and
+meta-ethics, and particularly popular in the first few decades
+following the emergence of positivism, was that evaluative sentences
+are not the sort of sentences that can be either true or false. If
+that view is correct, we seem to be facing a dilemma. On the one hand,
+it seems there can be no logic of normative sentences, since logic is
+the study of what follows from what, and one thing can follow from
+another only if the things in question are of the sort that can be
+either true or false. So there can be no deontic logic. On the other
+hand, some normative sentences do seem to follow from others, and
+there appear to be logical relations between distinct (possibly
+logically complex) deontic statements, so there can be deontic logic
+after all. What to do? This is Jörgensen’s dilemma.
+A widespread distinction that was put forward in an attempt to
+overcome the dilemma is that between a norm and a
+normative
+ proposition.[78]
+ Consider a normative sentence such as “You may park here for
+one hour”. This sentence may be used by an authority to provide
+permission on the spot or it may be used by a passerby to report on an
+already existing norm (e.g., a standing municipal regulation). The
+activity of using a normative sentence as in the first case is
+sometimes referred to as “norming”—it creates a norm
+by granting permission by the very use of the sentence. The second use
+is often said to be descriptive, since the sentence is then not used
+to grant permission, but to report that permission to do so is a
+standing state. It is often maintained that the two uses are mutually
+exclusive, and only the latter use allows for truth or falsity. Some
+have however challenged the exclusiveness of the division, by blending
+semantics and speech-act theory (especially regarding performatives).
+They thereby suggest that one who is in authority to grant a
+permission can not only grant it by performing the speech act of
+uttering the relevant sentence (as in the first example), but also
+thereby makes what it said true— that the person is
+permitted to park (as in the second example with the
+ passerby)).[79]
+If one agrees that norm-propositions are distinct from norms, one may
+insist that the realm of deontic logic is limited to
+norm-propositions, perhaps interpreted with a standard semantics in
+terms of truth at possible worlds. Where some normative system, \(n\),
+is the basis in some state, \(w\), for a set of normative
+propositions, one could just say that \(\OB p\) is true at a state,
+\(w\), in virtue of the fact that according to the norms in \(n\) that
+apply in \(w\), \(p\) is required. However, this still leaves a
+Jörgensenian gap: it remains unclear what it means that a set of
+norms requires a certain state of affairs (given the way the world
+currently is). Isn’t there still a need for a framework to model
+systems of norms, their possible structural features, and how they
+generate normative propositions? If a normative system \(n\) requires
+\(p\) and \(n\) also requires \(q\), how does it do so, and
+does it then also require \((p \amp q)\), and if so, in virtue of
+what features of
+ \(n\)?[80]
+An alternative route is to give up on truth-functional (possible
+world) semantics. One may, e.g., assume a primitive notion of
+“norms” (sometimes also called “imperatives”),
+which generate “obligations” in a purely syntactic
+fashion. Originating in the work on conflict-tolerant deontic logics
+(van Fraassen 1973, cf. Hansen 2008 and Hansen 2013), this route
+became most influential under the banner of Input/Output logic
+(Makinson & van der Torre 2000, 2001; Parent & van der Torre
+2013). The “semantics” of I/O-logics is purely
+operational: it specifies a set of obligations (propositional
+formulas) that result from the application of factual detachment to
+(a) a set of factual statements (closed under PC) and (b) a set of
+conditional norms, i.e., pairs of propositional formulas, closed under
+a given set of logical rules, R. Variations regarding R give rise to
+various “input/output relations” (hence, I/O-logics). See
+Parent and van der Torre 2018 for a short primer.
+The I/O-logic framework has proven useful in a number of respects: it
+puts factual detachment where, for many, it belongs: at the very core
+of deontic reasoning. It allows for many fine-grained distinctions and
+nuanced accounts of the interplay between detachment and logical
+reasoning about facts and norms that seem hard to characterize in
+terms of classical possible worlds-semantics. Finally, it can
+accommodate various notions of permission and their relation to
+obligation (Makinson & van der Torre 2003). On the downside, how
+to integrate a procedural semantics from I/O-logic with semantics for
+epistemic logics, logics of agency, and the like is far from obvious.
+More generally, since in I/O-logic the notion of obligation
+is—by definition—one of an “output”, it is
+unclear how, e.g., truth-functional connectives or other modal
+operators can be applied to statements concerning obligation (e.g., it
+is believed that murder is wrong and sometimes done), or what a nested
+statement like “it is permissible that it is obligatory that
+p” would mean in this
+ framework.[81]
+We often apply terms such as “must”, “ought”,
+and “can” to actions rather than to states of affairs. For
+instance, we would say that “Jimmy must tie his
+shoelaces”, rather than “it is obligatory (for Jimmy) that
+Jimmy’s shoelaces are tied”. Likewise, we make claims such
+as “Jack must get the groceries” and “you can turn
+left here”. In each of these three examples, it seems we signal
+the deontic status of a certain action— an agent-initiated
+way of changing the current world, or bringing it into a
+different state. However, the by now common reading of
+SDL—deviating from von Wright’s original interpretation
+(recall
+ supplement B, von Wright’s 1951a System and SDL),
+ has it that we can always apply the deontic modals to propositions
+instead.
+Various semantics have been developed in which deontic terms are
+applied directly to actions, conceived as transitions between states
+in a Kripke-model. For instance, following the reduction of SDL to
+alethic modal logic (cf.
+ Section 3),
+ Meyer 1988 adds an Andersonian “violation” constant V to
+ propositional dynamic logic
+ (PDL). In this framework, [\(\alpha\)]V expresses that executing the
+action \(\alpha\) necessarily leads to a violation, hence,
+“\(\alpha\) is forbidden”. Where \(-\alpha\) denotes the
+negation of action \(\alpha\), [\(-\alpha\)]V then represents that
+\(\alpha\) is
+ obligatory.[82]
+ Note that intuitively, this formula can be read as: “whenever
+\(\alpha\) is not carried out, a violation occurs”.
+Alternatively, one may define a notion of strong
+permissibility of an action \(\alpha\), by introducing a Kangerian
+constant “OK” and expressing that \(\alpha\) is strongly
+permissible by [\(\alpha\)]OK. This means, intuitively, that whenever
+one executes the action \(\alpha\), then one is guaranteed to end up
+in a world that is deontically acceptable (no violation
+ occurs).[83]
+Meyer’s analysis reduces the deontic status of a given action
+(at a given state w) to the occurrence of violations in its terminal
+states (reachable from w through that action), giving rise to
+so-called “goal norms”. In contrast, one may also consider
+“process norms” that concern all the intermediate states
+that are “passed by” when carrying out a given action at a
+state. Deontic logics of the latter type have been proposed in van der
+Meyden 1996; see Broersen 2004, Kulicki and Trypuz 2017, Canavotto and
+Giordani 2019 for discussions of this distinction.
+A different approach to actions in deontic logic originates in
+Segerberg 1982, and further developed inter alia in Kulicki
+and Trypuz 2017. Here, a Boolean algebra of actions is
+proposed—analogous to the Boolean algebra of PC—and one
+defines functions that specify which (basic and complex) actions are
+permissible, forbidden, or required. An expression like “\(P
+\alpha\)” then just means that \(\alpha\) is a member of the set
+of permitted actions, and such expressions are used to build more
+complex ones using classical propositional connectives. Whereas in
+dynamic deontic logic, the deontic behavior of complex actions is
+governed by the underlying logic of actions (i.e., PDL), in deontic
+logics over Boolean action algebras, specific frame conditions are
+imposed to ensure that, e.g., “action \(\alpha\) is
+forbidden” entails that “doing \(\alpha\) and \(\beta\)
+(say, simultaneously) is
+ forbidden”.[84]
+Rather than questioning its semantic foundations on their own terms,
+one may also argue against SDL in view of the logical principles it
+validates. Here we outline a number of distinct arguments and examples
+that have been raised against specific principles of SDL, after which
+we show how some of these can be overcome by moving to weaker
+systems.
+Let us start with \(\OB\)-NEC. This rule requires that any
+tautological statement is obligatory. Now consider the following
+statement:
+It seems that what (1) expresses, an absence of obligations, is
+possible. For example, consider a time when no rational agents existed
+in the universe. Why should we think that any obligations—even
+those pertaining to tautological states of affairs—existed
+ then?[85]
+If we are reading \(\OB\) as simply “it ought to be the case
+that”, it is not clear that there is anything counterintuitive
+about \(\OB \top\) (now read as, essentially, “it ought to be
+that contradictions are false”), but there is also no longer any
+obvious connection to what is obligatory or permissible for that
+reading, or to what people ought to do. A different way of avoiding
+the counterintuitive consequences of \(\OB\)-NEC is by distinguishing
+between “vacuous” obligations such as \(\OB (p \vee \neg
+p)\) and those that require the satisfaction of some logically
+contingent statement such as \(\OB (p \amp \neg q)\). This can, e.g.,
+be done by enriching one’s language with a modal operator
+\(\Box\) for “settled true” (cf. Belnap 2001 et al., Horty
+2001).
+Next on the list of problematic principles is \(\OB\)-RM, also known
+as the principle of Inheritance. This principle states that whenever
+something is obligatory, then everything that is a logical consequence
+is also obligatory (“inherits” that status). There are
+various well-known examples highlighting problems with \(\OB\)-RM. The
+earliest and most well-known challenge to RM is Ross’s
+Paradox (Ross 1941). From
+formalized as \(\OB m\), we can derive:
+Formalized as \(\OB(m \vee b)\). It seems rather odd to say that an
+obligation to mail the letter entails an obligation to mail the letter
+or burn it (where burning the letter is presumably forbidden), one
+that can be fulfilled by burning the letter, which invites from the
+offender: “Well at least I did one thing right by burning
+it”.
+While weakening from \(m\) to \(m \vee b\) gives problems, similar
+issues arise when we weaken a conjunction to one of its conjuncts.
+This is illustrated by the famous Good Samaritan Paradox
+(Prior
+ 1958):[86]
+Supposing that Jones helps Smith who has been robbed if and only if
+Jones helps Smith and Smith has been robbed, it would appear that a
+correct way to symbolize (1) and (2) in SDLs is:
+By \(\OB\)-RM, \(\OB(h \amp r)\) entails \(\OB r\). However, it hardly
+seems that if helping the robbed man is obligatory it follows that his
+being robbed is likewise
+ obligatory.[87]
+ A much-discussed, epistemic variant of the Good Samaritan is
+discussed in supplement F,
+ the Paradox of Epistemic Obligation.
+There have been various responses to these RM-related paradoxes. Some
+defend RM and blame the Ross paradox on an elementary confusion
+(Føllesdal & Hilpinen 1971) or cite pragmatic features to
+explain away the puzzle (Castañeda 1981): no one would, e.g.,
+merely utter the statement that John ought to mail or burn the letter,
+knowing that in fact John ought to just mail the letter. Similarly, it
+has been argued that the Good Samaritan paradox is really a
+conditional obligation paradox, and so RM is not the real source of
+the paradox (Castañeda 1981; Tomberlin 1981). However, since
+these paradoxes all at least appear to depend on \(\OB\)-RM,
+a natural solution to the problems is to undercut the paradoxes by
+rejecting \(\OB\)-RM itself. Two accessible and closely related
+examples of approaches to deontic logic that reject \(\OB\)-RM from a
+principled philosophical perspective are Jackson 1985 and Goble
+ 1990a.[88]
+ A third, somewhat different principled strategy is proposed in
+Cariani 2013 and studied in formal detail in Van De Putte 2019.
+Finally, in S. O. Hansson 1990, and more elaborately in Hansson 2001,
+S.O. Hansson develops systems of deontic logic where he analyzes
+prohibitive and prescriptive deontic notions in terms of abstract
+properties of various preference orderings (e.g., a normative status
+is prohibitive whenever anything worse than something that has that
+status also has it). He also sees \(\OB\)-RM as the main culprit in
+the paradoxes of standard deontic logic, and thus he methodically
+explores non-standard frameworks where \(\OB\)-RM is not
+ sound.[89]
+One very general semantic framework for logics that can invalidate
+necessitation, inheritance, or other principles of normal modal logics
+is the neighborhood semantic
+ framework.[90]
+ , A neighborhood semantics works with a set of possible worlds (just
+like Kripke-semantics) but replaces the accessibility relation with a
+neighborhood function \(\rN\) that maps every world \(w\) onto a set
+of sets \(X, Y,\ldots\) of possible worlds \(\rN(w)\), often thought
+of as a set of propositions. On such a semantics, \(\OB p\) is true at
+a world \(w\) iff the set of all \(p\)-worlds is in the neighborhood
+of \(w\), i.e.
+On the weakest logic characterized by such neighborhood models (the
+minimal “classical modal logic”, E), only \(\OB\)-RE is
+valid. Additional validities and rules can be obtained by imposing
+specific conditions on the neighborhood functions. Furthermore,
+neighborhood semantics can be naturally generalized to deal with
+conditional obligations (Chellas 1974, 1980), and combined with
+semantic accounts of related concepts such as agency and ability
+(McNamara 2019). It can also accommodate conflict-tolerant logics, as
+we will see next.
+A conflict of obligations is a situation where there are two
+or more obligations and it is not possible for all of them to be
+fulfilled. A specific, paradigmatic case is the one where we have two
+obligations that are logically incompatible, such as:
+Here it would seem that I have a conflict of obligations, in fact a
+quite direct and explicit one, since what I promised one person would
+happen, I promised another would not happen. People do (e.g., under
+pressure or distraction) make conflicting promises (cf. conflicting
+appointments), and it appears that they incur conflicting obligations
+as a
+ result.[92]
+ But consider the natural representation of these in SDLs:
+These premises are inconsistent in SDL. First, they are simply
+excluded by NC \((\OB p \rightarrow \neg \OB \neg
+ p)\).[93]
+ But merely giving up NC is not sufficient. In fact, any normal modal
+logic (hence, any logic that contains K and Necessitation, or
+equivalently, \(\OB\)-RM, \(\OB\)-C, and RE based on PC) will generate
+deontic explosion:
+In effect this means that once one has conflicting obligations,
+everything is obligatory. Apart from this trivializing aspect, the
+validity of \(\OB\)-RM and \(\OB\)-C also means that having two
+incompatible obligations implausibly reduces to having a single
+self-contradictory obligation, cf.
+ supplement G, Collapse of conflicts into impossible obligations.
+As for \(\OB\)-N and \(\OB\)-RM, this problem can be tackled in
+various ways. Let us start with those who develop conflict-tolerant
+deontic logics, by giving up one or more of the aforementioned
+principles. This gives rise to three distinct classes of such
+logics:
+However, giving up on any of these three principles may be too
+drastic. Suppose, e.g., that, apart from the obligations (1) and (2)
+mentioned above, I also face the obligation to visit Tom (\(t\)), and
+in case I visit Tom, to hand him over a letter from Jane (\(l\)). So
+we have as premises \(\OB j\), \(\OB \neg j\), \(\OB t\), \(\OB (t
+\rightarrow l)\). Suppose moreover that \(t\) and \(l\) are perfectly
+compatible with either of \(j\) or \(\neg j\). Then any of the three
+above-mentioned strategies would still invalidate the inference to
+\(\OB l\): we can no longer infer that I ought to hand over the
+letter.
+More recently, it has been argued that by using a non-monotonic
+framework such as adaptive logics, one can accommodate deontic
+conflicts and yet retain most of the inferential power of SDL. The
+rough idea behind this account is that one only rejects certain
+principles of SDL when they concern obligations that are in fact
+conflicted (in view of the premises). See Goble 2013 and Van de Putte,
+Beirlaen, and Meheus forthcoming for an overview of such adaptive
+deontic logics.
+Another shortcoming of most existing conflict-tolerant deontic logics
+is that they only focus on the above-mentioned paradigmatic case of
+binary conflicts between logically contradictory obligations. In
+contrast, conflicts often arise between obligations that are just
+incompatible in view of the circumstances one finds oneself in, and
+hence have a contingent
+ basis.[94]
+ In principle, SDL would be perfectly fine with such
+“contingent” conflicts, and we could express them in an
+enriched language by formulas of the type
+However, (DC) in combination with (\(\OB\)-C) yields triviality as
+soon as we endorse a minimalistic version of Kant’s law that
+ought implies can:
+Similar problems arise if we try to formalize contingent deontic
+conflicts following the Andersonian-Kangerian reduction, as shown in
+ supplement H, A puzzle surrounding Kant’s law.
+Let us note that a long-ignored and challenging further puzzle for
+conflicting obligations, sometimes called “van Fraassen’s
+Puzzle” and inspired by van Fraassen 1973 has deservedly
+received increased attention: Horty 1994, 2003; van der Torre and Tan
+2000; McNamara 2004a; Hansen 2004; and Goble 2005. For a brief general
+overview, see Section 8.4 of Hilpinen and McNamara 2013.
+An altogether different approach towards conflicting obligations
+consists in distinguishing between prima facie (or pro
+tanto) obligations, and all-things considered (pro toto)
+obligations, and insisting that SDL and its siblings are logics of the
+latter notion. This distinction has been famous at least since (Ross
+1939). It can be illustrated by Plato’s Dilemma (Lemmon
+ 1962a):[95]
+Here we seem to have an indirect non-explicit conflict of obligations,
+if we assume that satisfying both obligations is practically
+impossible. Yet, unlike in our prior example, where the two promises
+might naturally have been on a par, we would all agree that the
+obligation to help my child overrides my obligation to meet
+you for lunch. In other words, the first obligation is
+defeated by the second obligation, which takes
+precedence. Ordinarily, we would also assume that no other
+obligation overrides my obligation to rush my child to the hospital,
+so that this obligation is an all things considered non-overridden
+obligation, but not so for the obligation to meet you for lunch.
+Furthermore, we are also prone to say that the situation is one where
+the general obligation we have to keep our appointments (or to keep
+our promises, still more generally) has an
+exception—the circumstances are extenuating.
+If we define an “obligations dilemma” as a conflict of
+obligations where neither of the conflicting obligations is overridden
+(cf. Sinnott-Armstrong 1988), then the case above involves a conflict
+of obligations but not an obligations dilemma. Once we acknowledge
+conflicts of obligation, there is the further issue of representing
+the logic of reasoning about conflicting obligations where some do or
+don’t override others, some are or are not defeated, some are,
+some are not all things considered non-overridden obligations, where
+obligation dilemmas do or don’t exist, where some obligations
+hold generally, but not unexceptionally, some are absolute, etc. So a
+central issue here is that of conflicting obligations of different
+weight and the defeasibility of obligations. Clearly,
+there is no mechanism in SDL for this, since SDL does not allow for
+conflicts to begin with, yet this is an issue that goes well beyond
+that of merely having a logic that allows for conflicts. There have
+been a variety of approaches to this dilemma, and to defeasibility
+among conflicting
+ obligations.[96]
+Recently, the puzzles related to \(\OB\)-NEC, Inheritance, and Deontic
+Explosion have been taken to reflect a more general (alleged) feature
+of deontic modals, i.e., their hyperintensionality. In the
+syntactic sense, a modal operator is hyperintensional if it is not
+closed under the replacement of classical, truth-functionally
+equivalent formulas. On this view, \(\OB p\) is, e.g., not equivalent
+to \(\OB\) \(((p \amp q) \vee(p \amp \neg q))\), even if the truth of
+\(p\) always coincides with the truth of \((p \amp q) \vee(p \amp \neg
+q)\). Semantically, this means that such an operator cannot be
+interpreted as an intensional modal operator, using (classical)
+possible-worlds semantics.
+A promising recent semantic framework for hyperintensional logics is
+that of truthmaker semantics (Fine 2017). On such a semantics,
+propositions are interpreted by “truthmakers”, resp.
+“falsemakers” rather than sets of worlds, where these
+entities are related to one another in terms of a merelogical
+(parthood) relation. For instance, a truthmaker for “it
+rains” would be simply a state of it’s raining, nothing
+less and nothing more. A truthmaker for “(it rains and the sun
+shines) or (it rains and the sun does not shine)” can be either
+of two things: a fusion of a state of it’s raining with a state
+of the sun’s shining, or a fusion of a state of it’s
+raining with a state of the sun’s not shining (and hence, the
+latter, a falsemaker of “the sun shines”). Formally, the
+set of truthmakers of \(p\) may, e.g., be \(\{X, X'\}\), while the set
+of truthmakers of \((p \amp q) \vee(p \amp \neg q)\) may be \(\{X*Y,\)
+\(X*Z,\) \(X'*Z,\) \(X'*Z\}\), with the “*” symbol
+denoting a fusion
+ operation.[97]
+ Fine applied this framework to the logic of imperatives and to
+deontic logic proper in a series of papers (Fine 2018a,b) where
+“actions” play the role usually played by truthmakers in
+the semantics of indicative sentences, and analogous to the
+truthmaking and falsemaking relations between truthmakers and
+propositions, such actions can be either in compliance with or
+contravening a given command. For instance, the imperative “Sing
+or dance!” is interpreted in terms of (a) the actions that are
+in (exact) compliance with it, and (b) the actions that are in (exact)
+contravention of it. For the case of conditional obligations,
+additional complications arise, as one may also avoid a
+conditional by making its antecedent
+ false.[98]
+ Similar ideas, though worked out in different ways, can be found in
+Anglberger and Korbmacher 2020, which also relate truthmaker semantics
+to Goble’s logic BDL from Goble 2013. For a full-fledged
+discussion of the hyperintensionality of normativity and formal
+approaches to it, see Faroldi 2019.
+Plainly, there are a number of outstanding problems for deontic logic.
+Some see this as a serious defect; others see it merely as a serious
+challenge, even an attractive one. There is some antecedent reason to
+expect that the challenges will be great in this area. Normativity is
+challenging generally, not just in deontic logic. Normative notions
+appear to have strong pragmatic features. Normative notions must
+combine with notions for agency and with temporal notions to be of
+maximal interest—which introduces considerable logical
+complexity. There is also reason to think that there are hidden
+complexities in the interaction of normative notions and conditionals.
+Finally, there appears to be a wide array of normative notions with
+interesting interactions, some easily conflated with others (by
+ethicists as much as deontic logicians). Clearly, there is a lot of
+work to be done.

@@ -1,0 +1,1269 @@
+Consider this scenario: Your friend testifies to you that your
+favorite team won last night’s game (= p). Because you
+know that your friend is a highly reliable sports reporter, and
+because you have no reason to doubt what she says on this occasion,
+you believe what you are told. In this case, your belief that p
+is clearly justified.
+Now, contrast that scenario with this one: You run into a stranger
+whom you have never met and they tell you that your favorite team won
+last night’s game (= p). Even though you don’t know
+if this person often speaks the truth, you also don’t have any
+good reason to doubt what they are telling you. Thus, you decide to
+believe what you are told. Whether or not your belief that p is
+justified in this case is a lot less clear.
+Thinking about the difference between cases like these helps motivate
+the debate about the following question:
+First Big Question: Is testimony a basic source of
+justification, or can testimonial justification be reduced to a
+combination of other epistemic sources?
+Those who defend answers to this question tend to endorse one of three
+main positions: Reductionism, Non-Reductionism, and
+Hybrid Views.
+Reductionists maintain that in order to acquire testimonial
+justification, one must have positive reasons for thinking that the
+speaker in question is a reliable testifier. More specifically,
+Reductionists endorse
+Positive Reasons: A hearer is justified in believing what a
+speaker says if, and only if, they (a) have positive reasons for
+thinking that the speaker’s testimony is reliable, where these
+reasons are not themselves ultimately based on testimony, and (b) do
+not have any undefeated
+ defeaters[4]
+ that indicate that the speaker’s testimony is false or unlikely
+to be true.
+Reductionist views trace at least as far back as David Hume’s
+(1740, 1748)—see Traiger (1993, 2010), Faulkner (1998), Root
+(2001), Fogelin (2005), van Cleve (2006), Gelfert (2010), and Shieber
+(2015) for more on Hume’s view in particular. More recently,
+other Reductionist views have been defended by E. Fricker (1987, 1994,
+1995, 2002, 2006a, 2006b), Adler (1994, 2002), Lyons (1997), Lipton
+(1998), Shogenji (2006), Sutton (2007), Malmgren (2006), and Kenyon
+(2013).
+One of the primary motivations for Reductionism stems from concerns
+having to do with gullibility; that is, many reductionists
+maintain that if we could justifiably accept a speaker’s
+testimony without having positive reasons for thinking that they
+typically speak the truth, then we would be justified in accepting
+testimony in cases in which doing so would be clearly irresponsible.
+So for example, if a hearer does not need positive reasons for
+thinking that the speaker’s testimony is reliable, then one
+could be justified in believing the say-so of a random blogger on an
+arbitrary website so long as one did not have any reasons for doubting
+the testimony in question.
+Now, while all Reductionists endorse Positive Reasons, there is
+disagreement over exactly how this thesis should be understood. For
+this reason, Reductionists fall into one of two camps: Global
+Reductionists and Local Reductionists.
+According to Global Reductionism, in order to be justified in
+accepting a speaker’s testimony, you need to have positive
+reasons for believing that testimony is generally reliable, i.e., that
+accepting the reports of others is a reliable way of forming true
+beliefs. For instance, suppose that your friend tells you that he got
+a puppy. Global Reductionists maintain that you are only justified in
+accepting this report if you have positive reasons that support
+inferences like the following:
+It is in this sense that Global Reductionists think that testimonial
+justification can be reduced to a combination of perceptual, memorial,
+and inferential justification. That is, testimonial justification can
+be reduced to a combination of other epistemic sources because it only
+involves you (i) perceiving that the speaker made an utterance (ii)
+remembering that when people have told you things in the past, they
+turned out to be right most of the time and (iii) inferring on this
+basis that what you were told on this occasion is likely to be
+true.
+Historically, Global Reductionism has been saddled with three
+objections. First, opponents have argued that any attempt to acquire
+non-testimonially based reasons for thinking that testimony is
+generally reliable will either be viciously circular or else involve
+an insurmountable regress. For instance, in order to know that people
+generally speak the truth, I might need to rely on Bill’s
+testimony to confirm that what Alice said was true. But in order to
+know that Bill can be trusted, I might need to rely on Carly to
+confirm that he usually says true things. But to ensure that Carly
+typically speaks the truth, I will either need to rely on Alice or
+Bill to confirm this for me (hence the vicious circle), or else I will
+need to rely on on a fourth person like Donald (and hence the regress
+will continue). Thus, because there is no good way to acquire the
+non-testimonially based reasons in question, Global Reductionism
+problematically entails that we are rarely (if ever) justified in
+accepting what people tell us. See Coady (1992) for this worry, and
+see Wright (2016a, 2019) for an importantly different kind of
+circularity worry for all Reductionist views.
+Second, and relatedly, opponents have argued that in order to acquire
+non-testimonially based reasons for thinking that testimony is
+generally reliable, we would need to be exposed to loads and loads of
+facts that correspond to the things that we receive testimony about,
+i.e., in order to check if testimony about history, medicine, biology,
+etc., is generally reliable, we would need to have confirmed many of
+these facts for ourselves. However, most (if not all) of us simply
+lack the time and resources to confirm such things. Thus, Global
+Reductionism seems to problematically entail that we are rarely (if
+ever) justified in accepting what other people tell us. See, e.g.,
+Coady (1992).
+To see the third worry with Global Reductionism, notice that Global
+Reductionists treat testimony as if it is a unified, homogeneous
+category, i.e., according to Global Reductionists, testimony in
+general can be a more or less reliable source of knowledge. The
+problem here is that we frequently receive testimony about wildly
+different topics, e.g., quantum mechanics, politics, one’s own
+music preferences, etc. And clearly testimony about some of these
+things is highly reliable (e.g., all of your friends are probably very
+good at speaking truly about what kinds of music they like), whereas
+testimony about other topics is less so (e.g., if your friends are
+like mine, then at least a few of them are probably a lot less
+reliable at speaking truly about politics). Thus, contra Global
+Reductionism, it is a mistake to treat testimony as a unified source
+of knowledge; that is, instead of thinking about testimony in general,
+we should think about the various categories of testimony in
+particular, e.g., categories differentiated by subject matter. For it
+is only when we think of testimony as being disaggregated in this way
+that it make sense to ask about whether receiving testimony about a
+particular category is a reliable source of knowledge. See, e.g., E.
+Fricker (1994).
+According to Local Reductionism, in order to be justified in accepting
+a speaker’s testimony, the hearer needs to have
+non-testimonially based reasons for thinking that the speaker in
+question is a reliable testifier on this occasion (as opposed to
+having positive reasons for thinking that testimony in general is
+reliable). For instance, suppose your friend tells you that he got a
+puppy and that you make the following inference:
+Local Reductionists maintain that you are only justified in accepting
+what you are told on this occasion if you have non-testimonially based
+reasons that support (1) and (2). For instance, perhaps you know that
+your friend usually speaks the truth about these sorts of things
+because you have known them for a long time. Or perhaps it is because
+you know that, generally speaking, anyone who takes the time to talk
+to you about their pets is probably telling the truth. Or perhaps it
+is because you know that when you ask people about their pets in this
+kind of context, it is highly likely that you will get an honest
+answer.
+Regardless of how these non-testimonially based reasons are acquired,
+it is in this sense that Local Reductionists also think that
+testimonial justification can be reduced to a combination of
+perceptual, memorial, and inferential justification, i.e., testimonial
+justification only consists in you perceiving that the speaker made an
+utterance and then inferring on this basis that what the speaker said
+on this occasion is likely to be true.
+Local Reductionists are well positioned to avoid the problems that
+plague Global Reductionism. This is because they are not committed to
+the claim that testimony is a unified category, i.e., instead of
+thinking about the reliability of testimony in general, we only need
+to think about the reliability of each piece of testimony that we are
+offered on a given occasion. Moreover, Local Reductionists do not
+maintain that in order to be justified in accepting a speaker’s
+say-so, one needs positive reasons for thinking that testimony in
+general is a reliable source of knowledge. Thus, even if you lack the
+resources to confirm that most people generally speak the truth, you
+can still have non-testimonially based reasons for thinking that what
+the speaker said is likely to be true on this occasion. For instance,
+if your relationship is long enough, you can come to know that your
+friend has a great track record of saying true things about getting
+new pets, since anytime they say this, you can just go over to their
+place and see their new puppy for yourself. And because you
+don’t need to rely on the testimony of a third party to acquire
+these positive reasons, there is no worry of running into the kinds of
+vicious circles or insurmountable regresses that Global Reductionists
+need to explain away.
+Historically, though, there are at least three problems that cause
+trouble for Local Reductionists. First, opponents have objected to
+Local Reductionism on the grounds that it problematically excludes
+young children (e.g., 3-year-olds) from justifiably accepting what
+their parents tell them. For if Local Reductionism is true, then in
+order to be justified in accepting a parent’s testimony, a young
+child would need non-testimonially based reasons for thinking that
+this parent is a reliable testifier. But youngsters simply lack the
+worldly experience to have good reasons for thinking that their
+parents’ reports are usually true, i.e., they have not been
+around long enough to have confirmed enough of these reports for
+themselves. Thus, Local Reductionism problematically precludes young
+children from being able to learn from the say-so of their parents.
+See, e.g., Audi (1997), and see also Harris (2002), Harris and
+Corriveau (2011) and Koenig and Harris (2007) for empirical results
+about children accepting the testimony of others. (Note: This
+objection poses a worry for Global Reductionists as well).
+Second, opponents have objected to Local Reductionism on the grounds
+that we can be justified in believing a speaker, S’s,
+testimony that p even if we lack the relevant non-testimonially
+based reasons to support the inference from “S said that
+p” to “p”. (See, e.g., Webb [1994:
+263–264], Strawson [1994: 25], Schmitt [1999: 360] and Lackey
+[2008: 180]). For instance, suppose you arrive in a new country and
+spot someone on the street. And suppose that you approach this person
+and ask them for directions. Now, if that person tells you that your
+hotel is three blocks down the road, then it seems like you are
+justified in accepting their testimony that this is the case. But
+Local Reductionism cannot accommodate this result. For insofar as the
+only thing that justifies your belief is your inference from
+“This person said that my hotel is just down the road” to
+“My hotel is just down the road”, then since you know next
+to nothing about this stranger, and since you also know very little
+about whether anyone in this area is likely to answer this sort of
+question honestly, it is hard to see how your non-testimonially based
+reasons for accepting this person’s testimony are strong enough
+to justify you in believing what you are told on this occasion. (But
+see, e.g., Kenyon [2013], who defends Local Reductionism from this
+worry by arguing that even if a hearer knows very little about the
+speaker in question, they can still appeal to other contextual
+information to support their inference).
+Third, others have argued that given the current results in social
+psychology, there is good reason to reject Local Reductionism on the
+grounds that it makes testimonial justification too hard to come by.
+The worry here is that the evidence from social psychology suggests
+that humans are not very good at determining when a particular
+instance of testimony is false or unlikely to be true. Thus, insofar
+as Local Reductionists maintain that hearers need to be good at
+monitoring for these signs of falsehood and unreliability in order to
+have positive reasons for thinking that a particular instance of
+testimony is worth accepting, Local Reductionism problematically
+entails that we have way less testimonial justification than we
+previously thought. See Michaelian (2010, 2013) and Shieber (2012,
+2015) for more on this style of objection, and see Sperber (2013) and
+Harris et al. (2018) for an empirical arguments to the contrary.
+(Note: This objection is not meant to just target Local Reductionism,
+but Reductionist views more generally).
+Reductionists have offered responses to all of the worries mentioned
+above. For instance, see Owen (1987), Sobel (1987), and Alvin Goldman
+(1999: Ch. 4) for a Bayesian analysis of how a hearer can acquire
+positive reasons for accepting a speaker’s testimony. See also
+E. Fricker (1995), Lipton (1998, 2007), Schiffer (2003), and Malmgren
+(2006) for more on how hearers can acquire these positive reasons via
+inference to the best explanation. And for more on debates surrounding
+Reductionism in general, see Faulkner (2000), Elgin (2002), Lackey
+(2005a, 2006), Goldberg and Henderson (2006), Kenyon (2013) and Graham
+(2018). Whether or not these responses succeed remains an open
+question.
+According to Non-Reductionists, Positive Reasons is false, i.e., we
+don’t need positive reasons for thinking that a speaker’s
+testimony is reliable in order to be justified in believing what we
+are told. Instead, we have a defeasible but presumptive right to
+believe what people tell us. More specifically, Non-Reductionists
+endorse
+Presumptive Right: A hearer is justified (or
+ warranted[5])
+ in believing what a speaker says if they do not have an undefeated
+defeater that indicates that the speaker’s testimony is false or
+unlikely to be true. (Some Non-Reductionists (e.g., Goldberg &
+Henderson 2006) maintain that in addition to simply lacking any
+relevant undefeated defeaters, the hearer must also be
+counterfactually sensitive to, or on the lookout for, the
+presence of defeaters in their environment).
+Non-Reductionism traces at least as far back as Thomas Reid’s
+(IE [1983, 94–95])—see Wolterstorff (2001) for more on
+Reid’s view. More recently, various versions of Non-Reductionism
+have been defended by Austin (1946 [1979]), Welbourne (1979, 1981,
+1986, 1994), Evans (1982), A. Ross (1986), Hardwig (1985, 1991), Coady
+(1992, 1994), Burge (1993, 1997, 2013), Plantinga (1993), Stevenson
+(1993), Webb (1993), Dummett (1994), Foley (1994), McDowell (1994),
+Strawson (1994), Williamson (1996, 2000), Millgram (1997), Alvin
+Goldman (1999), Schmitt (1999), Insole (2000), Owens (2000), Rysiew
+(2000), Weiner (2003), Graham (2006a), Sosa (2006), McMyler (2011) and
+Baker and Clark (2018). See also Audi (1997, 1998, 2004, 2006), who
+defends Non-Reductionism about testimonial knowledge but not about
+testimonial justification.
+One motivation for Non-Reductionism stems from the desire to avoid the
+problems associated with the various forms of Reductionism, e.g., if
+hearers are not required to have positive reasons for thinking that
+the speaker’s testimony is reliable on this occasion,
+testimonial knowledge will not be too hard to acquire. Another
+motivation (i.e., Reid IE [1983, 94–95]) is rooted in the following
+idea: Whatever reason we have for thinking that perception is a basic
+source of justification, we have an analogous reason for thinking that
+testimony is a basic source of justification too. For instance, we can
+rely on a speaker’s testimony unless we have a good reason not
+to because humans are endowed—perhaps by God or just by
+nature—with the disposition to (a) tell the truth (b) believe
+what they are told and (c) have some sense of when a speaker is not to
+be trusted.
+However, because Non-Reductionists reject Positive Reasons, opponents
+have objected to the view on the grounds that it permits hearers to be
+irrationally gullible. For instance, recall the case in which you read
+a bit of testimony from an anonymous blogger on an arbitrary website
+(i.e., E. Fricker 2002). Or consider this situation: While on your way
+home from work you see a group of aliens from another planet drop a
+notebook written in what appears to be English. Upon reading the
+notebook, you see that the aliens seem to have testified that hungry
+tigers have eaten some of their friends (i.e., Lackey 2008:
+168–169). While these cases are different in certain respects,
+they are related by the fact that while you do not have any defeaters
+that indicate that the testimony in question is false or unlikely to
+be true, you also do not have any positive reasons for accepting what
+the speaker says. Opponents of Non-Reductionism argue that because it
+would be irrational for you to accept either of these reports, these
+cases show that Non-Reductionism is false and that in order to be
+justified in believing what a speaker says, you really do need
+positive reasons for thinking that the speaker’s testimony is
+likely to be true.
+Finally, some epistemologists reject both Reductionism and
+Non-Reductionism in favor of various hybrid views. The primary
+motivation for these hybrid views is to capture what seems promising
+about the Reductionist and Non-Reductionist approaches while also
+avoiding the objections discussed above.
+For instance, instead of endorsing Reductionism and requiring that
+all hearers must possess strong, non-testimonially based
+positive reasons for thinking that the speaker in question is
+reliable, one might opt for a qualified hybrid view according to which
+(a) adults need to possess these positive reasons but (b) youngsters
+in the developmental phase do not, i.e., children are justified in
+believing a speaker’s testimony so long as they do not have any
+reasons to not do so. One upshot of this hybrid view is that unlike
+standard versions of Reductionism, it is possible for young children
+to be justified in believing what their parents tell them. See, e.g.,
+E. Fricker (1995).
+Or, one might opt for a hybrid view according to which the hearer and
+the speaker both have an important role to play in the hearer’s
+ability to acquire testimonial justification, i.e., it takes two
+to tango, so to speak. For instance, perhaps a hearer does need
+to possess at least some non-testimonially based reasons for thinking
+that the speaker in question is a reliable testifier on this occasion.
+But insofar as the hearer’s inference from “S said
+that p” to “P” is not the only thing
+that justifies the hearer’s belief, these reasons do not need to
+be nearly as strong as standard Reductionists have made them out to
+be; that is, so long as the hearer’s non-testimonially based
+reasons render it not irrational to rely on the speaker’s
+say-so, then this is good enough. And this is because, in addition to
+the hearer having these weaker kinds of positive reasons, the speaker
+in question needs to actually be a reliable reporter. The hope here is
+that by requiring contributions from both the speaker and the hearer,
+all of the worries associated with standard versions of Reductionism
+and Non-reductionism can be avoided. For instance, by requiring that
+the speaker has these weaker kinds of positive reasons, this hybrid
+view can explain how young children can acquire testimonial
+justification while also avoiding the worries associated with
+gullibility. See, e.g., Lackey (2008). And for defenses of other
+hybrid views, see E. Fricker (2006b), Faulkner (2000), Lehrer (2006),
+and Pritchard (2006).
+Whether any of these hybrid views will ultimately succeed is still
+very much an open debate. However, opponents have worried that at
+least some of these accounts either run into the same objections that
+plagued standard versions of Reductionism and Non-Reductionism, or
+that they incur entirely new problems of their own, e.g., Insole
+(2000), Weiner (2003) and Lackey (2008).
+Consider this scenario: Gretchen knows that the bakery is closed. If
+Gretchen tells you that this is the case, and if all goes well, then
+it is uncontroversial that you can acquire testimonial knowledge that
+the bakery is closed too.
+Now, contrast that scenario with this one: Gretchen does not know that
+the bakery is closed (perhaps because she simply lacks any
+justification for believing this). Nevertheless, she testifies to you
+that the bakery is closed anyway. If you come to believe that the
+bakery is closed on the basis of Gretchen’s testimony, and if
+the bakery really is closed, then is it possible for your belief to
+amount to knowledge?
+Depending on how the details are filled in, things are much more
+controversial in this second scenario. The controversy centers on the
+following question:
+Second Big Question: Can testimony generate knowledge, or can
+it merely transmit it?
+Otherwise put, can a hearer acquire testimonial knowledge that
+p from a speaker who does not know that p
+themselves?
+Before moving on, two clarification points are in order. First, while
+much of the debate about the Transmission View has centered on whether
+testimony can only transmit knowledge, there is also some
+debate about whether testimony can transmit justification.
+(See, e.g., Audi [1997] who maintains that while testimony can
+generate justification, it can only transmit knowledge. See also
+Wright 2016a for a recent discussion of other views according to which
+testimony transmits knowledge but generates justification). Second,
+debates about knowledge transmission bear on debates about the
+Inheritance View
+ (Section 3.1.2)
+ and on the Individualism vs. Non-Individualism debate
+ (Section 4).
+According to the Transmission View, testimonial knowledge can only be
+transmitted from a speaker to a hearer. Here is one (but not the only)
+way of formulating this view in terms of necessity and
+sufficiency:
+TV-S: For every speaker, A, and hearer,
+B, if
+(See Austin 1946 [1979]; Welbourne 1979, 1981, 1986, 1994; Evans 1982;
+E. Fricker 1987; Coady 1992; McDowell 1994; Adler 1996, 2002; Owens
+2000, 2006; Burge 1993; Williamson 1996, 2000; and Audi 1997).
+TV-N: For every speaker, A, and hearer,
+B, B knows that p on the basis of
+A’s testimony only if A knows that p
+too.
+(See Welbourne 1979, 1981, 1986, 1994; Hardwig 1985, 1991; A. Ross
+1986; Burge 1993, 1997; Plantinga 1993; Williamson 1996, 2000; Audi
+1997, 1998, 2006; Owens 2000, 2006; Reynolds 2002; Adler 2002;
+Faulkner 2006; Schmitt 2006).
+One of the main motivations for the Transmission View comes from an
+alleged analogy between testimony and memory: Just as I cannot acquire
+memorial knowledge that p today if I did not know that p
+at some earlier point in time, I cannot acquire testimonial knowledge
+that p from you today if you do not know that p
+yourself. (But see Barnett 2015 for a recent discussion of the
+important differences between memory and testimony, and see Lackey
+2005b for why memory can generate knowledge.)
+Despite the intuitive and theoretical appeal, the Transmission View
+has challenged in a variety of ways.
+Opponents have raised two importantly different kinds of arguments
+against TV-N. First, suppose that there is a creationist teacher,
+Stella, who does not believe, and thus fails to know, that homo
+sapiens evolved from homo erectus (= p). That is,
+while Stella has read the relevant text books on evolutionary theory,
+her creationist commitments prevent her from believing that p
+is true. Now, suppose that during one of her biology lessons Stella
+tells her fourth grade students that p, and suppose that her
+students come to believe that p on the basis of Stella’s
+testimony.
+The argument here is that the fourth graders can come to know that
+p on the basis of Stella’s testimony even though Stella
+herself does not believe, and thus does not know, that p is
+true. Thus, TV-N is false, i.e., testimonial knowledge can be
+generated from a speaker who lacks the knowledge in question.
+(This Creationist Teacher case comes from Lackey (2008). Other school
+teacher cases have been discussed in Graham (2006a) and Carter and
+Nickel (2014). Goldberg (2005) and Pelling (2013) also give cases in
+which a speaker’s belief is unsafe and does not amount to
+knowledge even though the hearer’s belief
+ does).[6]
+While this first case involved a speaker who did not know that
+p because they did not believe it, the second type of objection
+to TV-N involves a speaker who does not know that p because
+they are not justified in believing it. For instance, consider Persia,
+who is a persistent believer in the following sense: Persia goes to
+her eye doctor, Eyal, who tells her that the eye drops she was just
+given will make her vision unreliable for the next three hours. While
+Eyal is a highly reliable testifier, he is wrong on this occasion,
+i.e., for some strange reason, the drops did not have this side-effect
+on Persia. However, while Persia has no reason to distrust Eyal, she
+ignores him on this occasion, walks out of his office, and sees a
+Badger in the parking lot. Because Persia is a persistent believer,
+she forms the true belief that there is a badger in the parking lot
+despite Eyal’s (misleading) testimony about the unreliability of
+her visual faculties. Later that day Persia runs into her friend,
+Fred, and tells him that there was a badger in the parking lot (=
+p).
+The argument here is that Eyal’s testimony constitutes an
+undefeated defeater that defeats Persia’s justification for
+believing that p. However, since Fred is completely unaware
+that Persia has the defeater, and because he has positive reasons for
+thinking that his friend is a reliable testifier, he does come to know
+that p on the basis of Persia’s say-so. Thus, TV-N is
+false (This Persistent Believer case comes from Lackey [2008]. It is
+worth noting that this case purports to show that testimonial
+justification can also be generated, i.e., Fred can acquire
+testimonial justification for believing p via Persia’s
+testimony even though Persia was not justified in believing p
+herself).
+In addition to targeting TV-N, opponents of the Transmission View have
+also targeted TV-S. Consider for instance, Quinn, who is so infatuated
+with his friend, Kevin, that he is compulsively trusting, i.e., Quinn
+believes anything that Kevin says, regardless of how outrageous
+Kevin’s claim may be. One day Kevin testifies to Quinn that he
+is moving to Brooklyn (= p). Kevin is being truthful, and he
+has terrific evidence that p is true (he is the one who is
+moving, after all). Unsurprisingly, Quinn believes what Kevin says.
+However, Quinn would also have believed Kevin even if he had massive
+amounts of evidence that Kevin was lying, or joking, or whatever.
+Opponents argue that while Kevin knows that p, Quinn does not,
+i.e., because of his compulsively trusting nature, Quinn’s
+attitude is insensitive to counterevidence in a way that precludes his
+belief from being amounting to knowledge. Thus, TV-S is false. (This
+Compulsively Trusting case comes from Lackey 2008. See also Graham
+2000b).
+Much of the recent work on whether testimony generates or transmits
+knowledge concerns carefully distinguishing between different versions
+of TV-N and TV-S, and arguing that while some versions may face the
+problems mentioned here, others do not. See, e.g., Wright (2016a).
+Consider this scenario: Your friend testifies to you that the taco
+truck is open. Because you know that your friend is almost always
+right about this kind of thing, and because you have no reason to
+doubt what they are telling you on this occasion, you believe what you
+are told.
+While it is uncontroversial that your belief is justified in this
+case, scenarios like this one have generated lots of debate about the
+following question:
+Third Big Question: When a hearer is justified in believing
+that p on the basis of a speaker’s testimony, is the
+hearer’s belief justified by evidence? And if the hearer’s
+belief is justified by evidence, where does this evidence come
+from?
+Some epistemologists maintain that our testimonially based beliefs are
+justified by evidence. However, there is disagreement about where
+exactly this evidence comes from. On the one hand, some maintain that
+this evidence must be supplied by the hearer. On the other hand, some
+maintain that this evidence must be supplied by the speaker. Let us
+consider these two views in turn.
+As we saw in
+ Section 1,
+ Reductionists maintain that because a hearer must have positive
+reasons for accepting a speaker’s testimony, testimonial
+justification can be reduced to a combination of other epistemic
+resources that the hearer possesses, i.e., the hearer’s
+memorial, perceptual, and inferential capacities. For this reason,
+Reductionists can maintain that a hearer’s testimonial-based
+beliefs are justified by evidence, where this evidence comes from the
+hearer’s inferences, i.e., inferences from the premise that the
+speaker said that p, to the conclusion that p is
+true.
+However, as we also saw in
+ Section 1,
+ Reductionists face a number of difficult challenges. For this reason,
+those who are sympathetic with an evidential approach to testimonial
+justification have offered an alternative account of how our
+testimonially based beliefs are justified.
+Instead of thinking about testimonial justification in terms of the
+evidence that a hearer possesses, some have offered an alternative
+account in which the hearer’s belief is justified by evidence
+that is supplied by the speaker. More specifically, consider
+The Inheritance
+ View:[7]
+ If a hearer acquires testimonial justification for believing that
+p on the basis of a speaker’s testimony, then the
+hearer’s belief that p is justified by whatever evidence
+is justifying the speaker’s belief that p. (See, e.g.,
+Burge 1993,
+ 1997;[8]
+ McDowell 1994; Owens 2000, 2006; Schmitt 2006; Faulkner 2011; and
+Wright 2015, 2016b, 2016c,
+ 2019[9]).
+(It is worth nothing that while this debate about evidence and
+justification is importantly different from the debate between
+Reductionists and Anti-Reductionists, some of the biggest proponents
+of the Inheritance View also endorse Anti-Reductionism, e.g., Burge
+1993, 1997.)
+To begin to get a handle on the Inheritance View, suppose that you are
+justified in believing that the taco truck is busy because your friend
+just told you so. And suppose that your friend’s belief is
+justified by some excellent evidence, i.e., they are standing in front
+of the truck and can see the long lineup. According to the Inheritance
+view, the evidence that justifies your belief comes from, or is based
+on, the very same evidence that justifies your friend’s belief,
+i.e., your belief is based on your friend’s perception of a huge
+group of people waiting to order tacos.
+Or, consider this example from David Owens (2006: 120): Suppose that
+you are justified in believing that some math theorem, T, is true
+because you just proved it yourself on the basis of some impeccable
+a priori reasoning. If you testify to me that T is true such
+that I come to acquire testimonial justification for believing that
+this is the case, then according to the Inheritance View, my belief is
+also based on your impeccable a priori
+ reasoning.[10]
+Now, while many epistemologists are sympathetic to the idea that your
+testimonial-based beliefs are justified by evidence, they disagree
+that the evidence in question is literally inherited from the speaker.
+Here are two reasons why.
+The first objection starts with the observation that a hearer can
+acquire testimonial justification for believing p even though
+the speaker’s evidence does not justify them in believing
+p. For instance, suppose that after an eye exam your
+optometrist tells you that your eyes will be dilated for a few hours
+and that your visual faculties will be unreliable during this time.
+Suppose also that as you are walking home it appears to you that there
+is a small puppy playing fetch in a field (= p). Thus, because
+you decide to completely and irrationally ignore what your doctor
+said, you decide to believe that p. Finally, suppose that
+unbeknownst to you, your doctor was a bit off and the effects of the
+eye medication have worn off such that your eyes are now functioning
+in a highly reliable way.
+Here it seems like your total evidence does not justify you in
+believing p. After all, given what your doctor said, you ought
+to think that your vision is still unreliable, i.e., your
+doctor’s testimony provides you with a defeater that makes it
+irrational for you to believe that what you are looking at is a small
+puppy (as opposed to, say, a really big kitten or an average sized
+raccoon).
+But, suppose that you decide to call and tell me that p anyway.
+Insofar as your visual faculties are actually working great, and
+insofar as I have no reason to think that your vision is screwed up,
+it does seem like I can acquire testimonial justification for
+believing that p on the basis of your say-so.
+And herein lies the problem. For if the Inheritance View is true, then
+I could not acquire testimonial justification on the basis of what you
+told me. After all, if your total evidence does not justify you in
+believing p, and if my belief is literally based on the
+evidence that you have, then I could not be justified in believing
+p either. But since I do seem to acquire testimonial
+justification for believing that p in this case, the
+Inheritance View is false. (This objection comes from Lackey’s
+[2008] Persistent Believer case. Graham (2006b) gives a similar
+objection, and Pelling (2013) offers a case in which a hearer seems to
+acquire testimonial justification from a speaker who has no good
+reason to believe what they say, but does so anyway on the basis of an
+irrational hunch.)
+To see the second problem with the Inheritance View, notice that a
+hearer can receive testimony from multiple speakers who each have
+excellent evidence for believing that p, but where their
+evidence conflicts in an important sense. For instance, suppose that
+two detectives are investigating who stole the curry from
+Sonya’s restaurant. And suppose that the first detective, Dell,
+has excellent evidence that justifies him in believing that that Steph
+is the only one who committed the crime. Thus, Dell infers that there
+is exactly one culprit. Moreover, suppose that the second detective,
+Doris, has excellent evidence that justifies her in believing that
+Seth is the only one who committed the crime. Thus, Doris also infers
+that there is exactly one culprit.
+Now, suppose that while Dell does testify to you that there is exactly
+one thief, he does not fill you in on the evidence that he has for
+thinking this. And suppose while Doris also tells you that there is
+exactly one thief, she does not fill you in on the evidence that she
+has for thinking this either. Even so, it seems like you are clearly
+justified in believing that there is exactly one culprit on the basis
+of what these detectives have told you. However—and herein lies
+the problem—if the Inheritance View is true, then it is hard to
+see how you could be justified in believing this. After all, you have
+inherited Dell’s evidence for believing that there is exactly
+one culprit (i.e., his evidence for thinking that Steph is guilty),
+and you have also inherited Doris’ evidence for thinking that
+there is exactly one culprit (i.e., her evidence for thinking that
+Seth is guilty). But taken together, your combined body of evidence
+conflicts in the sense that it does not justify you in thinking that
+there is exactly one thief. Thus, the Inheritance View is false. See
+Leonard
+ (2018).[11]
+Instead of further developing these evidential views, some
+epistemologists maintain that our testimonial-based beliefs are not
+justified by evidence. More specifically, some argue that testimonial
+justification should be understood in terms of non-evidential
+assurances, while others contend that it should be understood in terms
+of the reliability of the processes that produced the belief in
+question. Let us consider both of these positions in turn.
+According to proponents of the Assurance View (also called the
+Interpersonal View), the problem with all of the theories discussed
+above is that they do not appreciate the epistemological significance
+of the interpersonal relationship that obtains between a speaker and
+their audience in a testimonial exchange. More specifically,
+consider
+The Assurance View: Because of the interpersonal relationship
+that obtains in a testimonial exchange, if a hearer acquires
+testimonial justification for believing that p on the basis of
+a speaker’s say-so, then the hearer’s belief is justified,
+at least in
+ part,[12]
+ by the speaker’s assurance, where this assurance is
+non-evidential in nature. (A. Ross 1986; Hinchman 2005, 2014;
+Moran 2005, 2018; Faulkner 2007, 2011; Zagzebski 2012; and McMyler
+2011).
+In order to get a handle on this view, there are two things that need
+unpacking here. First, how should we understand the nature of the
+interpersonal relationship that is said to obtain in a testimonial
+exchange? And second, why is testimonial justification non-evidential
+in nature? Let us consider these questions in turn.
+First, proponents of the Assurance View maintain that the speech act
+of telling is key to understanding the relationship that a
+speaker has with their audience. This is because when a speaker
+tells their audience that p is true, she is doing much
+more than merely uttering p. Rather, she is inviting her
+audience to trust her that p is true; that is, she is assuring,
+or guaranteeing her audience that p is the case. More
+specifically, in order for a hearer to acquire testimonial
+justification, the speaker must tell them that p is true, where
+telling is understood along the following lines:
+Telling: S tells A that p iff
+The idea is that when your friend testifies to you that the ice cream
+shop is open (= p), they are not merely uttering something;
+rather, they are telling you that p. And by telling
+you that p, they are thereby assuring you that this
+really is the
+ case.[13]
+Thus, when your friend tells you that p, i.e., when conditions
+(i)–(iv) are satisfied, they have established an important,
+interpersonal relationship with you, and you alone. This is because
+you are the only one that has been assured by your friend that
+p is true.
+It is in this sense, then, that proponents of the Assurance View
+maintain that there is an important interpersonal relationship that
+obtains between a speaker and their audience.
+This brings us to the second key question about the Assurance View:
+Even if testimony should be understood in terms of the speech act of
+telling, why does this mean that testimonial justification cannot be
+understood in terms of evidence?
+The idea here is that when your friend tells you that p, they
+are assuring you that p is true, and that this assurance is
+what is justifying your belief. Moreover—and this is the
+key—these assurances are non-evidential in nature.
+Here is one way that proponents of the Assurance View have argued for
+this claim: a piece of evidence, e, counts in favor of a proposition,
+p, regardless of what anyone intends (e.g., my fingerprint at
+the ice cream shop is evidence that I was there regardless of whether
+I wanted to leave the print behind); but a speaker’s assurance
+that p only counts in favor of p because they intended
+it to, i.e., a speaker cannot unintentionally assure you of anything;
+thus, the assurances that justify your testimonial-based beliefs are
+non-evidential in
+ nature.[14]
+It is for this reason, then, that proponents of the Assurance View
+maintain that testimonial justification cannot be understood in terms
+of evidence.
+However, the Assurance View is not without problems of its own. One
+objection is that it is unclear how these non-evidential assurances
+can actually justify one’s belief. For instance, suppose that
+once again your friend tells you that the ice cream shop is
+open (= p). But suppose that unbeknownst to both of you, Evelyn
+is eavesdropping on the conversation. Thus, while your friend does not
+issue Evelyn an assurance (namely because they do not intend for her
+to believe what they say and thus fail to satisfy conditions
+(i)–(iv) in Telling), Evelyn clearly hears what your
+friend says. Finally, suppose that you and Evelyn are equally reliable
+consumers of testimony, that both of have the same background
+information about your friend, and that neither of you have any reason
+to doubt what your friend says on this occasion.
+The key question here is this: Insofar as you and Evelyn both believe
+that p because of what your friend said, epistemically
+speaking, is there any sense in which your belief is better off than
+Evelyn’s?
+Given the details of the case, it is hard to see what the important
+difference could be. Thus—and herein lies the problem—even
+though you were issued an assurance and Evelyn was not, the assurance
+in question seems epistemically superfluous, i.e., it makes no
+difference to the epistemic status of one’s belief. Thus,
+proponents of the Assurance View must explain how assurances can
+justify one’s beliefs, given that they seem epistemically inert.
+(This case comes from Lackey 2008. Owens 2006 and Schmitt 2010 raise
+similar worries).
+A second problem is that in order to make the case that testimonial
+justification is non-evidential in nature, proponents of the Assurance
+View have over-cognized what is involved in a testimonial
+exchange.
+To see why, notice that Telling requires that the speaker and
+the hearer both have the cognitive capacity to recognize that other
+people have higher-order mental states, i.e., both parties
+must be cognitively capable of recognizing that people have mental
+states about other people’s mental states. For instance, in
+order for you to satisfy all of the conditions in Telling,
+you must believe (that your friend intends [that you
+believe (that your friend is intending [that you
+acquire an epistemic reason for belief because you recognizes that you
+friend is intending to offer one)]). But decades of literature in
+developmental psychology suggest that for neuro-typical children, the
+ability to recognize that people have higher order mental states is
+not acquired until around five or six years old. Moreover, this
+literature also suggests that for people with autism, the ability to
+do this is not acquired until much later in life, if it is acquired at
+all. Thus, insofar as young children and people with autism can
+acquire testimonial justification from their parents, say, then the
+Assurance View should be rejected on the grounds that it
+problematically excludes these people from acquiring something of
+epistemic importance. See Leonard (2016).
+Testimonial Reliabilists also deny that our testimonial-based beliefs
+are justified by evidence. But instead of claiming that they are
+justified by non-evidential assurances, the idea is that:
+Testimonial
+ Reliabilism:[15]
+ A hearer’s testimonial justification consists in the
+reliability of the processes involved in the production of the
+hearer’ testimonially-based belief. (See, e.g., Graham 2000a,
+2000b,
+ 2006a;[16]
+ Goldberg 2010a; and Sosa 2010).
+To get a better handle on this view, suppose that your friend tells
+you that the concert starts in an hour and that you thereby acquire
+testimonial justification for believing that this is the case. In very
+broad strokes, Testimonial Reliabilists can explain the nature of your
+justification as follows: When it comes to concerts, your friend
+testifies truly almost all of the time; moreover, you are great at
+differentiating cases in which your friend is speaking honestly and
+when she is trying to deceive you; thus, you have testimonial
+justification in this case because the processes involved in the
+production and consumption of the testimony in question are highly
+reliable.
+It is worth noting that there are at least two important processes
+involved in a testimonial exchange. First, there are the processes
+involved in the production of the speaker’s testimony, i.e., the
+processes that are relevant to the likelihood that the testifier
+speaks the truth. Second, there are the processes involved in the
+hearer’s consumption of the testimony, i.e., the processes
+involved in the hearer being able to monitor for signs that what the
+speaker says is false or unlikely to be true. For this reason,
+Testimonial Reliabilism can be developed in a number of importantly
+different ways. For instance, one could opt for a view according to
+which a hearer’s testimonial justification for believing that
+p is only a matter of the reliability of the processes involved
+in the production of the speaker’s say-so. Or, one could opt for
+a view according to which testimonial justification only amounts to
+the reliability of the processes involved in the hearer’s
+consumption of the speaker’s testimony. Or, one could also opt
+for a view according to which all of the relevant processes matter.
+See Graham (2000a, 2000b, 2006a), Goldberg (2010a), and Sosa (2010)
+for recent defenses of Testimonial Reliabilism, and see
+ Section 4
+ for additional versions of this view as well.
+Testimonial Reliabilism is motivated by the considerations that
+support Reliabilist theories of justification more generally, as well
+as its ability to avoid the problems that plague the views discussed
+above. Nevertheless, opponents have argued that Testimonial
+Reliabilism faces at least two problems of its own.
+First, insofar as there are at least two processes involved in a
+testimonial exchange, Testimonial Reliabilists are faced with the
+substantial challenge of specifying which of these processes are
+relevant to the hearer’s testimonial justification, i.e.,
+Testimonial Reliabilists must give an account of which processes are
+relevant here, and they must do so in a way that captures every
+instance in which a hearer intuitively acquires testimonial
+justification from a speaker. (See Wright 2019, who argues that this
+is not merely an instance of the generality problem that poses a worry
+for Reliabilist views of justification more generally).
+Second, consider cases that involve one hearer and two
+sources of information. For instance, suppose that Rebecca, who
+is in fact a reliable testifier, tells you that traffic on I405 is
+bad. And suppose also that Umar, who is in fact an unreliable
+testifier, tells you that traffic on I90 is all clear. Finally,
+suppose that you do not have any reason to prefer one source of
+information over the other, i.e., for all you know, Rebecca and Umar
+are equally reliable testifiers.
+Now, consider the versions of Testimonial Reliabilism according to
+which the processes that are relevant to acquisition of testimonial
+justification are those that are involved in the speaker’s
+production of the testimony in question, as well as the hearer’s
+ability to discern when the speaker is being sincere. It seems that
+these Testimonial Reliabilists are committed to giving an
+asymmetric verdict in this case; that is, because the
+processes involved in the production of your belief based on
+Rebecca’s testimony are reliable, and because the processes
+involved in the production of your belief based on Umar’s
+testimony are not, this version of Testimonial Reliabilism is
+committed to the claim that while you do have testimonial
+justification for believing that the traffic on 1405 is bad, you do
+not have testimonial justification for believing that I90 is all
+clear.
+However, opponents have argued that this verdict is highly
+counterintuitive. After all, how could you possibly be justified in
+believing Rebecca’s testimony but not Umar’s, given that
+you have no reason to think that the former is in any way better than
+the latter? Thus, this version of Testimonial Reliabilism should be
+rejected. See Barnett (2015).
+We have seen that the evidential and non-evidential views discussed
+above offer very different takes on how our testimonial-based beliefs
+are justified. We have also seen that while these views have their
+advantages, they face some serious problems as well. Consequently,
+some epistemologists have argued that testimonial justification cannot
+be explained in a unified way. Instead, the strategy has been to offer
+hybrid views that combine various components of the accounts discussed
+above.
+For instance, some have tried to combine Reductionist and Reliabilist
+insights such that testimonial justification consists partly in the
+hearer’s evidence for accepting the speaker’s testimony,
+and partly in terms of the speaker’s and hearer’s
+reliability at producing and consuming testimony respectively, e.g.,
+Lackey (2008). Others have tried to combine insights from
+Reductionism, Reliabilism and the Inheritance View such that a
+hearer’s belief can be justified by their own evidence for
+accepting what the speaker says, or by the reliability of the
+speaker’s testimony, or by inheriting the evidence that is
+possessed by the speaker, e.g., Wright (2019). (For other hybrid
+views, see Gerken 2013 and Faulkner 2000).
+Much of the recent work on testimonial justification concerns whether
+these hybrid views ultimately succeed, or whether they run into
+problems of their own.
+Consider
+Fourth Big Question: Should testimonial justification be
+understood individualistically, or anti- individualistically?
+Some epistemologists endorse
+Individualism: A complete account of testimonial
+justification can be given by appealing to features that only have to
+do with the hearer.
+Other epistemologists endorse
+Anti-Individualism: A complete account of testimonial
+justification cannot be given by only appealing to features that have
+to do with the hearer.
+For instance, according to some Anti-Individualists, acquiring
+testimonial justification involves features having to do with both the
+hearer and the speaker. And according to other Anti-Individualists,
+acquiring testimonial justification involves features having to do
+with both the hearer and the other speakers in the hearer’s
+local environment. For various defenses of Anti-Individualism, see,
+e.g., Graham (2000b), Lackey (2008), Goldberg (2010a), Kallestrup and
+Pritchard (2012), Gerken (2013), Pritchard (2015), and Palermos
+(forthcoming).
+(Note: In formulating these two views, I am being deliberately
+open-ended about how the “features” in question should be
+understood. As we will see below, this is because the debate between
+Individualists and Anti-Individualists cuts across the other debates
+about testimonial justification that we have explored above.
+Consequently, different members of each camp will want to give
+importantly different takes on what these features amount to.)
+Suppose that Amanda tells Scott that the roller rink is open (=
+p) and that Scott thereby acquires testimonial justification
+for believing that p.
+To get a grip on one version of Individualism, recall the Reductionist
+views discussed in
+ Section 1.1.
+ According to Reductionists, testimonial justification consists in an
+inference that the hearer makes, i.e., the hearer’s inference
+from the claim that (a) the speaker said that p to the
+conclusion that (b) p is true. Thus, Reductionists are
+Individualists in the following sense: they maintain that whether or
+not a hearer acquires testimonial justification for believing p
+depends entirely on features having to do with the hearer, where these
+features include, e.g., the hearer’s perception of the speaker
+uttering p, the hearer remembering that testimony is generally
+reliable, and the hearer inferring on these grounds that what the
+speaker said on this occasion is likely to be true.
+To see a second version of Individualism, recall the our discussion of
+Testimonial Reliabilism in
+ Section 3.2.2.
+ According to some (but certainly not all) Testimonial Reliabilists,
+testimonial justification should be understood Individualistically
+because it consists only in the reliability of the cognitive processes
+that are internal to the hearer, i.e., the cognitive processes that
+take place exclusively in the mind of the hearer herself. See Alvin
+Goldman (1979, 1986) and Alston (1994, 1995).
+While we have seen a variety of problems for both of these views
+above, it is worth considering one challenge to this individualistic
+version of Testimonial Reliabilism in particular. Doing so will not
+only help shed light on why some Testimonial Reliabilists opt for an
+anti-individualistic view, it will also help illustrate how the debate
+about Individualism and Anti-Individualism cuts across the other
+debates we have considered above.
+To begin, consider these two cases from Goldberg (2010a):
+Good: Wilma has known Fred for a long time; she knows
+that he is a highly reliable speaker. So when Fred tells her that
+Barney has been at the stonecutters’ conference all day, Wilma
+believes him. (Fred appeared to her as sincere and competent as he
+normally does, and she found nothing remiss with the testimony.) In
+point of fact, Fred spoke from knowledge.
+Bad: Wilma has known Fred for a long time; she knows
+that he is a highly reliable speaker. So when Fred tells her that
+Barney has been at the stonecutters’ conference all day, Wilma
+believes him. (Fred appeared to her as sincere and competent as he
+normally does, and she found nothing remiss with the testimony.)
+However, in this case, Fred did not speak from knowledge. Instead, he
+was just making up a story about Barney, having had ulterior motives
+in getting Wilma to believe this story. (Fred has never done this
+before; it is out of his normally reliable character to do such a
+thing.) Even so, Fred’s speech contribution struck Wilma here,
+as in the good scenario, as sincere and competent; and she was not
+epistemically remiss in reaching this verdict… As luck would
+have it, though, Barney was in fact at the conference all day (though
+Fred, of course, did not know this).
+Contrasting these two cases motivates the following line of thought:
+It seems like Wilma knows that Barney was at the stonecutters’
+conference (= p) in Good but not in
+Bad. It also seems like the cognitive processes that
+are internal to Wilma are the same across both cases. Thus, insofar as
+justification is what turns an unGettiered, true belief into
+knowledge, and insofar as Wilma’s unGettiered, true belief that
+p amounts to knowledge in Good but not in
+Bad, the cognitive processes involved in the
+acquisition of testimonial justification cannot just be the ones that
+are internal to Wilma. Thus, Testimonial Reliabilists should not
+endorse Individualism. See Goldberg (2010a) for this argument.
+Contrasting the Good and Bad cases
+has motivated some Testimonial Reliabilists to endorse one version of
+Anti-Individualism. The core idea here is that insofar as testimonial
+justification should be understood in terms of the cognitive processes
+implicated in the production of the hearer’s belief that
+p, the relevant processes must include both (a) the processes
+involved in the production of the speaker’s testimony and (b)
+the processes involved in the hearer’s consumption of what the
+speaker said. For instance, the cognitive processes internal to Wilma
+were the highly reliable in both Good and
+Bad, e.g., in both cases she was equally good at
+monitoring for signs that Barney was being insincere. However, the
+processes internal to Barney that were implicated in his utterance
+that p were reliable in Good (i.e., Barney
+spoke from knowledge) but unreliable in Bad (i.e.,
+Barney uttered that p in an attempt to be deceptive). Thus, by
+giving an account of testimonial justification that requires both the
+speaker and hearer to be reliable producers and consumers of testimony
+respectively, Testimonial Reliabilists who endorse this
+Anti-Individualistic approach can explain why Wilma’s belief
+seems better off in Good than it is in
+Bad. (Goldberg [2010a] defends Anti-Individualism on
+these grounds, and Graham (2000b) and Lackey (2008) also defend
+Anti-Individualistic views by requiring that in order for a hearer to
+acquire testimonial justification, not only does the hearer need to be
+a reliable consumer of testimony, the speaker needs to be a reliable
+testifier as well. Finally, Kallestrup and Pritchard (2012), Gerken
+(2013), Pritchard (2015), and Palermos (forthcoming) have recently
+defended versions of Anti-Individualism according to which the
+testifiers in the hearer’s local environment need to be reliable
+in order for the hearer to acquire testimonial knowledge from the
+particular speaker in question).
+To see a second and importantly different version of
+Anti-Individualism, recall the Inheritance View from
+ Section 3.1.2.
+ On this view, when a hearer acquires testimonial justification for
+believing p, this is because they literally inherit the
+justification that the speaker has for believing p. Thus,
+proponents of the Inheritance View are Anti-Individualists in the
+following sense: they maintain that whether or not a hearer acquires
+testimonial justification for believing p crucially depends on
+features having to do with the speaker, i.e., whether the speaker has
+any justification for the hearer to inherit.
+Whether or not either of these Anti-Individualistic approaches will
+ultimately succeed is a topic of current debate.
+Before moving on, it is worth noting that while we have been focusing
+on testimonial justification, similar debates between
+Individualists and Anti-Individualists can be had about testimonial
+knowledge. While many epistemologists endorse Individualism
+(Anti-Individualism) about both justification and knowledge, one need
+not do so. For instance, Audi (1997) endorses Reductionism about
+justification and the Transmission View about knowledge. On this
+picture, then, Individualism is true with respect to justification
+because whether or not a hearer acquires testimonial justification
+depends solely on the inferences that they make. However,
+Anti-Individualism is true with respect to knowledge because in order
+for a hearer to acquire testimonial knowledge that p, the
+speaker must also know that p. Keeping these distinctions in
+mind further illustrates how the debate between Individualists and
+Anti-Individualists cuts across so many of the other debates we have
+seen above.
+Here is a conversation that we might have:
+And here is another:
+In both cases you have acquired testimonial knowledge. But in the
+second case it seems like your belief is better off, epistemically
+speaking. This is because in the first case your belief is based on
+the testimony of a layman who is somewhat knowledgeable about the
+topic at hand, whereas in the second case your belief is based on the
+testimony of an epistemic authority (or, someone who is both
+your epistemic superior and an expert about the domain in question).
+(See Zagzebski 2012; Jäger 2016; Croce 2018; and Constantin &
+Grundmann 2020 for more on how the notion of an epistemic authority
+should be understood.)
+But how exactly should the difference between epistemic authorities
+and everyone else be accounted for?
+Broadly speaking, those working on the epistemology of authoritative
+testimony endorse one of two accounts: Preemptive Accounts
+and Non-Preemptive Accounts. Those who endorse a Preemptive
+Account of authoritative testimony accept
+Preemption: The fact that an authority… [testifies]
+that p is a reason for me to believe that p which
+replaces my other reasons relevant to p and is not simply added
+to them. (Zagzebski 2012: 107)
+The key idea here is that when you get testimony from an authority
+that p, the authority’s testimony is now the only reason
+that you have for believing p, i.e., any other reasons you may
+have had are now preempted in the sense that they no longer count for
+or against p. Proponents of the Preemptive Account, then,
+explain the difference between authoritative and non-authoritative
+testimony as follows: Authoritative testimony can provide you with a
+preemptive reason for belief, whereas non-authoritative testimony
+cannot. For defenses of various versions of the Preemptive Account,
+see Zagzebski (2012, 2014, 2016), Keren (2007, 2014a, 2014b), Croce
+(2018) and Constantin and Grundmann (2020). See Anderson (2014),
+Dougherty (2014), Jäger (2016), Dormandy (2018), and Lackey
+(2018a) for some worries with this view.
+Those who endorse a Non-Preemptive Account of authoritative testimony
+argue that Preemption has wildly unintuitive consequences, e.g., if
+Preemption is true, then you can be justified in believing your pastor
+(who is otherwise reliable) when he tells you that women are
+inherently inferior to men (see, e.g., Lackey 2018a). Instead of
+thinking about authoritative testimony as providing preemptive reasons
+for belief, proponents of the Non-Preemptive Account take an
+authority’s testimony that p to provide a very strong
+reason to believe that p, where this reason is to be added to,
+or combined with, all of the other reasons that you have related to
+the proposition in question. See Dormandy (2018) and Lackey (2018a)
+for defenses of Non-Preemptive Accounts.
+For related debates about testimony and expertise, see Hardwig’s
+(1985) seminal paper on expert testimony in general, Alvin
+Goldman’s (2001) paper on determining which experts to trust
+when there is disagreement amongst them, and Goldberg’s (2009)
+paper that links issues in epistemology and philosophy of language by
+discussing how expert testimony bears on the semantics of technical
+terms. See also Kitcher (1993), Walton (1997), Brewer (1998) and
+Golanski (2001) for a discussion of expert testimony in the scientific
+setting, and for discussion of expert testimony in a legal setting,
+see Wells and Olson (2003).
+While much attention has been paid to issues surrounding
+individual testimony, i.e., cases in which one speaker tells
+someone that p is true, recently epistemologists have started
+exploring a number of related questions regarding group
+testimony, i.e., cases in which a group testifies to someone that
+p is true. Here is one case that motivates this line of
+research.
+Population Commission: Consider the UN Population
+Commission that was established by the Economic and Social Council of
+the United Nations in 1946. The Commission was designed to assist the
+council by arranging studies and advising the council on population
+issues, trends, developments, policies, and so on. It is also charged
+with monitoring the implementation of policies designed by the United
+Nations to regulate population and to provide recommendations to the
+council and United Nations as a whole. The commission is composed of
+47 members with a representative from almost every country in the
+United Nations. In 2002, the Commission released a report entitled
+Charting the Progress of Populations that provides information on 12
+socio-economic indicators, including total population, maternal
+mortality, infant mortality, and so on. (Tollefsen 2007:
+300–301)
+There are three things to notice here. First, consider a particular
+claim in the Charting the Progress of Populations report. For
+instance, let p be the claim that
+While the population in North America has risen, the population in
+Central America has stayed the same, and the population in South
+America has declined.
+At the time the report was released, no single member of the UN
+Population committee believed p. That is, none of the committee
+members were aware that p was true until the report was
+released and they read it for themselves.
+Second, and relatedly, before the report was released, none of the
+committee members had any evidence, or justification, for believing
+p. That is, while some members might have justifiably believed
+that the population in North America was on the rise, and while others
+might have justifiably believed that the population in South America
+was on the decline, and while others still might have justifiably
+believed that the population in Central America had stayed the same,
+given the way in which the labor was divided amongst the researchers,
+i.e., given that none of them had communicated their findings with one
+another, nobody had justification for thinking that p itself
+was true until after the report came out.
+Third, and finally, the UN Commission did seem to testify that
+p, i.e., their report did contain the group’s testimony
+about the population changes in the Americas.
+(Of course, this is not the only case that motivates the need for an
+epistemology of group testimony. Wikipedia, for instance,
+presents a number of interesting questions about what it would take
+for a group to testify, and when and why we should accept what a group
+says. See, e.g., Tollefsen 2009; Wray 2009; and Fallis 2008. Cases
+involving testimony from scientific groups also raise similar issues.
+See, e.g., Hardwig 1985 and Faulkner 2018).
+Cases like this give rise to at least five important questions. First,
+consider
+How should we understand the relationship between a group’s
+testimony that p and the testimony of the group’s
+individual members?
+On the one hand, Summativists maintain that a group’s
+testimony that p should be understood in terms of the testimony
+of some (or most, or all) of its members. On the other hand,
+Non-Summativists maintain that it is possible for a group to
+testify that p even if none of its members do. (See Tollefsen
+(2007) and Lackey (2014) for a defense of different Non-Summative
+positions).
+Relatedly, Deflationists maintain to a group’s
+testimony that p can be reduced to some individual’s
+testimony that p (regardless of whether those individuals are
+members of the group, or just mere spokesmen), whereas
+Inflationists maintain that a group itself can be a
+testifier. (See Tollefsen (2007) for a defense of the latter, and see
+Lackey’s (2014) for a deflationary account of the epistemology
+of group testimony and her (2018a) for an inflationary account of the
+nature of group assertion).
+Second, consider
+Under what conditions is a hearer justified in believing a
+group’s testimony that p?
+The debate surrounding this question is analogous to the
+Reductionist/Anti-reductionist debate about individual testimony in
+ Section 1.
+ See Tollefsen (2007) for a defense of a reductionist view.
+Third, consider
+If you are justified in believing that p on the basis of a
+group’s testimony, is your belief justified by
+evidence?
+The debate surrounding this question is analogous to the debates about
+individual testimony discussed in
+ Section 3.
+ For instance, suppose that you are justified in believing that
+p on the basis of a group’s testimony that p.
+Miranda Fricker (2012) defends an Assurance View according to which
+your belief is justified by the group’s assurance that p
+(but see Faulkner (2018) for a criticism of this view). Lackey (2014)
+defends a reliabilist account according to which your belief is
+justified by the reliability (or truth conduciveness) of the
+group’s statement that p (but see Faulkner (2018) for a
+criticism of this view too). Finally, Faulkner (2018) defends a
+qualified Inheritance View according to which your belief that
+p can be justified by the justification that the group has (or
+at least has access to).
+Fourth, consider,
+Can group testimony generate knowledge, or can it merely transmit
+it?
+The debate surrounding this question is analogous to the debates about
+individual testimony in
+ Section 2.
+ On the one hand, Faulkner (2018) defends a qualified Transmission
+View according to which you can only acquire testimonial knowledge and
+justification from a group’s testimony that p if that
+group has, or at least has access to, a body of justification
+that supports p. On the other hand, Lackey (2014) defends a
+view that is compatible with a group’s testimony generating
+knowledge and justification.
+Fifth, and finally, consider,
+What, if anything, does a group’s testimony that p
+entail about that group’s knowledge (and thus belief) that
+p?
+More specifically, suppose that a group testifies that p and
+that you come to know that p on this basis. Does the fact that
+you acquired testimonial knowledge in this case entail that groups
+themselves can be knowers (and thus believers)?
+On the one hand, John Hardwig (1985) argues for a positive answer
+here. That is, Hardwig argues that if we acknowledge that groups can
+testify, we should also acknowledge that groups themselves can be
+knowers, and thus believers too (see also Lackey (2016) for an
+argument to the effect that groups can possess justified beliefs). On
+the other hand, Faulkner (2018) argues against this line of thought
+and suggests that even if groups can testify, this does not entail
+that they possess any mental states.
+Of course, there is much more work that can, and should, be done about
+the epistemological significance of receiving testimony from
+groups.
+Until now we have been operating with an intuitive but inexact notion
+of what counts as testimony, i.e., for the most part, we have just
+been looking at cases in which speakers say stuff. But how exactly
+should the speech act of testimony be understood? That is, how should
+testimony be individuated from the other things that one can do with
+their words?
+One answer is that testimony should simply be identified with
+assertion, i.e., one testifies that p if, and only if, one
+asserts that p. (E. Fricker 1987 and Sosa (1994) offer passing
+remarks in defense of this position). But while it is widely accepted
+that one must assert that p in order to testify that p,
+there is much debate about whether asserting that p is
+sufficient for testifying that p. (See Goldberg 2010b, though,
+who argues that asserting that p is not even necessary for
+testifying that p, and see the entry on Assertion for more
+about how this speech act should be understood).
+For instance, in addition to asserting that p, one influential
+account maintains that in order to testify that p, the
+following conditions must also be met:
+Testimony: S testifies by making some statement that p
+if and only if:
+However, opponents have objected to each of T1–T3. Here is just
+one example. Some have rejected T1 on the grounds that one can testify
+that p even though the testimony itself does not provide the
+hearer with any evidence that p is true, e.g., if I tell you
+that humans spontaneously combust all the time, and insofar as you
+know that I am wildly unreliable about this issue, it seems like I
+have testified to you even though my testimony provides no evidence
+whatsoever for the proposition in question. (See E. Fricker (1995) and
+Lackey (2008). See Lackey (2008: Ch. 1) for a discussion of other
+problems with this view).
+In light of worries like these, many authors have offered alternative
+takes on how testimony should be characterized. For instance, E.
+Fricker (1995: 396–7) argues that testimony should just be
+understood in a very general sense, with “no restrictions either
+on the subject matter, or on the speaker’s epistemic relation to
+it.” (See also Audi (1997) and Sosa (1991) for views in this
+ballpark). And, as we saw in
+ Section 3.2.1,
+ proponents of the Assurance View understand testimony in terms of
+Telling.
+Graham (1997: 227) offers a different account of testimony based on
+conveying information, i.e., a speaker, S, testifies that
+p if, and only if, (i) S’s stating that p
+is offered as evidence that p (ii) S intends that his
+audience believe that he has the relevant competence, authority, or
+credentials to state truly that p and (iii) S’s
+statement that p is believed by S to be relevant to some
+question that he believes is disputed or unresolved (which may or may
+not be whether p) and is directed at those whom he believes to
+be in need of evidence on the matter. (J. Ross 1975 and Elgin (2002)
+also offer accounts that crucially hinge on the speaker’s
+statement purporting to convey information).
+And Lackey (2008: 30–32) offers a disjunctive account of
+testimony according to which we need to distinguish between
+speaker testimony and hearer testimony as
+follows.
+Speaker Testimony: S s-testifies that p by
+performing an act of communication a if and only if, in
+performing a, S reasonably intends to convey the
+information that p (in part) in virtue of a’s
+communicable content.
+Hearer Testimony: S h-testifies that p by
+making an act of communication a if and only if H,
+S’s hearer, reasonably takes a as conveying the
+information that p (in part) in virtue of a’s
+communicable content.
+One upshot of this disjunctive account is that it captures the sense
+in which testimony is often an intentional act performed by the
+speaker, as well as the sense in which testimony is a source of
+knowledge and justified belief regardless of what the speaker intended
+to say.
+Regardless of how testimony itself should be understood, all of these
+authors agree that it is possible to learn from the testimony of
+others. As we have seen, though, explaining how it is that we can
+learn from what other people tell us has proven to be a difficult
+task.

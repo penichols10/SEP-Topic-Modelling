@@ -1,0 +1,886 @@
+Humans reason: that is, taking some things to be true, they conclude
+therefrom that other things are also true. If this is done in thought,
+one performs an inference; and if this is done in speech, one makes an
+argument. Indeed, inference and argument are but two sides of the same
+coin: an argument can be thought, and hence become an inference; an
+inference can be expressed, and hence become an argument.
+Logic, at least as traditionally conceived, seeks to distinguish good
+reasoning from bad. More particularly, it seeks to identify the
+general conditions under which what one concludes is true, having
+taken other things to be true. These conditions can be sought in the
+nature of things. One asks, then, under what conditions do certain
+facts require some other fact. This perspective on reasoning is an
+ontic perspective. Next, insofar as facts are grasped in thought, one
+can also ask under what conditions does knowledge of some facts permit
+knowledge of another fact. Such conditions, once identified, would
+distinguish good inferences from bad inferences. This perspective on
+reasoning is an epistemic one. A third perspective is a dialectic one.
+Here one asks under what conditions does the acceptance by someone of
+some stated facts require him or her to accept some other stated fact.
+Such conditions distinguish good arguments from bad arguments.
+Finally, since an argument is an expression of an inference, and to
+that extent, expressed in a language, it is natural to use the forms
+of linguistic expressions to identify forms of inferences and
+arguments, thereby distinguishing forms of good inferences and
+arguments from forms of bad inferences and arguments. This perspective
+is a linguistic one. The study of reasoning in India has been from the
+ontic, epistemic and dialectic perspective, and not from the
+linguistic perspective, the perspective best known to modern
+thinkers.
+The fact that humans reason is no guarantee that those who do reflect
+on which reasoning is good and which is bad. Clearly, the activity of
+reasoning, on the one hand, and the activity of reflecting on which
+reasoning is good and which is not, on the other, are distinct, though
+naturally they are intimately related. The exposition here, while
+reporting primarily on what is explicit, will also report on what is
+implicit. In looking at the origins of reasoning in India, it is
+natural to begin with the practices in which reasoning played a role
+and which, as a result, were likely candidates for reflection. The
+obvious starting points for such practices are all forms of rational
+inquiry.
+Rational inquiry comprises the search for reasons for publicly
+accepted facts, subject to public and rational scrutiny. This activity
+involves people both severally and collectively. It involves people
+severally insofar as people, individually, are the locus of inference.
+It involves people collectively insofar as arguments, the public
+manifestation of inferences, are sharpened by the scrutiny of
+others.
+Though the origins in India of public debate (pariṣad),
+one form of rational inquiry, are not clear, we know that public
+debates were common in preclassical India, for they are frequently
+alluded to in various Upaniṣads and in the early
+Buddhist literature. Public debate is not the only form of public
+deliberations in preclassical India. Assemblies
+(pariṣad or sabhā) of various sorts,
+comprising relevant experts, were regularly convened to deliberate on
+a variety of matters, including administrative, legal and religious
+matters. As reported by Solomon (1976 ch. 3), much of the legal
+vocabulary for such deliberations includes the well-known terms of
+debate and argument found in the philosophical literature. (See also
+Preisendanz 2009.)
+By the fifth century bce, rational inquiry
+into a wide range of topics was under way, including agriculture,
+architecture, astronomy, grammar, law, logic, mathematics, medicine,
+phonology and statecraft. Aside from the world’s earliest extant
+grammar, Pāṇini’s
+Aṣṭādhyāyı̄, however, no
+works devoted to these topics actually date from this preclassical
+period. Nonetheless, scholars agree that incipient versions of the
+first extant texts on these topics were being formulated and early
+versions of them were redacted by the beginning of the common era.
+They include such texts as
+Kṛṣi-śāstra (Treatise on
+agriculture), Śilpa-śāstra
+(Treatise on architecture),
+Jyotiṣa-śāstra (Treatise on
+astronomy), Dharma-śāstra (Treatise on
+law), Caraka-saṃhitā (Caraka’s
+collection), a treatise on medicine, and
+Artha-śāstra (Treatise on wealth), a
+treatise on politics.
+Two texts from this period which are especially noteworthy for the
+study of the history of reasoning in India are
+Kathā-vatthu (Points of controversy),
+attributed to Moggaliputta Tissa, and Milinda-pañha
+(Questions of King Milinda). These texts date from around the
+third century bce. The latter text comprises a
+dialogue between the Greek Bactrian king Menander (Pali: Milinda),
+and the Buddhist monk Nāgasena. In it, King Milinda puts
+questions to Nāgasena concerning various aspects of Buddhist
+doctrine. The answers typically employ analogies, some very elaborate.
+In some cases, the king adduces pairs of statements of Buddhist
+doctrine which, he says, contradict each other. The monk typically
+replies by trying to show the alleged contradictions to be merely
+apparent. In a few cases, one or the other party makes an argument,
+typically an analogical one.
+In contrast, Kathā-vatthu is filled with arguments
+designed to show the inconsistency of some two hundred propositions
+which are at odds with the views of the Sthaviravādins, a school
+of Buddhist thought. For example, in the passage below, the
+Sthaviravādin questions his opponent, here a Pudgalavādin,
+about whether or not the soul is known truly and ultimately.
+One easily abstracts from this the following form,
+Indeed, this form is repeatedly instantiated throughout Book 1,
+Chapter 1.
+Three features of this text are important to note from the point of
+view of the history of logic. First, as the schema above shows,
+arguments are put into a canonical form. While we have no record that
+semantic ascent had taken place, there is no doubt from the arguments
+are intended to satisfy a certain form. Second, the sentences of the
+argument are logically related. The author takes for granted that the
+sentences assented to are inconsistent, corresponding to an instance
+of the following inconsistent propositional schemata of \(\alpha\),
+\(\neg \beta\), \(\alpha \rightarrow \beta\). He also takes it for
+granted that it is wrong to hold inconsistent propositions. And he
+finally presupposes that, if a sentence corresponding to propositional
+schema \(\alpha \rightarrow \beta\) is true, then the sentence
+corresponding to the propositional schema \(\neg \beta \rightarrow
+\neg \alpha\) is also true; that is, he presupposes the natural
+language counterpart to one direction of the equivalence of a
+conditional and its contrapositive. (See Ganeri 2001 for the most
+recent attempt to explicate the dialectic implicit in the text.)
+The first five hundred years of the common era also saw the redaction
+of philosophical treatises in which proponents of diverse
+philosophical and religious traditions put forth systematic versions
+of their world views. These latter works bear witness, in a number of
+different ways, to the intense interest in argumentation during this
+period. Among the diverse forms of argument from this period, one
+emerges as a canonical one. In this section, we first review the texts
+relevant to the development of logic from the end this preclassical
+period. We then turn our attention to surveying the emergence of a
+canonical argument form. Finally, we conclude with a very brief
+overview of the treatment of fallacies in arguments and of missteps in
+debate.
+The texts relevant to the study of the development of logic during
+this period may be divided into three kinds: those which have
+arguments but which do not mention or discuss either argument or
+inference as such, those which mention or discuss inference as such
+but do not mention or discuss arguments as such, and those which
+mention or discuss arguments and possibly also mention or discuss
+inference, and may even provide illustrations of either.
+During this period polemical texts, which consist almost entirely of
+arguments, start to appear. The earliest among these are texts
+attributed to Nāgārjuna (2nd century ce).
+They include
+Mūla-madhyamaka-kārikā (Basic verses on
+the middle way), Vigraha-vyāvartanı̄
+(Exclusion of disputes) and Vaidalya-prakaraṇa
+(Tract on pulverization). Then comes a text extant only in
+Chinese, Bǎi lùn (百論), a
+translation of the Sanskrit text entitled
+Śataka-śāstra (Treatise in one
+hundred verses) by Āryadeva (c. 3rd century ce),
+a student of Nāgārjuna. Many of the
+arguments in these texts are arguments by analogy; those which are not
+are often enthymemes whose omitted premisses are patently false.
+The simpler arguments by analogy are of two kinds: ones based on
+similarity (sādharmya; sārūpya)
+and others based on dissimilarity (vaidharmya;
+vairūpya). Such simple arguments involve two things,
+call them p and d, and two properties, call them H and S. An argument
+by analogy based on similarity is one where, if p and d are similar
+with respect to property H and d has property S, then p has property
+S. This gives rise to this argument schema:
+(The names for the statements have been added for ease of comparison
+with later developments to be discussed below.) Notice that, if p and
+d are not distinct, the argument is circular.
+An argument by analogy based on dissimilarity is one where, if p and d
+are dissimilar with respect to property H and d has property S, then p
+does not have property S. Here is its argument schema:
+Here the ontic version of the law of non-contradiction guarantees that
+p and d are distinct.
+The terms similarity and dissimilarity become
+technical terms in Indian logic. It is useful to bear in mind some
+syntactic and semantic features shared by both the Sanskrit terms and
+their English translations. These words express a three place
+relation, namely the relation of a thing similar to, or dissimilar
+from, another thing in some respect. When these terms are used either
+in English or in Sanskrit, the complement referring to the respect in
+which things are similar or dissimilar may be left unexpressed. It is
+this omissibility which accounts for the fact that the following two
+sentences are not contradictory: Devadatta is similar to
+Yajñadatta and Devadatta is dissimilar to
+Yajñadatta. After all, two people might be similar to one
+another, say, in temperament, but dissimilar to one another, say, in
+appearance. When the respect of similarity or dissimilarity is not
+expressed in a sentence, it must be gathered from the context.
+A pair of related terms with the same syntactic and semantic features,
+which also become technical terms in Indian logic, are the terms
+subject-like (sa-pakṣa), or similar to the
+subject, and subject-unlike (vi-pakṣa),
+or dissimilar to the subject. The Sanskrit prefixes,
+sa- and vi-, and the English adjectives,
+like and unlike, which are also English
+prepositions, express the relation of similarity and dissimilarity
+respectively.
+Two early texts which discuss inference (anumāna), but
+not argument (sādhana), are
+Ṣaṣṭi-tantra (Sixty doctrines),
+attributed Vārṣagaṇya (4th century ce),
+and Vaiśeṣika-sūtra
+(Aphorisms on individuation), a treatise of speculative
+ontology attributed to Kaṇāda (c. 1st century ce).
+Ṣaṣṭi-tantra, which survives only in
+fragments, first collected by Frauwallner (1958), later expanded by
+Steinkellner (2017 Appendix 1), defines inference
+(anumāna) as follows: To infer is to establish
+something in the remainder, on the basis of a relation and something
+perceptible . One of the text’s fragments lists six relations as
+ones which underpin an acceptable inference: the master servant
+relation (sva-svāmi-bhāva-saṃbandha), the matter alteration relation (prakṛti-vikāra-saṃbandha),
+the part whole relation (kārya-kāraṇa-saṃbandha), the cause effect relation (nimitta-naimittika-saṃbandha), the source product relation (mātrā-mātrika-saṃbandha), the
+association relation (sahacāri-saṃbandha) and the incompatibility relation (vadhya-ghātaka-saṃbandha).Though each of the relations is illustrated, no example of an inference using them is found.
+Vaiśeṣika-sūtra (Aphorisms on
+individuation) also has passages which allude to inferences
+whereby one thing is inferred on the basis of something observable
+which bears one of five relations to the thing inferred (VS 9.18;
+Jambuvijaya (ed.) 1961 p. 69; cp. VS 3.1.8), though no examples are
+given. Nonetheless, in the case of both texts, it is clear from the
+description that the inferences would have the following form:
+The best known text from this period is the Brahmanical treatise
+Nyāya-sūtra (Aphorisms on logic) by
+Gautama, also known as Akṣapāda (c. 2nd ce),
+the actual redaction of which is thought by
+some to date to the third century ce. This
+work, which comprises five books, each with two chapters, addresses
+primarily questions pertaining to epistemology and debate, though it
+also touches on other topics. A few aphorisms found in the first
+chapter of the first and second books speak of inference, but much
+more attention is devoted to debate, essentially all of both chapters
+of Book 5, the entirety of the second chapter of Book 1, and several
+aphorisms in the first chapter of Book 1. Unfortunately, the laconic
+style of the aphorisms makes it hard to get a clear idea of what is
+intended.
+Some light is shed on this work by a contemporaneous Buddhist work,
+the Vaidalya-prakaraṇa (Tract on
+pulverization), attributed to Nāgārjuna. It is
+organized around the key terms listed in the first aphorism of the
+Nyāya-sūtra (NS 1.1.1). However, it does not
+explain the terms nor does it illustrate them. Instead, it sets out
+for each term arguments intended to show its incoherence. It is
+therefore rich in arguments, most of which are analogical. The author
+also judges a number of counter arguments as fallacious, pointing out
+either that they are circular or that they lead to an infinite
+regress.
+Not all Buddhist texts from this period are hostile to argumentation.
+Two works contain short passages with lists and classificatory
+definitions of terms pertaining to debate. One is the
+Saṃdhi-nirmocana-sūtra (Aphorisms on release
+from bondage), of unknown authorship, whose original Sanskrit has
+been lost, but whose translations into Tibetan and Chinese have been
+preserved. (See Yoshimizu 2010.) The other is the
+Abhidharma-samuccaya (Compendium of the higher
+teachings), a text usually attributed to the Buddhist thinker,
+Asaṅga (5th century ce), whose fifth
+chapter has a section, its seventh, often referred to as
+Vāda-viniścaya (Settling on what debate
+is), also devoted to debate.
+In contrast, five other texts from this period not only mention and
+sometimes discuss terms pertinent to inference and debate but also
+provide illustrations of the terms. The earliest texts are two
+passages in the earliest medical work, the
+Caraka-saṃhitā, conjectured by some to have been
+redacted in its current form at the beginning of first century 
+ce.
+Another important passage occurs in the
+Yogācāra-bhūmi-śāstra
+(Treatise on the stages of the practice of yoga), a work
+traditionally attributed to Asaṅga, but now generally thought to
+be by a number of authors. The passage, usually referred to as
+Hetu-vidyā (Science of reasons), provides some
+fifty examples of simple common sense inferences, all of which are
+easily recast in the form of the inferential syllogism given above.
+The inferences are divided into five categories. While relation words
+are used for each category, the logical force of these relations is
+not made clear. The inferences provided include ones such as the
+inference of fire from smoke, of the presence of a lion from its roar,
+of being sick from unusual eating practices, as well as inferences
+more closely connected with Buddhist doctrine.
+The first work devoted entirely to argument and inference is the
+Fāng biàn xı̄n lùn
+(方便心論), or Treatise on the heart of
+means, translated into Chinese in 472 ce
+without attribution, though it later came to be attributed to
+Nāgārjuna. This text, translated into Sanskrit by G. Tucci
+(1929), is commonly known by scholars by the translation of its title
+by Tucci as Upāya-hṛdaya.
+Shortly after Asaṅga, Vasubandhu (c. 5th century ce),
+another Buddhist idealist, thought to be the
+younger brother of the Asaṅga, wrote at least three works on
+debate: Vāda-hṛdaya (Heart of debate),
+Vāda-vidhāna (Precepts of debate) and
+Vāda-vidhi (Rules of debate). These texts have
+been lost, though fragments of the latter two, some in Sanskrit, many
+in Tibetan, have been collected (Frauwallner 1933, 1957; Ono 2020).
+Another work, ascribed to Vasubandhu, which survives only in Chinese,
+is the Rúshı́ lùn
+(如實論), Treatise on truth. G. Tucci
+(1929), translating it back into Sanskrit, gave it the Sanskrit title
+Tarka-śāstra, by which it is now generally
+known. However, as has been shown recently by Ono Motoi (Ono 2020
+§1), this rendition is not correct.
+There are two other works which have passages pertinent to the study
+of the history of reasoning in India, both works attributed to
+Asaṅga. The first is the Xiǎn chàng shèng
+jiào lùn
+(顯揚聖教論), or Treatise which
+reveals and disseminates the wise teachings, which is a condensed
+version of the
+Yogācāra-bhūmi-śāstra, and the
+Shùn zhōng lùn
+(順中論), or Treatise on following the middle
+way, which seems to be a commentary on the introductory verse of
+Nāgārjuna’s
+Mūla-madhyamaka-kārikā (Katsura 1985 p.
+166).
+Having surveyed the texts from the late preclassical period pertinent
+to the study of the development of logic, we now turn to the emergence
+of a canonical Indian syllogism.
+The earliest known example of the canonical Indian syllogism is found
+in the Caraka-saṃhitā. The argument is clearly an
+analogical one. The earliest known deductive version of the syllogism
+is found in the Fāng biàn xı̄n
+lùn, or Upāya-hṛdaya; and the
+earliest known discussion of a deductive version of the syllogism is
+found in the Rúshı́ lùn, usually
+referred to as the Tarka-śāstra. A concise
+version of the the deductive version is found in Vasubandhu’s
+Vāda-vidhi.
+The Caraka-saṃhitā (CS 3.8.31), like the
+Nyāya-sūtra (NS 1.1.32), takes the syllogism to
+have five parts, the names for four of the five parts being identical;
+however, unlike the Nyāya-sūtra, the
+Caraka-saṃhitā provides an illustration.
+Observe that the first three statements in the syllogism have the form
+of the analogical syllogism using similarity as discussed above: p, the
+soul, has S, the property of being eternal, because p, the soul, has
+H, the property of being unproduced; as d, or space, has H, the
+property of being unproduced, and d, space, has S, the property of
+being eternal. However, the argument here adds two more statements:
+the first spells out the analogy between the subject of the
+proposition and the example, using the correlative expression
+as (yathā) \(\ldots\) so
+(tathā) \(\ldots\); the second restates the
+argument’s proposition.
+While Caraka-saṃhitā provides only one
+illustration of its canonical syllogism, the earliest extant
+commentary on the Nyāya-sūtra, called the
+Nyāya-bhāṣya (Commentary on
+logic), has passages in its commentary on NS 1.1.33–39,
+which permit the reconstruction of two analogical syllogisms,
+corresponding to those using similarity and using dissimilarity
+discussed above. The commentary, attributed to Vātsyāyana
+(fifth ce), also known as
+Pakṣilasvāmin, explicitly distinguishes the syllogisms as
+one based on similarity (sādharmya) and the other based
+on dissimilarity (vaidharmya) discussed earlier. (For
+details, see Gillon 2020.) The analogical syllogism based on
+similarity differs but slightly from the syllogism found in the
+Caraka-saṃhitā.
+The Fāng biàn xı̄n lùn, or
+Upāya-hṛdaya, purports to be a primer on argument
+and reasoning, listing and defining many terms. It also contains many
+arguments, several of which are analogical arguments both through
+similarity and through dissimilarity. The author of the text neither
+states what an argument is nor what its parts are. Yet, in the first
+chapter, he speaks of excessive and deficient statements and says that
+there are three kinds: deficiency of reason, deficiency of proposition
+and deficiency of example. (T1632 24.3.14–18; Gillon and Katsura
+2017 p. 215). Arguments which are not deficient in any of these ways
+is said to be complete. From the illustrations, it is clear that a
+nondeficient argument has the form: p has S, because of having H, like
+d, where d is assumed to have both H and S. In other words, a complete
+argument could be spelled out in the form whose explicit counterpart
+would be that of an analogical syllogism using similarity of the kind
+found in the polemical texts discussed earlier.
+The only argument to appear in a form with five parts is given in the
+fourth, or last, chapter (T1632 28.1.4–6). Here is the argument
+as it occurs with the labels for the parts supplied for ease
+comparison. Though the Chinese equivalent of proposition,
+reason and example appear in the text, the
+equivalents of application and conclusion do
+not.
+Note that example statement comprises two sentences: the first
+restates what is expressed in the proposition and reason statements,
+the second affirms a universal proposition, everything which is
+not perceptible by senses is eternal. The example statement
+comprises a deductively valid argument, as does the second sentence
+together with the reason and proposition statements. Surprisingly, the
+author rejects the syllogism as a bad one. The rejection is justified
+by an argument by analogy through dissimilarity.
+When we turn to the Rúshı́ lùn,
+customarily referred to as the Tarka-śāstra, we
+find the logical situation has changed. A deductive syllogism similar
+to the one just set out is endorsed. Moreover, analogical syllogisms
+are explicitly rejected. For example, the text rejects the following
+analogical syllogism (T1633 30.3.2–4).
+That the syllogism is analogical is made clear by the formulation of
+the example and application statements.
+What the text’s author advocates instead are syllogisms which
+are in fact deductively valid, similar to the syllogism cited and
+rejected in the Fāng biàn xı̄n
+lùn. Here is one example (T1633 30.3.7–10).
+This argument, like the one rejected in Fāng biàn
+xı̄n lùn, is deductively valid. The example
+statement also comprises two sentences: the first, however, affirms a
+universal proposition, If a thing is eternal, (then) it does not
+arise due to an effort, and the second states an instance of the
+universal proposition, which is distinct from the subject of the
+argument. The proposition and reason statements, together with the
+first sentence of the example statement, comprise a deductively valid
+argument.
+Moreover, we know that the author is fully aware of the
+syllogism’s logical force, for he states the three conditions,
+or three forms (tri-rūpa), which a reason must satisfy
+for the argument in which it occurs to be sound.
+three forms  (T1633 30.3.18–26):
+
+The reason you set forth is not definite because eternality and
+non-eternality appear throughout it. The reason I set forth has the
+three marks. (1) The (reason) is a property of the subject, (2) it is
+included in things similar and (3) it is excluded from things
+dissimilar. Therefore, the reason I set forth succeeds in not
+deviating, your reason does not. Therefore, your objection is
+confused. If the reason you set forth were like my reason (in this
+respect), your objection would succeed in being a proper
+objection.
+As noted by H. Ui 1929 (reported in Katsura 1985 p. 166), the earliest
+mention of the three forms appears in a brief passage in a non-logical
+text, Shùn zhōng lùn (T1565 42a12,22ff).
+However, the author of this text, said to be Asaṅga, rejects the
+criterion, a criterion thought to be of a non-Buddhist origin.
+Finally we come to Vasubandhu’s Vāda-vidhi. Here
+the endorsed argument retains the proposition and the reason, abandons
+the application and the conclusion and simplifies the example, so that
+the resulting syllogism has this form:
+It harks back to the form of the inferential syllogism mentioned
+earlier in our discussion of the
+Ṣaṣṭi-tantra and the
+Vaiśeṣika-sūtra. However, there is one
+crucial difference: Vasubandhu is absolutely clear that the example
+statement expresses an indispensability relation
+(a-vinā-bhāva: lit. not existing
+without, or sine qua non). As is clear, instances of
+this schema are deductively valid arguments.
+The obverse side of identifying a proper argument is identifying
+fallacious arguments. Fallacious arguments include, on the one hand,
+syllogisms whose reasons have been identified as specious and, on the
+other hand, counter arguments, or rejoinders, identified as
+defective.
+The Caraka-saṁhitā (CS 3.8.57) identifies
+and illustrates three kinds of arguments as defective. The first
+chapter of the fifth book of the Nyāya-sūtra (NS
+5.1) lists and briefly describes 24 arguments, which it designates as
+fallacious rejoinders (jāti). The fourth chapter of the
+Fāng biàn xı̄n lùn lists and
+describes twenty such arguments, which are either the same as, or
+similar to, the arguments identified as fallacious rejoinders in the
+chapter of the Nyāya-sūtra just mentioned.
+Surprisingly, the Fāng biàn xı̄n
+lùn treats these arguments as good rejoinders, as noted by
+Kajiyama (1989 p. 108). The most interesting treatments of fallacious
+rejoinders are those found in the Rúshı́
+lùn and in the Vāda-vidhi, where many of
+fallacious rejoinders have names which are the same as those
+exemplified in the
+Nyāya-sūtra (Ono 2020 §3.2 and §3.5).
+(See also Randle 1930 ch. 6.2 and Solomon 1976 ch. 5.)
+The Vaiśeṣika-sūtra (VS 3.1.10–11)
+and the Nyāya-sūtra (NS 1.2.4–9) name kinds
+of specious reasons (hetvābhāsa), but give
+neither examples nor explanations of what they are. Three kinds are
+listed, and even briefly discussed, in the
+Caraka-saṃhitā (CS 3.8.57). The Fāng
+biàn xı̄n lùn merely lists eight kinds.
+Three kinds are exemplified and briefly discussed both in the
+Vāda-vidhi and in the Rúshı́
+lùn. (See Randle 1930 ch. 3.5 and Solomon 1976 ch. 7.)
+Besides identifying fallacious syllogisms and rejoinders, some of
+these texts also have either extended passages or entire chapters
+devoted to the identification of behavior in debates which, when
+displayed by someone, warrants his being deemed to have lost. These
+missteps, known as grounds for defeat
+(nigraha-sthāna), range from making fallacious
+arguments to infringing the rules of debate procedure. The second
+chapter of the fifth book Nyāya-sūtra (NS 5.2)
+sets out 22 cases, as does the third chapter of the
+Rúshı́ lùn. An extended passage of
+the Caraka-saṁhı̄ta (CS 3.8.50–65)
+lists 14 cases. Asaṅga’s Hetu-vidyā has an
+extended passage which classifies them into three kinds and provides
+cases of each. (See Randle 1930 ch. 6.3 and Solomon 1976 ch. 6.)
+The Buddhist thinker, Dignāga (c. 5th – 6th century ce),
+consolidates the insights into the canonical
+deductively valid syllogism of his predecessors, and in particular
+those of his teacher, Vasubandhu, as well as deepens them. He is, in
+fact, a pivotal figure in the history of Indian logic. This section is
+divided into two parts: the first devoted to Dignāga’s
+contributions to Indian logic, especially the canonical syllogism, the
+second part summarizing other contributions from his contemporaries
+and successors, both Buddhist and non-Buddhist.
+Dignāga wrote three works pertaining to reasoning and argument.
+Unfortunately, in each case, the original Sanskrit text is not
+available. One, the Nyāya-mukha (Introduction to
+logic), is extant in Chinese translation and a Sanskrit
+manuscript is known to exist in Tibet. The remaining two are extant
+only in Tibetan translation: Hetu-cakra-ḍamaru (The
+drum wheel of reason) and his magnum opus,
+Pramāṇa-samuccaya (Compendium on epistemic
+means of cognition), four of whose six chapters are devoted to
+inference or argument.
+One idea which is particularly clear in Dignāga’s work is
+his explicit recognition that arguments which are expressed as
+syllogisms are expressions of inferences. This is reflected in his
+terms inference for oneself
+(svārtha-anumāna), which refers to the cognitive
+process expressible as a syllogism, and inference for another
+(parārtha-anumāna), which refers to the verbal
+expression of the syllogistic inference. These terms are also the
+titles of the second and third chapters of his
+Pramāṇa-samuccaya.
+Dignāga apparently enlarges the form of Vasubandhu’s
+canonical syllogism. Even though the texts just mentioned are not
+extant in Sanskrit, some of their commentaries are and some of these
+texts’ passages are found cited in existing Sanskrit works.
+Availing himself of these works, S. Katsura (2004a p. 143) has
+identified the following as an argument instantiating what
+Dignāga considers the canonical form of a good syllogism.
+Before discussing the syllogism, we must take notice of the word
+pakṣa (thesis), which Dignāga uses
+instead of pratijñā (proposition). The
+word is used both for the statement, previously called a proposition
+and now called a thesis, as well as for the factual situation it
+expresses. It is also used to refer to the grammatical subject of the
+thesis statement as well as to the thing denoted by the grammatical
+subject. (See Staal 1973 for a lucid exposition of this and other
+ambiguities in the technical terms of classical Indian logic.)
+Dignāga’s canonical syllogism, like that of Vasubandhu,
+has neither an application statement nor a conclusion statement.
+However, unlike that of Vasubandhu, it has two example statements.
+Each example statement comprises a universal statement and a phrase
+naming something. In the case of the statement of similarity example,
+the universal statement asserts that whatever has the property adduced
+as a reason (hetu) has the property to be established
+(sādhya-dharma), which is mentioned in the
+syllogism’s thesis, while the phrase names something, distinct
+from the subject (pakṣa), yet similar to it with
+respect to the property to be established
+(sādhya-dharma), and has the property adduced as the
+reason. The example named is said to be subject-like
+(sa-pakṣa). In the case of the statement of
+dissimilarity example, the universal statement asserts that whatever
+does not have the property to be established
+(sādhya-dharma) does not have the property adduced as a
+reason (hetu) and the phrase names something dissimilar to
+subject with respect to the property to be established and not having
+the property adduced as the reason. The example named here is said to
+be subject-unlike (vi-pakṣa). Finally, Dignāga
+seems to have added a word to the formulation of the universal
+statement, namely, the word observed
+(dṛṣṭa), the past passive participle of the
+verb to see (dṛś), which means not only
+to see but also to observe, to notice and even to know. Hereafter, we
+shall refer to a syllogism’s reason statement as its minor
+premiss and the universal statement in its example statement as its
+major premiss.
+Perhaps most original in Dignāga’s work on argument and
+inference is what he called the wheel of reasons
+(hetu-cakra), an equivalent alternative to the three forms of
+reason (tri-rūpa-hetu). It comprises a three by three
+matrix, which distinguishes a proper from an improper reason. It
+specifies, on the one hand, the three cases of the reason
+(hetu) occurring in some, none, or all of subject-like things
+(sa-pakṣa), and, on the other, the three cases of the
+reason (hetu) occurring in some, none, or all of
+subject-unlike things (vi-pakṣa). Letting H be the
+reason, S the subject-like things and \(\bar{\mbox{S}}\) the
+subject-unlike things, we obtain the following table.
+Dignāga identified the syllogisms corresponding to the top and
+bottom cases of the middle column as good syllogisms and those
+corresponding to the other cases as bad.
+These developments have led to a rather lively debate among scholars
+of the development of logic in early classical India. A very succinct,
+but somewhat misleading, way to put the question at the center of the
+debate is whether or not Dignāga’s canonical syllogism is
+inductive or deductive. A more cumbersome, but more precise, way to
+put the question is this: Is there a choice of a subject, of a
+property adduced as a reason, and of a property to be established
+which Dignāga would accept as constituting a good syllogism but
+which fails to satisfy the form corresponding to the canonical
+syllogism given above?
+Let us now consider those aspects of Dignāga’s treatment
+of the syllogism which are at the center of this debate. One reason to
+think that Dignāga would accept as a good syllogism one failing
+to be deductively valid might be his inclusion of the word
+observed (dṛṣṭa) in the example
+statement. In other words, one might think that Dignāga would
+accept as a good syllogism one in which, even though it is not the
+case that whatever has H has S, it is the case that whatever is
+observed to have H has S: that is to say, the major premiss pertains
+only to observed cases of H, and not for every case of H. However, no
+such syllogisms are accepted by Dignāga. Indeed, the addition of
+the word observed (dṛṣṭa) does not
+permit attributing such an idea to Dignāga, for the word is
+added, not to the major premiss’s subordinate, relative clause,
+but to its main clause. Thus, what the major premiss says is not that
+every observed instance of the reason (H) is an instance of the
+property to be established (S), but rather that every instance of the
+reason (H) is observed to be an instance of the property to be
+established (S). Moreover, if the word observed
+(dṛṣṭa) has a factive sense, that is, a
+sense which presupposes the truth of the clause into which the word is
+inserted, as do several of its English translations, for example,
+noticed, known, then the word in the statement
+leaves the truth conditions of major premiss unaffected.
+A further reason which has prompted scholars to think that included
+among the syllogisms Dignāga would accept as good ones are ones
+which might not be deductively valid is the fact that he has retained
+an example phrase in example statements, for such phrases have no
+bearing on the deductive validity of Dignāga’s canonical
+syllogism. This doubt is re-enforced by the fact that example
+statements, stripped of their example phrases, are contrapositives of
+one another. Thus, one being logically equivalent to the other is also
+logically superfluous with respect to it. Yet, Dignāga seems to
+be aware of the equivalence, for he acknowledges in his commentarial
+discussion of the three forms (PS 2.5) that the second and third forms
+are equivalent (Katsura 2000 p. 245; Katsura 2004b pp. 121–124),
+from which it follows that any two statements, one of which satisfies
+the second form and the other of which satisfies the third form are
+equivalent.
+That said, it is nonetheless perfectly reasonable to exclude some deductively valid
+syllogisms as good syllogisms. Consider, for example, a syllogism
+whose conclusion is identical with one of its premisses. It is a
+deductively valid syllogism, though it is utterly unpersuasive.
+Dignāga, like any rational thinker, would not, and did not,
+accept as a good syllogism any syllogism in which the reason (H) and
+the property to be established (S) are the same property, even if such
+syllogisms have the same form as the canonical syllogism above.
+Excluding such circular syllogisms is fully consistent with the view
+that the syllogisms accepted by Dignāga are only deductively
+valid ones. (For extensive scholarly discussion of the role of
+examples in Buddhist arguments, see the collection of articles in
+Katsura and Steinkellner (eds) 2004.)
+A good reason for Dignāga to retain an example phrase in the
+example statements of his canonical syllogism would be to exclude
+syllogisms which are patently unpersuasive, even though, like circular
+syllogisms, they are deductively valid. Consider the following
+argument:
+This syllogism, rejected as a bad syllogism by Dignāga, was put
+forth by a school of Brahmanical thinkers who held, for doctrinal
+reasons, that sound is eternal. To maintain this claim in the face of
+observation to the contrary, these thinkers maintained instead that
+what is transitory is the revelation of sound, not sound itself.
+According to them, in other words, sound is constantly present, but we
+hear it only when its presence is revealed.
+Their syllogism as stated above, though deductively valid, is utterly
+unpersuasive. The reason is that the instances of audibility (H), are
+coextensive with sound (p). Thus, there is no independent empirical
+evidence to support the universal statement that whatever is audible
+is eternal. Requiring that there be at least some thing different from
+sound which is both audible and eternal is an obvious and plausible
+way to eliminate such patently unpersuasive syllogisms. Dignāga,
+therefore, rules out the syllogism as a bad syllogism, rather than, as
+we would, accept it as a valid syllogism with an unpersuasive premiss.
+(See also Tillemans 1990.)
+But this cannot be the entire explanation of why Dignāga appears
+to insist on example phrases in example statements, for nowhere does
+he rule out as a good syllogism one which, though valid, is
+unpersuasive for want of some subject-unlike thing.
+Because of the doubts just discussed, some scholars think that
+Dignāga was not striving to work out a deductive form of
+reasoning and argument. Rather, according to some, such as Hayes
+(1980; 1988 ch. 4.2), Dignāga was seeking to develop an
+inductive form of reasoning and argument. According to others, such as
+Oetke (1994; 1996), Dignāga and some of his predecessors and
+contemporaries were striving to spell out a defeasible form of
+reasoning and argument. (See Taber 2004 for a critical assessment of
+Oetke’s view.)
+A final contribution by Dignāga is found in the sixth and final
+chapter of his Pramāṇa-samuccaya, where he
+addresses fourteen fallacious rejoinders (jāti), each
+bearing the same name as one of the fourteen treated in
+Vasubandhu’s Vāda-vidhi, though sometimes the
+argument associated with a particular name in the
+Pramāṇa-samuccaya is different from the one
+associated with the name in the Vāda-vidhi. His
+treatment is often different from, and critical of, the treatment
+found in this earlier work.
+However much scholars may disagree about Dignāga’s aim in
+the formulation of the canonical syllogism, all agree that his works
+set the framework within which subsequent Buddhist thinkers addressed
+philosophical issues pertaining to inference and debate. Thus,
+Śaṇkarasvāmin (c. 6th century ce),
+a pupil of Dignāga (Frauwallner 1961,
+140), wrote a brief manual of inference for Buddhists, called the
+Nyāya-praveśa (Beginning logic), based
+directly on Dignāga’s work. Not long thereafter,
+Dharmakı̄rti (c. 7th century ce),
+the great Buddhist metaphysician, also elaborated his views on
+inference and debate within the framework found in Dignāga.
+The canonical syllogism, treated as an inference, is that whereby one
+who knows the truth of its premisses may also come to know the truth
+of its conclusion. While the truth of a particular statement is
+thought to be known either through perception or through inference,
+how is the truth of a universal statement, such as the major premiss
+of a canonical syllogism, known? To know its truth would seem to
+require that one know of each thing which has H, whether or not it
+also has S. Yet if one knew that, one would already know by perception
+the canonical syllogism’s conclusion. As a result, inference
+would be a superfluous means of knowledge.
+The earliest classical Indian philosopher thought to have recognized
+the problem of how one comes to know the truth of a universal
+statement seems to have been Īśvarasena (Steinkellner
+1997 p. 638). He appears to have thought that knowledge of the major
+premiss is grounded in non-perception (anupalabdhi). That is,
+according to Īśvarasena, knowledge that whatever has H
+has S comes from the simple failure to perceive something which has H
+but which does not have S. (See Steinkellner 1993, where he draws on
+Steinkellner 1966.)
+However, this suggestion does not solve the problem, for reasons laid
+out in detail by Dharmakı̄rti (c. 7th century ce).
+His extensive writing on epistemology in
+general and on reason and argument in particular formed a watershed in
+classical India philosophy. Besides his magnum opus,
+Pramāṇa-vārttika (Gloss on the means of
+epistemic cognition), one of whose four chapters is devoted to
+inference (svārtha-anumāna), comprising 340
+verses and a commentary by him to it, and another devoted to argument
+(parārtha-anumāna), which comprises 285 verses,
+he wrote several smaller works, including
+Pramāṇa-viniścaya (Settling on what
+the epistemic means of cognition are), Nyāya-bindu
+(Drop of logic), Hetu-bindu (Drop of
+reason) and Vāda-nyāya (Logic of
+debate). As he makes abundantly clear in verses 13–25 and
+his commentary thereto of the chapter on inference
+(svārtha-anumāna) of his
+Pramāṇa-vārttika, the simple failure to
+perceive something which has H but which does not have S is no
+guarantee that whatever has H has S; after all, while one has never
+encountered something which has H and does not have S, what guarantee
+is there that something which has H and does not have S is not among
+the things which one has yet to encounter?
+Dharmakı̄rti’s answer was that the truth of the first
+premiss is guaranteed by either of two relations obtaining between
+properties: the causation relation (tadutpatti) and the
+identity relation (tādātmya). Unfortunately, as
+one might suspect, Dharmakı̄rti’s solution does not
+work. (See Gillon 1991; see Steinkellner 2015 for a dissenting
+view.)
+Starting with Dignāga, those interested in logic started to add
+the particle eva to the various clauses of the three forms of
+reason (tri-rūpa-hetu) (Katsura 1986).
+Dignāga’s formulation of the three forms came in for
+criticism at the hands of the Nyāya thinker, Uddyotakara (c.
+late 6th century ce), which was, in turn,
+addressed by Dharmakı̄rti, who uses the particle to express
+each of the three conditions (NB 2.5).
+Unfortunately, the precision hoped for is undermined by the ambiguity
+in the meaning of the particle eva. The particle eva
+has two principal uses: one emphatic, the other restrictive. What it
+emphasizes or restricts depends on the word after which it is placed.
+The particle in the statement of the first form applies to the
+abstract noun existence and, in its emphatic use, is well
+translated by definite or actual. The particle in
+the statement of the third form applies to the negative abstract noun
+non-existence and, in its emphatic use with negation, is best
+translated by utter or at all. (Some scholars
+translate the particle in these statements as necessary.
+There is, however, no philological justification for such a
+translation.) The particle in the second form applies to a concrete
+noun. Though here the particle could have either an emphatic or a
+restrictive use, only the restrictive use fits the context. A problem
+arises from the word subject-like (sa-pakṣa).
+It can be construed in two ways: either as including or as excluding
+the subject. If subject-like is construed as inclusive and
+the particle eva is taken as restrictive, then the second and
+third forms are logically equivalent; but the statement of the three
+forms has the rhetorical blemish of containing a logically superfluous
+form. If subject-like is taken as exclusive and the particle
+is taken as restrictive, then the three forms are inconsistent, for in
+that case the second form entails the contradictory of the first form.
+(For details, see Gillon 1999.)
+Ideas on the nature of reasoning and argumentation very similar to
+those of Dignāga’s are found in the
+Padārtha-dharma-saṃgraha (Summary of
+categories and properties), a work better known as
+Praśastapāda-bhāṣya
+(Praśastapāda’s commentary, customarily
+regarded as a commentary on the
+Vaiśeṣika-sūtra). Its author,
+Praśastapāda (c. 6th century ce),
+is a near contemporary of Dignāga. Like Dignāga,
+Praśastapāda uses the expression inference for
+another (parārtha-anumāna) to refer to
+arguments cast in a syllogistic form, thereby making clear his
+recognition that inferences, or cognitive processes, and arguments, or
+verbal expressions, are two sides of the same coin. Also like
+Dignāga, Praśastapāda adopts as a canonical
+syllogism an argument whose core is the same deductively valid
+argument as Dignāga’s. However, unlike Dignāga, he
+retains the five members for the syllogism, in keeping with the five
+members of the analogical syllogism set out by Vātsyāyana,
+though some of the names for the members are different. The following
+syllogism is reassembled from Praśastapāda’s
+treatment of inference. (See Randle 1930 p. 176.)
+(The numbers above in square brackets refer to the paragraph numbers
+of the passages containing the relevant sentences in Bronkhorst and
+Ramseier (eds) 1994.) Again, like Dignāga,
+Praśastapāda appeals to the same three conditions to
+define a proper reason as those used in the three forms of a reason.
+And finally, he identifies and classifies specious reasons in terms of
+the failure of a reason to satisfy one or other of the three
+forms.
+The question of whether the deductively valid canonical syllogism
+spread from Dignāga to Praśastapāda, or from
+Praśastapāda to Dignāga, or from some other person
+to the two of them both has yet to be decided. Whatever the answer is
+to this question, it is clear that a deductively valid version of the
+canonical syllogism came to be adopted virtually by every classical
+Indian thinker and that it made its way to China, Korea and Japan
+through the spread of Buddhism.
+It was not long before the ideas pertaining to the canonical syllogism
+became generally accepted not only by other non-Brahmanical thinkers,
+such as the Jains, but also by Brahmanical thinkers. For example, the
+Jain thinker, Jinabhadra (6th ce), a junior
+contemporary of Dignāga, wrote a commentary on the Jain thinker
+Bhadrabāhu where he took claims in the latter’s work and
+recast them in the form of the canonical argument as found in
+Dignāga’s work (Uno 2009). In addition, one finds that the
+Mı̄māṁsā thinker Kumārila
+Bhaṭṭa (c. early 7th century ce)
+adopted, without special comment, a deductively valid version of the
+canonical syllogism. His thoughts on the matter are developed at
+length in the one hundred eighty-eight verses of his
+Śloka-vārttika’s (Gloss in
+verses) Anumāna-pariccheda (Section on
+inference). At the same time, though the Nyāya thinker
+Uddyotakara argued vigorously against many of Dignāga’s
+views, he nonetheless advocated a version of the canonical syllogism
+which is deductively valid.
+In spite of the metaphysical differences which distinguished the
+various schools of thought, both Buddhist and Brahmanical, all
+thinkers came to use a naive realist’s ontology to specify the
+states of affairs in connection with the canonical syllogism.
+According to this view, the world consists of individual substances,
+or things (dravya), universals (sāmānya)
+and relations between them. The fundamental relation is the one of
+occurrence (vṛtti). The relata of this relation are
+known as substratum (dharmin) and superstratum
+(dharma) respectively. The relation has two forms: contact
+(saṃyoga) and inherence (samavāya). So,
+for example, one individual substance, a pot, may occur on another,
+say the reason, by the relation of contact. In this case, the pot is
+the superstratum and the reason is the substratum. Or, a universal,
+say treeness, may occur in an individual substance, say an individual
+tree, by the relation of inherence. Here, treeness, the superstratum,
+inheres in the individual tree, the substratum. The converse of the
+relation of occurrence is the relation of possession. In addition, the
+relation of pervasion (vyāpti), or what had also been
+referred to as the relation of indispensability
+(a-vinā-bhāva), can also be defined in terms of
+the occurrence relation: one superstratum pervades another just in
+case wherever the second occurs the first occurs. The converse of the
+pervasion relation is the concomitance relation (anvaya) and
+its contrapositive is exclusion (vyatireka). As a result of
+these relations, the world embodies a structure: if one superstratum,
+designated as H, is concomitant with another superstratum, designated
+as S, and if a particular substratum, say p, possesses the former
+superstratum, then it possesses the second. This structure is the one
+which underlies the classical Indian canonical syllogism.
+Though the canonical syllogism is central to the development of
+reflection on argument and reasoning in preclassical and classical
+India, other forms of argument were also recognized as good. One form,
+as mentioned above, is reductio ad absurdum
+(prasaṅga). Others include suppositional reasoning
+(tarka) (Bagchi 1953) and a form of reasoning akin to what
+contemporaries would call disjunctive syllogism
+(arthāpatti) (Keating (ed.) 2020). At the same time,
+there are forms of argument, different from the fallacious rejoinders
+and specious reasons, which were also regarded as bad. They include
+arguments which lead to an infinite regress
+(anavasthā), mentioned above, as well as various forms
+of circularity. Finally, there are two important forms of argument:
+one peculiar to Buddhists, known as the tetralemma
+(catuṣkoṭi), and the other peculiar to the Jains
+(syādvāda).

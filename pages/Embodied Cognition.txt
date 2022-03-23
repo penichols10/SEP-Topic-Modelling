@@ -1,0 +1,1326 @@
+The ontological and methodological commitments of traditional
+computational cognitive science, which have been in play since at
+least the mid-Twentieth Century, are by now well understood. Early or
+influential applications of computationalism to cognition include
+theories of language acquisition (Chomsky 1959), attention (Broadbent
+1958), problem solving (Newell, Shaw, and Simon 1958), attention, memory (Sternberg 1969), and perception (Marr 1982).
+Common to all computationally-oriented research is the idea that
+cognition involves a step-wise series of events, beginning with the
+transduction of stimulus energy into a symbolic expression, followed
+by transformations of this expression according to various rules, the
+result of which is a particular output—a grammatical linguistic
+utterance, isolation of one stream of words from another, a solution
+to a logic problem, the identification of a stimulus as being among a
+set of memorized stimuli, or a 3-D perception of the world
+The symbolic expressions over which cognitive processes operate, as
+well as the rules according to which these operations proceed, appear
+as representational states internal to the cognizing agent. They are
+individuated in terms of what they are about (phonemes, light
+intensity, edges, shapes, etc.). All of this cognitive activity takes
+place in the agent’s nervous system. It is in virtue of the
+activation of the nervous system that stimuli become encoded into a
+“mentalese” language of thought, akin to the programming
+languages found in ordinary computers; similarly, the rules dictating
+the manipulation of symbols in the language of thought are like the
+instructions that a C.P.U. executes in the course of carrying out a
+task. Rather than running spread sheets or displaying Tetris pieces,
+the computational brain produces language, or perceives the world, or
+retrieves items from memory. The methods of computational cognitive
+science reflect these ontological commitments. Experiments are designed
+to reveal the content of representational states or to uncover the
+steps by which mental algorithms transform input into output.
+So pervasive has this computational conception of cognition been over
+the past decades that many cognitive scientists would be happy to
+identify cognition with computation, giving little thought to the
+possibility of alternatives. Certainly the great strides toward
+understanding cognition that the advent of computationalism has made
+possible invites the idea that computational cognitive science, if not
+the only game in town, is likely the best. However, ecological
+psychology, which J.J. Gibson (1966; 1979) began to develop around the
+time that computationalism came to dominate psychological practice,
+rejected nearly every plank of the information processing model of
+cognition that computational cognitive science epitomizes. More
+recently, connectionist cognitive science has challenged the symbolist
+commitments of computationalism even while conceding a role for
+computational processes. Both ecological psychology and connectionist
+psychology have played significant roles in the rise of embodied
+cognition and so a brief discussion of their points of influence is
+necessary to understand the “embodied turn.” Likewise,
+some embodied cognition researchers draw on a very different source
+for inspiration—the phenomenological tradition with special
+attention to Merleau-Ponty’s contributions. The next three
+subsections examine these various strands of influence.
+A primary disagreement between computational and ecological
+psychologists concerns the nature of the stimuli to which organisms
+are exposed. Computationalists largely regard these stimuli as, in
+Chomsky’s terminology, impoverished (Chomsky 1980). The
+linguistic utterances to which an infant comes in contact do not, on
+their own, contain sufficient information to indicate the grammar of a
+language. Similarly, the visual information present in the light that
+stimulates an organism’s retina does not, on its own, specify
+the layout of surfaces in the organism’s environment. Visual
+perception faces an “inverse optics” problem. For any
+pattern of light on a retina, there exists an infinite number of
+possible distal surfaces capable of producing that pattern. The visual
+system thus seems to confront an impossible task—while it is
+possible to calculate the pattern of light a reflecting surface will
+produce on the retina, the inverse of this problem appears to be
+unsolvable, and yet visual systems solve it all the time and,
+phenomenologically speaking, immediately.
+Computationalists regard the inescapable poverty of stimuli as
+placing on cognitive systems a need to draw inferences. Just as
+background knowledge allows you to infer from the footprints in the
+snow that a deer has passed by, cognitive systems, according to
+computationalists, rely on sub-conscious background knowledge to infer
+what the world is like given the partial clues the stimuli offer. The
+perception of an object’s size, for instance, would, according to
+the computationalist, be inferred on the basis of the size of the
+retinal image of the object together with knowledge of the
+object’s distance from the viewer. Perception of an
+object’s shape, similarly, is inferred from the shape of the
+retinal image along with knowledge of the object’s orientation
+relative to the viewer.
+Ecological psychologists, on the other hand, deny that organisms
+encounter impoverished stimuli (Michaels and Palatinus 2014). Such a
+view, they believe, falsely identifies whole sensory systems with
+their parts—with eyes, or with retinal images, or with brain
+activity. Visual perceptual processes, for instance, are not exclusive
+to the eye or even the brain, but involve the whole organism as it
+moves about its environment. The motions of an organism create an
+ever-changing pattern of stimulation in which invariant features
+surface. The detection of these invariants, according to the
+ecological psychologist, provides all the information necessary for
+perception. Perception of an object’s shape, for instance,
+becomes apparent as a result of detecting the kinds of transformations
+in the stimulus pattern that occur when approaching or moving around
+the object. The edges of a square, for instance, will create patterns
+of light quite different from those that a diamond would reflect as
+one moves toward or around a square, thus eliminating the need for
+rule-guided inferences, drawing upon background knowledge, to
+distinguish the square from a diamond. Insights like these have
+encouraged embodied cognition proponents to seek explanations of
+cognition that minimize or disavow entirely the role of inference and,
+hence, the need for computation. Just as perception, according to the
+ecological psychologist, is an extended process involving whole
+organisms in motion through their environments, the same may well be
+true for many other cognitive achievements.
+Connectionist systems offer a means of computation that, in many
+cases, eschews the symbolist commitments of computational cognitive
+science. In contrast to the computer that operates on symbols on the
+basis of internally stored rules, a connectionist system consists in
+networks of nodes that excite or inhibit each other’s activity
+according to weighted connections between them. Different stimuli will
+affect input nodes differently, causing distinct patterns of
+activation in deeper layers of nodes depending on the values of
+activation that the input nodes send upstream. The result of this
+activity will reveal itself in the activation values of a final layer
+of nodes—the output nodes.
+Connectionist networks thus compute—they transform input
+activation values into output activation values—but the
+imputation of symbolic structures within this computational process,
+as well as explicit rules by which a C.P.U. executes operations upon
+these symbols, appears unfounded. As Hatfield (1991) describes
+connectionist networks, they are non-cognitive, in the sense
+that their operation involves none of the trappings of cognition upon
+which computationalists insist, and yet still computational, insofar
+as stimulation of their input nodes creates patterns of activation
+that lead to particular activation values in output nodes. For more on
+ connectionism generally, see the entry on 
+ connectionism.
+ 
+Many embodied cognition researchers saw in connectionist networks a
+new way to conceptualize cognition and, accordingly, to explain
+cognitive processes. Non-symbolic explanations of cognition, despite
+the “only game in town” mantra of computationalists (Fodor
+1987), might be possible after all. Adding momentum to the
+connectionist challenge was the realization that the mathematics of
+dynamical systems theory could often illuminate the unfolding patterns
+of activity in connectionist networks and could as well be extended to
+include within its explanatory scope the body-environment interactions
+between which connectionist networks reside. Consequently, some
+embodied cognition researchers have argued that dynamical systems
+theory offers the best framework from which to
+understand cognition.
+Another source of inspiration for embodied cognition is the
+phenomenological tradition. Phenomenology investigates the nature and
+structure of our conscious, lived experiences. Although the subject of
+phenomenological analyses can vary widely from perception to
+imagination, emotion, willing, and intentional physical movements, all
+phenomenological analyses aim to elucidate the intentional structure
+of consciousness. They do so by analyzing our conscious experiences in
+terms of temporal, spatial, attentional, kinesthetic, social, and self
+awareness. In contrast to computational accounts of the mind that
+model consciousness in terms of input, processing, and output,
+phenomenological accounts ground consciousness in a host of rich and
+varied attentional experiences, which with practice can be described
+and analyzed. For more on phenomenology, see
+ see the entry on 
+ phenomenology.
+ 
+Some variations of embodied cognition are inspired by the works of
+phenomenologists like Martin Heidegger (1975), Edmund Husserl (1929),
+and Maurice Merleau-Ponty (1962) who emphasize the physical embodiment
+of our conscious cognitive experiences. These thinkers analyze the
+various ways in which our bodies shape our thoughts and how we
+experience our conscious activities. Some even argue that
+consciousness is constituted by embodiment. Merleau-Ponty,
+for example, argues that consciousness itself is embodied:
+Insofar as, when I reflect on the essence of subjectivity, I find it
+bound up with that of the body and that of the world, this is because
+my existence as subjectivity [= consciousness] is merely one with my
+existence as a body and with the existence of the world, and because
+the subject that I am, when taken concretely, is inseparable from this
+body and this world (Merleau-Ponty 1962, p. 408).
+This phenomenological influence can be seen clearly in embodied
+cognition analyses of the relation between mind and body. These
+analyses reject the idea that mentality is fundamentally different and
+separate from physicality and the corollary idea that others’
+mentality is somehow hidden from view. Inspired by Husserl and other
+phenomenologists, embodied cognition proponents argue that
+Cartesian-style analyses of the mind and the body fundamentally
+misconstrue cognition (Gallagher and Zahavi, 2008). Cognition is not
+purely or even typically an intellectual, solipsistic introspection in
+the way Descartes’ Meditations suggest. Rather, cognition is
+physically interactive, embedded in physical contexts, and manifested
+in physical bodies. Even contemporary philosophers and cognitive
+scientists who reject mind-body dualism may fall into the trap of
+intuitively regarding mental and physical as distinct and thereby
+accept the idea that we must infer the existence and nature of other
+minds from indirect cues. From the perspective that phenomenologists
+favor, however, all cognition is embodied and interactive and embedded
+in dynamically changing environments. Attention to the way in which our
+own conscious experiences are structured by our bodies and environments
+reveals that there is no substantial distinction between mind and body.
+The embodiment of cognition makes our own and others’ minds just
+as observable as any other feature of the world. In other words,
+phenomenological analysis of our conscious experiences reveals the
+Mind-Body Problem and Problem of Other Minds to be merely illusory
+problems. This phenomenological analysis of the relation between mind
+and body and our relation to other minds deeply influenced proponents
+of embodied cognition such as Shaun Gallagher (2005), Dan Zahavi
+(2005), and Evan Thompson (2010).
+Unlike computational cognitive science, the commitments of which can
+be readily identified, embodied cognition is better characterized as a
+research program with no clear defining features other than the tenet
+that computational cognitive science has failed to appreciate the
+body’s significance in cognitive processing and to do so requires
+a dramatic re-conceptualization of the nature of cognition and how it
+must be investigated. Different researchers view the body’s
+significance for cognition as entailing different consequences for the
+subject matter and practice of cognitive science. Nevertheless, through
+this very broad diversity of views it is possible to extract three
+major themes around which discussion of embodied cognition can be
+organized (see Shapiro 2012; 2019a).
+The three themes of embodiment around which most of the following
+discussion will be organized are as follows.
+Conceptualization: The properties of an
+organism’s body limit or constrain the concepts an organism can
+acquire. That is, the concepts by which an organism understands its
+environment depend on the nature of its body in such a way that
+differently embodied organisms would understand their environments
+differently.
+Replacement: The array of computationally-inspired
+concepts, including symbol, representation, and
+inference, on which traditional cognitive science has drawn
+must be abandoned in favor of others that are better-suited to the
+investigation of bodily-informed cognitive systems.
+Constitution: The body (and, perhaps, parts of the
+world) does more than merely contribute causally to cognitive
+processes: it plays a constitutive role in cognition, literally as a
+part of a cognitive system. Thus, cognitive systems consist in more
+than just the nervous system and sensory organs.
+The theses above are not intended to be individually
+exclusive—embodied cognition research might show tendencies
+toward more than one at a time. Similarly, descriptions of embodied
+cognition might be organized around a larger number of narrower themes
+(M. Wilson 2002); however, efforts to broaden the themes, thereby
+reducing their number, risks generalizing the description of embodied
+cognition to the extent that its purported novelty is jeopardized.
+Before examining how these themes receive expression, it is worth
+pausing to compare embodied cognition to some closely related research
+areas. Sometimes embodied cognition is distinguished from
+embedded cognition, as well as extended cognition and
+enactive cognition. However, despite the distinctions between
+the four “Es”—embodied, embedded, enactive, and
+extended—it is not uncommon to use the label
+“embodied” to include any or all of these
+“Es”. The E-fields share the view, after all, that the
+brain-centrism of traditional cognitive science, as well as its
+dependence on the computer for inspiration, stands in the way of a
+correct understanding of cognition.
+Embedded cognition assumes that cognitive tasks—dividing a
+number into fractions, navigating a large ship, retrieving the correct
+book from a shelf—require some quantity of cognitive effort.
+The cognitive “load” that a task requires can be reduced
+when the agent embeds herself within an appropriately designed
+physical or social environment. For instance, Martin and Schwartz
+(2005) found that children are more successful at calculating ¼
+of 8 when allowed to manipulate pie pieces than if only viewing the
+pieces. The cognitive load required to navigate a large Navy vessel
+exceeds the capacity of any single individual, but can be distributed
+across a number of specialists, each with his or her own particular
+task (Hutchins 1996). Arranging books on a shelf alphabetically makes
+searching for a particular title much easier than it would be if the
+books were simply set randomly upon the shelf. In all of these cases,
+the cognitive capacities of an individual are enhanced when provided
+with the opportunity to interact with features of a suitably organized
+physical or social environment.
+Close kin to embedded cognition, extended cognition moves from the
+claim that cognition is embedded to claim additionally that the
+environmental and social resources that enhance the cognitive
+capacities of an agent are in fact constituents of a larger
+cognitive system, rather than merely useful tools for a cognitive
+system that retains its traditional location wholly within an
+agent’s nervous system (Clark and Chalmers 1998; Menary 2008).
+Some interpret the thesis of extended cognition to mean that cognition
+actually takes place outside the nervous system—within the
+extra-cranial resources involved in the cognitive task (Adams and
+Aizawa 2001; 2008; 2009; 2010). Others interpret the thesis more
+modestly, as claiming that parts of an agent’s environment or
+body should be construed as parts of a cognitive system, even if
+cognition does not take place within these parts, thus extending
+cognitive systems beyond the agent’s nervous system (Clark and
+Chalmers 1998; Wilson 1994; Wilson and Clark 2001).
+Enactivism is the view that cognition emerges from or is constituted
+by sensorimotor activity. Currently, there are three distinct strands
+of enactivism (Ward, Silverman, and Villalobos 2017). Autopoietic
+Enactivism conceives of cognition in terms of the biodynamics of living
+systems (Varela, Thompson, and Rosch 2017; Di Paolo 2005). Just as a
+bacterium is created and maintained by processes that span the organism
+and environment, so too is cognition generated and specified through
+operation of sensorimotor processes that crisscross the brain, body,
+and world. On this version of enactivism, there is no bright line
+between mental processes and non-mental biological processes. The
+former simply are an enriched version of the latter. Sensorimotor
+Enactivism is another strand of enactivism that focuses on explaining
+the intentionality and phenomenology of perceptual experiences in
+particular (O'Regan and Noë 2001; Noë 2004). This view holds
+that perception consists in active exploration of the environment,
+which establishes patterns of dependence between our movements, sensory
+states, and the world. Perceivers need not build and manipulate
+internal models of the external world. Instead, they need only
+skillfully exploit sensorimotor dependences that their exploratory
+activities reveal. Finally, Radical Enactivism aims to replace all
+representational explanations of cognition with embodied, interactive
+explanations (Hutto and Myin 2013; Chemero 2011). The primary tactic
+guiding Radical Enactivism is to deconstruct and eliminate the notion
+of mental content in cognitive science. This tactic manifests in
+critiques of attempts to naturalize intentionality, redescribing
+cognitive processes studied in mainstream cognitive science, and
+challenging concepts employed even by closely related views, such as
+Autopoietic Enactivism’s notion of sensemaking (Chemero 2016).
+These three strands of enactivism vary in their target explanations and
+methodology, however they share the commitment to the idea that
+cognition emerges from sensorimotor activity.
+Returning now to the three themes around which this discussion of
+embodied cognition is organized, the first is Conceptualization.
+According to Conceptualization, the concepts by which organisms
+recognize and categorize objects in the world, reason and draw
+inferences, and communicate with each other, are heavily
+body-dependent. The morphological properties of an agent’s body
+will constrain and inform the meaning of its concepts. The claim that
+concepts are embodied in this way has been defended via quite distinct
+routes.
+Lakoff and Johnson (1980; 1999) offered an early and influential
+defense of Conceptualization. Their argument begins with the plausible
+premise that human beings rely extensively upon metaphorical reasoning
+when learning or developing an understanding of unfamiliar concepts.
+Imagine, for instance, trying to explain to a child the meaning of
+election. Drawing a connection between election and a
+concept the child already understands, like foot race, makes
+the job easier. The “elections are races” metaphor provides
+a kind of scaffolding for introducing and explaining the content of the
+election concept. Candidates are like runners hoping
+to win the race. They will adopt various strategies.
+They must be careful not to start too fast or they might
+burn out before reaching the finish line. It’s about
+endurance through the long stretch—more a
+marathon than a sprint. Some will play
+dirty, trying to trip others up, knocking them off their
+stride. There will be sore losers but also
+graceful winners. Appeal to the content of a familiar
+concept—foot race—provides the child with a
+framework or stance for learning the unfamiliar
+concept—election.
+The next step toward the embodiment of concepts proceeds with the
+observation that, through pain of regress, not all concepts can be
+acquired through metaphorical scaffolding. There must be a class of
+basic concepts that (if not innate) we learn some other way.
+Lakoff and Johnson argue that these basic concepts derive from the
+kinds of “direct physical experience” (1980: 57) that come
+from moving a human body through the environment. The concept
+up, for instance, is basic, emerging from possession of a body
+that stands erect, so that “[a]lmost every movement we make
+involves a motor program that either changes our up-down orientation,
+maintains it, presupposes it, or takes it into account in some
+way” (1980, 56). Lakoff and Johnson offer a similar account for
+how human beings come to possess concepts like front,
+back, pushing, pulling, and so on.
+Basic concepts reflect the idiosyncrasies of particular kinds of
+bodies. Insofar as less-basic concepts depend upon metaphorical
+extensions of these most basic concepts, they will in turn reflect the
+idiosyncrasies of particular kinds of bodies. All concepts, Lakoff and
+Johnson appear to believe, are “stamped” with the
+body’s imprint as the characteristics of the body “trickle
+up” into more abstract concepts. They thus arrive at
+Conceptualization: “the peculiar nature of our bodies shapes our
+very possibilities for conceptualization and categorization”
+(1999, 19). Insofar as this is true, one should expect that
+differently-bodied organisms, equipped with a different class of basic
+concepts, would conceptualize and categorize their worlds in nonhuman
+ways.
+Although Lakoff and Johnson see Conceptualization as incompatible with
+computational cognitive science, their grounds for doing so are
+tenuous. Metaphorical reasoning consists in applying aspects of one
+concept’s content to that of another. Because such reasoning is
+explicitly about content, and because computationalism is a theory
+about how to process mental states in virtue of their content, Lakoff
+and Johnson’s antagonism toward computationalism seems
+unwarranted. Additionally, their case for Conceptualization remains
+largely a priori. They claim that organisms morphologically
+distinct from human beings—spherical in shape, say—would
+be unable to develop some human concepts (1980, 57), but with no such
+beings available to test, this assertion is entirely speculative.
+A far more developed and empirically grounded case for
+Conceptualization comes from psychological and neurological studies
+that show a connection between a subject’s use of a concept and
+activity in the subject’s sensorimotor systems. Arising from
+these studies is a view of concepts as containing within their content
+facts about the sensorimotor particularities of their possessors.
+Because these particularities reflect the properties of an
+organism’s body—how, for instance, it moves its limbs when
+interacting with the world—the content of its concepts too will
+be constrained and informed by the nature of its body.
+Central to the idea that concepts are embodied is the description of
+such concepts as modal. This label is intended to make stark
+the anti-computationalism that proponents of embodied concepts
+endorse. Symbols in a computer—strings of 1s and 0s—are
+amodal, in the sense that their relationship to their
+contents is arbitrary. Words too are amodal symbols. The symbol
+‘lake’ means lake, but not in virtue of any
+resemblance or nomological connection it bears towards lakes. There is
+no reason that ‘lake’, rather than some other symbol,
+should mean lake—as is obvious when thinking about
+words that mean lake in non-English languages. All mental
+symbols, from the perspective of computational cognitive science, are
+amodal in this sense.
+Modal symbols, on the other hand, retain information about the
+sources of their origin. They are not just symbols, but, in
+Barsalou’s (1999; Barsalou et al. 2003) terminology,
+perceptual symbols. Thoughts about a lake, for instance,
+consist in activation of the sensorimotor areas of the brain that had
+been activated during previous encounters with actual lakes. A
+lake thought re-activates areas of visual cortex that respond
+to visual information corresponding to lakes; areas of auditory cortex
+that respond to auditory information corresponding to lakes; areas of
+motor cortex that correspond to actions typically associated with lakes
+(although this activation is suppressed so that it does not lead to
+actual motion), and so on. The result is a lake concept that
+reflects the kinds of sensory and motor activities that are unique to
+human bodies and sensory systems. Lake means something like
+“thing that looks like this, sounds like this,
+smells like this, allows me to swim within it like
+this”. Moreover, because how things look and sound
+depend on the properties of sensory systems, and because the
+interactions something affords depends on the properties of motor
+systems, concepts will be body-specific.
+Much of the evidence for the modality of concepts arises from
+demonstrations of an orientation-dependent spatial compatibility
+effect (OSC) (Symes, Ellis, and Tucker 2007). Tucker and Ellis
+(1998), for instance, asked subjects to judge whether a given object,
+e.g., a pan, was right-side-up or upside down. The object was oriented
+either rightwards or leftwards. So, for instance, the pan’s
+handle extended toward the right or left. Subjects would indicate
+whether the object was right-side-up or upside down by pressing a
+button to their right with their right index finger or to their left
+with their left index finger. Subjects’ reaction times were
+shorter when using a right finger to indicate a response when the
+object was oriented to the right than when oriented toward the left,
+and, mutatis mutandis, for left-finger responses when the
+object was oriented to the left. Despite the fact that subjects were
+not asked to consider horizontal orientation of the stimulus object,
+this orientation influenced response times (for related work on the
+OSC, see Tucker and Ellis 2001; 2004).
+Relatedly, Glenberg and Kaschak (2002) showed an action-sentence
+compatibility effect (ASC) Subjects were asked to judge the
+sensibility of sentences like “open the drawer” or
+“close the drawer.” Sentences of the first kind suggested
+actions that would require a motion of the hand toward the body and
+sentences of the second kind suggested actions with motions away from
+the body. Subjects would indicate the sensibility of the sentence by
+pressing a button that required a hand motion either away from the body
+or toward the body. Glenberg and Kaschak found that reaction times were
+shorter when the response motion was compatible with the motion
+suggested by the action sentences.
+Both the OSC and ASC effects have been taken to show that concepts
+are modal. Thoughts about pans, for instance, activate areas in motor
+cortex that would be activated when actually manipulating a pan.
+Subjects are slower to respond to a leftward oriented pan with their
+right finger, because seeing the pan’s orientation activates
+motor areas in the brain associated with grasping the pan with the left
+hand, priming a left finger response while inhibiting a right finger
+response. Similarly, the meaning of words like “open” and
+“close” include in their content the kinds of motor
+activity that would be involved in opening or closing motions. The
+meaning of object concepts thus contain information about how objects
+might be manipulated by bodies like ours; action concepts
+consist, in part, of information about how bodies like ours
+move.
+Further evidence for the claim that concepts are packed with
+sensorimotor information comes from Edmiston and Lupyan (2017), who
+asked subjects questions that required for their answers either
+“encyclopedic” knowledge—“Does a swan lay
+eggs?”—or visual knowledge—“Does a swan have a
+beak?”. Interestingly, they found that visual interference
+during the task would diminish performance on questions requiring
+visual knowledge but not encyclopedic knowledge. They took this as
+evidence for the embodiment of concepts insofar as the effect of
+visual interference would be expected if concepts were modal—if,
+in this case, they involved the activation of vision centers in the
+brain—but not if concepts were amodal symbols, divorced from
+their sensorimotor origins.
+A final source of evidence for embodied concepts comes from
+neurological investigations that reveal activation in the sensorimotor
+areas of the brain associated with particular actions. Reading a word
+like ‘kick’ or ‘punch’ causes activity in
+motor areas of the brain associated with kicking and punching
+(Pulvermüller 2005). Stimulation of these areas by transcranial
+magnetic stimulation can affect comprehension of such words
+(Pulvermüller 2005; Buccino et al. 2005). Again, results like
+these are precisely what an embodied theory of concepts would predict
+but would be unexpected on standard computational amodal theories of
+concepts. If the concept kick includes in its content motions
+distinctive of a human leg, as determined by activity in the motor
+cortex, then, as Conceptualization entails, it shows the imprint of a
+specific sort of embodiment.
+Critics of embodied concepts have issued a number of challenges.
+Most basically, one might question whether empirical studies like those
+just mentioned are targeting concepts at all. Why think, for instance,
+that the meaning of the concept pan includes information about
+how pans must be grasped; and that the meaning of open
+includes information about how an arm should move? Claims like these
+seem inattentive to a distinction between a concept and a
+conception (Rey 1983; 1985; Shapiro 2019a). The meaning of the
+concept bachelor, for instance, is unmarried male.
+But apart from this concept is a conception of a bachelor,
+where a conception involves something like typical or representative
+features. A bachelor conception might include things like being a
+lothario, or being young, or participating in bro-culture. These
+concepts are associated with the concept bachelor,
+but not actually part of the meaning of the concept. Similarly, that
+pans might be grasped so, or opening involves moving
+an arm like so, might not be part of the meaning of the
+concepts pan and open, but instead features of
+one’s conception of pans and one’s conception of how to
+open things.
+Just as defenders of embodied concepts might not be investigating
+concepts after all, but instead only conceptions—only features
+associated with concepts—it may be that the motor
+activity that accompanies thoughts about concepts does not contribute
+to the meaning of a concept but is instead only associated with the
+concept. The psychologists Mahon and Caramazza (2008) argue for this
+way of interpreting the neurological studies taken to support of
+embodied concepts. The finding that exposure to the word
+‘kick’ causes activity in the motor areas of the brain
+responsible for kicking does not show that kick is a modal
+concept. Mahon and Caramazza suggest that linguistic processing of a
+word might create a cascade of activity that flows to areas of the
+brain that are associated with the meaning of the word. A
+thought about kick is associated with thoughts about moving
+one’s leg, which in turn causes activity in the motor system,
+but there is no motivation for regarding this activity as part of the
+kick concept—no motivation for seeing it as evidence
+for the modality of the concept (Mahon 2015). Thinking about a kick
+causes one to think about moving one’s leg, which causes
+activity in motor cortex, but the meaning of kick is
+independent of such activity.
+Finally, even granting the modality of concepts like pan
+and kick, one might question whether all concepts
+are embodied, as some embodied cognition researchers suggest (Barsalou
+1999). Of special concern are abstract concepts like
+democracy, justice, and morality (Dove 2009;
+2016). Unlike pan, the meaning of which might involve
+information from sensory and motor systems, what sensory and motor
+activity might be included in the meaning of justice? Barsalou
+(2008) and Barsalou and Wiemer-Hastings (2005) offer an account of how
+abstract concepts might be analyzed in modal terms, but debate over the
+issue is far from settled.
+Many who take an embodied perspective on cognition believe that the
+commitments of traditional cognitive science must be jettisoned and
+replaced with something else. No more computation, no more
+representation, no more manipulation of symbols. Researchers who
+promote the complete replacement of traditional cognitive science tend
+to show the influence of ecological psychology. Less radical are
+arguments for abandoning some elements of traditional cognitive
+science, for instance the idea that cognition is a product of
+rule-guided inference, while retaining others, e.g., the idea that
+cognition still involves representational states. This position has
+roots in the connectionist alternative to computationalism discussed
+in §1.2. Support for Replacement arrives from several
+directions.
+Early ventures in robotics took on board the idea that cognition is
+computation over symbolic representations. The robot Shakey
+(1966–1972) for instance, created at the Artificial Intelligence
+Laboratory at what was then the Stanford Research Institute, was
+programmed to navigate through a room, avoiding or pushing blocks of
+various shapes and colors. Guiding Shakey’s behavior was a
+program, called STRIPS, which operated on symbolically encoded images
+of the blocks, combining them with stored descriptions of
+Shakey’s world. As the roboticist Brooks characterizes
+Shakey’s architecture, it cycles through iterations of
+sense-model-plan-act sequences (Brooks 1991a). A camera senses the
+environment, a computer builds a symbolic model of the environment
+from the camera images, the STRIPS program combines the model with
+stored symbolic descriptions of the environment, creating plans for a
+course of action. Shakey’s progress was slow—some tasks
+would take days to complete—and heavily dependent on an
+environment carefully structured to make images easier to process.
+Brooks’s approach to robotics disavows the computational
+principles on which Shakey was designed, embracing instead a
+Gibsonian-inspired architecture. The result has been robots that
+exhibit far more versatility than Shakey ever displayed—robots
+that can roam cluttered environments, avoiding obstacles, setting goals
+for themselves, collecting soda cans for recycling, and more.
+Brooks’s “Creatures” run on what he calls a
+subsumption architecture. Rather than cycling through
+sense-model-plan-act sequences, Creatures contain arrays of sensors
+that are connected directly to behavior-generating mechanisms. For
+instance, the sensors on Brooks’s robot Allen were connected
+directly to three different kinds of behavior-generators: Avoid,
+Wander, and Explore. When sensors detected an object in Allen’s
+path, the Avoid mechanism would cause Allen to stop its forward
+motion, turn, and then proceed. The Wander generator would simply send
+Allen along a random heading, while the Explore generator would steer
+Allen toward a selected target. The three kinds of activity
+layers as Brooks called them, continually compete with each
+other. For instance, if Allen were Wandering and came across an
+obstacle, Avoid would step in and prevent Allen from a
+collision. Explore could inhibit Wander’s activation in order to
+keep Allen on course toward a target. From the competitive
+interactions of the three layers emerged unexpectedly flexible and
+seemingly goal-oriented behavior.
+According to Brooks, his Creatures have no need for representations.
+Implementing an idea from ecological psychology, Brooks says that the
+activity layers in his robots connect “perception to action
+directly” (1991b, 144). A robot designed in this way need not
+represent the world because it is able to “use the world as its
+own model” (1991b, 139). The robot’s behavior evolves
+through a continuous loop: the body moves, which changes the
+stimulation its sensors receive, which directly causes new movement,
+and so on. Because nothing stands “in between” the sensory
+signals and the robot’s behavior, there is no need for something
+that plays the standard intermediating role of a representational
+state. The robot does not require, for instance, a model of its
+environment in order to navigate through hallways. The move-sense loop
+does its job without one.
+Despite the success of Brooks’s robots in comparison to their
+computational ancestors, and the impact Brooks’s ideas have had
+on industry (e.g., Roomba vacuum cleaners), whether Brooks’s
+insights pave the way for a radical, representation-free, cognitive
+science, as some enactivists like Chemero (2009) and Hutto and Myin
+(2013) believe, is far from certain. A first question concerns whether
+the behavior of Brooks’s Creatures really proceeds without the
+benefit of representational states. The sensors with which the
+Creatures are equipped, after all, send signals to the various
+activity layers so that the layers can respond to objects in the
+environment. Moreover, the various layers communicate with each other
+in order to modulate each other’s activities. They are, in
+effect, signaling each other with messages that seem to have a
+semantics: “go ahead,” or “stop!”.
+Skeptics about representation, such as Chemero (2009) and Hutto and
+Myin (2013) focus on the continuous contact that Brooks’s
+Creatures bear to their environments as a reason to deny a role for
+representation. Because a Creature is in constant contact with the
+world, it does not need to represent the world. But constant contact
+does not always obviate a need for representation. Consider, for
+instance, that an organism might be in constant contact with many
+features of its environment—sunlight, humidity, oxygen, the
+gravitational pull of the moon, and so on. Yet, surely it will be
+sensitive to only some of these features—only some of these
+features will shape the organism’s behavior. A natural way to
+describe how some features make a difference to an organism while
+others do not might appeal to representation—an organism
+detects some features, represents them, and not others.
+Whether detection of this sort must involve representation will depend
+on the theory of representation that one adopts. One might therefore
+see the success of Brooks’s challenge to representation, and the
+enactivists’ embrace of the challenge, as hostage to a theory of
+representation, the details of which will no doubt themselves be
+controversial.
+Another response to Brooks’s work doubts whether something like
+the subsumption architecture, even granting that it makes no use of
+representations, can “scale up”—can produce the more
+advanced sorts of behavior that cognitive scientists typically
+investigate (Shapiro 2007). Matthen (2014) argues that once we move
+just a little beyond the capabilities of Brooks’s Creatures,
+explanations of behavior will require an appeal to
+representations. For instance, imagine an organism that knows how to
+move from point A to point B, and from point A to point
+C, and on the basis of this knowledge, “figures out”
+how to move from point B to point C (Matthen 2014). It would
+seem that such an organism must possess a representation of the
+relations between points A, B, and C for such a
+calculation to be possible.
+Clark and Toribio (1994) describe some cognitive tasks as
+“representation-hungry.” Examples include imagining or
+thinking about non-existent entities (e.g., unicorns) or
+counterfactual states of affairs (what would happen if I sawed through
+the tree in this direction?). Of necessity, an organism cannot be in
+constant contact with non-existents. That human beings so readily and
+often entertain such thoughts poses a difficulty for enactivists like
+Chemero and Hutto and Myin who see in Brooks’s “world as
+its own model” slogan a foundation for all or most
+cognition. Because the world contains no unicorns, using the world as
+a model cannot explain thoughts about unicorns.
+Around the turn of the century, some cognitive scientists (Beer 2000;
+2003; Kelso 1995; Thelen and Smith 1993; Thelen et al. 2001) and
+philosophers (Van Gelder 1995; 1998) began to advocate for dynamical
+systems approaches cognition. Van Gelder (1995; 1998) argued that the
+computer, as the defining metaphor for cognitive systems, should be
+replaced with something more like the Watt’s centrifugal
+governor. A centrifugal governor regulates the speed of a steam engine
+by modulating the opening of a steam valve. As the valve opens, a
+spindle to which flyballs are connected spins faster, causing the
+flyballs to rise, which then cause the steam valve to close,
+decreasing the speed at which the spindle spins, causing the flyballs
+to drop, thus opening the steam valve, and so on. Whereas a
+computational solution to maintaining engine speed might represent the
+engine’s current speed, compare it to a representation of the
+engine’s desired speed, and then calculate and correct for the
+difference, the centrifugal governor does its job without having to
+represent or calculate anything (although some have argued that
+representations are indeed present in the governor: Bechtel 1998;
+Prinz and Barsalou 2000).
+The centrifugal governor is an example of a dynamical system. Typical
+of dynamical systems is behavior that changes continuously through
+time—the height of the flyballs, the speed of the spindle, and
+the size of the steam valve opening all change continuously through
+time, and the rate of change in each effects the rate of change of the
+others. Dynamical systems theory provides the mathematical
+apparatus—differential and difference equations—to model
+dynamical systems. It is to these equations that dynamical
+cognitive science looks for explanations of cognition.
+Among the most-cited examples of a dynamical explanation of cognition
+is the Haken-Kelso-Bunz (HKB) model of coordination dynamics (Haken,
+Kelso, and Bunz 1985; Kelso 1995). This model, consisting of a single
+differential equation, captures the dynamics of coordinated finger
+wagging. Subjects are asked to wag their right and left index fingers
+either in-phase, where each finger moves toward and away from each
+other, or out-of-phase, like windshield wipers. As the rate of finger
+wagging increases, out-of-phase motion will “flip” to
+in-phase motion, but motion that starts in-phase will remain
+in-phase. In dynamical terms, the coordination of finger wagging has
+two attractors, or regions of stability, at slower speeds
+(in-phase and out-of-phase) but only one attractor at a higher speed
+(in-phase). The HKB model makes a number of predictions borne out by
+observation, for instance that there are only two stable wagging
+patterns at lower speeds, that erratic fluctuations in coordination
+will occur near the critical threshold at which out-of-phase wagging
+transforms to in-phase, and that deviations from out-of-phase wagging
+will take longer to correct near the speed of transformation to
+in-phase (see Chemero 2001 discussion).
+Other influential examples of dynamical explanations of cognition have
+focused on the coordination of infants’ legs for stepping
+behavior (Thelen and Smith 1993), perseverative reaching behavior in
+infants (Thelen et al. 2001), and categorization in a simulated agent
+(Beer 2003). Authors of these studies have been explicit in their
+belief that traditional cognitive science should be replaced with the
+commitments of dynamical cognitive science. Among these commitments is
+a rejection of representation as a necessary component of cognition as
+well as a view of cognition as “unfolding” from the
+continuous interactions between an organism’s brain, body, and
+environment rather than as emerging from discrete, rule-guided,
+algorithmic steps. This latter commitment returns us to the theme of
+embodiment. As Thelen et al. explain:
+To say that cognition is embodied means that it arises from bodily
+interactions with the world. From this point of view, cognition
+depends on the kinds of experiences that come from having a body with
+particular perceptual and motor capabilities that are inseparably
+linked and that together form the matrix within which reasoning,
+memory, emotion, language, and all other aspects of mental life are
+meshed” (2001, 1).
+Of course, computational cognitive scientists can accept as well that
+cognition “arises from bodily interactions with the
+world,” in the sense that the inputs to cognitive processes
+often arise from bodily interactions with the world. Thelen et
+al. (2001) must then mean something more than that. Presumably, the
+idea is that the body is like a component in a centrifugal governor,
+and cognition arises from the continuous interactions between the
+body, the brain, and the world. Spivey, another prominent dynamical
+cognitive scientist, puts matters like this: “For the new
+psychology on the horizon, perhaps we are ready to discard the
+metaphor of the mind as computer…and replace it with a
+treatment of the mind as a natural continuous event” (2007, 29),
+much as, presumably, how the regulation of a steam engine’s
+speed is the result of the continuous interactions of the components
+of a centrifugal governor.
+One challenge facing dynamical approaches to cognition echoes that
+confronting roboticists like Brooks. Just as the principles underlying
+the subsumption architecture may not scale-up in ways that can explain
+more advanced cognitive capacities, so too one might wonder whether
+dynamical approaches to such capacities will succeed. Perhaps finger
+wagging and infant stepping behavior are not instances of cognition in
+the first place, or are so only in an attenuated sense (Shapiro 2007;
+2013), in which case any lessons learned from their investigation have
+little relevance to cognitive science.
+Or perhaps as dynamical cognitive scientists examine more explicitly
+cognitive phenomena, they will find themselves in need of tools
+associated with standard cognitive science. Spivey, a pioneer of
+dynamical systems approaches, is on friendly terms with the idea of
+representations. Dietrich and Markman (2001) have argued that even
+behavior like coordinated finger wagging depends on representation,
+although perhaps not a conception of representation as
+“thick” as one usually attributed to
+computationalism. Once again, it is evident that resolving some of the
+controversy surrounding the Replacement thesis hinges on the theory of
+representation that one adopts.
+Another criticism of dynamical cognitive science questions whether the
+differential equations that are offered as explanations of cognitive
+phenomena are genuinely explanatory. Chemero (2001) and Beer (2003)
+insist that they are. The equations can be used to
+predict the behavior of organisms as well as to address
+counterfactuals about behavior (how would the organism have
+behaved if such and such had occurred?)—both hallmarks of
+explanation. Dietrich and Markman (2001), on the other hand, argue that
+the equations offer only descriptions of phenomena rather than
+explaining them (see also Eliasmith 1996; van Leeuwen 2005). Spivey,
+despite his devotion to dynamical cognitive science, shares this view.
+Dynamical systems theory, he thinks, does not explain cognition. Its
+utility consists in “modeling how the mind works”
+(2007, 33, his emphasis). He continues:
+The emergence of mind takes place in the medium of patterns of
+activation across neuronal cell assemblies in conjunction with the
+interaction of their attached sensors (eyes, ears, etc.) and effectors
+(hands, speech apparatus, etc.) with the environment in which they are
+embedded. Make no mistake about it, that is the stuff of
+which human minds are made: brains, bodies, and
+environments. Trajectories through high-dimensional state spaces are
+merely convenient ways for scientists to describe, visualize, and
+model what is going on in those brains, bodies, and
+environments” (2007, 33, his emphasis).
+However, as Zednik (2011) has noted (see also Clark 1997 and Bechtel
+1998), the differential equations on which dynamical explanations
+depend contain terms that permit interpretation. This is what turns a
+piece of pure mathematics into applied mathematics, which routinely is
+understood as describing causal processes (Sauer 2010). As an instance
+of applied (rather than pure) mathematics, The Lotka Volterra
+equations, for instance, do indeed explain the dynamics of
+predator-prey populations when their terms are taken to refer to
+predation rate and reproductive rate. The equations
+reveal how predation affects the size of the prey population,
+and how depletion in the prey population affects the size of
+the predator population, and how reproduction restores the
+prey population. So, Spivey may be right that the “stuff”
+of minds consists in brains, bodies, and environments, but this does
+not preclude the differential equations that describe these
+interactions from being explanatory. They are
+explanatory because they describe how brains, bodies, and
+environments interact and the consequences ensuing from these
+interactions.
+Baking powder is a constituent of a scone, and its presence causes the
+scone to rise when baked. A hot oven is also a cause of the
+scone’s rising, but it is not a constituent of the scone. You
+eat baking powder when you eat a scone, but you do not eat a hot oven.
+According to computational cognitive science, the constituents of a
+cognitive system are brain processes, where these processes are
+performing computations. The causes of cognition will be whatever
+causes these brain processes—stimulation to the body from the
+environment, for instance. Many embodied cognition theorists believe
+that this account of the constituents of cognition is incorrect. The
+constituents of a cognitive system extend beyond the brain, to include
+the body and the environment. A difficulty for this view is justifying
+the claim that the body and world are better construed as constituents
+of cognition rather than causes. Why are they more like baking powder
+than a hot oven?
+The previous discussion of dynamic cognitive science serves also to
+illustrate the Constitution theme. As the quotation above from Spivey
+indicated, dynamically-oriented cognitive scientists regard cognition
+to be the product of interactions between brain, body, and world. The
+continuous interactions between these things, Chemero writes, explains
+why “dynamically-minded cognitive scientists do not assume that
+an animal must represent the world to interact with it. Instead, they
+think of the animal and the relevant parts of the environment as
+together comprising a single, coupled system” (2001, 142).
+Chemero continues this idea: “It is only for convenience (and
+from habit) that we think of the organism and environment as separate;
+in fact, they are best thought of as comprising just one
+system…the animal and environment are not separate to begin
+with” (2001, 142).
+Chemero’s description of the animal and environment as coupled
+is ubiquitous in dynamical cognitive science. Coupling is a technical
+notion. The behaviors of objects are coupled when the differential
+equations that describe the behavior of one contains a term that
+refers to the behavior of the other. The equations that apply to the
+centrifugal governor, for instance, contain terms referring to the
+height of the flyballs and the size of the steam valve opening. The
+Lotka Volterra equations contain terms that refer to the number of
+predators and the number of prey. The co-occurrence of terms in the
+equations that describe a dynamical system shows that the behavior of
+the objects to which they refer are co-dependent. They are thus
+usefully construed as constituents of a single system—a system
+held together by the interactions of parts whose relationships are
+captured in coupled differential equations.
+In addition to the technical sense of coupling, philosophers often
+appeal to a looser sense when defending Constitution. Clark, for
+instance, discusses the process of writing. When writing, “[i]t
+is not always that fully formed thoughts get committed to paper.
+Rather, the paper provides a medium in which, this time via some kind
+of coupled neural-scribbling-reading unfolding, we are enabled to
+explore ways of thinking that might otherwise be unavailable to
+us” (2008, 126). Clark’s idea is that the cognitive system
+that produces writing extends beyond a subject’s brain, to
+include among its constituents the paper on which words are written.
+The paper and the acts of reading and writing are literally parts of
+the cognitive process, no less than neural processes, because of the
+continuous interactions between all of these things. If it were
+possible to provide differential equations that describe the
+production of writing, they would include terms referring to the
+behaviors of each of these things. Thus, the reasoning that brings us
+to the conclusion that the components of a centrifugal governor are
+constituents of a single system, and that predator and prey are
+constituents of single system, leads also to the conclusion that the
+constituents of many cognitive systems will include parts of the body
+and world.
+The coupling concept underlies some arguments for extended
+cognition. When brain processes are coupled to processes in the
+body or world, either in the technical sense deriving from dyamical
+systems theory or in the less strict sense involving loops of
+dependency, the resulting “brain+” is itself a single
+cognitive system. It is a cognitive system that extends beyond the
+head because the constituents of the system are not brain-bound.
+Adams and Aizawa (2008; 2009; 2010) have objected to coupling-inspired
+defenses of Constitution, and hence the idea of extended cognition, on
+the grounds that they commit a
+coupling-constitution fallacy: “The pattern of
+reasoning here involves moving from the observation that process X
+is in some way causally connected (coupled) to a process Y of type
+j to the conclusion that X is part of the process of type
+j” (2009, 81). They argue that this reasoning leads to
+absurd results. For instance, “[i]t is the interaction of the
+spinning bowling ball with the surface of the alley that leads to all
+the pins falling. Still, the process of the ball’s spinning does
+not extend into the surface of the alley or the pins (2009,
+83). Similarly, Adams and Aizawa would claim, the process of cognition
+does not extend into the paper and scribblings involved in
+writing.
+This response is unlikely to impress supporters of coupling arguments
+for Constitution. Firstly, coupling arguments require that process
+X be more than simply causally connected to process Y of type
+j for X to be part of the j process. Suppose that process
+Y of type j is the production of a written paragraph on a
+piece of paper. Let X be the sound of the pencil as it leaves
+graphite on the surface of the paper. The sound is causally connected
+to the production of writing, but defenders of Constitution need not
+regard it as a constituent in the system of that results in the
+written paragraph. The sound does not contribute to the
+“loop”—neural events, scribbling, reading—from
+which the paragraph emerges. So, not just any causal connections
+suffice for constituency in a process.
+Second, Clark and other defenders of Constitution would not claim that
+the writing process itself occurs in the constituents of the
+cognitive system that produces writing. Certainly the bowling
+ball’s spinning does not extend into the floor of the alley, and
+of course the writing process does not extend into a piece of paper.
+But the Constitution thesis is not committed to such claims (Shapiro
+2019a). Just as one can say that a neuron is a constituent of a brain
+even if cognition does not take place in a neuron, it might make sense
+to say that the floor of the alley is a constituent in a system that
+results in the ball’s spinning even if spinning does not take
+place in the floor, and the paper is a constituent in a system that
+produces writing even if the writing process does not take place
+in the paper. Such conclusions, even if ultimately
+unwarranted, do not fail for the reasons Adams and Aizawa muster.
+Apart from coupling arguments, some philosophers, e.g., Clark and
+Chalmers (1998) and Clark (2008), have defended the idea that
+cognitive systems include constituents outside the brain by appeal to
+a
+parity principle, whereas Wilson (2004) invokes the idea of
+wide computationalism. The arguments are similar, both seeking
+to reveal how a functionalist commitment to mental states or processes
+licenses the possibility of cognitive processes that extend beyond the
+brain.
+The parity principle says “[i]f, as we confront some task, a
+part of the world functions as a process which, were it done in the
+head, we would have no hesitation in recognizing as part of the
+cognitive process, then that part of the world is…part of the
+cognitive process” (Clark 2008, 222). As illustration, Clark and
+Chalmers (1998) compare the occurrent beliefs of Otto, who is
+afflicted with Alzheimer’s disease, to those of Inga, who has a
+normal biological brain. Otto keeps a notebook containing information
+of the sort that would be stored in the hippocampus of a normally
+functioning brain. When Inga wants to visit MoMA, she pulls from her
+biological memory the information that MoMA is on 53rd
+St. which prompts her to take a subway to the destination. When Otto
+has the same desire, he consults his notebook in which is written
+“MoMA is on 53rd St.”, which in turn induces
+his trip to that location. By stipulation, the representation of
+MoMA’s location in Otto’s notebook plays an identical
+functional role to the representation in Inga’s brain. Hence, by
+the parity principle, the notebook entry is a memory—an
+occurrent belief about the location of MoMA. The notebook is thus home
+to constituents of many of Otto’s cognitive processes.
+In a similar vein, Wilson (2004) discusses a person who wishes to
+solve a multiplication problem involving two large
+numbers. Calculating the product “in the head” is a
+possibility, but solving the problem with the aid of pencil and paper
+would be much easier. In the latter case, Wilson claims that the brain
+“offloads” onto the paper some of the work that it would
+otherwise have to do on its own. Crucial to Wilson’s argument is
+the idea that solving the multiplication problem is a computational
+process and that computational processes are not confined to
+particular spatial regions. When the multiplication problem is solved
+“in the head” the computational processes occur within the
+brain alone. But some of the steps in the computation could as well
+take place outside the head, on a piece of paper, in which case a
+computational process might partly occur outside the head. There is,
+then, a parity in the two processes, whether the particular
+computations are internal or external to the agent. To the extent that
+this is plausible, one can find additional support for
+Constitution.
+Most criticism of extended cognition has been aimed at Clark and
+Chalmers’s original proposal, although because Wilson’s
+position is similar, it is as much victim to these criticisms insofar
+as they succeed. Among the most vocal critics are Adams and Aizawa
+(2001; 2008; 2009; 2010), who argue that extended cognitive systems
+like those involving Otto and his notebook or a person doing
+multiplication with a paper and pencil, cannot actually be cognitive
+because they fail to satisfy two “marks” of the cognitive.
+The first mark is that “cognitive states must involve intrinsic,
+non-derived content” (Adams and Aizawa 2001, 48). The second is
+that cognitive systems must display processes of sufficient uniformity
+to fall within the domain of a single science (Adams and Aizawa
+2010).
+The intrinsic content criterion assumes a distinction between content
+that is derived from human thought, as the content of the word
+‘martini’ is derived from thoughts about martinis, and
+content that arises “on its own” without having to depend
+on some other contentful state for its origin. The thought
+martini, for instance, presumably does not (or need not)
+derive from other contentful states but arises from some naturalistic
+process involving relationships between brain states and martinis
+(relationships that it is the business of a naturalistic theory of
+content to specify). Words, maps, signs, and so on possess derived,
+non-intrinsic content whereas thoughts have intrinsic, non-derived,
+original content. Granting this distinction and its importance
+for identifying genuinely cognitive states and processes, Adams and
+Aizawa dismiss the plausibility of extended cognition on the grounds
+that things like notebook entries and numerals written on paper do not
+have intrinsic content.
+Clark (2010) responds to this objection, in part pressing Adams and
+Aizawa to clarify how much intrinsic content must be present in a
+system for the system to qualify as cognitive. After all, brains, if
+anything, are cognitive systems but not all activity occurring in a
+brain involves states or processes with intrinsic
+content. Accordingly, Clark wonders, why should the fact that some
+elements of the Otto+ notebook system, because they lack
+intrinsic content, preclude the system from counting as cognitive?
+Adams and Adams propose in response that “if you have a process
+that involves no intrinsic content, then the condition rules that the
+process is non-cognitive (2010, 70). However, this response leaves
+open whether Otto+ notebook constitutes a cognitive system. Because
+Otto’s brain does indeed contain states and processes that
+“involve” intrinsic content—states and processes by
+which the notebook entries are read and understood and used to guide
+behavior—Clark can readily accept Adams and Aizawa’s
+stipulation. Some of the Otto+ notebook system involves intrinsic
+content, some does not, and the cognitive system as a whole
+incorporates both these elements.
+The second mark of the mental that Adams and Aizawa take to preclude
+systems like Otto+ notebook from counting as cognitive raises issues
+concerning the identification of scientific domains. If one supposes,
+reasonably enough, that the objects, processes, properties, etc. that
+fall into the domain of a particular science do so in virtue of sharing
+particular features, then one should expect the same for the domain of
+cognitive science. The parts, properties, and activities taking place
+in brains do seem to share important features, features that explain
+how it is possible to identify brains in newly discovered species, how
+they differ from igneous rocks, and so on. But now suppose that
+cognitive systems can be extended in ways that Clark, Chalmers and
+Wilson have argued. Such systems would now contain constituents that
+could not possibly fit into the domain of a single science. Extended
+systems might include notebooks, or pencil and paper, or tools of just
+about any sort. “[F]or this reason,” Adams and Aizawa
+argue, “a would-be brain-tool science would have to cover more
+than just a multiplicity of causal processes. It would have to cover a
+genuine motley” (2010, 76).
+Rupert (2004) shares a similar concern, noting that the processes by
+which Otto and Inga locate MoMA differ so considerably that it makes
+no sense to treat them as of a kind—as within the domain of a
+single science. Additionally, Rupert argues, there is no good reason
+to regard the various implements that combine with brain activity to
+be constituents of a cognitive system rather than simply tools that
+cognitive systems use to ease the processing they require to complete
+some task. Instead of insisting that cognitive systems extend, Rupert
+asks, why not regard them as seeking ways to embed themselves among
+tools that make their jobs easier? An axe does not become part of a
+person when she uses it to chop down a tree, why does a notebook
+become part of cognitive system when a brain uses it to locate MoMA? A
+sensible conservatism, Rupert thinks, speaks in favor of seeing
+cognitive systems as embedded in environments that allow ready use of
+tools to reduce their workloads, rather than as constituted, in part,
+by such tools. The hypothesis that cognitive systems use tools
+“is significantly less radical” (2004, 7) than the
+hypothesis that tools are constituents of cognitive systems and would
+seem to provide adequate explanations for all the phenomena that
+initially motivated the idea of extended cognition.
+From Clark’s perspective, however, there is nothing motley, as
+Adams and Aizawa claim, about the brain+ tool systems that he
+believes constitute a legitimate kind for scientific
+investigation. Moreover, the processes by which Otto and Inga locate
+MoMA are not, as Rupert insists, vastly different. Once one steps back
+form the physical particularities of the constituents of extended
+cognitive systems and focuses just on the functional, computational,
+roles they play, such systems are identical, or very similar, to
+wholly brain-bound cognitive systems.
+Similarly, Clark would deny Rupert’s claim that the hypothesis
+of embedded cognition can equally well save the phenomena that the
+hypothesis of extended cognition was intended to capture and do so
+while requiring less revision of existing ideas about how cognitive
+systems operate. A brain, Clark claims, is “’cognitively
+impartial’: It does not care how and where key operations are
+performed” (2008, 136). Rupert’s conservatism in fact
+reflects a misunderstanding—it conceives of brains as having the
+function of cognizing, which is true in a sense, but more accurate
+would be a description of the brain’s function as directing the
+construction of cognizing systems—some (many?) of which include
+constituents outside the brain proper (see also Wilson and Clark
+2009).
+Finally, Shapiro (2019b; 2019c) has suggested that the parity and
+wide-computationalist defenses of Constitution do not sit well with
+other commitments of embodied cognition. As mentioned, such defenses
+rest on a functionalist theory of cognition (for more on
+ functionalism, see the entry on
+ functionalism).
+ Functionalism may well justify the claim that states and processes
+outside the brain can be identical to states and processes internal to
+a brain (can stand in a relation of parity towards them), which in
+turn grounds the possibility that cognitive systems can contain
+non-neural constituents. But, Shapiro argues, this strategy for
+defending extended cognition seems contrary to the central theme of
+embodied cognition. Motivating the embodied turn in cognitive science
+is the idea that bodies are somehow essential to cognition. But the
+parity and wide-computational arguments for extended cognition entail
+just the opposite—important for cognition are computational
+processes, and because computational processes are “hardware
+neutral”, one need not consider the specifics of bodies in order
+to describe them. Thus, it appears, arguments in favor of extended
+cognition succeed to the extent that bodies, qua bodies, do
+not matter to cognition.
+In addition to the usual cognitive terrain—language, perception,
+memory, categorization—that embodied cognition encompasses,
+researchers have recruited the concepts and methods of embodied
+cognition for the purpose of investigating other psychological
+domains. In particular, embodied cognition finds application in the
+fields of social cognition and moral cognition.
+Social cognition is the ability to understand and interact with other
+agents. A wide variety of cognitive capacities are involved in social
+cognition, such as attention, memory, affective cognition, and
+metacognition (Fiske and Taylor 2013). Traditionally, however, the
+philosophical discussion of social cognition has narrowly conceived of
+it in terms of mentalizing (also called theory of mind or
+mindreading). Mentalizing refers to the attribution of mental
+states, often restricted to propositional attitudes, and typically for
+the purpose of explaining and predicting others’ behavior. Thus,
+although social cognition is enabled by and involves numerous and
+diverse cognitive processes, many philosophers have tended to think of
+it simply as involving the attribution of propositional attitudes in
+order to predict and explain behavior. For canonical expressions of
+this view of social cognition, see Davies and Stone (1995a) and
+(1995b). More recently, philosophers have begun to conceive of social
+cognition more broadly. See Andrews, Spaulding, and Westra (2020) for
+a survey of Pluralistic Folk Psychology.
+Embodied cognition theorists have rejected this narrow construal of
+social cognition. Though they do not deny that neurotypical adult
+humans have the capacity to attribute beliefs and desires and to
+explain and predict behavior, they argue that this is a specialized
+and rarely used skill in our ordinary social interactions (Gallagher
+2020; Gallagher 2008; Hutto and Ratcliffe 2007). Most social
+interactions require only basic underlying social cognitive capacities
+that are known as primary and secondary intersubjectivity (Trevarthen
+1979).
+Primary intersubjectivity is the pre-theoretical, non-conceptual,
+embodied understanding of others that underlies and supports the
+higher-level cognitive skills involved in mentalizing. It is
+“the innate or early developing capacity to interact with others
+manifested at the level of perceptual experience—we see or more
+generally perceive in the other person’s bodily movements,
+facial gestures, eye direction, and so on, what they intend and what
+they feel” (Gallagher 2005, 204). Primary intersubjectivity is
+present from birth, but it continues to serve as the basis for our
+social cognition in adulthood. It manifests as the capacity for facial
+imitation, the capacity to detect and track eye movement, detect
+intentional behavior, and “read” emotions from actions and
+expressive movements of others. Primary intersubjectivity consists in
+informational sensitivity and appropriate responsiveness to specific
+features of one’s environment. It does not, embodied cognition
+theorists argue, involve representing and theorizing about those
+features. It simply requires certain practical abilities that have
+been shaped by selective pressures, e.g., sensitivity to certain
+bodily cues and facial expressions.
+Around one year of age, neurotypical children develop the capacity for
+secondary intersubjectivity. This development enables a subject to
+move from one-on-one, immediate intersubjectivity to shared attention.
+At this stage, children learn to follow gazes, point, and communicate
+with others about objects of shared attention. According to embodied
+cognition, the cognitive skills acquired through secondary
+intersubjectivity are not rich, meta-cognitive representations about
+other minds. Rather, children learn practical skills when getting
+others to attend to an object and when learning to attend to objects
+others are attending to. This allows for a richer understanding of
+other agents, but it is still meant to be a behavioral, embodied
+understanding rather than a representation of others’
+propositional attitudes (Gallagher 2005, 207).
+Although primary and secondary intersubjectivity are described in
+developmental terms, according to embodied cognition these
+intersubjective practices constitute our primary mode of social
+cognition even as adults (Fuchs 2012; Gallagher 2008). For example,
+Hutto claims, “Our primary worldly engagements are
+nonrepresentational and do not take the form of intellectual
+activity” (2008, 51). One can see in Hutto’s description
+of social cognition a tendency toward the Replacement theme insofar as
+he seeks to minimize or reject completely a role for representation in
+the human capacity for understanding others’
+behavior. Mentalizing, it is argued, is a late developing, rarely
+used, specialized skill.  Primary and secondary intersubjectivity are
+fundamental insofar as they are sufficient for navigating most typical
+social interactions and insofar as they enable the development of
+higher-level social cognition, like mentalizing. Although, see
+Spaulding (2010) for a critique of these arguments.
+Mirror neurons may be an important mechanism of social cognition on
+this kind of view. Mirror neurons are neurons that activate both
+endogenously in producing a behavior and exogenously in observing that
+very same behavior. For instance, neurons in the premotor cortex and
+inferior parietal lobule activate when a subject uses, say, a
+whole-handed grasp to pick up a bottle. These very same neurons
+selectively activate when a subject observes a target using a
+whole-handed grasp to pick up an object. Neuroscientists have
+discovered similar patterns of activation in neurons in various parts
+of the brain, leading to the proposal that there are mirror neuron
+systems for action, fear, anger, pain, disgust, etc. Though the
+interpretation of these findings is subject to a great deal of
+controversy (Hickok 2009), many theorists propose that mirror neurons
+are a basic mechanism of social cognition (Gallese 2009; Goldman 2009;
+Goldman and de Vignemont 2009; Iacoboni 2009). The rationale is that
+mirror neurons explain how a subject understands a target’s
+mental states without needing complicated, high-level inferences about
+behavior and mental states. In observation mode, the subject’s
+brain activates as if the subject is doing, feeling, or experiencing
+what the target is doing, feeling, or experiencing. Thus, the
+observation of the target’s behavior is automatically meaningful
+to the subject. Mirror neurons are a possible mechanism for embodied
+social cognition. If the findings and interpretations are upheld, they
+substantiate the claim that we can understand and interact with others
+without engaging in mentalizing. For a survey of the reasons to be
+cautious about these interpretations of mirror neurons, see Spaulding
+(2011; 2013).
+Embodied moral cognition takes moral sentimentalism as a starting
+ point. 
+ Moral sentimentalism
+ is the view
+that our emotions and desires are, in some way, fundamental to
+morality, moral knowledge, and moral judgments. A particular version
+of moral sentimentalism holds that emotions, moral attitudes, and
+moral judgments are generated by our “gut reactions,” and
+any moral reasoning that occurs is typically post-hoc rationalization
+of those gut reactions (Haidt 2001; Nichols 2004; Prinz
+2004). Embodied moral cognition takes inspiration from this kind of
+moral sentimentalism. It holds that many of our moral judgments stem
+from our embodied, affective states rather than abstract
+reasoning.
+Various sources of empirical evidence support this kind of view.
+Consider, for example, pathological cases, such as psychopaths or
+individuals with damage to the ventromedial prefrontal cortex (vmPFC).
+Such individuals are impaired in making moral judgments. Psychopaths
+feel little compunction about behaving immorally and sometimes have a
+hard time differentiating moral from conventional norms (Hare 1999).
+Individuals with damage to the vmPFC retain knowledge of abstract
+moral principles but struggle in making specific, everyday moral
+decisions (Damasio 1994). In both cases, individuals lack the
+physiological responses that accompany neurotypical moral
+decision-making. Lacking these “somatic markers” that
+guide moral judgments, these individuals behave in impulsive, selfish,
+and immoral ways (Damasio 1994). Embodied cognition would predict this
+connection between physiological responses (like increased heartrate
+and palm sweating) and moral decision-making.
+Psychologists and neuroscientists have observed the influence of
+embodied cues on moral judgments in neurotypical individuals, as well.
+For instance, experimentally manipulated perception of one’s
+heartrate seems to influence one’s moral judgments, with
+perceptions of faster heartrates leading to feelings of higher moral
+distress and more just moral judgments (Gu, Zhong, and Page-Gould
+2013). Relatedly, there is some evidence that eliciting a feeling of
+disgust leads to harsher moral judgments (Schnall et al. 2008).
+Perceptions of cleanliness seem to lead to less severe moral judgments
+(Schnall, Benton, and Harvey 2008). In each of these cases, perception
+of embodied cues seems to mediate moral judgments. Moral
+sentimentalists have observed that many people have strong aversive
+reactions to harmless actions that violate taboos, such as consensual
+protected sex between adult siblings, cleaning a toilet with the
+national flag, eating one’s pet that had been run over, etc. In
+these cases, the strong negative affective response precedes the moral
+judgment, and often people have a difficult time articulating
+why they think these victimless, harmless actions are morally
+wrong (Strejcek and Zhong 2014; Haidt 2001; Haidt, Koller, and Dias
+1993; Cushman, Young, and Hauser 2006). From the perspective of
+embodied cognition, this ordering confirms the notion that we make
+moral judgments on the basis of embodied cues.
+Dual process theories of moral psychology reject the moral
+sentimentalism claim that all moral judgments are made in the same
+way.  Dual process theories maintain that we have two systems of moral
+decision-making: a system for Utilitarian reasoning that is driven by
+affect-less, abstract deliberation, and system for Deontological
+reasoning that is driven by automatic, intuitive, emotional heuristics
+like gut feelings (Greene, 2014). Dual process theories are meant to
+explain the seemingly inconsistent moral intuitions ordinary folks
+have about moral dilemmas. For example, in a standard trolley case
+where an out-of-control trolley is heading toward five innocent,
+unaware individuals on the track ahead, most people have the intuition
+that we ought to throw the switch so that the trolley goes onto a spur
+of the track, thereby killing one person on the spur but saving five
+lives.  However, in the footbridge variation of the trolley problem
+where saving the five lives requires pushing an individual off a
+footbridge to derail the trolley, most people have the intuition that
+we should not do this even though the consequences are the same as in
+the standard trolley dilemma. The dual process theory holds that in
+the former case, our reasoning is guided by a System-2 type of
+abstract reasoning. However, in the latter case, our moral reasoning
+is guided by an aversive physiological response triggered by imagining
+pushing an individual off a footbridge. The dual process view
+partially vindicates the moral sentimentalist position insofar as it
+posits a distinctive System 1 type of moral reasoning that is based on
+embodied gut instincts. However, it maintains that there is a separate
+system operating on different inputs and processes for more abstract
+moral reasoning.
+Recently, theorists have challenged dual process theories’
+strict dichotomy between reason and emotion (Huebner 2015; Maibom
+2010; Woodward 2016). On the one hand, brain areas that are associated
+with emotions like fear, anger, and disgust are implicated in complex
+learning and inferential processing. On the other hand, individuals
+who are clearly impaired in moral decision-making—psychopaths
+and those with damaged vmPFC—also suffer deficits in other kinds
+of learning and inferential processing. Abstract reasoning is not, as
+it turns out, cut off from affective processes. Somatic markers,
+affective cues, and physiological responses are central to reasoning,
+learning, and decision-making. For the proponent of embodied moral
+cognition, this serves as further confirmation of the idea that all
+cognition, including moral cognition, is deeply shaped by embodied
+cues. Though see May (2018), May and Kumar (2018) and Railton (2017)
+for a moral rationalist take on these findings.
+This article aims to convey a sense of the breadth of topics that fall
+within the field of embodied cognition, as well as the numerous
+controversies that have been of special philosophical interest. As
+with any nascent research program, there remain questions about how
+embodied cognition relates to its forebears, in particular
+computational cognitive science and ecological psychology. Some of the
+hardest philosophical questions arising within embodied cognition,
+such as those concerning representation, explanation, and the very
+meaning of ‘mind’, are of a sort that any theory of mind
+must address.  Apart from philosophical challenges to the conceptual
+integrity of embodied cognition there loom psychological concerns
+about the replicability of some of the most-cited findings within
+embodied cognition; although, in fairness, worries about replicability
+have recently arisen in many areas of psychology (Goldhill 2019;
+Lakens 2014; Maxwell, Lau, and Howard 2015; Rabelo et
+al. 2015). Whatever the future of embodied cognition, careful study of
+its aims, methods, conceptual foundations, and motivations will
+doubtless enrich the philosophy of psychology.

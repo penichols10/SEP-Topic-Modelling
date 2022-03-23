@@ -1,0 +1,919 @@
+The body is a material entity located in space and time in the same
+way as a rock, a tree or a bird. But do we perceive and experience our
+body like those other objects? Most philosophical interest for bodily
+awareness has come from its peculiarities. It is precisely because we
+assume that we are aware of our body differently from other objects
+that it raises many questions. But what makes it unique? The most
+intuitive answer is that it bears a special relation to the self, and
+to self-awareness. As noted by O’Shaughnessy (1980: vol. 1, p.
+138), 
+Now there is every reason for expecting it to be a highly unusual
+relation. For we are talking about the epistemological link
+between a man and in all probability himself qua material object! and
+in any case the one object in the universe that is his own body. Is
+not that likely to be unusual? 
+However, although introspectively familiar, it is hard to exactly
+pinpoint the nature of the specific relation. One way to characterize
+it is to say that many bodies, including our own, can appear to us
+from the outside but only our own body appears to us from the
+inside. Most definitions of the inside mode then amount to little
+more than list the internal ways of gaining knowledge about our body.
+However, it is not clear that they form a unified category. What they
+have in common is that they seem to all guarantee that bodily
+judgments are immune to error through misidentification relative to
+the first-person. But are body senses the only ones to guarantee
+bodily immunity and are bodily judgments still immune when the grounds
+of bodily awareness are multimodal?
+Most discussions on bodily sensations focus on the privileged relation
+they have with the subject’s body and assume a unified account
+for bodily awareness, as if it made no difference whether one feels
+pain, touch or hunger. However, there are clear physiological,
+phenomenological, and epistemic differences among them. Here is a
+brief overview of the specificities of each type of bodily
+sensations:
+Tactile sensations are mediated by cutaneous mechanoreceptors
+(see Entry on Touch). Touch carries information both about the object
+one is in contact with and about the body part in contact (Katz 1925;
+Fulkerson 2014; Richardson 2013; Vignemont and Massin, 2015). For
+some, it is the most important sense because it gives us an
+experiential access to the reality of the world we are in contact
+with: 
+There is no commoner remark than this, that resistance to our muscular
+effort is the only sense which makes us aware of a reality independent
+from ourselves. (James 1880: 29; see also Armstrong 1962; Condillac 1754; Maine de
+Biran, 1812) 
+However, there is a large debate in the literature about how to
+distinguish touch from other senses. For instance, are thermal
+sensations tactile sensations or not? Should one distinguish sensory
+touch and affective touch (McGlone et al. 2014)?
+Proprioceptive experiences provide information about the
+position and movement of the body, although the notion of
+proprioception is sometimes enlarged to refer to all bodily sensations
+(Bermúdez 1998). The mechanisms of proprioception include
+muscle spindles, which are sensitive to muscle stretch, Golgi tendon
+organs, which are sensitive to tendon tension, and joint receptors,
+which are sensitive to joint position. One question is whether these
+signals give rise to sensations or not (Anscombe 1962).
+The sense of balance depends on vision, touch, and more
+importantly on the vestibular system in the inner ear, which
+provides information about the balance of the body. It includes three
+roughly orthogonal semicircular canals, which are sensitive to motion
+acceleration as our head moves in space, and two otolith organs, which
+are sensitive to the pull of gravity. It replies to two questions: (1)
+‘Which way is up?’ and (2) ‘Where am I
+heading?’. As for proprioception, one may question whether there
+is a phenomenology of balance. Besides cases of dizziness, there seems
+to be indeed a paucity of vestibular experiences in normal consciousness.
+The vestibular system has been ascribed a major role for self-location
+by anchoring the subject to her location and in orienting the subject
+in the world (Wong 2017). 
+Pain raises many challenges for philosophers (see Pain
+entry), and the variety of painful experiences makes the problems even
+more complex (Corns 2014). From a physiological level, we have
+nociceptors on the skin that respond to dangerously intense
+mechanical stimuli, to mechanothermal stimuli or to thermal and
+chemical stimuli. According to the dominant theory, noxious signals
+are inhibited, enhanced or distorted by various factors via a gating
+mechanism at the level of the spinal cord that controls the amount of
+signals from the periphery to brain structures and via a central
+gating mechanism (Melzack & Wall 1983). A major issue is to
+account for both the sensory component of pain, which represents the
+felt location and intensity of the sensation, and for the affective
+component, its unpleasantness, which motivates protective behaviors.
+To do so, recent representationalist theories propose that pain has
+evaluative content (Bain 2013) or imperative content (Klein 2015;
+Martinez 2011; Hall 2008).
+Interoceptive awareness provides information about the
+physiological condition of the body in order to maintain optimal
+homeostasis, namely, cardiovascular, respiratory, energy (feeding and
+glucose), and fluid (electrolyte and water) balances. It has been
+recently suggested that interoception plays a major role for grounding
+the “bodily self” (Damasio 1999; Craig 2003; Seth 2013;
+Tsakiris & de Preester 2018). There is, however, a debate on how
+to define interoception (Ceunen, Vlaeyen, & Van Diest 2016). Does
+it include only information about the homeostatic state of the
+organism, as originally proposed by Sherrington (1906), or any
+sensation with an affective component, thus including pain and
+affective touch, as recently assumed by Craig (2003)?
+David Armstrong (1962) has been the only one to offer a taxonomy of
+all these bodily experiences. He draws a first contrast between
+bodily sensations and bodily feelings. Sensations,
+such as touch and pain, are local whereas feelings, such as thirst,
+hunger, fatigue, sleepiness, dizziness, and shortness of breath, are
+global. For instance, you can distinguish the local sensation of
+pinprick at the tip of your index finger with the diffuse feeling of
+fatigue in your whole body. Or consider the case of thirst: it reveals
+the general state of the entirety of your body missing water. More
+generally, interoceptive feelings inform us about the welfare of the
+organism as a whole. Their spatial principle of organization is thus
+holistic. Within the category of bodily sensations, Armstrong further
+distinguishes transitive and intransitive bodily
+sensations. One experiences a mind-independent object in transitive
+sensations, as in touch, but it does not seem so in intransitive ones,
+as in pain. As described by Reid (1764: 56), 
+If a man runs his head with violence against a pillar … he
+feels nothing in the stone but feels a violent pain in his head. It is
+quite otherwise when he leans his head gently against the pillar, for
+then he will tell you that he feels nothing in his head, but feels
+hardness in the stone.
+To Armstrong’s list, one may add what has been called
+existential feelings (Ratcliffe 2008; Billon 2015). All those bodily
+sensations listed above describe the ‘anecdotal’ state of
+the body, so to speak, that is, the state of the body that keeps
+changing (e.g., its posture, its temperature, its movement, and so
+forth). However, there is another aspect of bodily awareness, which is
+less directly connected to sensory receptors, and which concerns the
+enduring state of the body, its ‘fundamental’ properties.
+Imagine having a terrible nightmare in which you are floating in the
+sky but then suddenly start falling down. After waking up, you become
+aware that you are alive and that all your limbs are intact. You are
+aware of your body being here in your bedroom, no longer floating up
+in the sky. You also regain awareness that this body has two legs and
+two arms that can cycle and swim, but that cannot fly. You are finally
+aware that this body is of a highly peculiar significance for you: it
+is yours, or maybe even it is you. It includes the sense of bodily
+presence (awareness of one’s body as being here), the sense of
+bodily ownership (awareness of one’s body as being one’s
+own), and the sense of bodily agency (awareness of one’s bodily
+capacities for action). These senses are rarely at
+the forefront of consciousness because they normally do not vary, and
+thus do not attract attention.
+Despite their differences, all bodily experiences seem to display the
+same epistemological signature: they ground the immunity to error
+through misidentification relative to the first-person of bodily
+self-ascriptions. Self-ascription of a property is said to be immune
+to error if and only if one cannot rationally doubt who instantiates
+the property when one has gained information about the property in the
+appropriate way (although one can be mistaken about the property that
+one ascribes to oneself) (Shoemaker 1968; Evans 1982). For instance,
+if I think that I am anxious because I feel anxious, my thought is
+immune to error through misidentification of the subject. But if I
+think that I am anxious because my psychoanalyst told me so, my
+thought is not immune to error. Indeed, the psychoanalyst may have
+confused me with another patient, who is the person suffering from
+anxiety. To be immune, my thought must be grounded in introspection,
+that is, on a way of gaining information about one’s mental
+states from the inside. The question is whether the
+self-ascription not only of mental properties, but also of physical
+properties (such as body posture) can be immune to error in such a
+way. Consider the following example. I form the judgment that my legs
+are crossed while I am seated around a small table with several other
+persons. Can I rationally doubt that they are mine? If I make this
+judgment on the basis only of my seeing legs, then I can confuse my
+legs with the legs of the person seated next to me. By contrast, if I
+make this judgment because I feel my legs as being crossed, then the
+answer is negative. The inside mode of body senses guarantees immunity
+to error (IEM) because they provide a privileged informational access
+to one’s own body only. Because of this privileged relation, the
+judgement “my legs are crossed” is not grounded in the
+judgement “these legs are crossed” and in the
+identification “these legs are mine”. Proprioceptive
+experiences suffice to justify bodily self-ascriptions such that no
+intermediary process of self-identification is required
+(Bermúdez 1998; Brewer 1995; Cassam 1995; Evans 1982).
+Bodily IEM has been taken by some as evidence that the self is
+embodied. For instance, Evans (1982) and Cassam (1997) use bodily IEM
+as an argument against the Cartesian view of the self. In a nutshell,
+one can self-ascribe bodily properties as well as mental properties to
+the self without self-identification. Hence the object of such
+judgments, the self, is not a Cartesian ego, but a bodily subject of
+both mental and physical properties. However, others wonder if one is
+entitled to draw such a metaphysical conclusion from the
+epistemological fact of bodily IEM (Chen 2011; J. Smith 2006). Some
+further deny that bodily self-ascriptions display the same type of IEM
+as mental self-ascriptions (Shoemaker 1968; Coliva 2012). The IEM of
+pain self-ascriptions, for instance, is said to be absolute or
+logical. On this view, there is no possible world in which one can
+feel pain and be mistaken about who is feeling pain. By contrast, one
+can easily conceive a case of a cross-wiring scenario such that A is
+connected through A’s proprioceptive system both to A’s
+body and to B’s body. Then A can feel B’s legs being
+crossed. The question then is whether this cross-wiring scenario
+invalidates bodily IEM. One can also wonder about actual breach of
+bodily IEM, such as the rubber hand illusion in which subjects
+self-ascribe a hand that does not belong to them (Mizumoto &
+Ishikawa 2005). However, one might reply that none of these thought
+experiments or bodily illusions show that bodily sensations fail to
+guarantee IEM because the epistemic grounds of bodily self-ascriptions
+in these cases differ from ordinary somatosensory judgments (Salje
+2017; Vignemont 2012). At most, they show that bodily IEM is only
+de facto (Evans 1982).
+To recapitulate, although the debate of IEM has mainly focused on the
+ascription of mental states, the ascription of bodily properties
+raises three major questions: (i) Can bodily self-ascriptions be
+immune to error, and if so, what are the appropriate grounds that
+secure bodily IEM? (ii) Is bodily IEM of a different type from mental
+IEM? (iii) Does bodily IEM reveal the bodily nature of the self?
+As just seen, it is generally assumed that vision, and other external
+senses, do not guarantee bodily IEM. Ernst Mach famously reported
+stepping onto a bus and noticing a man who looked like a shabby
+pedagogue. In fact, he was seeing himself in a large mirror at the far
+end of the bus (Mach 1914). Conversely, if we see a broken arm, we can
+mistake it for our own, although it is another person’s arm that
+is mixed up with ours (Wittgenstein 1958). On the basis of such
+examples, it is said that no judgement based on external senses is
+immune to error through misidentification. There is a gap between
+visually knowing that a body is F and visually knowing that it
+is my own body that is F. Consequently, when people discuss
+bodily awareness, they rarely mean the visual awareness one can have
+of one’s body.
+Some, however, are opposed to such a contrast between external senses
+and body senses. For instance, the psychologist Gibson (1979) argues
+that even while looking at the external world, our visual experiences
+carry information about our own body: 
+I maintain that all the perceptual systems are propriosensitive as
+well as exterosensitive, for they all provide information in their
+various ways about the observer’s activities… Information
+that is specific to the self is picked up as such, no matter what
+sensory nerve is delivering impulses to the brain. (Gibson 1979: 115)
+The fact is that when I have the visual experience of a tree in front
+of me, I cannot have the following doubt: “someone is standing
+in front of a tree, but is it I?” (Evans 1982: 222). Evans
+concludes that visual experiences of the external world from an
+egocentric perspective guarantee the IEM of self-locating judgments
+(Cassam 1995; Bermúdez 1998; Peacocke 2012; Schwenkler 2014).
+Likewise, one may argue that visual experiences of the body
+could also guarantee IEM in some ecologically valid situations (Evans
+1982: 220 fn 26; Peacocke 2012).
+Proprioception guarantees bodily IEM because of some biological facts
+about the human body (i.e., the proprioceptive neural system is
+connected only to one’s own body). In the same vein, one may
+suggest that there are some other basic biological facts that secure
+the link between certain visual contents and one’s own body. For
+instance, I can see my nose if I close one eye and I cannot doubt that
+this is my own nose when I see it from this specific angle. 
+The fact that the inside mode exclusively results from body senses,
+with no influence from external senses, has also been questioned by
+recent empirical evidence (Stein & Meredith 1993; Ernst 2006; van
+Beers et al. 1999; Welch & Warren 1980). Information from one
+modality can affect information in another modality. Multisensory
+effects occur very early on in sensory processing and they are often
+automatic and mandatory. Consequently, the ‘normal’ way of
+gaining bodily self-knowledge is not on the basis of body senses only,
+but rather on the basis of their integration with vision. Take the
+rubber hand illusion, which results from the incorrect integration of
+somatosensory information and visual information about the rubber
+hand. It induces not only a sense of ownership for the rubber hand,
+but also proprioceptive drift (i.e., one mislocalizes one’s hand
+in the direction of the location of the rubber hand) and referred
+sensation of touch (i.e., one feels touch on the rubber hand). It can
+be explained by three major facts about the sensory systems. First,
+optimal estimates of bodily properties require combination of
+information from various sensory channels. Second, vision can dominate
+over proprioception and touch because it often offers more accurate
+and precise spatial information. Third, visual information can affect
+the phenomenal content of bodily experiences. What we feel is
+determined not only by information from body senses, but also by
+information from external senses. Our access to the intrinsic
+properties of our body is also partly based on vision. Although
+O’Shaughnessy (1989: 56) claims that that our body image is
+nothing more than a collection of information from body senses, it has
+been found that blind individuals have a less accurate representation
+of the size of their body parts compared to sighted individuals
+(Kinsbourne & Lempert 1980: 37). The fact is that vision is the
+only sensory modality that can directly and reliably (though not
+perfectly) process size information (Longo & Haggard 2010). As
+concluded by the neurologist Schilder (1935: 38) a long time before
+multisensory research had started to take off: 
+It is not the case that the schema of the body has two different
+parts, the one optic and the other tactile. It is in essence a
+synaesthesia (…) The synaesthesia, therefore, is the normal
+situation.
+The notion of multimodality has become of interest to philosophers
+only recently (Bennett and Hill, 2014; O’Callaghan 2020).
+Unfortunately, there is already little agreement in philosophy on the
+way to individuate the modalities themselves, let alone on how to
+understand multimodality. One crucial question is whether these
+multisensory effects show that vision plays only a causal
+role in fixing the spatial content of bodily experiences or whether
+bodily experiences are constitutively multimodal (Vignemont
+2014). One may also ask whether some features can be represented only
+thanks to multisensory integration (Briscoe forthcoming). A final
+question is whether multimodality comes at the cost of bodily IEM. If
+bodily self-ascriptions are grounded not only in the body senses,
+which secure IEM, but also in vision, which does not always guarantee
+IEM, then can one still claim that bodily self-ascriptions are immune
+to error?
+The previous section highlighted that I am aware from the inside only
+of my own body. Does it prevent bodily awareness to be perceptual? Do
+the body senses qualify as sensory modalities? Aristotle lists only
+five of them (sight, hearing, touch, olfaction, smell) and if we added
+the body senses, we would end up with possibly more than ten. The
+question then is whether these so-called body senses behave like
+sensory systems that lead to perceptual experiences. At first sight,
+it may seem that some types of bodily experiences (like touch) are
+perceptual, but not others (like pain, tickles, itches, thirst or
+hunger) because they seem subjective and incorrigible (Aydede 2009).
+But even if we focus on transitive bodily sensations, they differ from
+visual experiences on several respects. They are continuously active
+and they function largely outside consciousness. They often do not
+appear to provide a sensory field in which perceptual objects can be
+presented (Martin 1992, 1993; Wong 2017). Finally, there are important
+epistemic asymmetries, bodily sensations appearing as less reliable
+than visual sensations (Munro forthcoming).
+Some of the worries outlined above may just evaporate if one gives up
+theories of perception that treat vision as the paradigm of sense
+perception. It is indeed controversial that every external sense,
+including olfaction for example, meets all the constraints posited by
+visuo-centric models and more recent works on perception go beyond
+vision (e.g., McPherson (ed) 2011; Matthen (ed) 2015; Gatzia &
+Broogard (eds) 2020). Furthermore, what implications, if any, do
+multisensory effects have for the perceptual debate? In brief, as
+outlined in the previous section, I am aware that legs are crossed on
+the basis of the integration between vision and proprioception. Does
+the involvement of visual information suffice to make my sense of
+posture perceptual?
+This section will focus on four issues: the notion of the body as a
+perceptual object, the spatial peculiarities of bodily awareness, the
+alleged epistemic failure for bodily sensations to ground bodily
+knowledge, and the relationship between bodily awareness and
+action.
+McGinn (1996: 8) claims: “bodily sensations do not have an
+intentional object in the way perceptual experiences do”. His
+view is shared by many, for at least two reasons: (i) the body cannot
+both anchor our perception of the world and be an object of perception
+for risk of infinite regress; and (ii) the body senses do not need to
+identify and reidentify the body since they give information about
+nothing else.
+The first objection comes from Merleau-Ponty (1945: 92), who claims:
+“The body is not one more among external objects”. He
+draws the distinction between the objective body made of muscles and
+bones, and the lived body (corps propre), that is, the body
+that we experience in pre-reflective awareness. He argues that the
+lived body is not an object that can be perceived from various
+perspectives, left aside or localized in objective space. On the
+contrary, it is the zero-point (Husserl 1913), from which one can see
+the objective space. If one were to adopt an objective stance on the
+lived body, then the objectified body could no longer anchor the way
+one perceives the world. Likewise, Gallagher (2003) argues that bodily
+experiences should not be understood in perceptual terms. Using
+Wittgenstein’s distinction between the self as a subject and the
+self as an object, Gallagher argues that the lived body must be
+conceived as subject. Only then can it ground our conscious experience
+of the world. However, subjectivity is not incompatible with
+intentionality. Arguably, one can perceive the self as a subject
+(Bermúdez 1998). Furthermore, the lived body can be a
+perceptual object without being transformed into an object among
+others. Dokic (2003), for instance, claims that bodily sensations
+display a special kind of perceptual awareness, but it is
+still perceptual.
+The second objection against the perceptual model follows from
+Shoemaker’s (1994) standard model of perception. On his view,
+one key condition of perception is that the way of gaining information
+allows for identification and re-identification of the perceived
+objects. The difficulty with the body senses is that they seem to give
+access only to a single object, namely, one’s body. Several
+answers have been offered to this objection. For instance, Schwenkler
+(2013) replies that the body senses still convey facts about different
+objects insofar as they convey facts about different parts of the
+body. It is not clear, however, whether this suffices to refute the
+objection. Martin (1995), on the other hand, defends what he calls the
+sole-object view, according to which bodily sensations are only about
+one’s body and when they are not, they are illusory or
+hallucinatory. Still, on his view, this does not prevent bodily
+sensations to be perceptual. One indeed experiences one’s body
+as a bounded object. By becoming aware of bodily boundaries, one then
+becomes aware of a larger space that contains one’s body as well
+as other objects (see also Bermúdez 1998).
+One can also question the perceptual character of bodily sensations on
+the basis of their peculiar spatiality. We experience sensations
+“at-a-part-of-body-at-a-point-in-body-relative-space”
+(O’Shaughnessy 1980). In Bermúdez’s (2005) terms,
+bodily sensations have both A-location (i.e., bodily frame of
+reference independent of the posture of the body) and B-location
+(i.e., external frame relative to the posture of the body). But how to
+account for A and B-location? As Merleau-Ponty (1945: 98) warns,
+“ordinary spatial relations do not cross” the experience
+of the space of the body. It seems indeed that the way we experience
+bodily space does not follow some basic spatial rules (Coburn 1966;
+Vesey 1964; Margolis 1966; K. Baier, 1964; Holly 1986). For instance,
+the pain that I feel in my thumb is not felt in my mouth when my thumb
+is in my mouth (Block 1983). Nor does it seem to make sense to claim
+that the pain in my thumb is far from the pain in my foot. How can one
+envisage accounting for bodily space in terms of Cartesian reference
+frame when one cannot provide a center of this frame, nor suggest axes
+on which one could compute distances and directions (Bermúdez
+2005)? One may conclude that the claim that one feels pain in
+the finger does not indicate the location of the sensation, but rather
+the state of the finger (Noordhof 2001; for discussion see Tye 2002).
+One may then question whether bodily
+sensations themselves are intrinsically spatial. According to the
+Local sign theory, as defended in the 19th century by psychologists
+such as Wundt, Titchener and James, each sensible nerve gives rise to
+its own characteristic sensation that is specific to the body part
+that is stimulated but spatial ascription does not derive from the
+spatial content of bodily sensations themselves. As described by James
+(1890: 798), the Local sign theorists deny 
+that there can be in a sensation any element of actual locality, any
+tone as it were which cries to us immediately and without further ado,
+“I am here”, or “I am there”. 
+However, there seems to be no non-spatial differences between
+sensations in one’s right and left hands (Holly 1986;
+O’Shaughnessy 1980; Margolis 1966; Coburn 1966). How then do I
+feel the right or the left hand to be touched? And how to account for
+sensations felt to be located in phantom limbs (K. Baier 1964)? It is
+hard to explain spatial ascription of bodily sensations if bodily
+sensations are not intrinsically spatial.
+According to A. D. Smith (2002), perception requires the possibility
+of achieving different perspectives on perceptible objects through
+self-movement. This comes with the existence of perceptual constancies
+(see Burge 2010 for the importance of perceptual constancies).
+However, unlike other perceptual objects, the body cannot be felt from
+different perspectives. Smith thus claims that bodily sensations are
+mere sensations; they do not count as perceptual. Likewise, Matthen
+(forthcoming) distinguishes within the sense of touch the tactual
+sensation on one’s skin and the haptic perception of the object.
+These are two distinct types of experiences and only haptic
+experiences are truly spatial, and thus truly perceptual. On the
+contrary, Martin (1992) claims that there is no reason to draw a
+distinction within tactile experiences: one can simply shift
+one’s attention from the bodily side to the exteroceptive side
+of the same perceptual experience (see also O’Shaughnessy 1989).
+Nonetheless, according to Martin (1992), touch differs from vision
+insofar as it has no unified tactile field equivalent to the visual
+field (see also Richardson 2013; Hopkins 2011).
+A different type of criticism of the perceptual model of bodily
+awareness can be found in Wittgenstein (1978), and later Anscombe
+(1962). They claim that the ability to report how the limbs are
+located and how they move does not depend on sensations of position.
+It thus differs from perceptual knowledge. I know that the sky is blue
+in virtue of having a visual experience of the blueness of the sky but
+I know that my legs are crossed independently of any sensation.
+According to Anscombe, bodily knowledge cannot be grounded in
+sensations because only sensations whose content is
+“independently describable” can play an epistemic role.
+The sense of position is thus what Anscombe calls a kind of knowledge
+without observation: “It is without observation, because nothing
+shews him the position of his limbs” (Anscombe 1957: 13).
+The interpretation of the notion of knowledge without observation has
+given rise to many debates. A first concerns Anscombe’s
+epistemological theory. Why do contents have to be independent to
+ground judgments? The second problem is that it seems that her
+argument ultimately relies on her phenomenological intuitions:
+“no question of any appearance of the position to me, of any
+sensations which give me the position” (Anscombe 1962). However,
+one may question this claim on the basis of bodily illusions (Harcourt
+2008; for a reply, McDowell 2011). For instance, if the tendon of the
+biceps is vibrated, one can “feel” one’s arm moving
+though one knows the arm actually remains still. But does that suffice
+to show that the sensation is independently describable? The problem
+is that the notion of independent description is not clear. Why does
+“the visual impression of a blue expanse” (Anscombe 1962:
+57) qualify as independent but not the impression of one’s arm
+moving? It may sometimes be difficult to see why bodily awareness does
+not fall into the same category as perceptual awareness.
+Interestingly, both the phenomenological and the analytic traditions
+that reject the perceptual model emphasize the role of action and
+bodily know-how in their account of bodily awareness. Anscombe
+describes knowledge without observation as a form of practical
+knowledge. In a nutshell, knowing that your legs are crossed is not
+feeling them to be crossed; it is knowing how to uncross them. Along
+the same lines, Merleau-Ponty claims that the lived body is a space of
+possibilities for actions. There is, however, a major difference. For
+the phenomenologist tradition, what we feel is determined by
+what we know how to do. For Anscombe, on the contrary, we do not feel
+anything. Instead, one should say that what we report is
+determined by what we know how to do. Furthermore, the emphasis on
+action does not necessarily entail giving up the perceptual model of
+bodily awareness and one should be careful distinguishing the two
+claims.
+Two main sensorimotor views of perceptual awareness have indeed
+recently been proposed (see Entry on Action-based theories of
+perception). According to the enactive approach, perceptual
+experiences consist in sensorimotor expectations (O’Regan &
+Noë 2001; Noë 2004; Hurley 1998; Thompson 2005;
+O’Regan 2011). According to the dispositional approach, the
+spatial content of perceptual experiences is made possible by
+dispositions to act (Evans 1982; Brewer 1995; Briscoe 2009; A. J. T.
+Smith 2009; Mandrigin forthcoming). Despite apparent similarities, the
+two views make different claims. The enactive view aims to account for
+consciousness in general, for its phenomenal character (O’Regan
+2011). By contrast, the dispositional account applies only to
+egocentric content. Furthermore, the enactive view makes a
+constitutive claim: bodily experiences are inseparable from
+sensorimotor expectations (for discussion of the constitutive claim,
+see Block 2005). By contrast, the dispositional view does not claim
+that the spatial content represents dispositions to act. It only makes
+“a claim about the conditions under which a visual experience
+will have such content” (Briscoe 2014: 208). 
+A major challenge for the sensorimotor approaches is to account for
+dissociations between perception and action. Such dissociations have
+been found for vision, leading Milner and Goodale (1995) to propose
+a dual model of visual processing: the ventral pathway is dedicated to
+conscious perception whereas the dorsal pathway is dedicated to
+visuomotor transformation perception. Dissociations have also been
+reported in the case of bodily awareness. For instance, patients with
+numbsense have no tactile awareness, but retain a surprising ability
+to point to where they were touched (Paillard et al., 1983; see also
+Anema et al. 2009 for further dissociation). The rubber hand illusion
+as well indicates that bodily know-how can be at odds with bodily
+experiences: participants accurately grasp the stimulated hand with
+their opposite hand at its real location, and not at the illusory
+location that they report (Kammers et al. 2009). Proponents of the
+enactive view may have difficulties accounting for this type of
+results, which indicate that sensorimotor knowledge is neither
+necessary nor sufficient for bodily experiences (Vignemont 2011).
+However, perception-action dissociations are less problematic for the
+dispositional view (Mandrigin forthcoming).
+We have just asked whether bodily awareness requires action. But one
+may also ask whether action requires bodily awareness
+(O’Shaughnessy 2000; Wong 2015). Action requires detailed
+information about the long-term and short-term properties of the
+bodily effectors. But does the information need to reach the threshold
+of awareness, even at the margin? Action requires fast processing of
+information, whereas bodily awareness takes time. Furthermore,
+deafferented subjects who have no kinaesthetic and tactile awareness
+of their body retain their ability to control their movements as long
+as they receive visual feedback. Hence, kinaesthetic experiences do
+not seem to be necessary for action. The body is not always
+immediately present in all its details to the subject, even when
+acting. Yet as Descartes pointed out, we are not like pilots in a
+ship. The difference is that we are able to feel our ship from the
+inside. Hence, there must still be a connection, still to be explored,
+between our capacity to act directly with our body and our capacity to
+feel our body from the inside (Wong 2015).
+When one discusses the relationship between bodily awareness and
+action, one frequently appeals to the notion of body schema.
+It is used, however, in many different ways. One of the main
+controversies is whether it should be conceived as a specific type of
+mental representation of the body. For Merleau-Ponty (1945), and more
+recently for Gallagher (2008), the body schema should be conceived as
+a sensorimotor function, devoid of intentional content. Their
+definition is in line with a general trend in the last thirty years
+that rejects the necessity to posit representations in the
+mind (Gallagher 2008; Thelen & Smith 1994; Turvey & Carello
+1995; van Gelder 1995; Thompson 2005; Zahavi & Parnas 1998). On
+this view, representations are inadequate because they are too costly
+and they are unnecessary because they can be easily replaced by
+sensorimotor loops. The body ca be conceived as “its own best
+model”, to use Brooks’s (1991) expression. If biological
+systems only know what they need to in order to get their job done
+(Clark 1997), is the body really something that the brain needs to
+represent in this sense? All that may be needed is to pay attention to
+it (Kinsbourne 1995; Hochstetter 2016).
+Until the end of the 19th century, bodily awareness was typically
+understood in terms of a bundle of internal bodily sensations. Bonnier
+(1905) first introduced the term schema to refer to the
+spatial organization of these bodily sensations. But it was only in
+Head and Holmes (1911)’s fundamental paper (discussed in the
+next section) that one finds the first systematic analysis of the
+way(s) the brain represents the body. They initiated what might be
+called the representationalist approach to bodily awareness
+(e.g., O’Shaughnessy 1980; Bermúdez 1998; Vignemont
+2018; Carruthers 2008;
+Alsmith forthcoming; Murillo Lara 2018). Proponents of the
+representationalist approach claim that in order to account for bodily
+awareness one needs to appeal to mental representations of the body.
+According to a minimal definition, a body representation is an
+internal structure that has the function to track the state of the
+body and encode it, that can misrepresent it and that can be decoupled
+from it. It plays the role of model that represents in virtue of its
+resemblance to the structure of the body (Alsmith forthcoming; Gadsby
+& Williams 2018). Now the question is why positing such internal
+models.
+The first reason is to account for disturbances in bodily awareness.
+Most of the literature on body representation can be found in patient
+studies (Head & Holmes 1911; Lhermitte 1942; Cole & Paillard
+1995, Schwoebel & Coslett 2005; Sirigu et al. 1991; Gadsby 2017).
+With the help of the notion of body representation, and thus of body
+misrepresentation, one can easily explain how the way the body is
+experienced can be at odds with the physical reality of the body. On
+the one hand, amputated patients can still feel the presence of their
+absent limb because the physically missing limb is still represented.
+On the other hand, patients with xenomelia can wish their perfectly
+healthy limbs to be amputated because these limbs are not incorporated
+in their body representation (Hilti & Brugger 2010).
+The second reason focuses on the spatial organization of bodily
+awareness (Bonnier 1905; O’Shaughnessy 1980, 1995; Murillo Lara 2018).
+Over an extended period, all bodily experiences share the same spatial
+content of the structural shape of the body. To account for this
+commonality, O’Shaughnessy posits the existence of a long-term
+body image that plays a structural role in spatially shaping bodily
+experiences. One may then propose a hierarchical model of body
+representations on the model of Marr’s theory of vision: the
+primal sketch, the 2.5D sketch, and the 3D sketch (Marr 1982). At each
+step, more information is extracted from the original sensory input
+until it switches from a viewer-centered perspective to an
+object-centered perspective. At each stage, the representation of the
+body gains in complexity and spatial richness (Longo 2017; Haggard et
+al. 2017). The level of the primary somatosensory area (SI)
+corresponds to the primal body sketch, which takes the shape of a
+“homunculus” (Penfield & Rasmussen, 1950). Although it
+generally follows natural anatomical divisions, associating cortical
+areas to specific parts of the body, some are over-represented (e.g.,
+hand), and others under-represented (e.g., torso). Furthermore, the
+homunculus does not represent anatomical contiguity (e.g., the
+hand-specific area is next to the face-specific area). Consequently,
+the primal body sketch cannot play the role of supplying information
+about body metrics and configuration (Medina & Coslett 2016). This
+is done at a higher level of integration (integration among body parts
+and among multiple sensory sources), at which a kind of 3D body sketch
+is generated. Its function is to reliably covariate with the spatial
+organization and dimensions of the body and its segments, in order to
+spatially organize information coming from the body senses. This level
+of body representation is partly independent from online inputs.
+The body model thus seems to play an explanatory role. It remains
+unclear, however, what kind of representation it consists in. On one
+interpretation, it can be conceived as a kind of scenario in
+Peacocke’s (1992) sense. A scenario is a nonconceptual,
+analogue, unit-free, spatial representation that uses a set of
+labelled axes in relation to body parts. Peacocke describes scenarios
+that depict the subject’s environment, but arguably, one can
+have a scenario that depicts the subject’s body, with similar
+properties. On another interpretation, it can be conceived as an
+action-orientated representation (Brewer 1995; Bermúdez 2005):
+The intrinsic spatial content of normal bodily awareness is given
+directly in terms of practical knowledge how to act in connection with
+the bodily locations involved. (Brewer 1995: 302)
+Now one may ask whether we have only one model that depicts the whole
+body or whether it is sufficient to have a collection of local models
+(Alsmith forthcoming). Try, for instance, using a hand to touch your
+foot whilst using the other to touch your face. To perform this task,
+is it sufficient to have local body models that represent individual
+body parts? Or do we also need a global body representation whose
+function would be to structure these local representations?
+One may further ask whether one can functionally defined different
+types of body representations. One single body representation does not
+seem to suffice to account for the variety of bodily disorders and for
+the variety of aspects of bodily awareness. There needs to be more,
+but how many? In 1911, Head and Holmes present the first taxonomy of
+the representations of the body. In addition to what they call a body
+image, which constitutes the conscious percept of the body, they
+distinguish two types of unconscious representations, called body
+schemata: one records every new posture or movement whereas the other
+maps the surface of the body on which sensations are localized.
+However, for a long time, the terms of body schema and body image had
+been used interchangeably (see Schilder 1935, for instance), whereas
+the fine-grained distinction between the two types of body schema had
+almost completely disappeared. Nonetheless, since the eighties there
+has been a renewal of interest for distinguishing various types of
+body representation (O’Shaughnessy 1980; Paillard 1999;
+Gallagher 1986), although there is little agreement, neither on the
+way to individuate the distinct types of body representations, nor on
+their precise number. Here is a sample of the
+characteristics that have been used so far to distinguish them:
+These distinctions give rise to different taxonomies (e.g., Schwoebel
+& Coslett 2005; Sirigu et al. 1991; Paillard 1999; Dijkerman &
+de Haan 2007; O’Shaughnessy 1980; Gallagher 1995), which
+sometimes lead to opposite interpretations of the very same bodily
+disorders. For instance, personal neglect (i.e., lack of exploration
+of half of the body) has been interpreted as resulting from a deficit
+of body schema (Coslett 1998), or from a deficit of body image
+(Gallagher 1995).  Furthermore, although most taxonomies rely on
+neuropsychological dissociations, it does not seem likely that they
+can account for all bodily disorders. Even three types of body
+representation might not suffice to explain all the possible
+dissociations. On the other hand, one may wish to avoid a
+quasi-infinite list of body representations.
+Even the definition of the body schema, which appears the less
+controversial notion, often remains vague. The term ‘body
+schema’ functions as a general term that groups together various
+body representations intervening at different stages in motor control,
+representing short-term or long-term body properties, used for
+positive or negative affordances. It is commonly defined as the representation of the body
+for action. But many states can contribute to action planning,
+including some very high-level states. Imagine for instance that you
+want to cut a cake into six equal slices. To do so, you can exploit
+your mathematical knowledge that 360 degrees divided by 6 equals 60
+degrees. This knowledge can guide your hand while splitting the cake.
+Your ability to do maths can thus play a role in guiding your action,
+but clearly, the body schema must be more intimately connected to
+action. What makes the body schema so special? The type of information
+that it represents? The way this information is represented? Or the
+function of the representation? Furthermore, the distinction between
+the body schema and the body image has become the stock in trade of
+much recent work in cognitive neuroscience and philosophy. Yet little
+is known about the interactions between these two types of body
+representations (Gadsby 2018; Pitron,
+Alsmith, & Vignemont 2018). In our everyday life the body we
+perceive does not conflict with the body we act with. One needs to
+account not only for dissociations in rare cases, but also for
+convergence most of the time.
+According to Peacocke (2014, 2017), we must distinguish among three
+degrees of self-representations:
+Theories of the sense of bodily ownership try to answer the
+following question: how does one go from degree 0 to degree 2, from a
+proprioceptive experience with the nonconceptual content [this leg is
+bent] to a proprioceptive judgment with the conceptual content [my leg
+is bent]? These theories pursue two objectives. First, to avoid
+positing new phenomenal properties unless necessary (Wu forthcoming).
+Secondly, to account for empirical data. On the one hand, the rubber
+hand illusion provides an experimental window in what is required for
+one to experience a hand as one’s own. On the other hand, one
+needs to understand how it is possible for an individual not
+to experience one’s limb as one’s own in disownership
+syndromes, as in somatoparaphrenia (Romano & Maravita 2019), depersonalization disorder (Billon
+2017), Cotard syndrome (Billon 2015, 2016), and xenomelia (Brugger et
+al. 2013), as well as in chronic pain (Moseley et al. 2012) and
+complex post-traumatic disorder (Ataria 2018). The interpretation of
+these various results, however, is controversial (Alsmith 2015; Wu
+forthcoming; Bradley forthcoming; Chadha 2018), and at most one can
+only offer an inference to the best explanation.
+The notion of myness, which can be defined as the de se
+property of belonging to the subject, has recently attracted
+increasing attention in the literature (Guillot 2017; Guillot &
+García-Carpintero forthcoming). The hypothesis then is that one
+experiences one’s body as one’s own in virtue of having a
+feeling of myness. Nonconceptual myness content can then provide
+rational ground for conceptual myness content. The myness hypothesis,
+however, is not without raising a number of controversies and most
+recent views have rejected it (Alsmith 2015; Bermúdez 2011;
+Chadha 2018; 
+Martin 1995; Vignemont 2020; Wu forthcoming). A first worry concerns
+the origin of myness. Unless one posits myness as an irreducible
+primitive phenomenal property (Billon 2017), the nonconceptual myness
+content itself requires explanation. Another worry is that it does not
+seem salient in our phenomenology. Chadha (2018) argues that by
+default, the content of bodily experiences is not self-referential. On
+her view, disownership syndromes do not result from the lack of
+myness, but from an unusual feeling of the hand not being one's
+own. One may also argue that the feeling of myness is not
+compatible with a parsimonious conception of the admissible contents
+of perception, according to which only low-level somatosensory
+properties such as pressure, joint angle, and temperature can be
+represented in the content of bodily experiences. Finally,
+Bermúdez (2011, 2015, 2018) appeals to Anscombe’s
+argument for knowledge without observation. He argues that one cannot
+give a separately describable description of the feeling of myness,
+which thus cannot constitute a legitimate ground for ownership
+judgments.
+Denying the existence of myness feelings, however, does not entail
+denying the phenomenology of ownership: 
+ownership is phenomenologically salient … when we experience
+our bodies we experience them as our own … there is a
+phenomenology of ownership. (Bermúdez 2015: 38) 
+In other terms, it makes a phenomenological difference when one is not
+aware of one’s body as one’s own and when one is not. The
+question then is how to best interpret this phenomenological
+difference: in sensory terms (Wu forthcoming; Bermúdez 2011;
+Martin 1995; Dokic 2003), in cognitive terms (Alsmith 2015), in
+agentive terms (Peacocke 2017), or in affective terms (Vignemont
+2018).
+According to what Bermúdez (2011: 167) calls the deflationary
+conception, 
+the sense of ownership consists, first, in certain facts about the
+phenomenology of bodily sensations and, second, in certain fairly
+obvious judgments about the body (which we can term judgments of
+ownership). 
+Likewise, Martin (1995: 278) states that the sense of ownership is not
+an additional quality to the sensory qualities of bodily experiences
+and that it is “somehow already inherent within them”. For
+instance, in the rubber hand illusion participants do not report only
+ownership towards the rubber hand, but also referred tactile
+sensations on the fake hand. One may then argue that experiencing the
+rubber hand as one’s own is nothing more than feeling sensations
+in it (Wu forthcoming). One intuitive way to spell out the
+deflationary conception is indeed in spatial terms: “when one
+feels a bodily sensation to have a location there is no issue over
+whose body it appears to belong to” (Martin 1992: 201). Martin
+claims that the spatial phenomenology can account for the sense of
+ownership because there is an identity between one’s own body
+and the body in which one locates bodily experiences. According to the
+sole-object view that he defends, for an instance of bodily experience
+to count as an instance of perception, it must indeed be an experience
+of what is in fact the subject’s actual body. However, one can
+be aware of the boundaries of one’s body without being aware of
+the boundaries of one’s body qua one’s own (Dokic
+2003; Serrahima forthcoming). A further problem for all
+deflationary conceptions comes from dissociation between bodily
+sensations and the sense of ownership. They indeed
+predict that it is inconceivable for one to experience sensations in a
+limb and fail to experience this limb as one’s own (Martin 1995;
+Dokic 2003). However, it has been found that patients with
+disownership syndromes can still experience some bodily experiences
+(e.g., Moro et al. 2004). The question then is whether this type of results can
+invalidate the deflationary conception or not (Bradley
+forthcoming).
+Instead of appealing to the way one perceives one’s
+body, one can appeal to the way one thinks about one’s
+body in order to account for the sense of ownership: 
+A cognitive account of the sense of ownership holds that one
+experiences something as one’s own only if one thinks of
+something as one’s own. (Alsmith 2015: 881) 
+The cognitive conception does not preclude the existence of a
+phenomenology of ownership, at least if one grants the possibility of
+cognitive phenomenology (as in noetic feelings, for instance).
+The question then is how to account for the fact that the sense of
+ownership (or its lack) is cognitively impenetrable. Participants in
+the rubber hand experiment are aware that the rubber hand is a fake
+hand and they rarely endorse the belief that the rubber hand is their
+own hand. Vice-versa: some patients know that their hand belongs to
+them, and yet it still seems to them as if it did not, as
+described by this patient: ‘my eyes and my feelings don’t
+agree, and I must believe my feelings. I know they look like mine, but
+I can feel they are not, and I can’t believe my eyes’
+(Nielsen 1938: 555). Cognitive impenetrability is classically taken as
+the signature of experiential states. For instance, in the
+Müller-Lyer illusion one cannot help but experience the two lines
+as being different despite having the belief that they are actually of
+the same size. However, there are attitudes other than feelings and
+sensations that can be immune to the influence of beliefs (McDowell
+2011). The question then is what kind of attitude: propositional
+imagination (Alsmith 2015), agreement towards a proposition (Wu
+forthcoming), perceptual seeming (Lyons 2011), or alief (Gendler
+2008). Whatever attitude it may be, it will have to be not only
+cognitive impenetrable, but also beyond the subject’s control.
+Subjects cannot decide at will to experience the rubber hand illusion.
+In the case of disownership syndromes, it also seems that the attitude
+they are in should be affectively-loaded. Patients indeed are greatly
+distressed when they report that they do not feel their hand as their
+own.
+Many theories appeal to the notion of action in relation to the sense
+of ownership, and even more to the sense of disownership. The fact is
+that disownership syndromes often involve some more or less extreme
+motor impairment. Most somatoparaphrenic patients are paralyzed, and
+those who are not suffer from the Anarchic hand sign (that is, they
+cannot control their limb, which seems to have a will of its own).
+Patients frequently complain about the uselessness of their
+‘alien’ limb. There are then several ways the agentive
+conception has been spelled out: in terms of body schema (Vignemont
+2007), agentive feelings (B. Baier & Karnath 2008), or general
+agentive ability (Peacocke 2017). The challenge that the various
+versions face is that the sense of bodily ownership can be preserved
+in patients who are paralyzed or who have lost the awareness of their
+actions as their own. For example, anarchic patients report that they
+have no control over their limbs but they still claim that their limbs
+belong to them (Marchetti & Della Salla 1998). The rubber hand
+illusion is also difficult to account for agentive conceptions. It has
+been shown that there is no agentive contrast between synchronous and
+asynchronous conditions, not only at the phenomenological level
+(subjects report no agentive feelings toward the rubber hand, Longo et
+al. 2008), but also at the sensorimotor level (the way they perform
+their movements is not altered by the illusion, Kammers et al. 2009).
+Peacocke’s (2017) agency-involving account may then seem the
+most promising because it appeals to the notion of action at a
+relatively high level of generality. On his view (Peacocke 2017: 293),
+a subject can experience that this is her own hand if and only if:
+Paralyzed patients still know what it is like to act and that should
+be sufficient for them to still feel their inert limbs as their own
+(Peacocke 2019). One might also say that in the rubber hand illusion,
+participants know what it is like to act with a hand in general
+although they do not feel they could act with this specific rubber
+hand. However, this account puts so few constraints on what it
+takes to experience one’s body as one’s own, that one may
+wonder how it is even possible to lose the sense of bodily ownership.
+What is the agency-involving difference between the paralyzed patients
+who deny ownership and those who do not? 
+These last 20 years have seen an explosion of experimental work on
+interoception. Recent accounts of interoception have highlighted its
+role for self- awareness, positing it at the core of what is sometimes
+called the “sentient self” (Craig 2003), the “proto-
+self” (Damasio 1999), the “embodied self” (Seth
+2013), or the “material me” (Tsakiris 2017). Even
+Descartes in his Meditations on First Philosophy take
+interoceptive feelings to be the key for our unique relationship with
+our body: 
+Nature likewise teaches me by these sensations of pain, hunger,
+thirst, etc., that I am not only lodged in my body as a pilot in a
+vessel. (Descartes 1641 [2016] Meditation VI, p. 56) 
+However, even if interoception can ground some notion of the self, it
+is not clear that it is specifically involved in the sense of bodily
+ownership. Imagine a creature that only receives interoceptive
+signals. It receives information about its body, and its body only.
+But there is a difference between self-specificity (information
+exclusively about the body that happens to be one’s own) and
+self-reference (awareness of the body qua one’s own).
+The problem is that on the basis of interoception only, there is no
+need to discriminate the inside from the outside since the body is
+only an inside. It is so fixated on its own body that it can dispense
+with representing whose body is hungry or thirsty. The fact is that
+one usually says “I am thirsty”, without any reference to
+bodily ownership, let alone to the body.
+There is, however, another way to spell out the affective conception
+without appealing to interoception. Instead it appeals to the notion
+of affective significance (Vignemont 2018). On what is called the Bodyguard hypothesis, there is a
+specific affective phenomenology that goes over and above the sensory
+phenomenology of bodily experiences. It expresses the unique value of
+the body for the self, a value that is evolutionarily rooted. In
+brief, survival involves preservation of one’s body. The sense
+of ownership then individuates the one body that matters to the
+subject for self-preservation more than anything else. In line with
+this view, it has been found that participants who report ownership
+for the rubber hand display an increase of arousal when the rubber
+hand is under threat (Ehrsson et al. 2007). Vice-versa, patients with
+somatoparaphrenia show no increase in arousal when they see the hand
+that they felt as alien under threat (Romano et al. 2014).
+One may object that evolutionary significance is only a consequence of
+the fact of bodily ownership: this body matters because it is mine.
+Consequently, affective phenomenology should be just the consequence
+of the sense of bodily ownership: I feel that this body matters
+because I am aware that it is mine. However, one may reply that what
+happens to the body that has this significance happens to me. Why is
+it so? One possibility is that it is because I am my body or more
+simply because we evolved in a world such that for the self to
+survive, its body must survive. Hence, for my body to have such
+significance is for it to be the body to protect for the
+organism’s evolutionary needs. Biology here provides an
+independent ground to the notion of significance. The impact on what
+happens on this body for oneself gives immediate ground for labeling
+it as one’s own. Hence, one is entitled to judge that this is
+one’s own body when one feels that this body matters in this
+special way, because under normal circumstances the body that matters
+in such a way is one’s own body.
+Bodily awareness reveals a new rich territory for philosophical
+exploration in its own right, but it also provides a new approach to
+general issues of perception, action, self and space. Empirical
+research on body representations, bodily sensations, bodily illusions,
+and self-awareness has grown exponentially. A comprehensive
+understanding of bodily awareness will likely require taking on board
+its insights.

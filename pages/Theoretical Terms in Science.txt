@@ -1,0 +1,1072 @@
+As just explained, a theoretical term may simply be understood as an
+expression that refers to nonobservable entities or properties.
+Theoreticity, on this understanding, is the negation of observability.
+This explanation of theoreticity thus rests on an antecedent
+understanding of observability. What makes an entity or property
+observable? As Carnap (1966: ch. 23) has pointed out, a philosopher
+understands the notion of observability in a narrower sense than a
+physicist. For a philosopher, a property is observable if it can be
+‘directly perceived by the senses’. Hence, such properties
+as ‘blue’, ‘hard’ and ‘colder
+than’ are paradigmatic examples of observable properties in the
+philosopher’s understanding of observability. The physicist, by
+contrast, would also count quantitative magnitudes that can be
+measured in a ‘relatively simple, direct way’ as
+observable. Hence, the physicist views such quantities as temperature,
+pressure and intensity of electric current as observable.
+The notion of direct perception is spelled out by Carnap (1966: ch.
+23) by two conditions. Direct perception means, first, perception
+unaided by technical instruments and, second, that the perception is
+unaided by inferences. These two conditions are obviously not
+satisfied for the measurement of quantities like temperature and
+pressure. For the philosopher, only spatial positions of liquids and
+pointers are observed when these quantities are measured. To an even
+higher degree, we are unable to observe electrons, molecules,
+gravitational forces and genes on this narrow understanding of
+observability. Hence, expressions referring to such entities qualify
+as theoretical.
+In sum, a property or object is observable—in the
+philosopher’s sense—if it can be perceived directly, where
+directness of observation excludes the use of technical artifacts and
+inferences. Notably, Carnap (1936/37: 455; 1966: 226) admits that his
+explanation of the distinction is not sufficiently precise to
+determine a sharp line between observational and theoretical terms. He
+rather views the theory-observation distinction as being introduced
+into a ‘continuum of degrees of observability’ by choice.
+Prominent criticisms of the theory-observation distinction will be
+discussed in
+ Section 2.1.
+The above explanation of theoreticity may be felt unsatisfactory as it
+determines the property of being theoretical only via negation of the
+property of being observable (Putnam 1962). This explanation does not
+indicate any specific connection between the semantics of theoretical
+terms and corresponding scientific theories. There is, however, also a
+direct characterization of theoreticity that complements the criterion
+of non-observability: an expression is theoretical if and only if its
+meaning is determined through the axioms of a scientific theory. This
+explanation rests on what has come to be referred to as the
+contextual theory of meaning, which says that the meaning of
+a scientific term depends, in some way or other, on how this term is
+incorporated into a scientific theory.
+Why adopt the contextual theory of meaning for scientific terms?
+Suppose the notion of meaning is understood along the lines of the
+Fregean notion of sense. The sense of a term be understood as that
+what determines its reference (cf. Church 1956: 6n). It is,
+furthermore, a reasonable requirement that a semantic theory must
+account for our understanding of the sense and, hence, our methods of
+determining the extension of scientific terms (cf. Dummett 1991: 340).
+For a large number of scientific terms these methods rest upon axioms
+of one or more scientific theories. There is no way of determining the
+force function in classical mechanics without using some axiom of this
+theory. Familiar methods make use of Newton’s second law of
+motion, Hooke’s law, the law of gravitation etc. Likewise,
+virtually all methods of measuring temperature rest upon laws of
+thermodynamics. Take measurement by a gas thermometer which is based
+on the ideal gas law. The laws of scientific theories are thus
+essential to our methods of determining the extension of scientific
+terms. The contextual theory of meaning, therefore, makes intelligible
+how students in a scientific discipline and scientists grasp the
+meaning, or sense, of scientific terms. On this account, understanding
+the sense of a term means knowing how to determine its referent, or
+extension, at least in part.
+The contextual theory of meaning can be traced back at least to the
+work of Duhem. His demonstration that a scientific hypothesis in
+physics cannot be tested in isolation from its theoretical context is
+joined with and motivated by semantic considerations, according to
+which it is physical theories that give meaning to the specific
+concepts of physics (Duhem 1906: 183). Poincaré (1902: 90)
+literally claims that certain scientific propositions acquire meaning
+only by virtue of the adoption of certain conventions. Perhaps the
+most prominent and explicit formulation of the contextual theory of
+meaning is to be found in Feyerabend’s landmark
+“Explanation, Reduction, and Empiricism” (1962: 88):
+For just as the meaning of a term is not an intrinsic property but is
+dependent upon the way in which the term has been incorporated into a
+theory, in the very same manner the content of a whole theory (and
+thereby again the meaning of the descriptive terms which it contains)
+depends upon the way in which it is incorporated into both the set of
+its empirical consequences and the set of all the alternatives which
+are being discussed at a given time: once the contextual theory of
+meaning has been adopted, there is no reason to confine its
+application to a single theory, especially as the boundaries of such a
+language or of such a theory are almost never well defined.
+The accounts of a contextual theory of meaning in the works of Duhem,
+Poincaré and Feyerabend are informal insofar as they do not
+crystallize into a corresponding formal semantics for scientific
+terms. Such a crystallization is brought about by some of the formal
+accounts of theoretical terms to be expounded in
+ Section 4.
+The view that meaning is bestowed upon a theoretical term through the
+axioms of a scientific theory implies that only axiomatized or
+axiomatizable scientific theories contain theoretical terms. In fact,
+all formal accounts of the semantics of theoretical terms are devised
+to apply to axiomatic scientific theories. This is due, in part, to
+the fact that physics has dominated the philosophy of science for a
+long time. One must wonder, therefore, whether there are any
+theoretical terms in, for example, evolutionary biology which has as
+yet resisted complete axiomatization. Arguably, there are. Even though
+evolutionary biology has not yet been axiomatized, we can recognize
+general propositions therein that are essential to determining certain
+concepts of this theory. Consider the following two propositions. (i)
+Two DNA sequences are homologous if and only if they have a common
+ancestor sequence. (ii) There is an inverse correlation between the
+number of mutations necessary to transform one DNA-sequence \(S_1\)
+into another \(S_2\) and the likelihood that \(S_1\) and \(S_2\) are
+homologous. Notably, these two propositions are used to determine,
+among other methods, relations of homology in evolutionary biology.
+The majority of general propositions in scientific theories other than
+those of physics, however, have instances that fail to be true. (Some
+philosophers of science have argued that this so even for a large
+number of axioms in physics [Cartwright 1983]).
+The very idea of a clear-cut theory-observation distinction has
+received much criticism. First, with the help of sophisticated
+instruments, such as telescopes and electron microscopes, we are able
+to observe more and more entities, which had to be considered
+unobservable at a previous stage of scientific and technical
+evolution. Electrons and \(\alpha\)-particles which can be observed in
+a cloud chamber are a case in point (Achinstein 1965). Second, assume
+observability is understood as excluding the use of instruments. On
+this understanding, examples drawing on the use of cloud chambers and
+electron microscopes, which are adduced to criticize the
+theory-observation distinction, can be dealt with. However, we would
+then have to conclude that things being perceived with glasses are not
+observed either, which is counterintuitive (Maxwell 1962). Third,
+there are concepts applying to or being thought to apply to both
+macroscopic and submicroscopic particles. A case in point are spatial
+and temporal relations and the color concepts that play an important
+role in Newton’s corpuscle theory of light. Hence, there are
+clear-cut instances of observation concepts that apply to unobservable
+entities, which does not seem acceptable (cf. Putnam 1962).
+These objections to the theory-observation distinction can be answered
+in a relatively straightforward manner from a Carnapian perspective.
+As explained in
+ Section 1.1,
+ Carnap (1936/37, 1966) was quite explicit that the
+philosopher’s sense of observation excludes the use of
+instruments. As for an observer wearing glasses, a proponent of the
+theory-observation distinction finds enough material in Carnap
+(1936/37: 455) to defend her position. Carnap is aware of the fact
+that color concepts are not observable ones for a color-blind person.
+He is thus prepared to relativize the distinction in question. In
+fact, Carnap’s most explicit explanation of observability
+defines this notion in such a way that it is relativized to an
+organism (1936/37: 454n).
+Recall, moreover, that Carnap’s theory-observation distinction
+was not intended to do justice to our overall understanding of these
+notions. Hence, certain quotidian and scientific uses of
+‘observation’, such as observation using glasses, may well
+be disregarded when this distinction is drawn as long as the
+distinction promises to be fruitful in the logical analysis of
+scientific theories. A closer look reveals that Carnap (1966: 226)
+agrees with critics of the logical empiricists’ agenda, such as
+Maxwell (1962) and Achinstein (1965), on there being no clear-cut
+theory-observation distinction (see also Carnap’s early
+(1936/37: 455) for a similar statement):
+There is no question here of who [the physicist thinking that
+temperature is observable or the philosopher who disagrees, H. A.] is
+using the term ‘observable’ in the right or proper way.
+There is a continuum which starts with direct sensory observations and
+proceeds to enormously complex, indirect methods of observation.
+Obviously no sharp line can be drawn across this continuum; it is a
+matter of degree.
+A bit more serious is Putnam’s (1962) objection drawing on the
+application of apparently clear-cut instances of observation concepts
+to submicroscopic particles. Here, Carnap would have to distinguish
+between color concepts applying to observable entities and related
+color concepts applying to unobservable ones. So, the formal language
+in which the logical analysis proceeds would have to contain a
+predicate ‘red\(_1\)’ applying to macroscopic objects and
+another one ‘red\(_2\)’ applying to submicroscopic ones.
+Again, such a move would be in line with the artificial, or ideal
+language philosophy that Carnap advocated (see Lutz (2012) for a
+sympathetic discussion of artificial language philosophy).
+There is another group of criticisms coming from the careful study of
+the history of science: Hanson (1958), Feyerabend (1962) and Kuhn
+(1962) aimed to show that observation concepts are
+theory-laden in a manner that makes their meaning
+theory-dependent. Feyerabend’s (1978: 32), for example, held
+that all terms are theoretical. Hanson (1958: 18) thinks that Tycho
+and Kepler were (literally) ‘seeing’ different things when
+perceiving the sun rising because their astronomical background
+theories were different. Kuhn (1962) was more tentative when
+expounding his variant of the theory-ladenness of observation. In a
+discussion of the Sneed formalism of the structuralist school, he
+favored a theory-observation distinction that is relativized, first to
+a theory and second to an application of this theory (Kuhn 1976).
+Virtually all formal accounts of theoretical terms in fact assume that
+those phenomena which a theory T is meant to account for can
+be described in terms of expressions whose meaning does not depend on
+T. The counter-thesis that the meaning of putative
+observation terms depends on a quotidian or scientific theory,
+therefore, attacks a core doctrine in the logical empiricists’
+and subsequent work on theoretical terms. A thorough discussion and
+assessment of theory-ladenness of observation in the works of the
+great historians of science is beyond the scope of this entry. Bird
+(2004), Bogen (2012) and Oberheim and Hoyningen-Huene (2009) are
+entries in the present encyclopedia that address, among other things,
+this issue. Schurz (2013: ch. 2.9) defines a criterion of the theory
+independence of observation in terms of an ostensive learning
+experiment, and shows how such a criterion helps answer the challenges
+of theory-ladenness of observation.
+There is a simple, intuitive and influential proposal how to
+relativize the theory-observation distinction in a sensible way: a
+term t is theoretical with respect to a theory T, or
+for short, a T-term if and only if it is introduced by the
+theory T at a certain stage in the history of science.
+O-terms, by contrast, are those that were antecedently available and
+understood before T was set forth (Lewis 1970; cf. Hempel
+1973). This proposal draws the theory-observation distinction in an
+apparently sharp way by means of relativizing that distinction to a
+particular theory. Needless to say, the proposal is in line with the
+contextual theory of meaning.
+The distinction between T-terms and antecedently available
+O-terms has two particular merits. First, it circumvents the view that
+any sharp line between theoretical and observational terms is
+conventional and arbitrary. Second, it connects the theory-observation
+distinction with what seemed to have motivated that distinction in the
+first place, viz., an investigation how we come to understand the
+meaning of terms that appear to be meaningful in virtue of certain
+scientific theories.
+A similar proposal of a relativized theory-observation distinction was
+made by Sneed in his seminal The Logical Structure of Mathematical
+Physics (1979: ch. II). Here is a simplified and more syntactic
+formulation of Sneed’s criterion of T-theoreticity:
+Definition 1 (T-theoreticity) 
+
+A term t is theoretical with respect to the theory
+T, or for short, T-theoretical if and only if any
+method of determining the extension of t, or some part of
+that extension, rests on some axiom of T.
+It remains to explain what it is for a method m of
+determining the extension of t to rest upon an axiom
+\(\phi\). This relation obtains if and only if the use of m
+depends on \(\phi\) being a true sentence. In other
+words, m rests upon \(\phi\) if and only if the
+hypothetical assumption of \(\phi\) being false or indeterminate would
+invalidate the use of m in the sense that we would
+be lacking the commonly presumed justification for using m.
+The qualification ‘or some part of that
+extension’ has been introduced in the present definition because
+we cannot expect a single measurement method to determine the
+extension of a scientific quantity completely.
+T-non-theoreticity is the negation of
+T-theoreticity:
+Definition 2 (T-non-theoreticity) 
+
+A term t is T-non-theoretical if and only if it is
+not T-theoretical.
+The concepts of classical particle mechanics (henceforth abbreviated
+by CPM) exemplify well the notions of T-theoreticity and
+T-non-theoreticity. As has been indicated above, all methods
+of determining the force acting upon a particle make use of some axiom
+of classical particle mechanics, such as Newton’s laws of motion
+or some law about special forces. Hence, force is CPM-theoretical.
+Measurement of spatial distances, by contrast, is possible without
+using axioms of CPM. Hence, the concept of spatial distance is
+CPM-non-theoretical. The concept of mass is less straightforward to
+classify as we can measure this concept using classical collision
+mechanics (CCM). Still, it was seen to be CPM-theoretical by the
+structuralists since CCM appeared reducible to CPM (Balzer et al.
+1987: ch. 2).
+Suppose for a term t once introduced by a scientific theory
+\(T_1\) novel methods of determination become established through
+another theory \(T_2\), where these methods do not depend on any axiom
+of \(T_1\). Then, t would neither qualify as
+\(T_1\)-theoretical nor as \(T_2\)-theoretical. It is preferable, in
+this situation, to relativize Definition 1 to theory-nets N,
+i.e., compounds of several theories. Whether there
+are such cases has not yet been settled.
+The original exposition of the theoreticity criterion by Sneed (1979)
+is a bit more involved as it makes use of set-theoretic predicates and
+intended applications, rather technical notions of the
+structuralist approach to scientific theories. There has been
+a lively discussion, mainly but not exclusively within the
+structuralist school, how to express the relativized notion of
+theoreticity most properly (Balzer 1986; 1996). As noted above, Kuhn
+(1976) proposed a twofold relativization of theoreticity, viz., first
+to a scientific theory and second to applications of such
+theories.
+Notably, Sneed’s criterion of T-theoreticity suggests a
+strategy that allows us to regain a global, non-relativized
+theory-observation distinction: simply take a term t to be
+theoretical if and only if it holds, for all methods m
+of determining its extension, that m
+rests upon some axiom of some theory T. A
+term t is non-theoretical, or observational, if and only if
+there are means of determining its extension, at least in part, that
+do not rest upon any axiom of any theory. This criterion is still
+relative to our present stage of explicit theories but comes closer to
+the original intention of Carnap’s theory-observation
+distinction, according to which observation is understood in the
+narrow sense of unaided perception.
+The problem of theoretical terms is a recurrent theme in the
+philosophy of science literature (Achinstein 1965; Sneed 1979: ch. II;
+Tuomela 1973: ch. V; Friedman 2011). Different shades of meaning have
+been associated with this problem. In its most comprehensive
+formulation, the problem of theoretical terms is to give a proper
+account of the meaning and reference of theoretical terms. There are
+at least two kinds of expression that pose a distinct problem of
+theoretical terms, respectively. First, unary predicates referring to
+theoretical entities, such as ‘electron’,
+‘neutrino’ and ‘nucleotide’. Second, non-unary
+theoretical predicates, such as ‘homology’ in evolutionary
+biology and theoretical function expressions, such as
+‘force’, ‘temperature’ and ‘intensity of
+the electromagnetic field’ in physics. Sneed’s problem of
+theoretical terms, as expounded in (1979: ch. II), concerns only the
+latter kind of expression. We shall now start surveying problems
+concerning the semantics of expressions for theoretical entities and
+then move on to expressions for theoretical relations and
+functions.
+A proper semantics for theoretical terms involves an account of
+reference and one of meaning and understanding. Reference fixing needs
+to be related to meaning as we want to answer the following question:
+how do we come to refer successfully to theoretical entities? This
+question calls for different answers depending on what particular
+conception of a theoretical entity is adopted. The issue of realism
+and its alternatives, therefore, comes into play at this point.
+For the realist, theoretical entities exist independently of our
+theories about the world. Also, natural kinds that classify these
+entities exist independently of our theories (cf. Psillos 1999; Lewis
+1984). The instrumentalist picture is commonly reported to account for
+theoretical entities in terms of mere fictions. The formalist variant
+of instrumentalism denies that theoretical terms have referents in the
+first place. Between these two extreme cases there is a number of
+intermediate
+ positions.[1]
+Carnap (1958; 1966: ch. 26) attempted to attain a metaphysically
+neutral position so as to avoid any commitment to or denial of
+scientific realism. In his account of the theoretical language of
+science, theoretical entities were conceived of as mathematical
+entities that are related to observable events in certain determinate
+ways. An electron, for example, figures as a certain distribution of
+charge and mass in a four-dimensional manifold of real numbers, where
+charge and mass are real-valued functions. These functions and the
+four-dimensional manifold itself are to be related to observable
+events by means of universal axioms. Notably, Carnap would not have
+accepted a characterization of his view as antirealist or non-realist
+since he thought the metaphysical doctrine of realism to be void of
+content.
+There thus are different metaphysical views of theoretical entities in
+science, each of which is consistent with the understanding that a
+theoretical entity is inaccessible by means of unaided perception.
+First, theoretical entities are mind and language independent. Second,
+theoretical entities are mind and language dependent in some way or
+other. Third, they are conceived of as mathematical entities that are
+related to the observable world in certain determinate ways. We may
+thus distinguish between (i) a realist view, (ii) a collection of
+non-realist views and (iii) a Pythagorean view of theoretical
+entities.
+Now, there are three major accounts of reference and meaning that have
+been used, implicitly or explicitly, for the semantics of theoretical
+terms: (i) the descriptivist picture, (ii) causal and
+causal-historical theories and (iii) hybrid ones that combine
+descriptivist ideas with causal elements (Reimer 2010). Accounts of
+reference and meaning other than these play no significant role in the
+philosophy of science. Hence, we need to survey at least nine
+combinations consisting, first, of an abstract characterization of the
+nature of a theoretical entity (realist, non-realist and Pythagorean),
+and, second, a particular account of reference (descriptivist, causal
+and hybrid). Some of these combinations are plainly inconsistent and,
+hence, can be dealt with very briefly. Let us start with the realist
+view of theoretical entities.
+The descriptivist picture is highly intuitive with regard to our
+understanding of expressions referring to theoretical entities on the
+realist view. According to this picture, an electron is a
+spatiotemporal entity with such and such a mass and such and such a
+charge. We detect and recognize electrons when identifying entities
+having these properties. The descriptivist explanation of meaning and
+reference makes use of theoretical functions, mass and electric charge
+in the present example. The semantics of theoretical entities,
+therefore, is connected with the semantics of theoretical relations
+and functions, which will be dealt with in the next subsection. It
+seems to hold, in general, that theoretical entities in the sciences
+are to be characterized in terms of theoretical functions and
+relations.
+The descriptivist account, however, faces two particular problems with
+regard to the historic evolution of scientific theories. First, if
+descriptions of theoretical entities are constitutive of the meaning
+of corresponding unary predicates, one must wonder what the common
+core of understanding is that adherents of successive theories share
+and whether there is such a core at all. Were Rutherford and Bohr
+talking about the same type of entities when using the expression
+‘electron’? Issues of incommensurability arise with the
+descriptivist picture (Psillos 1999: 280). A second problem arises
+when elements of the description of an entity in a given theory
+T are judged wrong from the viewpoint of a successor theory
+\(T'\). Then, on a strict reading of the descriptivist account, the
+corresponding theoretical term failed to refer in T. For if
+there is nothing that satisfies a description, the corresponding
+expression has no referent. This is a simple consequence of the theory
+of description by Russell in his famous “On Denoting”
+(1905). Hence, an account of weighting descriptions is needed in order
+to circumvent such failures of reference.
+As is well known, Kripke (1980) set forth a causal-historical account
+of reference as an alternative to the descriptivist picture. This
+account begins with an initial baptism that introduces a name and goes
+on with causal chains transmitting the reference of the name from
+speaker to speaker. In this picture, Aristotle is the man once
+baptized so; he might not have been the student of Plato or done any
+other thing commonly attributed to him. Kripke thought this picture to
+apply both to proper names and general terms. It is hardly indicated,
+however, how this picture works for expressions referring to
+theoretical entities (cf. Papineau 1996). Kripke’s story is
+particularly counterintuitive in view of the ahistorical manner of
+teaching in the natural sciences. There, up-to-date textbooks and
+recent journal articles are more important than the original,
+historical introduction of a theoretical term. The Kripkean causal
+story may also be read as an account of reference fixing without being
+read as a story of grasping the meaning of theoretical terms.
+Reference, however, needs to be related to meaning so as to ensure
+that scientists know what they are talking about and are able to
+identify the entities under investigation. Notably, even for
+expressions of everyday language, the charge of not explaining meaning
+has been leveled against Krikpe’s causal-historical account
+(Reimer 2010). The same charge applies to Putnam’s (1975) causal
+account of reference and meaning, which Putnam himself abandoned in
+his (1980).
+A purely causal or causal-historical account of reference does not
+seem a viable option for theoretical terms. More promising are hybrid
+accounts that combine descriptivist intuitions with causal elements.
+Such an account has been given by Psillos (1999: 296):
+This account has two particular merits. First, it is much closer to
+the way scientists understand and use theoretical terms than purely
+causal accounts. Because of this, it is not only an account of
+reference but also one of meaning for theoretical terms. In purely
+causal accounts, by contrast, there is a tendency to abandon the
+notion of meaning altogether. Second, it promises to ensure a more
+stable notion of reference than in purely descriptivist accounts of
+reference and meaning. Notably, the kind of causation that
+Psillos’s hybrid account refers to is different from the
+causal-historical chains that Kripke thought responsible for the
+transmission of reference among speakers. No further explanation,
+however, is given of what a kind-constitutive property is and how we
+are to recognize such a property. Psillos (1999: 288n) merely infers
+the existence of such properties from the assumption of there being
+natural kinds.
+Non-realist and antirealist semantics for theoretical terms are
+motivated by the presumption that the problem of theoretical terms has
+no satisfying realist solution. What does a non-realist semantics of
+theoretical terms look like? The view that theoretical entities are
+mere fictions often figures in realist portrays of antirealism. This
+view is hardly seriously maintained by any philosopher of science in
+the twentieth century. If one were to devise a formal or informal
+semantics for the view that theoretical entities are mere fictions, a
+purely descriptive account seems most promising. Such an account could
+in particular make heavy use of the Fregean notion of sense. For one
+important motivation for introducing this notion is to explain our
+understanding of expressions like ‘Odysseus’ and
+‘Pegasus’.
+Formalist variants of instrumentalism are a more serious alternative
+to realist semantics than the fiction view of theoretical entities.
+Formalist views in the philosophy of mathematics aim to account for
+mathematical concepts and objects in terms of syntactic entities and
+operations thereupon within a calculus. Such views have been carried
+over to theoretical concepts and objects in the natural sciences, with
+the qualification that the observational part of the calculus is
+interpreted in such a way that its symbols refer to physical or
+phenomenal objects. Cognitive access to theoretical entities is thus
+explained in terms of our cognitive access to the symbols and rules of
+the calculus in the context of an antecedent understanding of the
+observation terms. Formalist ideas were sympathetically entertained by
+Hermann Weyl (1949). He was driven towards such ideas by adherence to
+Hilbert’s distinction between real and ideal elements and the
+corresponding distinction between real and ideal propositions (Hilbert
+1926). Propositions of the observation language were construed as real
+in the sense of this Hilbertian distinction, while theoretical
+propositions are construed as ideal. The content of an ideal
+proposition is understood in terms of the (syntactic) consistency of
+the whole system consisting of ideal and real propositions being
+asserted.
+There remains to discuss the view that theoretical entities are
+mathematical entities which are related to observable events in
+certain determinate ways. This theory is clearly of the descriptivist
+type, as we shall see more clearly when dealing with the formal
+account by Carnap in
+ Section 4.
+ No causal elements are needed in Carnap’s Pythagorean
+empiricism.
+The Pythagorean view shifts the problem of theoretical terms to the
+theory of meaning and reference for mathematical expressions. The
+question of how we are able to refer successfully to electrons is
+answered by the Pythagorean by pointing out that we are able to refer
+successfully to mathematical entities. Moreover, the Pythagorean
+explains, it is part of the notion of an electron that corresponding
+mathematical entities are connected to observable phenomena by means
+of axioms and inference rules. The empirical surplus of theoretical
+entities in comparison to “pure” mathematical entities is
+thus captured by axioms and inference rules that establish connections
+to empirical phenomena. Since mathematical entities do not, by
+themselves, have connections to observable phenomena, the question of
+truth and falsehood may not be put in a truth-conditional manner for
+those axioms that connect mathematical entities with phenomenal events
+(cf.
+ Section 4.2).
+ Carnap (1958), therefore, came to speak of postulates when
+referring to the axioms of a scientific theory.
+How do we come to refer successfully to mathematical entities? This,
+of course, is a problem in the philosophy of mathematics. (For a
+classical paper that addresses this problem see Benacerraf (1973)).
+Carnap has not much to say about meaning and reference of mathematical
+expressions in his seminal “The Methodological Character of
+Theoretical Concepts” (1956) but discusses these issues in his
+“Empiricism, Semantics, and Ontology” (1950). There he
+aims at establishing a metaphysically neutral position that avoids a
+commitment to Platonist, nominalist or formalist conceptions of
+mathematical objects. A proponent of the Pythagorean view other than
+Carnap is Hermann Weyl (1949). As for the cognition of mathematical
+entities, Weyl largely followed Hilbert’s formalism in his later
+work. Hence, there is a non-empty intersection between the Pythagorean
+view and the formalist view of theoretical entities. Unlike Carnap,
+Weyl did not characterize the interpretation of theoretical terms by
+means of model-theoretic notions.
+For theoretical functions and relations, a particular problem arises
+from the idea that a theoretical term is, by definition, semantically
+dependent upon a scientific theory. Let us recall the above
+explanation of T-theoreticity: a term t is
+T-theoretical if and only if any method of determining the
+extension of t, or some part of that extension, rests upon
+some axiom of T. Let \(\phi\) be such an axiom and m
+be a corresponding method of determination. The
+present explanation of T-theoreticity, then, means that m
+is valid only on condition of \(\phi\) being true.
+The latter dependency holds because \(\phi\) is used either explicitly
+in calculations to determine t or in the calibration of
+measurement devices. Such devices, then, perform the calculation
+implicitly. A case in point is measurement of temperature by a gas
+thermometer. Such a device rests upon the law that changes of
+temperature result in proportional changes in the volume of gases.
+Suppose now t is theoretical with respect to a theory
+T. Then it holds that in order to measure t, we need
+to assume the truth of some axiom \(\phi\) of T. Suppose,
+further, that t has occurrences in \(\phi\), as is standard
+in examples of T-theoreticity. From this it follows that, in
+standard truth-conditional semantics, the truth value of \(\phi\) is
+dependent on the semantic value of t. This leads to the
+following epistemological problem: on the one hand, we need to know
+the extension of t in order to find out whether \(\phi\) is
+true. On the other hand, it is simply impossible to determine the
+extension of t without using \(\phi\) or some other axiom of
+T. This mutual dependency between the semantic values of
+\(\phi\) and t makes it difficult, if not even impossible, to
+have evidence for \(\phi\) being true in any of its applications (cf.
+Andreas 2008).
+We could, of course, use an alternative measurement method of
+t, say one resting upon an axiom \(\psi\) of T, to
+gain evidence for the axiom \(\phi\) being true in some selected
+instances. This move, however, only shifts the problem to applications
+of another axiom of T. For these applications the same type
+of difficulty arises, viz., mutual dependency of the semantic values
+of \(\psi\) and t. We are thus caught either in a vicious
+circle or in an infinite regress when attempting to gain evidence for
+the propriety of a single measurement of a theoretical term. Sneed
+(1979: ch. II) was the first to describe that particular difficulty in
+the present manner and termed it the problem of theoretical
+terms. Measurement of the force function in classical mechanics
+exemplifies this problem well. There is no method of measuring force
+that does not rest upon some law of classical mechanics. Likewise, it
+is impossible to measure temperature without using some law that
+depends upon either phenomenological or statistical
+thermodynamics.
+Although its formulation is primarily epistemological, Sneed’s
+problem of theoretical terms has a semantic reading. Let the meaning
+of a term be identified with the methods of determining its extension,
+as suggested in
+ Section 1.2.
+ Then we can say that our understanding of T-theoretical
+relations and functions originates from the axioms of the scientific
+theory T. In standard truth-conditional semantics, by
+contrast, one assumes that the truth value of an axiom is determined
+by the semantic values of those descriptive symbols which have
+occurrences in \(\phi\). Among these symbols, there are theoretical
+terms of T. Hence, it appears that standard truth-conditional
+semantics does not accord with the order of our grasping the meaning
+of theoretical terms. In the next section, we will deal with indirect
+means of interpreting theoretical terms. These proved to be ways out
+of the present problem of theoretical terms.
+A few notational conventions and preliminary considerations are
+necessary to explain the formal accounts of theoretical terms.
+Essential to all of these accounts is the division of the set of
+descriptive symbols into a set \(V_o\) of observational and another
+set \(V_t\) of theoretical terms. (The descriptive symbols of a formal
+language are simply the non-logical ones.) A scientific theory thus be
+formulated in a language \(L(V_o,V_t)\). The division of the
+descriptive vocabulary gives rise to a related distinction between
+T- and C-axioms among the axioms of a scientific
+theory. The T-axioms contain only \(V_t\) symbols as
+descriptive ones, while the C-axioms contain both \(V_o\) and
+\(V_t\) symbols. The latter axioms establish a connection between the
+theoretical and the observational terms. TC designates the
+conjunction of T- and C-axioms and \(A(\TC)\) the
+set of these axioms. Let \(n_1 ,\ldots ,n_k\) be the elements of
+\(V_o\) and \(t_1 ,\ldots ,t_n\) the elements of \(V_t\). Then,
+TC is a proposition of the following type:
+Ramsey ([1929] 1931) assumes that there is but one domain of
+interpretation for all descriptive symbols. Carnap (1956, 1958), by
+contrast, distinguishes between a domain of interpretation for
+observational terms and another for theoretical terms. Notably, the
+latter domain contains exclusively mathematical entities. Ketland
+(2004) has emphasized the importance of distinguishing between an
+observational and a theoretical domain of interpretation. TC
+is a first-order sentence in Ramsey’s seminal article
+“Theories” ([1929] 1931). Carnap (1956; 1958), however,
+works with higher-order logic to allow for the formulation of
+mathematical propositions and concepts.
+where \(X_1 , \ldots ,X_n\) are higher-order variables. This sentence
+says that there is an extensional interpretation of the theoretical
+terms that verifies, together with an antecedently given
+interpretation of the observation language \(L(V_o)\), the axioms
+TC. The Ramsey sentence expresses an apparently weaker
+proposition than TC, at least in standard truth-conditional
+semantics. If one thinks that the Ramsey sentence expresses the
+proposition of a scientific theory more properly than TC, one
+holds the Ramsey view of scientific theories.
+Why should one prefer the Ramsey view to the standard one? Ramsey
+([1929] 1931: 231) himself seemed to have a contextual theory of
+meaning in mind when proposing the replacement of theoretical terms
+with appropriate higher-order variables:
+Any additions to the theory, whether in the form of new axioms or
+particular assertions like \(\alpha(0, 3)\) are to be made within the
+scope of the original \(\alpha\), \(\beta\), \(\gamma\). They are not,
+therefore, strictly propositions by themselves just as the different
+sentences in a story beginning ‘Once upon a time’ have not
+complete meanings and so are not propositions by themselves.
+\(\alpha\), \(\beta\), and \(\gamma\) figure in this explanation as
+theoretical terms to be replaced by higher-order variables. Ramsey
+goes on to suggest that the meaning of a theoretical sentence \(\phi\)
+is the difference between
+and
+where A stands for the set of observation sentences
+being asserted and (...)\(^R\) for the operation of Ramsification,
+i.e., existentially generalizing on all theoretical terms. This
+proposal of expressing theoretical assertions clearly makes such
+assertions dependent upon the context of the theory TC.
+Ramsey ([1929] 1931: 235n) thinks that a theoretical assertion
+\(\phi\) is not meaningful if no observational evidence can be found
+for either \(\phi\) or its negation. In this case there is no stock
+A of observation sentences such that (1) and (2)
+differ in truth value.
+Another important argument in favor of the Ramsey view was given later
+by Sneed (1979: ch. III). It is easy to show that Sneed’s
+problem of theoretical terms (which concerns relations and functions)
+does not arise in the first place on the Ramsey view. For \(\TC^R\)
+only says that there are extensions of the theoretical terms such that
+each axiom of the set \(A(\TC)\) is satisfied in the context of a
+given interpretation of the observational language. No claim, however,
+is made by \(\TC^R\) as to whether or not the sentences of \(A(\TC)\)
+are true. Nonetheless, it can be shown that \(\TC^R\) and TC
+have the same observational consequences:
+Proposition 1. For all \(L(V_o)\) sentences \(\phi\),
+\(\TC^R\) \(\vdash \phi\) if and only if \(\TC \vdash \phi\), where
+\(\vdash\) designates the relation of logical consequence in classical
+logic.
+Hence, the Ramsey sentence cannot be true in case the original theory
+TC is not consistent with the observable facts. For a
+discussion of empirical adequacy and Ramsification see Ketland
+(2004).
+One difficulty, however, remains with the Ramsey view. It concerns the
+representation of deductive reasoning, for many logicians the primary
+objective of logic. Now, Ramsey ([1929] 1931: 232) thinks that the
+‘incompleteness’ of theoretical assertions does not affect
+our reasoning. No formal account, however, is given that relates our
+deductive practice, in which abundant use of theoretical terms is
+made, to the existentially quantified variables in the Ramsey
+sentence. We lack a translation of theoretical sentences (other than
+the axioms) that is in keeping with the view that the meaning of a
+theoretical sentence \(\phi\) is the difference between \((\TC \wedge
+A \wedge \phi)^R\) and \((\TC \wedge A)^R\). As Ramsey observes, it
+would not be correct to take \((\TC \wedge A \wedge \phi)^R\) as
+translation of a theoretical sentence \(\phi\) since both \((\TC
+\wedge A \wedge \phi)^R\) and \((\TC \wedge A \wedge \neg \phi)^R\)
+may well be true. Such a translation would not obey the laws of
+classical logic. These laws, however, are supposed to govern deductive
+reasoning in science. A proper semantics of theoretical terms should
+take the semantic peculiarities of these terms into account without
+revising the rules of deductive reasoning in classical logic.
+There thus remains the challenge of relating the apparent use of
+theoretical terms in deductive scientific reasoning to the Ramsey
+formulation of scientific theories. Carnap was well aware of this
+challenge and addressed it using a sentence that became labeled later
+on the Carnap sentence of a scientific theory (Carnap 1958;
+1966: ch. 23):
+This sentence is part of a proposal to draw the analytic-synthetic
+distinction at the global level of a scientific theory (as this
+distinction proved not to be applicable to single axioms): the
+analytic part of the theory is given by its Carnap sentence \(A_T\),
+whereas the synthetic part is identified with the theory’s
+Ramsey sentence in light of Proposition 1. Carnap (1958) wants \(A_T\)
+to be understood as follows: if the Ramsey sentence is true, then the
+theoretical terms be interpreted such that TC comes out true
+as well. So, on condition of \(\TC^R\) being true, we can recover the
+original formulation of the theory in which the theoretical terms
+occur as constants. For, obviously, TC is derivable from
+\(\TC^R\) and \(A_T\) using Modus Ponens.
+From the viewpoint of standard truth-conditional semantics, however,
+this instruction to interpret the Carnap sentence appears arbitrary,
+if not even misguided. For in standard semantics, the Ramsey sentence
+may well be true without TC being so (cf. Ketland 2004).
+Hence, the Carnap sentence would not count as analytic, as Carnap
+intended. Carnap’s interpretation of \(A_T\) receives a sound
+foundation in his (1961) proposal to define theoretical terms using
+Hilbert’s epsilon operator, as we shall see in
+ Section 4.3.
+The notion of an indirect interpretation was introduced by Carnap in
+his Foundations of Logic and Mathematics (1939: ch.
+23–24) with the intention of accounting for the semantics of
+theoretical terms in physics. It goes without saying that this notion
+is understood against the background of the notion of a direct
+interpretation. Carnap had the following distinction in mind. The
+interpretation of a descriptive symbol is direct if and only if (i) it
+is given by an assignment of an extension or an intension, and (ii)
+this assignment is made by expressions of the metalanguage. The
+interpretation of a descriptive symbol is indirect, by contrast, if
+and only if it is specified by one or several sentences of the object
+language, which then figure as axioms in the respective calculus. Here
+are two simple examples of a direct interpretation:
+‘R’ designates the property of being
+rational.
+‘A’ designates the property of being an
+animal.
+The predicate ‘H’, by contrast, is interpreted in
+an indirect manner by a definition in the object language:
+Interpretation of a symbol by a definition counts as one type of
+indirect interpretation. Another type is the interpretation of
+theoretical terms by the axioms of a scientific theory. Carnap (1939:
+65) remains content with a merely syntactic explanation of indirect
+interpretation:
+The calculus is first constructed floating in the air, so to speak;
+the construction begins at the top and then adds lower and lower
+levels. Finally, by the semantical rules, the lowest level is anchored
+at the solid ground of the observable facts. The laws, whether general
+or special, are not directly interpreted, but only the singular
+sentences.
+The laws \(A(\TC)\) are thus simply adopted as axioms in the calculus
+without assuming any prior interpretation or reference to the world
+for theoretical terms. (A sentence \(\phi\) being an axiom of a
+calculus C means that \(\phi\) can be used in any formal
+derivation in C without being a member of the premises.) This
+account amounts to a formalist understanding of the theoretical
+language in science. It has two particular merits. First, it
+circumvents Sneed’s problem of theoretical terms since the
+axioms are not required to be true in the interpretation of the
+respective language that represents the facts of the
+theory-independent world. The need for assuming such an interpretation
+is simply denied. Second, the account is in line with the contextual
+theory meaning for theoretical terms as our understanding of such
+terms is explained in terms of the axioms of the respective scientific
+theories (cf.
+ Section 1.2).
+There are less formalist accounts of indirect interpretation in terms
+of explicit model-theoretic notions by Przelecki (1969: ch. 6) and
+Andreas
+ (2010).[2]
+ The latter account is based on ideas about theoretical terms in
+Carnap (1958). It emerged from an investigation into the similarities
+and dissimilarities between Carnapian postulates and definitions.
+Recall that Carnap viewed the axioms of a scientific theory as
+postulates since they contribute to the interpretation of theoretical
+terms. When explaining the Carnap sentence \(\TC^R \rightarrow \TC\),
+Carnap says that, if the Ramsey sentence is true, the theoretical
+terms are to be understood in accordance with some interpretation that
+satisfies TC. This is the sense in which we can say that
+Carnapian postulates contribute to the interpretation of theoretical
+terms in a manner akin to the interpretation of a defined term by the
+corresponding definition. Postulates and definitions alike impose a
+constraint on the admissible, or intended, interpretation of the
+complete language \(L(V)\), where V contains basic
+and indirectly interpreted terms.
+Yet, the interpretation of theoretical terms by axioms of a scientific
+theory differs in several ways from that of a defined term by a
+definition. First, the introduction of theoretical terms may be joined
+with the introduction of another, theoretical domain of
+interpretation, in addition to the basic domain of interpretation in
+which observation terms are interpreted. Second, it must not be
+assumed that the interpretation of theoretical terms results in a
+unique determination of the extension of these terms. This is an
+implication of Carnap’s doctrine of partial interpretation
+(1958), as will become obvious by the end of this section. Third,
+axioms of a scientific theory are not conservative extensions of the
+observation language since they enable us to make predictions.
+Definitions, by contrast, must be conservative (cf. Gupta 2009).
+Taking these differences into account when observing the semantic
+similarities between definitions and Carnapian postulates suggests the
+following explanation: a set \(A(\TC)\) of axioms that interprets a
+set \(V_t\) of theoretical terms on the basis of a language \(L(V_o)\)
+imposes a constraint on the admissible, or intended, interpretations
+of the language \(L(V_o,V_t)\). An \(L(V_o,V_t)\) structure is
+admissible if and only if it (i) satisfies the axioms
+\(A(\TC)\) and (ii) extends the intended interpretation of \(L(V_o)\)
+to include an interpretation of the theoretical terms.
+In more formal terms (Andreas 2010: 373; Przelecki 1969: ch. 6):
+Definition 3 (Set \(\mathcal{S}\) of admissible
+structures)
+
+Let \(\mathcal{A}_o\) designate the intended interpretation of the
+observation language. Further, \(\MOD(A(\TC))\) designates the set of
+\(L(V_o,V_t)\) structures that satisfy the axioms \(A(\TC)\).
+\(\EXT(\mathcal{A}_o,V_t,D_t)\) is the set of \(L(V_o,V_t)\)
+structures that extend \(\mathcal{A}_o\) to interpret the theoretical
+terms, where the domain of interpretation may be extended by a domain
+\(D_t\) of theoretical entities.
+Given there is a range of admissible, i.e., intended structures, the
+following semantic rules for theoretical sentences suggest
+themselves:
+Definition 4 (Semantics of theoretical sentences)
+
+\(\nu : L(V_o,V_t) \rightarrow \{T, F, I\}.\)
+These semantic rules are motivated by supervaluation logic (van
+Fraassen 1969; Priest 2001: ch. 7). A sentence is true if and only if
+it is true in every admissible structure. It is false, by contrast, if
+and only if it is false in every admissible structure. And a sentence
+does not have a determinate truth value if and only if it is true in,
+at least, one admissible structure and false in, at least, another
+structure that is also admissible.
+A few properties of the present semantics are noteworthy. First, it
+accounts for Carnap’s idea that the axioms \(A(\TC)\) have a
+twofold function, viz., setting forth empirical claims and determining
+the meaning of theoretical terms (Carnap 1958). For, on the one hand,
+the truth values of the axioms \(A(\TC)\) depend on empirical,
+observable facts. These axioms, on the other hand, determine the
+admissible interpretations of the theoretical terms. These two
+seemingly contradictory properties are combined by allowing the axioms
+\(A(\TC)\) to interpret theoretical terms only on condition of there
+being a structure that both extends the given interpretation of the
+observation language and that satisfies these axioms. If there is no
+such structure, the theoretical terms remain uninterpreted. This
+semantics, therefore, can be seen to formally work out the old
+contextual theory of meaning for theoretical terms.
+Second, Sneed’s problem of theoretical terms
+ (Section 3.2)
+ does not arise in the present semantics since the formulation of this
+problem is bound to standard truth-conditional semantics. Third, it is
+closely related to the Ramsey view of scientific theories as the
+following biconditional holds:
+Proposition 2  \(\TC^R\) if and only if for all
+\(\phi \in A(\TC), \nu(\phi) = T\).
+Unlike the Ramsey account, however, the semantics of indirect
+interpretation does not dispense with theoretical terms. It can rather
+be shown that allowing for a range of admissible interpretations as
+opposed to a single interpretation does not affect the validity of
+standard deductive reasoning (Andreas 2010). Hence, a distinctive
+merit of the indirect interpretation semantics of theoretical terms is
+that theoretical terms need not be recovered from the Ramsey sentence
+in the first place.
+The label partial interpretation is more common in the
+literature to describe Carnap’s view that theoretical terms are
+interpreted by the axioms or postulates of a scientific theory (Suppe
+1974: 86–95). The partial character of interpretation is
+retained in the present account since there is a range of admissible
+interpretations of the complete language \(L(V_o,V_t)\). This allows
+for the interpretation of theoretical terms to be strengthened by
+further postulates, just as Carnap demanded in his 1958 and 1961. To
+strengthen the interpretation of theoretical terms is to further
+constrain the range of admissible interpretations of
+\(L(V_o,V_t)\).
+What happens if the axioms A(TC) are inconsistent or fail to be
+empirically adequate? In other words, what happens if there is no
+interpretation of the theoretical terms such that this interpretation
+satisfies all the axioms and agrees with the antecedent interpretation
+of the observation terms? In this case, the axioms of the respective
+theory fail to interpret the theoretical terms. The set of admissible
+structures, as defined by Definition 3, is empty. At the same time, we
+think we have some understanding of the theoretical terms, even if the
+respective theory fails to be fully consistent with the empirical
+data. For example, we think we have some understanding of the
+theretical terms in classical mechanics, even though classical
+mechanics is not universally applicable. Moreover, we seem to have
+inconsistent, yet non-trivial scientific theories, such as classical
+electrodynamics.
+Consequently, Andreas (2018) generalized the present semantics so as
+to capture scientific reasoning in a paraconsistent setting. The
+proposal is based on a preferred-models semantics: satisfaction of a
+theory and agreement with empirical data comes in degrees. Some
+interpretations score better than others. This idea leads to a strict
+partial order of interpretations. And we understand the theoretical
+terms in such a manner that the set of instances of all the axioms is
+satisfied to a maximal extent in the context of a given interpretation
+of the observation terms. This proposal parallels certain adaptive
+logics, developed by Batens (2000) and Meheus et al. (2016). Notably,
+it allows us to capture scientific reasoning with ceteris paribus
+laws, i.e., laws that hold true most of the time but have exceptions.
+This could be helpful for the analysis of theoretical terms in
+scientific disciplines other than physics.
+Relatively little research has been done on the semantics of
+theoretical terms in theories from scientific disciplines other than
+physics. It has remained an open question whether or not formal
+semantics that were primarily developed to capture theories in physics
+are applicable to theories in biology, chemistry, psychology,
+economics, etc. For the structuralist framework by Balzer et al.
+(1987) it could be shown that such applications are feasible (see
+Balzer et al. 2000). Rakover (2020) and McClimans (2017) studied
+theoretical terms in psychology, albeit without explicit
+considerations of their formal semantics.
+Both the Ramsey view and the indirect interpretation semantics deviate
+from standard truth-conditional semantics at the level of theoretical
+terms and theoretical sentences. Such a deviation, however, was not
+felt to be necessary by all philosophers that have worked on
+theoretical concepts. Tuomela (1973: ch. V) defends a position that he
+calls semantic realism and that retains standard
+truth-conditional semantics. Hence, direct interpretation is assumed
+for theoretical terms by Tuomela. Yet, semantic realism for
+theoretical terms acknowledges there to be an epistemological
+distinction between observational and theoretical terms.
+Tuomela’s (1973: ch. I) criterion of the theory-observation
+distinction largely coincides with Sneed’s above expounded
+criterion. Since direct interpretation of theoretical terms amounts
+just to standard realist truth conditions, there is no need for a
+further discussion here.
+In Weyl (1949), Carnap (1958), Feyerabend (1962) and a number of other
+writings, we find different formulations of the idea that the axioms
+of a scientific theory determine the meaning of theoretical terms
+without these axioms qualifying as proper definitions of theoretical
+terms. Lewis, however, wrote a paper with the title “How to
+Define Theoretical Terms” (1970). A closer look at the
+literature reveals that the very idea of explicitly defining
+theoretical terms goes back to Carnap’s (1961) use of
+Hilbert’s epsilon operator in scientific theories. This operator
+is an indefinite description operator that was introduced by Hilbert
+to designate some object x that satisfies an open
+formula \(\phi\). So
+designates some x satisfying \(\phi(x)\), where x
+is the only free variable of \(\phi\) (cf. Avigad and
+Zach 2002). Now, Carnap (1961: 161n) explicitly defines theoretical
+terms in two steps:
+where \(\bar{X}\)is a sequence of higher-order variables and
+\(\bar{t}\) a corresponding instantiation. So, \(\bar{t}\) designates
+some sequence of relations and functions that satisfies TC in
+the context of an antecedently given interpretation of \(V_o\). Once
+such a sequence has been defined via the epsilon-operator, the second
+step of the definition is straightforward:
+Carnap showed that these definitions imply the Carnap sentence
+\(A_T\). Hence, they allow for direct recovery of the theoretical
+terms for the purpose of deductive reasoning on condition of the
+Ramsey sentence being true.
+Lewis (1970) introduced a number of modifications concerning both the
+language of the Carnap sentence and its interpretation in order to
+attain proper definitions of theoretical terms. First, theoretical
+terms are considered to refer to individuals as opposed to relations
+and functions. This move is made coherent by allowing the basic
+language \(L(V_o)\) to contain relations like ‘x
+has property y’. The basic,
+i.e., non-theoretical language is thus no observation language in this
+account. Yet, it serves as the basis for introducing theoretical
+terms. The set \(V_o\) of ‘O-terms’ is best described as
+our antecedently understood vocabulary.
+Second, denotationless terms are dealt with along the lines of free
+logic by Dana Scott (1967). An improper description, for example,
+denotes nothing in the domain of discourse. Atomic sentences
+containing denotationless terms are either true or false. An identity
+statement that contains a denotationless term on both sides is always
+true. If just one side of an identity formula has an occurrence of a
+denotationless term, this identity statement is false.
+Third, Lewis (1970) insists on a unique interpretation of theoretical
+terms, thus rejecting Carnap’s doctrine of partial
+interpretation. Carnap (1961) is most explicit about the indeterminacy
+that this doctrine implies. This indeterminacy of theoretical terms
+drives Carnap to using Hilbert’s \(\varepsilon\)-operator there,
+as just explained. For Lewis, by contrast, a theoretical term is
+denotationless if its interpretation is not uniquely determined by the
+Ramsey sentence. For a scientific theory to be true, it must have a
+unique interpretation.
+Using these modifications, Lewis transforms the Carnap sentence into
+three Carnap-Lewis postulates, so to speak:
+These postulates look more difficult than they actually are. CL1 says
+that, if TC has a unique realization, then it is realized by
+the entities named by \(t_1,\ldots,t_k\). Realization of a theory
+TC, in this formulation, means interpretation of the
+descriptive terms under which TC comes out true, where the
+interpretation of the \(V_o\) terms is antecedently given. So, CL1 is
+to be read as saying that the theoretical terms are to be understood
+as designating those entities that uniquely realize TC, in
+the context of an antecedently given interpretation of the \(V_o\)
+terms. CL2 says that, if the Ramsey sentence is false, the theoretical
+terms do not designate anything. To see this, recall that \(\neg
+\exists x(x=t_i)\) means, in free logic, that \(t_i\) is
+denotationless. In case the theory TC has multiple
+realizations, the theoretical terms are denotationless too. This is
+expressed by CL3.
+CL1–CL3 are equivalent, in free logic, to a set of sentences
+that properly define the theoretical terms \(t_i (1 \le i \le
+n)\):
+\(t_i\) designates, according to this definition schema, the
+i-th component in that sequence of entities that uniquely
+realizes TC. If there is no such sequence, \(t_i (1 \le i \le
+n)\) is denotationless. But even if a theoretical term \(t_i\) fails
+to have a denotation, the definition \(D_i\) of this term remains true
+as long as the complete language \(L(V_o,V_t)\) is interpreted in
+accordance with the postulates CL1–CL3, thanks to the use of
+free logic.
+A few further properties of Lewis’s definitions of theoretical
+terms are noteworthy. First, they specify the interpretation of
+theoretical terms uniquely. This property is obvious for the case of
+unique realization of TC but holds as well for the other
+cases since assignment of no denotation counts as interpretation of a
+descriptive symbol in free logic. Second, it can be shown that these
+definitions do not allow for the derivation of any \(L(V_o)\)
+sentences except logical truths, just as the original Carnap sentence
+did. Lewis, therefore, in fact succeeds in defining
+theoretical terms. He does so without attempting to divide the axioms
+\(A(\TC)\) into definitions and synthetic claims about the
+spatiotemporal world.
+The replacement of theoretical relation and function symbols with
+individual terms was judged counterintuitive by Papineau (1996). A
+reformulation, however, of Lewis’s definitions using second- or
+higher-order variables is not difficult to accomplish, as Schurz
+(2005) has shown. In this reformulation the problem arises that
+theoretical terms are usually not uniquely interpreted since our
+observational evidence is most of the time insufficient to determine
+the extension of theoretical relation and function symbols completely.
+Theoretical functions, such as temperature, pressure, electromagnetic
+force etc., are determined only for objects that have been subjected
+to appropriate measurements, however indirect. In view of this
+problem, Schurz (2005) suggests letting the higher-order quantifiers
+range only over those extensions that correspond to natural
+kind properties. This restriction renders the requirement of
+unique interpretation of theoretical terms plausible once again. Such
+a reading was also suggested by Psillos (1999: ch. 3) with reference
+to Lewis’s (1984) discussion of Putnam’s (1980)
+model-theoretic argument. In that paper, Lewis himself suggests the
+restriction of the interpretation of descriptive symbols to extensions
+corresponding to natural kind properties.
+One final note on indirect interpretation is in order. Both Carnap
+(1961) and Lewis (1970) interpret theoretical terms indirectly simply
+because any definition is an instance of an indirect interpretation.
+For this reason, Sneed’s problem of theoretical terms
+ (Section 3.2)
+ does not arise. Yet, the pattern of Carnap’s and Lewis’s
+proposals conforms to the pattern of a definition in the narrow sense
+and not to the peculiar pattern of indirect interpretation that Carnap
+(1939) envisioned for the interpretation of theoretical terms. This is
+why the indirect interpretation semantics has been separated from the
+present discussion of defining theoretical terms.
+The idea that there are scientific terms whose meaning is determined
+by a scientific theory goes back to Duhem and Poincaré. Such
+terms came to be referred to as theoretical terms in
+twentieth century philosophy of science. Properties and entities that
+are observable in the sense of direct, unaided perception did not seem
+to depend on scientific theories as forces, electrons and nucleotides
+did. Hence, philosophers of science and logicians set out to
+investigate the semantics of theoretical terms. Various formal
+accounts resulted from these investigations, among which the Ramsey
+sentence by Ramsey ([1929] 1931), Carnap’s notion of indirect
+interpretation (1939; 1958) and Lewis’s (1970) proposal of
+defining theoretical terms are the most prominent ones. Though not all
+philosophers of science understand the notion of a theoretical term in
+such way that semantic dependence upon a scientific theory is
+essential, this view prevails in the literature.
+The theory-observation distinction has been attacked heavily and is
+presumably discredited by a large number of philosophers of science.
+Still, this distinction continues to permeate a number of important
+strands in the philosophy of science, such as scientific realism and
+its alternatives and the logical analysis of scientific theories. A
+case in point is the recent interest in the Ramsey account of
+scientific theories which emerged in the wake of Worral’s
+structural realism (cf. Ladyman 2009). We have seen, moreover, that
+the formal accounts of theoretical terms work well with a
+theory-observation distinction that is relativized to a particular
+theory. Critics of that distinction, by contrast, have commonly
+attacked a global and static division into theoretical and
+observational terms (Maxwell 1962; Achinstein 1965). Note finally that
+Carnap assigned no ontological significance to the theory-observation
+distinction in the sense that entities of the one type would be
+existent in a more genuine way than ones of the other.

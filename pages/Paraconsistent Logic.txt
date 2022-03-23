@@ -1,0 +1,737 @@
+A logic is paraconsistent iff its logical consequence
+relation \((\vDash\), either semantic or proof theoretic) is not
+explosive. Paraconsistency is a property of a consequence relation.
+The argument ex contradictione quodlibet (ECQ) is
+paraconsistently invalid: in general, it is not the case that \(A\),
+\(\neg A \vDash B\). 
+The role often played by the notion of consistency in orthodox logics,
+namely, the most basic requirement that any theory must meet, is
+relaxed to the notion of coherence: no theory can include
+every sentence whatsoever if it is to be considered tenable. Simple
+consistency of a theory (no contradictions) is a special case of
+absolute consistency, or non-triviality (not every sentence
+is a part of the theory). As we will see below, many paraconsistent
+logics do validate the Law of Non-Contradiction (LNC), \(\vDash \neg(A
+\wedge \neg A)\), even though they invalidate ECQ. 
+Beyond the basic, definitional requirement that a paraconsistent
+consequence relation be non-explosive, there is a huge divergence of
+paraconsistent logics. At this stage of development, well into the
+twenty-first century, it seems fair to say that
+‘paraconsistency’ does not single out one particular
+approach to logic, but is rather a property that some logics have and
+others do not (like, say, compactness, or multiple conclusions). 
+In the literature, especially in the part of it that contains
+objections to paraconsistent logic, there has been some tendency to
+confuse paraconsistency with dialetheism, the view that there
+are true contradictions (see the entry on
+ dialetheism).
+ The view that a consequence relation should be paraconsistent does
+not entail the view that there are true contradictions.
+Paraconsistency is a property of a consequence relation whereas
+dialetheism is a view about truth. The fact that one can define a
+non-explosive consequence relation does not mean that some sentences
+are true. The fact that one can construct a model where a
+contradiction holds but not every sentence of the language holds (or
+where this is the case at some world) does not mean that the
+contradiction is true per se. Hence paraconsistency must be
+distinguished from dialetheism (though see Asmus 2012). 
+Now, if dialetheism is to be coherent, then a dialethiest’s
+preferred logic must be paraconsistent. Dialetheism is the view that
+some contradiction is true, which is a distinct thesis from
+‘trivialism’, the view that everything whatsoever
+(including every contradiction) is true. A paraconsistent logician may
+feel some pull towards dialetheism, but most paraconsistent logics are
+not ‘dialetheic’ logics. In a discussion of paraconsistent
+logic, the primary focus is not the obtainability of contradictions
+but the explosive nature of a consequence relation. 
+It is now standard to view ex contradictione quodlibet as
+valid. This contemporary view, however, should be put in a historical
+perspective. It was towards the end of the nineteenth century, when
+the study of logic achieved mathematical articulation, that an
+explosive logical theory became the standard. With the work of
+logicians such as Boole, Frege, Russell and Hilbert, classical logic
+became the orthodox logical account. 
+In antiquity, however, no one seems to have endorsed the validity of
+ECQ. Aristotle presented what is sometimes called the connexive
+principle: “it is impossible that the same thing should be
+necessitated by the being and by the not-being of the same
+thing” (Prior Analytic II 4 57b3). (Connexive logic has
+recently been reinvigorated by Wansing; see the entry on
+ connexive logic
+ that has been developed based on this principle.) This principle
+became a topic of debates in the Middle Ages or Medieval time. Though
+the medieval debates seem to have been carried out in the context of
+conditionals, we can also see it as debates about consequences. The
+principle was taken up by
+ Boethius
+ (480–524 or 525) and
+ Abelard
+ (1079–1142), who considered two accounts of consequences. The
+first one is a familiar one: it is impossible for the premises to be
+true but conclusion false. The first account is thus similar to the
+contemporary notion of truth-preservation. The second one is less
+accepted recently: the sense of the premises contains that of the
+conclusion. This account, as in
+ relevant logics,
+ does not permit an inference whose conclusion is arbitrary. Abelard
+held that the first account fails to meet the connexive principle and
+that the second account (the account of containment) captured
+Aristotle’s principle. 
+Abelard’s position was shown to face a difficulty by Alberic of
+Paris in the 1130s. Most medieval logicians didn’t, however,
+abandon the account of validity based on containment or something
+similar (see, for example, Martin 1987). But one way to handle the
+difficulty is to reject the connexive principle. This approach, which
+has become most influential, was accepted by the followers of Adam
+Balsham or Parvipontanus (or sometimes known as Adam of The Little
+Bridge [12th century]). The Parvipontanians embraced the
+truth-preservation account of consequences and the
+‘paradoxes’ that are associated with it. In fact, it was a
+member of the Parvipontanians, William of Soissons, who discovered in
+the twelfth century what we now call the C.I. Lewis (independent)
+argument for ECQ (see Martin 1986). 
+The containment account, however, did not disappear.
+ John Duns Scotus
+ (1266–1308) and his followers accepted the containment account
+(see Martin 1996). The Cologne School of the late fifteenth century
+argued against ECQ by rejecting disjunctive syllogism (see
+Sylvan 2000). 
+In the history of logic in Asia, there is a tendency (for example, in
+Jaina and Buddhist traditions) to consider the possibility of
+statements being both true and false. Moreover, the logics developed
+by the major Buddhist logicians, Dignāga (5th century)
+and Dharmakīrti (7th century) do not embrace ECQ.
+Their logical account is, in fact, based on the
+‘pervasion’ (Skt: vyāpti, Tib: khyab
+pa) relation among the elements of an argument. Just like the
+containment account of Abelard, there must be a tighter connection
+between the premises and conclusion than the truth-preservation
+account allows. For the logic of Dharmakīrti and its subsequent
+development, see for example Dunne 2004 and Tillemans 1999. 
+In the twentieth century, alternatives to an explosive account of
+logical consequence occurred to different people at different times
+and places independently of each other. They were often motivated by
+different considerations. The earliest paraconsistent logics in the
+contemporary era seem to have been given by two Russians. Starting
+about 1910, Vasil’év proposed a modified Aristotelian
+syllogistic including statements of the form: \(S\) is both \(P\) and
+not \(P\). In 1929, Orlov gave the first axiomatisation of the
+relevant logic \(R\) which is paraconsistent. (On
+Vasil’év, see Arruda 1977 and Arruda 1989: 102f; on
+Orlov, see Anderson, Belnap, & Dunn 1992: xvii.) 
+The work of Vasil’év or Orlov did not make any impact at
+the time. The first (formal) logician to have developed paraconsistent
+logic was Jaśkowski in Poland, who was a student of
+Łukasiewicz, who himself had envisaged paraconsistent logic in
+his critique of Aristotle on the LNC (Łukasiewicz 1951). Almost
+at the same time, Halldén (1949) presented work on the logic of
+nonsense, but again this went mostly unnoticed. 
+ Paraconsistent logics were developed independently in South
+America by Florencio Asenjo and especially Newton da Costa in their
+doctoral dissertations, in 1954 and 1963 respectively, with an
+emphasis on mathematical applications (see Asenjo 1966, da Costa
+1974). An active group of logicians has been researching
+paraconsistent logic continuously ever since, especially in Campinas
+and São Paulo, Brazil, with a focus on logics of formal
+inconsistency. Carnielli and Coniglio (2016) give a comprehensive
+recent account of this work. 
+Paraconsistent logics in the forms of relevant logics were proposed in
+England by Smiley in 1959 and also at about the same time, in a much
+more developed form, in the United States by Anderson and Belnap. An
+active group of relevant logicians grew up in Pittsburgh including
+Dunn and Meyer. The development of paraconsistent logics (in the form
+of relevant logics) was transported to Australia. R. Routley (later
+Sylvan) and V. Routley (later Plumwood) discovered an intentional
+semantics for some of Anderson/Belnap relevant logics. A school
+developed around them in Canberra which included Brady and Mortensen,
+and later Priest who, together with R. Routley, incorporated
+dialetheism to the development.
+Since the 1970s, the development of
+paraconsistent logic has been international. Some of the major schools
+of thought are canvassed below, including adaptive logic (as in Batens
+2001) and preservationism (as in Schotch, Brown, & Jennings 2009).
+There is work being done in in Argentina, Australia, Belgium, Brazil,
+Canada, the Czech Republic, England, Germany, India, Israel, Japan,
+Mexico, New Zealand, Poland, Scotland, Spain, the United States, and
+more. There has been a series of major international conferences about
+paraconsistent logic. In 1997, the First World Congress on
+Paraconsistency was held at the University of Ghent in Belgium. The
+Second World Congress was held in São Sebastião
+(São Paulo, Brazil) in 2000, the Third in Toulous (France) in
+2003 and the Fourth in Melbourne (Australia) in 2008. A Fifth World
+Congress was held in Kolkata, India in 2013. Another major
+paraconsistency conference in 2014 was held in Munich
+(Andreas & Verdée 2016). 
+See the bibliography section on World Congress Proceedings.
+The reasons for paraconsistency that have been put forward are
+specific to the development of the particular formal systems of
+paraconsistent logic. However, there are several general reasons for
+thinking that logic should be paraconsistent. Before we summarise the
+systems of paraconsistent logic, we present some motivations for
+paraconsisent logic. 
+A most telling reason for paraconsistent logic is, prima facie, the
+fact that there are theories which are inconsistent but non-trivial.
+If we admit the existence of such theories, their underlying logics
+must be paraconsistent (though see Michael 2016). 
+Examples of inconsistent but non-trivial theories are easy to produce.
+One example can be derived from the history of science. Consider
+Bohr’s theory of the atom. According to this, an electron orbits
+the nucleus of the atom without radiating energy. However, according
+to Maxwell’s equations, which formed an integral part of the
+theory, an electron which is accelerating in orbit must radiate
+energy. Hence Bohr’s account of the behaviour of the atom was
+inconsistent. Yet, patently, not everything concerning the behavior of
+electrons was inferred from it, nor should it have been. Hence,
+whatever inference mechanism it was that underlay it, this must have
+been paraconsistent (Brown & Priest 2015). 
+Despite the fact that dialetheism and paraconsistency must be
+distinguished, dialetheism can be a motivation for paraconsistent
+logic. One candidate for a dialetheia (a true contradiction) is the
+ liar paradox.
+ Consider the sentence: ‘This sentence is not true’. There
+are two options: either the sentence is true or it is not. Suppose it
+is true. Then what it says is the case. Hence the sentence is not
+true. Suppose, on the other hand, it is not true. This is what it
+says. Hence the sentence is true. In either case it is both true and
+not true. (See the entry on
+ dialetheism.)
+ 
+Natural languages are another possible site of non-trivial
+inconsistency. In linguistics, it has been observed that normal
+lexical features are preserved even in inconsistent contexts. For
+example, words like ‘near’ have spatial connotations that
+are not disturbed even when dealing with impossible objects (McGinnis
+2013): 
+If I tell you that I painted a spherical cube brown, you take its
+exterior to be brown …, and if I am inside it, you know I am
+not near it. (Chomsky 1995: 20)
+Hence if natural language can be said to have a logic, paraconsistent
+logics could be a candidate for formalizing it. 
+Paraconsistent logic is motivated not only by philosophical
+considerations, but also by its applications and implications. 
+One of the applications is automated reasoning
+(information processing). Consider a computer which stores a
+large amount of information, as in Belnap 1992. While the computer
+stores the information, it is also used to operate on it, and,
+crucially, to infer from it. Now it is quite common for the computer
+to contain inconsistent information, because of mistakes by the data
+entry operators or because of multiple sourcing. This is certainly a
+problem for database operations with theorem-provers, and so has drawn
+much attention from computer scientists. Techniques for removing
+inconsistent information have been investigated. Yet all have limited
+applicability, and, in any case, are not guaranteed to produce
+consistency. (There is no algorithm for logical falsehood.) Hence,
+even if steps are taken to get rid of contradictions when they are
+found, an underlying paraconsistent logic is desirable if hidden
+contradictions are not to generate spurious answers to queries. 
+ Nelson’s paraconsistent (four-valued) logic N4 has been
+specifically studied for applications in computer science (Kamide
+& Wansing 2012). Annotated logics were proposed by Subrahmanian
+(1987) and then by da Costa, Subrahmanian, and Vago (1991); these
+tools are now being extended to robotics, expert systems for medical
+diagnosis, and engineering, with recent work gathered in the volumes
+edited by Abe, Akama, and Nakamatsu (2015) and Akama (2016). 
+Belief revision is
+the study of rationally revising bodies of belief in the light of new
+evidence. Notoriously, people have inconsistent beliefs. They may even
+be rational in doing so. For example, there may be apparently
+overwhelming evidence for both something and its negation. There may
+even be cases where it is in principle impossible to eliminate such
+inconsistency. For example, consider the ‘paradox of the
+preface’. A rational person, after thorough research, writes a
+book in which they claim \(A_1\),…, \(A_n\). But they are also
+aware that no book of any complexity contains only truths. So they
+rationally believe \(\neg(A_1 \wedge \ldots \wedge A_n)\) too. Hence,
+principles of rational belief revision must work on inconsistent sets
+of beliefs. Standard accounts of belief revision, e.g. the AGM theory
+(see
+ the logic of belief revision),
+all fail to do this, since they are based on classical
+logic (Tanaka 2005). A more adequate account may be based on a
+paraconsistent logic; see Girard and Tanaka 2016. 
+Paraconsistency can be taken as a response to
+ logical paradoxes
+ in formal semantics and set theory. 
+Semantics is the study that aims to spell out a theoretical
+understanding of meaning. Most accounts of semantics insist that to
+spell out the meaning of a sentence is, in some sense, to spell out
+its truth-conditions. Now, prima facie at least, truth is a
+predicate characterised by the Tarski T-scheme:
+where \(A\) is a sentence and \(\boldsymbol{A}\) is its name. But
+given any standard means of self-reference, e.g., arithmetisation, one
+can construct a sentence, \(B\), which says that \(\neg
+T(\boldsymbol{B})\). The T-scheme gives that \(T(\boldsymbol{B})
+\leftrightarrow \neg T(\boldsymbol{B})\). It then follows that
+\(T(\boldsymbol{B}) \wedge \neg T(\boldsymbol{B})\). (This is, of
+course, just the
+ liar paradox.)
+ A full development of a theory of truth in paraconsistent logic is
+given by Beall (2009). 
+The situation is similar in set theory. The naive, and intuitively
+correct, axioms of set theory are the Comprehension Schema
+and Extensionality Principle: 
+where \(x\) does not occur free in \(A\). As was discovered by
+Russell, any theory that contains the Comprehension Schema is
+inconsistent. For putting ‘\(y \not\in y\)’ for \(A\) in
+the Comprehension Schema and instantiating the existential quantifier
+to an arbitrary such object ‘\(r\)’ gives: 
+So, instantiating the universal quantifier to ‘\(r\)’
+gives: 
+It then follows that \(r \in r \wedge r \not\in r\). 
+The standard approaches to these problems of inconsistency are, by and
+large, ones of expedience. A paraconsistent approach makes it possible
+to have theories of truth and sethood in which the mathematically
+fundamental intuitions about these notions are respected. For example,
+as Brady (1989; 2006) has shown, contradictions may be allowed to
+arise in a paraconsistent set theory, but these need not infect the
+whole theory. 
+There are several approaches to set theory with naive comprehension
+via paraconsistent logic. The theories of ordinal and cardinal numbers
+are developed axiomatically using relevant logic in Weber 2010b, 2012. The possibility of
+adding a consistency operator to track non-paradoxical fragments of
+the theory is considered in Omori 2015, taking a cue from the
+tradition of da Costa. Naive set theory using adaptive logic is
+presented by Verdée (2013). Models for paraconsistent set
+theory are described by Libert (2005). 
+According to da Costa (1974: 498),
+It would be as interesting to study the inconsistent systems as, for
+instance, the non-euclidean geometries: we would obtain a better idea
+of the nature of paradoxes, could have a better insight on the
+connections amongst the various logical principles necessary to obtain
+determinate results, etc. … It is not our aim to eliminate the
+inconsistencies, but to analyze and study them.
+For further developments of mathematics in paraconsistent logics, see
+entry on
+ inconsistent mathematics.
+Unlike formal semantics and set theory, there may not be any obvious
+arithmetical principles that give rise to contradiction. Nonetheless,
+just like the classical non-standard models of arithmetic, there is a
+class of inconsistent models of arithmetic (or more
+accurately models of inconsistent arithmetic) which have an
+interesting and important mathematical structure. 
+One interesting implication of the existence of inconsistent models of
+arithmetic is that some of them are finite (unlike the classical
+non-standard models). This means that there are some significant
+applications in the metamathematical theorems. For example, the
+classical Löwenheim-Skolem theorem states that \(Q\)
+(Robinson’s arithmetic which is a fragment of Peano arithmetic)
+has models of every infinite cardinality but has no finite models.
+But, \(Q\) can be shown to have models of finite size too by referring
+to the inconsistent models of arithmetic. 
+It is not only the Löwenheim-Skolem theorem but also other
+metamathematical theorems can be given a paraconsistent treatment. In
+the case of other theorems, however, the negative results that are
+often shown by the limitative theorems of metamathematics may no
+longer hold. One important such theorem is Gödel’s theorem.
+One version of Gödel’s first incompleteness theorem states
+that for any consistent axiomatic theory of arithmetic, which can be
+recognised to be sound, there will be an arithmetic truth—viz.,
+its Gödel sentence—not provable in it, but which can be
+established as true by intuitively correct reasoning. The heart of
+Gödel’s theorem is, in fact, a paradox that concerns the
+sentence, \(G\), ‘This sentence is not provable’. If \(G\)
+is provable, then it is true and so not provable. Thus \(G\) is
+proved. Hence \(G\) is true and so unprovable. If an underlying
+paraconsistent logic is used to formalise the arithmetic, and the
+theory therefore allowed to be inconsistent, the Gödel sentence
+may well be provable in the theory (essentially by the above
+reasoning). So a paraconsistent approach to arithmetic overcomes the
+limitations of arithmetic that are supposed (by many) to follow from
+Gödel’s theorem. (For other ‘limitative’
+theorems of metamathematics, see Priest 2002.) 
+From the start, paraconsistent logics were intended in part to deal
+with problems of vagueness and the
+ sorites paradox
+ (Jaśkowski 1948 [1969]). Some empirical evidence suggest that
+vagueness in natural language is a good candidate for paraconsistent
+treatment (Ripley 2011). 
+A few different paraconsistent approaches to vagueness have been
+suggested. Subvaluationism is the logical dual to
+supervaluationism: if a claim is true on some acceptable
+sharpening of a vague predicate, then it is true. Where the
+supervaluationist sees indeterminacy, or truth-value gaps, the
+subvaluationist sees overdeterminacy, truth-value gluts. A
+subvaluation logic will, like its supervaluational dual, preserve all
+classical tautologies, as long as the definition of validity is
+restricted to the non-glutty cases. Because it is so structurally
+similar to supervaluationism, subvaluationism is also subject to most
+of the same criticisms (Hyde 1997). 
+More broadly, (dialetheic) paraconsistency has been used in
+straightforward three-valued truth-functional approaches to vagueness.
+The aim is to preserve both of the following intuitive claims: 
+Again, the key to the analysis is to take cutoffs as sites for
+inconsistency, for objects both F and not F. Then all tolerance claims
+(about vague F) are taken as true; but since, paraconsistently, the
+inference of disjunctive syllogism is not generally valid, these
+claims do not imply absurdities like ‘everyone is bald’.
+Paraconsistent models place a great deal of emphasis on cutoff points
+of vague predicates, attributing much of the trouble with the sorties
+paradox to underlying inconsistency of vague predicates (Weber 2010a).
+There is debate as to whether the sorties paradox is of a kind with
+the other well-known semantic and set theoretic paradoxes, like
+Russell’s and the liar. If it is, then a paraconsistent approach
+to one would be as natural as to the other. 
+A number of formal techniques to invalidate ECQ have been devised.
+Most of the techniques have been summarised elsewhere (Brown 2002, Priest 2002). 
+As the interest in paraconsistent logic
+grew, different techniques developed in different parts of the world.
+As a result, the development of the techniques has somewhat a regional
+flavour (though there are, of course, exceptions, and the regional
+differences can be over-exaggerated; see Tanaka 2003). 
+Most paraconsistent logicians do not propose a wholesale rejection of
+classical logic. They usually accept the validity of classical
+inferences in consistent contexts. It is the need to isolate an
+inconsistency without spreading everywhere that motivates the
+rejection of ECQ. Depending on how much revision one thinks is needed,
+we have a technique for paraconsistency. The taxonomy given here is
+based on the degree of revision to classical logic. Since the logical
+novelty can be seen at the propositional level, we will concentrate on
+the propositional paraconsistent logics. 
+The first formal paraconsistent logic to have been developed was
+discussive (or discursive) logic by the
+Polish logician Jaśkowski (1948). The thought behind discussive
+logic is that, in a discourse, each participant puts forward some
+information, beliefs or opinions. Each assertion is true according to
+the participant who puts it forward in a discourse. But what is true
+in a discourse on whole is the sum of assertions put forward by
+participants. Each participant’s opinions may be
+self-consistent, yet may be inconsistent with those of others.
+Jaśkowski formalised this idea in the form of discussive logic.
+A formalisation of discussive logic is by means of modelling a
+discourse in a modal logic. For simplicity, Jaśkowski chose
+S5. We think of each participant’s belief set as the
+set of sentences true at a world in an S5 model \(M\). Thus, a
+sentence \(A\) asserted by a participant in a discourse is interpreted
+as “it is possible that \(A\)” or a sentence
+\(\Diamond A\) of S5. Then \(A\) holds in a discourse iff
+\(A\) is true at some world in \(M\). Since \(A\) may hold in one
+world but not in another, both \(A\) and \(\neg A\) may hold in a
+discourse. Indeed, one should expect that participants disagree on
+some issue in a rational discourse. 
+The idea, then, is that \(B\) is a discussive consequence of 
+\(A_1, \ldots, A_n\) iff  \(\Diamond B\) is an 
+S5 consequence of \(\Diamond A_{1} \ldots \Diamond A_{n}\).
+To see that discussive logic is paraconsistent, consider an S5
+model, \(M\), such that \(A\) holds at \(w_1\), \(\neg A\) holds at a
+different world \(w_2\), but \(B\) does not hold at any world for some
+\(B\). Then both \(A\) and \(\neg A\) hold, yet \(B\) does not hold in
+\(M\). Hence discussive logic invalidates ECQ. 
+However, there is no S5 model where \(A \wedge \neg A\) holds
+at some world. So an inference of the form \(\{A \wedge \neg A\}
+\vDash B\) is valid in discussive logic. This means that, in
+discussive logic, adjunction \((\{A, \neg A\} \vDash A \wedge
+\neg A)\) fails. But one can define a discussive conjunction,
+\(\wedge_d\), as \(A \wedge \Diamond B\) (or \(\Diamond A \wedge B)\).
+Then adjunction holds for \(\wedge_d\) (Jaśkowski 1949). 
+One difficulty is a formulation of a conditional. In S5, the
+inference from \(\Diamond p\) and \(\Diamond(p \supset q)\) to
+\(\Diamond q\) fails. Jaśkowski chose to introduce a connective
+which he called discussive implication, \(\supset_d\),
+defined as \(\Diamond A \supset B\). This connective can be understood
+to mean that “if some participant states that \(A\), then
+\(B\)”. As the inference from \(\Diamond A \supset B\) and
+\(\Diamond A\) to \(\Diamond B\) is valid in S5, modus
+ponens for \(\supset_d\) holds in discussive logic. A discussive
+bi-implication, \(\equiv_d\), can also be defined as \((\Diamond A
+\supset B) \wedge \Diamond(\Diamond B \supset A)\) (or
+\(\Diamond(\Diamond A \supset B) \wedge (\Diamond B \supset A))\).
+For some history of work on Jaśkowski’s logic and axiomatizations thereof, see Omori and Alama (forthcoming). 
+A non-adjunctive system is a system that does not validate adjunction
+(i.e., \(\{A, B\} \not\vDash A \wedge B)\). As we saw above,
+discussive logic without a discussive conjunction is non-adjunctive.
+Another non-adjunctive strategy was suggested by Rescher and Manor
+(1970). In effect, we can conjoin premises, but only up to
+maximal consistency. Specifically, if \(\Sigma\) is a set of premises,
+a maximally consistent subset is any consistent subset \(\Sigma '\)
+such that if \(A \in \Sigma - \Sigma '\) then \(\Sigma ' \cup \{A\}\)
+is inconsistent. Then we say that \(A\) is a consequence of \(\Sigma\)
+iff \(A\) is a classical consequence of \(\Sigma '\) for some
+maximally consistent subset \(\Sigma '\). Then \(\{p, q\} \vDash p
+\wedge q\) but \(\{p, \neg p\} \not\vDash p \wedge \neg p\). 
+In the non-adjunctive system of Rescher and Manor, a consequence
+relation is defined over some maximally consistent subset of the
+premises. This can be seen as a way to ‘measure’ the
+level of consistency in the premise set. The level of \(\{p,
+q\}\) is 1 since the maximally consistent subset is the set itself.
+The level of \(\{p, \neg p\}\), however, is 2: \(\{p\}\) and \(\{\neg
+p\}\). 
+If we define a consequence relation over some maximally consistent
+subset, then the relation can be thought of as preserving the level of
+consistent fragments. This is the approach which has come to be called
+preservationism. It was first developed by the Canadian
+logicians Ray Jennings and Peter Schotch. 
+To be more precise, a (finite) set of formulas, \(\Sigma\), can be
+partitioned into classically consistent fragments whose union is
+\(\Sigma\). Let \(\vdash\) be the classical consequence relation. A
+covering of \(\Sigma\) is a set \(\{\Sigma_i : i \in I\}\),
+where each member is consistent, and \(\Sigma = \bigcup_{i \in I}
+\Sigma_i\). The level of \(\Sigma , l(\Sigma)\), is the least
+\(n\) such that \(\Sigma\) can be partitioned into \(n\) sets if there
+is such \(n\), or \(\infty\) if there is no such \(n\). A consequence
+relation, called forcing, \(\Vdash\), is defined as follows.
+\(\Sigma\Vdash A\) iff \(l(\Sigma) = \infty\), or \(l(\Sigma) = n\)
+and for every covering of size \(n\) there is a \(j \in I\) such that
+\(\Sigma_j \vdash A\). If \(l(\Sigma) = 1\) or \(\infty\) then the
+forcing relation coincides with classical consequence relation. In
+case where \(l(\Sigma) = \infty\), there must be a sentence of the
+form \(A \wedge \neg A\) and so the forcing relation explodes. 
+A chunking strategy has also been applied to capture the inferential
+mechanism underlying some theories in science and mathematics. In
+mathematics, the best available theory concerning infinitesimals was
+inconsistent. In the infinitesimal calculus of Leibniz and Newton, in
+the calculation of a derivative infinitesimals had to be both zero and
+non-zero. In order to capture the inference mechanism underlying the
+infinitesimal calculus of Leibniz and Newton (and Bohr’s theory
+of the atom), we need to add to the chunking a mechanism that allows a
+limited amount of information to flow between the consistent fragments
+of these inconsistent but non-trivial theories. That is, certain
+information from one chunk may permeate into other chunks. The
+inference procedure underlying the theories must be Chunk and
+Permeate. 
+Let \(C = \{\Sigma_i : i \in I\}\) and \(\varrho\) a permeability
+relation on \(C\) such that \(\varrho\) is a map from \(I \times I\)
+to subsets of formulas of the language. If \(i_0 \in I\), then any
+structure \(\langle C, \varrho , i_0\rangle\) is called a C&P
+structure on \(\Sigma\). If \(\mathcal{B}\) is a C&P structure on
+\(\Sigma\), we define the C&P consequences of \(\Sigma\) with
+respect to \(\mathcal{B}\), as follows. For each \(i \in I\), a set of
+sentences, \(\Sigma_i^n\), is defined by recursion on \(n\):
+That is, \(\Sigma_i^{n+1}\) comprises the consequences from
+\(\Sigma_i^n\) together with the information that permeates into chunk
+\(i\) from the other chunk at level \(n\). We then collect up all
+finite stages:
+The C&P consequences of \(\Sigma\) can be defined in terms of the
+sentences that can be inferred in the designated chunk \(i_0\) when
+all appropriate information has been allowed to flow along the
+permeability relations (see Brown & Priest 2004, 2015.) 
+One may think not only that an inconsistency needs to be isolated but
+also that a serious need for the consideration of inconsistencies is a
+rare occurrence. The thought may be that consistency is the norm until
+proven otherwise: we should treat a sentence or a theory as
+consistently as possible. This is essentially the motivation for
+adaptive logics, pioneered by Diderik Batens in Belgium. 
+An adaptive logic is a logic that adapts itself to the situation at
+the time of application of inference rules. It models the dynamics of
+our reasoning. There are two senses in which reasoning is dynamic:
+external and internal. Reasoning is externally dynamic if as
+new information becomes available expanding the premise set,
+consequences inferred previously may have to be withdrawn. The
+external dynamics is thus the non-monotonic character of some
+consequence relations: \(\Gamma \vdash A\) and \(\Gamma \cup \Delta
+\not\vdash A\) for some \(\Gamma , \Delta\) and \(A\). However, even
+if the premise-set remains constant, some previously inferred
+conclusion may considered as not derivable at a later stage. As our
+reasoning proceeds from a premise set, we may encounter a situation
+where we infer a consequence provided that no abnormality, in
+particular no contradiction, obtains at some stage of the reasoning
+process. If we are forced to infer a contradiction at a later stage,
+our reasoning has to adapt itself so that an application of the
+previously used inference rule is withdrawn. In such a case, reasoning
+is internally dynamic. Our reasoning may be internally
+dynamic if the set of valid inferences is not recursively enumerable
+(i.e., there is no decision procedure that leads to ‘yes’
+after finitely many steps if the inference is indeed valid). It is the
+internal dynamics that adaptive logics are devised to capture.
+In order to illustrate the idea behind adaptive logics, consider the
+premise set \(\Gamma = \{p, \neg p \vee r, \neg r \vee s, \neg s, s
+\vee t\}\). One may start reasoning with \(\neg s\) and \(s \vee t\),
+using the Disjunctive Syllogism (DS) to infer \(t\), given that \(s
+\wedge \neg s\) does not obtain. We then reason with \(p\) and \(\neg
+p \vee r\), to infer \(r\) with the DS, given that \(p \wedge \neg p\)
+does not obtain. Now, we can apply the DS to \(\neg r \vee s\) and
+\(r\) to derive \(s\), provided that \(r \wedge \neg r\) does not
+obtain. However, by conjoining \(s\) and \(\neg s\), we can obtain \(s
+\wedge \neg s\). Hence we must withdraw the first application of DS,
+and so the proof of \(t\) lapses. A consequence of this reasoning is
+what cannot be defeated at any stage of the process.
+A system of adaptive logic can generally be characterised as
+consisting of three elements:
+LLL is the part of an adaptive logic that is not subject to
+adaptation. It consists essentially of a number of inferential rules
+(and/or axioms) that one is happy to accept regardless of the
+situation in a reasoning process. A set of abnormalities is a set of
+formulas that are presupposed as not holding (or as absurd) at the
+beginning of reasoning until they are shown to be otherwise. For many
+adaptive logics, a formula in this set is of the form \(A \wedge \neg
+A\). An adaptive strategy specifies a strategy of handling the
+applications of inference rules based on the set of abnormalities. If
+LLL is extended with the requirement that no abnormality is logically
+possible, one obtains the upper limit logic (ULL). ULL essentially
+contains not only the inferential rules (and/or axioms) of LLL but
+also supplementary rules (and/or axioms) that can be applied in the
+absence of abnormality, such as DS. By specifying these three
+elements, one obtains a system of adaptive logic. 
+The approaches taken for motivating the systems of paraconsistent
+logic which we have so far seen isolate inconsistency from consistent
+parts of the given theory. The aim is to retain as much classical
+machinery as possible in developing a system of paraconsistent logic
+which, nonetheless, avoids explosion when faced with a contradiction.
+One way to make this aim explicit is to extend the expressive power of
+our language by encoding the metatheoretical notions of consistency
+(and inconsistency) in the object language. The Logics of Formal
+Inconsistency (LFIs) are a family of paraconsistent
+logics that constitute consistent fragments of classical logic yet
+which reject the explosion principle where a contradiction is present.
+The investigation of this family of logics was initiated by Newton da
+Costa in Brazil. 
+An effect of encoding consistency (and inconsistency) in the object
+language is that we can explicitly separate inconsistency from
+triviality. With a language rich enough to express inconsistency (and
+consistency), we can study inconsistent theories without assuming that
+they are necessarily trivial. This makes it explicit that the presence
+of a contradiction is a separate issue from the non-trivial nature of
+paraconsistent inferences. 
+The thought behind LFIs is that we should respect classical
+logic as much as possible. It is only when there is a contradiction
+that logic should deviate from it. This means that we can admit the
+validity of ECQ in the absence of contradictions. In order to do so,
+we encode ‘consistency’ into our object language by
+\(\circ\). Then \(\vdash\) is a consequence relation of an
+LFI iff
+Let \(\vdash_C\) be the classical consequence (or derivability)
+relation and \(\circ (\Gamma)\) express the consistency of the set of
+formulas \(\Gamma\) such that if \(\circ A\) and \(\circ B\) then
+\(\circ (A * B)\) where \(*\) is any two place logical connective.
+Then we can capture derivability in the consistent context in terms of
+the equivalence: \(\forall \Gamma \forall B\exists \Delta(\Gamma
+\vdash_C B\) iff \(\circ (\Delta), \Gamma \vdash B)\). 
+Now take the positive fragment of classical logic with modus
+ponens plus double negation elimination \((\neg \neg A
+\rightarrow A)\) as an axiom and some axioms governing \(\circ\):
+Then \(\vdash\) provides da Costa’s system \(C_1\). If we let
+\(A^1\) abbreviate the formula \(\neg(A \wedge \neg A)\) and
+\(A^{n+1}\) the formula \((\neg(A^n \wedge \neg A^n ))^1\), then we
+obtain \(C_i\) for each natural number \(i\) greater than 1. 
+To obtain da Costa’s system \(C_{\omega}\), instead of the
+positive fragment of classical logic, we start with positive
+intuitionist logic instead. \(C_i\) systems for finite \(i\) do not
+rule out \((A^n \wedge \neg A^n \wedge A^{n+1})\) from holding in a
+theory. By going up the hierarchy to \(\omega\), \(C_{\omega}\) rules
+out this possibility. Note, however, that \(C_{\omega}\) is not a
+LFC as it does not contain classical positive logic.
+For the semantics for da Costa’s \(C\)-systems, see for example
+da Costa and Alves 1977 and Loparic 1977. For the state of the art,
+see Carnielli and Coniglio 2016. 
+Perhaps the simplest way of generating a paraconsistent logic, first
+proposed by Asenjo in his PhD dissertation, is to use a many-valued
+logic. Classically, there are exactly two truth values. The
+many-valued approach is to drop this classical assumption and allow
+more than two truth values. The simplest strategy is to use three
+truth values: true (only), false (only) and both
+(true and false) for the evaluations of formulas. The truth
+tables for logical connectives, except conditional, can be given as
+follows: 
+These tables are essentially those of Kleene’s and
+Łukasiewicz’s three valued logics where the middle value is
+thought of as indeterminate or neither (true nor
+false). 
+For a conditional \(\supset\), following Kleene’s three valued
+logic, we might specify a truth table as follows: 
+Let \(t\) and \(b\) be the designated values. These are the
+values that are preserved in valid inferences. If we define a
+consequence relation in terms of preservation of these designated
+values, then we have the paraconsistent logic LP (Priest
+1979). In LP, ECQ is invalid. To see this, we assign \(b\) to
+\(p\) and \(f\) to \(q\). Then \(\neg p\) is also evaluated as \(b\)
+and so both \(p\) and \(\neg p\) are designated. Yet \(q\) is not
+evaluated as having a designated value. Hence ECQ is invalid in
+LP. 
+As we can see, LP invalidates ECQ by assigning a designated
+value, both true and false, to a contradiction. Thus,
+LP departs from classical logic more so than the systems that
+we have seen previously. But, more controversially, it is also
+naturally aligned with dialetheism. However, we can interpret truth
+values not in an aletheic sense but in an epistemic sense: truth
+values (or designated values) express epistemic or doxastic
+commitments (see for example Belnap 1992). Or we might think that the
+value both is needed for a semantic reason: we might be
+required to express the contradictory nature of some of our beliefs,
+assertions and so on (see Dunn 1976: 157). If this interpretative
+strategy is successful, we can separate LP from necessarily
+falling under dialetheism. 
+One feature of LP which requires some attention is that in
+LP modus ponens comes out to be invalid. For if
+\(p\) is both true and false but \(q\) false (only), then \(p \supset
+q\) is both true and false and hence is designated. So both \(p\) and
+\(p \supset q\) are designated, yet the conclusion \(q\) is not. Hence
+modus ponens for \(\supset\) is invalid in LP. (One
+way to rectify the problem is to add an appropriate conditional
+connective as we will see in the
+ section on relevant logics.)
+ 
+Another way to develop a many-valued paraconsistent logic is to think
+of an assignment of a truth value not as a function but as a
+relation. Let \(P\) be the set of propositional parameters.
+Then an evaluation, \(\eta\), is a subset of \(P \times \{0, 1\}\). A
+proposition may only relate to 1 (true), it may only relate to 0
+(false), it may relate to both 1 and 0 or it may relate to neither 1
+nor 0. The evaluation is extended to a relation for all formulas by
+the following recursive clauses: 
+If we define validity in terms of truth preservation under all
+relational evaluations then we obtain First Degree Entailment
+(FDE) which is a fragment of relevant logics. These
+relational semantics for FDE are due to Dunn 1976. 
+A different approach is explored through the idea of non-deterministic
+matrices, studied by Avron and his collaborators (for example, Avron
+& Lev 2005).
+The approaches to paraconsistency we have examined above all focus on
+the inevitable presence or the truth of some contradictions. A
+rejection of ECQ, in these approaches, depends on an analysis of the
+premises containing a contradiction. One might think that the real
+problem with ECQ is not to do with the contradictory premises but to
+do with the lack of connection between the premises and the
+conclusion. The thought is that the conclusion must be
+relevant to the premises in a valid inference. 
+Relevant logics
+ were pioneered in order to study the relevance of the conclusion with
+respect to the premises by Anderson and Belnap (1975) in Pittsburgh.
+Anderson and Belnap motivated the development of relevant logics using
+natural deduction systems; yet they developed a family of relevant
+logics in axiomatic systems. As development proceeded and was carried
+out also in Australia, more focus was given to the semantics. 
+The semantics for relevant logics were developed by Fine (1974),
+Routley and Routley (1972), Routley and Meyer (1993) and Urquhart
+(1972). (There are also algebraic semantics; see for example Dunn
+& Restall 2002: 48ff.) Routley-Meyer semantics is based on
+possible-world semantics, which is the most studied semantics for
+relevant logics, especially in Australia. In this semantics,
+conjunction and disjunction behave in the usual way. But each world,
+\(w\), has an associate world, \(w^*\), and negation is evaluated in
+terms of \(w^*: \neg A\) is true at \(w\) iff \(A\) is false, not at
+\(w\), but at \(w^*\). Thus, if \(A\) is true at \(w\), but false at
+\(w^*\), then \(A \wedge \neg A\) is true at \(w\). To obtain the
+standard relevant logics, one needs to add the constraint that
+\(w^{**} = w\). As is clear, negation in these semantics is an
+intensional operator. 
+The primary concern with relevant logics is not so much with negation
+as with a conditional connective \(\rightarrow\) (satisfying modus
+ponens). In relevant logics, if \(A \rightarrow B\) is a logical
+truth, then \(A\) is relevant to \(B\), in the sense that \(A\) and
+\(B\) share at least one propositional variable. 
+Semantics for the relevant conditional are obtained by furnishing each
+Routley-Meyer model with a ternary relation. In the
+simplified semantics of Priest and Sylvan (1992) and Restall (1993, 
+1995), worlds are divided into normal and non-normal. If \(w\) is a
+normal world, \(A \rightarrow B\) is true at \(w\) iff at all worlds
+where \(A\) is true, \(B\) is true. If \(w\) is non-normal, \(A
+\rightarrow B\) is true at \(w\) iff for all \(x, y\), such that
+\(Rwxy\), if \(A\) is true at \(x, B\) is true at \(y\). If \(B\) is
+true at \(x\) but not at \(y\) where \(Rwxy\), then \(B \rightarrow
+B\) is not true at \(w\). Then one can show that \(A \rightarrow (B
+\rightarrow B)\) is not a logical truth. (Validity is defined as truth
+preservation over normal worlds.) This gives the basic
+relevant logic, \(B\). Stronger logics, such as the logic \(R\), are
+obtained by adding constraints on the ternary relation. 
+There are also versions of world-semantics for relevant logics based
+on Dunn’s relational semantics for FDE. Then negation
+is extensional. A conditional connective, now needs to be given both
+truth and falsity conditions. So we have: \(A \rightarrow B\) is true
+at \(w\) iff for all \(x, y\), such that \(Rwxy\), if \(A\) is true at
+\(x, B\) is true at \(y\); and \(A \rightarrow B\) is false at \(w\)
+iff for some \(x, y\), such that \(Rwxy\), if \(A\) is true at \(x,
+B\) is false at \(y\). Adding various constraints on the ternary
+relation provides stronger logics. However, these logics are not the
+standard relevant logics developed by Anderson and Belnap. To obtain
+the standard family of relevant logics, one needs neighbourhood frames
+(see Mares 2004). Further details can be found in the entry on
+ relevant logics.

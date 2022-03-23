@@ -1,0 +1,878 @@
+Although the term “nationalism” has a variety of meanings,
+it centrally encompasses two phenomena: (1) the attitude that the
+members of a nation have when they care about their identity as
+members of that nation and (2) the actions that the members of a
+nation take in seeking to achieve (or sustain) some form of political
+sovereignty (see for example, Nielsen 1998–9: 9). Each of these
+aspects requires elaboration.
+There is a terminological and conceptual question of distinguishing
+nationalism from patriotism. A popular proposal is the contrast
+between attachment to one’s country as defining patriotism and
+attachment to one’s people and its traditions as defining
+nationalism (Kleinig 2014: 228, and Primoratz 2017: Section 1.2). One
+problem with this proposal is that love for a country is not really
+just love of a piece of land but normally involves attachment to the
+community of its inhabitants, and this introduces “nation”
+into the conception of patriotism. Another contrast is the one between
+strong, and somewhat aggressive attachment (nationalism) and a mild
+one (patriotism), dating back at least to George Orwell (see his 1945
+essay).[3]
+Despite these definitional worries, there is a fair amount of
+agreement about the classical, historically paradigmatic form of
+nationalism. It typically features the supremacy of the nation’s
+claims over other claims to individual allegiance and full sovereignty
+as the persistent aim of its political program. Territorial
+sovereignty has traditionally been seen as a defining element of state
+power and essential for nationhood. It was extolled in classic modern
+works by Hobbes, Locke, and Rousseau and is returning to center stage
+in the debate, though philosophers are now more skeptical (see below).
+Issues surrounding the control of the movement of money and people (in
+particular immigration) and the resource rights implied in territorial
+sovereignty make the topic politically central in the age of
+globalization and philosophically interesting for nationalists and
+anti-nationalists alike.
+In recent times, the philosophical focus has moved more in the
+direction of “liberal nationalism”, the view that
+mitigates the classical claims and tries to bring together the
+pro-national attitude and the respect for traditional liberal values.
+For instance, the territorial state as political unit is seen by
+classical nationalists as centrally “belonging” to one
+ethnic-cultural group and as actively charged with protecting and
+promulgating its traditions. The liberal variety allows for
+“sharing” of the territorial state with non-dominant
+ethnic groups. Consequences are varied and quite interested (for more
+see below, especially
+ section 2.1).
+In its general form, the issue of nationalism concerns the mapping
+between the ethno-cultural domain (featuring ethno-cultural groups or
+“nations”) and the domain of political organization. In
+breaking down the issue, we have mentioned the importance of the
+attitude that the members of a nation have when they care about their
+national identity. This point raises two sorts of questions. First,
+the descriptive ones:
+Second, the normative ones:
+This section discusses the descriptive questions, starting with
+ (1a)
+ and
+ (1b);the
+ normative questions are addressed in
+ Section 3
+ on the moral debate. If one wants to enjoin people to struggle for
+their national interests, one must have some idea about what a nation
+is and what it is to belong to a nation. So, in order to formulate and
+ground their evaluations, claims, and directives for action,
+pro-nationalist thinkers have expounded theories of ethnicity,
+culture, nation, and state. Their opponents have in turn challenged
+these elaborations. Now, some presuppositions about ethnic groups and
+nations are essential for the nationalist, while others are
+theoretical elaborations designed to support the essential ones. The
+definition and status of the social group that benefits from the
+nationalist program, variously called the “nation”,
+“ethno-nation”, or “ethnic group”, is
+essential. Since nationalism is particularly prominent with groups
+that do not yet have a state, a definition of nation and nationalism
+purely in terms of belonging to a state is a non-starter.
+Indeed, purely “civic” loyalties are often categorized
+separately under the title “patriotism”, which we already
+mentioned, or “constitutional
+ patriotism”.[4]
+ This leaves two extreme options and a number of intermediates. The
+first extreme option has been put forward by a small but distinguished
+band of
+ theorists.[5]
+ According to their purely voluntaristic definition, a nation is any
+group of people aspiring to a common political state-like
+organization. If such a group of people succeeds in forming a state,
+the loyalties of the group members become “civic” (as
+opposed to “ethnic”) in nature. At the other extreme, and
+more typically, nationalist claims are focused upon the non-voluntary
+community of common origin, language, tradition, and culture: the
+classic ethno-nation is a community of origin and culture, including
+prominently a language and customs. The distinction is related
+(although not identical) to that drawn by older schools of social and
+political science between “civic” and “ethnic”
+nationalism, the former being allegedly Western European and the
+latter more Central and Eastern European, originating in
+ Germany.[6]
+ Philosophical discussions centered on nationalism tend to concern the
+ethnic-cultural variants only, and this habit will be followed here. A
+group aspiring to nationhood on this basis will be called an
+“ethno-nation” to underscore its ethno-cultural rather
+than purely civic underpinnings. For the ethno-(cultural) nationalist
+it is one’s ethnic-cultural background that determines
+one’s membership in the community. One cannot choose to be a
+member; instead, membership depends on the accident of origin and
+early socialization. However, commonality of origin has become
+mythical for most contemporary candidate groups: ethnic groups have
+been mixing for millennia.
+Sophisticated, liberal pro-nationalists therefore tend to stress
+cultural membership only and speak of “nationality”,
+omitting the “ethno-” part (Miller 1992, 2000; Tamir
+1993,2013; Gans 2003). Michel Seymour’s proposal of a
+“socio-cultural definition” adds a political dimension to
+the purely cultural one: a nation is a cultural group, possibly but
+not necessarily united by a common descent, endowed with civic ties
+(Seymour 2000). This is the kind of definition that would be accepted
+by most parties in the debate today. So defined, the nation is a
+somewhat mixed category, both ethno-cultural and civic, but still
+closer to the purely ethno-cultural than to the purely civic
+extreme.
+Let us now turn to the issue of the origin and
+“authenticity” of ethno-cultural groups or ethno-nations.
+In social and political science one usually distinguishes two kinds of
+views, but there is a third group, combining element from both. The
+first are modernist views that see nationalism as born in modern
+times, together with
+ nation-states.[7]
+ In our times the view was pioneered by Ernst Gellner (see his
+ 1983).[8]
+ Other modernist choose similar starting points with century or two of
+ variation.[9]
+ The opposite view can be called, following Edward Shils (1957) “primordialist”.
+According to it, actual ethno-cultural nations have either existed
+“since time immemorial”.
+The third, quite plausible kind of view, distinct from both
+primordialism-ethno-symbolism and modernism, has been initiated by W.
+Connor (1994).[10]
+ A nation is a politicized and mobilized ethnic group rather than a
+state. So, the origins of nationalism predate the modern state, and
+its emotional content remains up to our times (Conversi 2002: 270),
+but the actual statist organization is, indeed, modern. However,
+nation-state is a nationalist dream and fiction, never really
+implemented, due to the inescapable plurality of social groups. So
+much for the three dominant perspectives on the origin of
+nationalism.
+Indeed, the older authors—from great thinkers like Herder and
+Otto Bauer to the propagandists who followed their
+footsteps—took great pains to ground normative claims upon firm
+ontological realism about nations: nations are real, bona
+fide entities. However, the contemporary moral debate has tried
+to diminish the importance of the imagined/real divide. Prominent
+contemporary philosophers have claimed that normative-evaluative
+nationalist claims are compatible with the “imagined”
+nature of a
+ nation.[11]
+ They point out that common imaginings can tie people together, and
+that actual interaction resulting from togetherness can engender
+important moral obligations.
+Let us now turn to question
+ (1c)
+ about the nature of pro-national attitudes. The explanatory issue
+that has interested political and social scientists concerns
+ethno-nationalist sentiment, the paradigm case of a pro-national
+attitude. Is it as irrational, romantic, and indifferent to
+self-interest as it might seem on the surface? The issue has divided
+authors who see nationalism as basically irrational and those who try
+to explain it as being in some sense rational. Authors who see it as
+irrational propose various explanations of why people assent to
+irrational views. Some say, critically, that nationalism is based on
+“false consciousness”. But where does such false
+consciousness come from? The most simplistic view is that it is a
+result of direct manipulation of “masses” by
+“elites”. On the opposite side, the famous critic of
+nationalism Elie Kedourie (1960) thinks this irrationality is
+spontaneous. A decade and a half ago Liah Greenfeld went as far as
+linking nationalism to mental illness in her provocative 2005 article
+(see also her 2006 book). On the opposite side, Michael Walzer has
+offered a sympathetic account of nationalist passion in his 2002.
+Authors relying upon the Marxist tradition offer various deeper
+explanations. To mention one, the French structuralist Étienne
+Balibar sees it as a result of the “production” of
+ideology effectuated by mechanisms which have nothing to do with
+spontaneous credulity of individuals, but with impersonal, structural
+social factors (Balibar & Wallerstein 1988
+ [1991]).[12]
+Some authors claim that it is often rational for individuals to become
+nationalists (Hardin 1985). Can one rationally explain the extremes of
+ethno-national conflict? Authors like Russell Hardin propose to do so
+in terms of a general view of when hostile behavior is rational: most
+typically, if an individual has no reason to trust someone, it is
+reasonable for that individual to take precautions against the other.
+If both sides take precautions, however, each will tend to see the
+other as increasingly inimical. It then becomes rational to start
+treating the other as an enemy. Mere suspicion can thus lead by small,
+individually rational steps to a situation of conflict. (Such negative
+development is often presented as a variant of the Prisoner’s
+Dilemma; see the entry on
+ prisoner’s dilemma).
+ It is relatively easy to spot the circumstances in which this general
+pattern applies to national solidarities and conflicts (see also
+Wimmer 2013).
+Finally, as for question
+ (1d),
+ the nation is typically seen as an essentially non-voluntary
+community to which one belongs by birth and early nurture and such
+that the belonging is enhanced and made more complete by one’s
+additional conscious endorsement. Not everyone agrees: liberal
+nationalists accept the idea of choice of one’s national
+belonging and of possibility for immigrants to become nationals by
+choice and intentional acculturation.
+We pointed out at the very beginning of the entry that nationalism
+focuses upon (1) the attitude that the members of a nation have when
+they care about their national identity, and (2) the actions that the
+members of a nation take when seeking to achieve (or sustain) some
+form of political sovereignty. The politically central point is (2):
+the actions enjoined by the nationalist. To these we now turn,
+beginning with sovereignty and territory, the usual foci of a national
+struggle for independence. They raise an important issue:
+The classical answer is that a state is required. A more liberal
+answer is that some form of political autonomy suffices. Once this has
+been discussed, we can turn to the related normative issues:
+Consider first the classical nationalist answer to
+ (2a).
+ Political sovereignty requires a state “rightfully owned”
+by the ethno-nation (Oldenquist 1997). Developments of this line of
+thought often state or imply specific answers to
+ (2b),
+ and
+ (2c),
+ i.e., that in a national independence struggle the use of force
+against the threatening central power is almost always a legitimate
+means for bringing about sovereignty. However, classical nationalism
+is not only concerned with the creation of a state but also with its
+maintenance and strengthening.
+Classical nationalism is the political program that sees the
+creation and maintenance of a fully sovereign state owned by a given
+ethno-national group (“people” or “nation”) as
+a primary duty of each member of the group. Starting from the
+assumption that the appropriate (or “natural”) unit of
+culture is an ethno-nation, it claims that a primary duty of each
+member is to abide by one’s recognizably ethno-national culture
+in all cultural matters.
+Classical nationalists are usually vigilant about the kind of culture
+they protect and promote and about the kind of attitude people have to
+their nation-state. This watchful attitude carries some potential
+dangers: many elements of a given culture that are universal or simply
+not recognizably national may fall prey to such nationalist
+enthusiasms. Classical nationalism in everyday life puts various
+additional demands on individuals, from buying more expensive
+home-produced goods in preference to cheaper imported ones to
+procreating as many future members of the nation as one can manage
+(see Yuval-Davies 1997, and Yack 2012).
+Besides classical nationalism (and its more radical extremist
+cousins), various moderate views are also now classified as
+nationalist. Indeed, the philosophical discussion has shifted to these
+moderate or even ultra-moderate forms, and most philosophers who
+describe themselves as nationalists propose very moderate nationalist
+programs.
+Nationalism in this wider sense is any complex of attitudes,
+claims, and directives for action ascribing a fundamental political,
+moral, and cultural value to nation and nationality and deriving
+obligations (for individual members of the nation, and for any
+involved third parties, individual or collective) from this ascribed
+value. The main representative of this group of views is liberal
+nationalism, proposed by authors like Miller, Tamir, and Gans
+(see below).
+Nationalisms in this wider sense can vary somewhat in their
+conceptions of the nation (which are often left implicit in their
+discourse), in the grounds for and degree of its value, and in the
+scope of their prescribed obligations. Moderate nationalism is less
+demanding than classical nationalism and sometimes goes under the name
+of “patriotism.” (A different usage, again, reserves
+“patriotism” for valuing civic community and loyalty to
+state, in contrast to nationalism, centered on ethnic-cultural
+communities).
+Let us now turn to liberal nationalism, the most discussed kind of
+moderate nationalism.
+Liberal nationalists see liberal-democratic principles and
+pro-national attitudes as belonging together. One of the main
+proponents of the view, Yael Tamir, started the debate in her 1993
+book and in her recent book talks about the nation-state as “an
+ideal meeting point between the two” (2019: 6). Of course, some
+things have to be sacrificed: we must acknowledge that either the
+meaningfulness of a community or its openness must be sacrificed to
+some extent as we cannot have them both. (2019: 57). How much of each
+is to give way is left open, and of course, various liberal
+nationalists take different views of what precisely the right answer
+is.
+Tamir’s version of liberal nationalism is a kind of social
+liberalism, in this respect similar to the views of David Miller who
+talks about “solidaristic communities” in his 1999 book
+Principles of Social Justice and also takes stance in his
+1995 and 2008 books. They both see the feeling of national identity as
+a feeling that promotes solidarity, and solidarity as means for
+increased social justice (Tamir 2019, in particular ch.20; compare
+Walzer 1983, Kymlicka 1995a, 2001, and Gans 2003, 2008).
+Liberal nationalists diverge about the value of multiculturalism.
+Kymlicka takes it as basic for his picture of liberalism while Tamir
+dismisses it without much ado: multicultural, multiethnic democracies
+have a very poor track record, she claims (2019: 62). Tamir’s
+diagnosis of the present day political crisis, with politicians like
+Trump and Le Pen coming to the forefront, is that “liberal
+democrats were paralyzed by their assumed victory” whereas
+“nationalists felt defeated and obsolete” (2019: 7).
+Tamir lists two kinds of reasons that guarantee special political
+status to nations. First kind, that no other political entity
+“is more able than the state to promote ideas in the public
+sphere” (2019: 52), and the second kind that nation needs
+continuous creative effort to make it functional and attractive.
+The historical development of liberalism turned it into a
+universalistic, anti-communitarian principle; this has been a fatal
+mistake that can be and should be corrected by the liberal nationalist
+synthesis. Can we revive the unifying narratives of our nationality
+without sacrificing the liberal inheritance of freedom and rights?
+Liberal nationalism answers in the affirmative. From its standpoint,
+national particularism has primacy: “The love of humanity is a
+noble ideal, but real love is always particular…” (2019:
+68).
+Interestingly, Tamir combines this high regard of nation with an
+extreme constructivist view of its nature: nations are mental
+structures that exist in the minds of their members (2019: 58).
+Is liberal nationalism implemented anywhere in the present world, or
+is it more of an ideal, probably end-state theory, that proposes a
+picture of a desirable society? Judging by the writings of liberal
+nationalists, it is the latter, although presented as a relatively
+easily reachable ideal, combining two traditions that are already well
+implemented in political reality.
+The variations of nationalism most relevant for philosophy are those
+that influence the moral standing of claims and of recommended
+nationalist practices. The elaborate philosophical views put forward
+in favor of nationalism will be referred to as “theoretical
+nationalism”, the adjective serving to distinguish such views
+from less sophisticated and more practical nationalist discourse. The
+central theoretical nationalist evaluative claims can be charted on
+the map of possible positions within political theory in the following
+useful but somewhat simplified and schematic way.
+Nationalist claims featuring the nation as central to political action
+must answer two crucial general questions. First, is there one kind of
+large social group that is of special moral importance? The
+nationalist answer is that there certainly is one, namely, the nation.
+Moreover, when an ultimate choice is to be made, say between ties of
+family, or friendship, and the nation, the latter has priority.
+Liberal nationalists prefer a more moderate stance, which ascribes
+value to national belonging, but don’t make it central in this
+way. Second, what are the grounds for an individual’s
+obligations to the morally central group? Are they based on voluntary
+or involuntary membership in the group? The typical contemporary
+nationalist thinker opts for the latter, while admitting that
+voluntary endorsement of one’s national identity is a morally
+important achievement. On the philosophical map, pro-nationalist
+normative tastes fit nicely with the communitarian stance in general:
+most pro-nationalist philosophers are communitarians who choose the
+nation as the preferred community (in contrast to those of their
+fellow communitarians who prefer more far-ranging communities, such as
+those defined by global religious
+ traditions).[13]
+Before proceeding to moral claims, let us briefly sketch the issues
+and viewpoints connected to territory and territorial rights that are
+essential for nationalist political 
+ programs.[14] 
+ Why is territory
+important for ethno-national groups, and what are the extent and
+grounds of territorial rights? Its primary importance resides in
+sovereignty and all the associated possibilities for internal control
+and external exclusion. Add to this the Rousseauian view that
+political attachments are essentially bounded and that love —or,
+to put it more mildly, republican civil friendship—for
+one’s group requires exclusion of some “other”, and
+the importance becomes quite obvious. What about the grounds for the
+demand for territorial rights? Nationalist and pro-nationalist views
+mostly rely on the attachment that members of a nation have to
+national territory and to the formative value of territory for a
+nation to justify territorial claims (see Miller 2000 and Meisels
+2009). This is similar in some respects to the rationale given by
+proponents of indigenous peoples’ rights (Tully 2004, but see
+also Hendrix 2008) and in other respects to Kolers’ 2009
+ethno-geographical non-nationalist theory, but differs in preferring
+ethno-national groups as the sole carriers of the right. These
+attachment views stand in stark contrast to more pragmatic views about
+territorial rights as means for conflict resolution (e.g., Levy 2000).
+Another quite popular alternative is the family of individualistic
+views grounding territorial rights in rights and interests of
+individuals.[15]
+ On the extreme end of anti-nationalist views
+stands the idea of Pogge) that there are no specific territorial
+problems for political philosophy—the “dissolution
+approach”, as Kolers calls it.
+We now pass to the normative dimension of nationalism. We shall first
+describe the very heart of the nationalist program, i.e., sketch and
+classify the typical normative and evaluative nationalist claims.
+These claims can be seen as answers to the normative subset of our
+initial questions about (1) pro-national attitudes and (2)
+actions.
+We will see that these claims recommend various courses of action:
+centrally, those meant to secure and sustain a political organization
+for the given ethno-cultural national community (thereby making more
+specific the answers to our normative questions
+ (1e),
+ (1f),
+ (2b),
+ and
+ (2c)).
+ Further, they enjoin the community’s members to promulgate
+recognizable ethno-cultural contents as central features of the
+cultural life within such a state. Finally, we shall discuss various
+lines of pro-nationalist thought that have been put forward in defense
+of these claims. To begin, let us return to the claims concerning the
+furthering of the national state and culture. These are proposed by
+the nationalist as norms of conduct. The philosophically most
+important variations concern three aspects of such normative
+claims:
+Universalizing nationalism is the political program that
+claims that every ethno-nation should have a state that it
+should rightfully own and the interests of which it should
+promote.
+Alternatively, a claim may be particularistic, such as the claim
+“Group X ought to have a state”, where this
+implies nothing about any other group:
+Particularistic nationalism is the political program claiming
+that some ethno-nation should have its state, without
+extending the claim to all ethno-nations. It claims thus either
+The most difficult and indeed chauvinistic sub-case of particularism,
+i.e., (B), has been called “invidious” since it explicitly
+denies the privilege of having a state to some peoples. Serious
+theoretical nationalists usually defend only the universalist variety,
+whereas the nationalist-in-the-street most often defends the egoistic
+indeterminate one.
+The nationalist picture of morality traditionally has been quite close
+to the dominant view in the theory of international relations called
+“realism”. Put starkly, the view is that morality ends at
+the boundaries of the nation-state; beyond there is nothing but
+ anarchy.[16]
+ It nicely complements the main classical nationalist claim about the
+nation-state, i.e., that each ethno-nation or people should have a
+state of its own, and suggests what happens next: nation-states enter
+into competition in the name of their constitutive peoples.
+Recall the initial normative question centered around (1) attitudes
+and (2) actions. Is national partiality justified, and to what extent?
+What actions are appropriate to bring about sovereignty? In
+particular, are ethno-national states and institutionally protected
+(ethno-) national cultures goods independent from the individual will
+of their members, and how far may one go in protecting them? The
+philosophical debate for and against nationalism is a debate about the
+moral validity of its central claims. In particular, the ultimate
+moral issue is the following: is any form of nationalism morally
+permissible or justified, and, if not, how bad are particular forms of
+ it?[17]
+ Why do nationalist claims require a defense? In some situations they
+seem plausible: for instance, the plight of some stateless national
+groups—the history of Jews and Armenians, the historical and
+contemporary misfortunes of Kurds—lends credence to the idea
+that having their own state would have solved the worst problems.
+Still, there are good reasons to examine nationalist claims more
+carefully. The most general reason is that it should first be shown
+that the political form of the nation-state has some value as such,
+that a national community has a particular, or even central, moral and
+political value, and that claims in its favor have normative validity.
+Once this is established, a further defense is needed. Some classical
+nationalist claims appear to clash—at least under normal
+circumstances of contemporary life—with various values that
+people tend to accept. Some of these values are considered essential
+to liberal-democratic societies, while others are important
+specifically for the flourishing of creativity and culture. The main
+values in the first set are individual autonomy and benevolent
+impartiality (most prominently towards members of groups culturally
+different from one’s own). The alleged special duties towards
+one’s ethno-national culture can and often do interfere with
+individuals’ right to autonomy.
+Liberal nationalists are aware of the difficulties of the classical
+approach, and soften the classical claims, giving them only a
+prima facie status. They usually speak of “various
+accretions that have given nationalism a bad name”, and they are
+eager to “separate the idea of nationality itself from these
+excesses” (Miller 1992, 2000). Such thoughtful pro-nationalist
+writers have participated in an ongoing philosophical dialogue between
+proponents and opponents of the
+ claim.[18]
+ In order to help the reader find their through this involved debate,
+we shall briefly summarize the considerations which are open to the
+ethno-nationalist to defend their case (compare the useful overview in
+Lichtenberg 1997). Further lines of thought built upon these
+considerations can be used to defend very different varieties of
+nationalism, from radical to very moderate ones.
+For brevity, each line of thought will be reduced to a brief argument;
+the actual debate is more involved than one can represent in a sketch.
+Some prominent lines of criticism that have been put forward in the
+debate will be indicated in brackets (see Miscevic 2001). The main
+arguments in favor of nationalism will be divided into two sets. The
+first set of arguments defends the claim that national communities
+have a high value, sometime seen as coming from the interests of their
+individual member (e.g., by Kymlicka, Miller, and Raz) and sometimes
+as non-instrumental and independent of the wishes and choices of their
+individual members, and argues that they should therefore be protected
+by means of state and official statist policies. The second set is
+less deeply “comprehensive”, and encompasses arguments
+from the requirements of justice, independent from substantial
+assumptions about culture and cultural values.
+The first set will be presented in more detail since it has formed the
+core of the debate. It depicts the community as the source of value or
+as the transmission device connecting its members to some important
+values. For the classical nationalist, the arguments from this set are
+communitarian in a particularly “deep” sense since they
+are grounded in basic features of the human condition.
+The general form of deep communitarian arguments is as follows. First,
+the communitarian premise: there is some uncontroversial good (e.g., a
+person’s identity), and some kind of community is essential for
+acquisition and preservation of it. Then comes the claim that the
+ethno-cultural nation is the kind of community ideally suited for this
+task. Then follows the statist conclusion: in order for such a
+community to preserve its own identity and support the identity of its
+members, it has to assume (always or at least normally) the political
+form of a state. The conclusion of this type of argument is that the
+ethno-national community has the right to an ethno-national state and
+the citizens of the state have the right and obligation to favor their
+own ethnic culture in relation to any other.
+Although the deeper philosophical assumptions in the arguments stem
+from the communitarian tradition, weakened forms have also been
+proposed by more liberal philosophers. The original communitarian
+lines of thought in favor of nationalism suggest that there is some
+value in preserving ethno-national cultural traditions, in feelings of
+belonging to a common nation, and in solidarity between a
+nation’s members. A liberal nationalist might claim that these
+are not the central values of political life but are values
+nevertheless. Moreover, the diametrically opposing views, pure
+individualism and cosmopolitanism, do seem arid, abstract, and
+unmotivated by comparison. By cosmopolitanism we refer to moral and
+political doctrines claiming that
+Confronted with opposing forces of nationalism and cosmopolitanism,
+many philosophers opt for a mixture of liberalism-cosmopolitanism and
+patriotism-nationalism. In his writings, B. Barber glorifies “a
+remarkable mixture of cosmopolitanism and parochialism” that in
+his view characterizes American national identity (Barber 1996: 31).
+Charles Taylor claims that “we have no choice but to be
+cosmopolitan and patriots” (Taylor 1996: 121). Hilary Putnam
+proposes loyalty to what is best in the multiple traditions in which
+each of us participates, apparently a middle way between a
+narrow-minded patriotism and an overly abstract cosmopolitanism
+(Putnam 1996: 114). The compromise has been foreshadowed by Berlin
+(1979) and Taylor (1989,
+ 1993),[19]
+ and in the last two decades it has occupied center stage in the
+debate and even provoked re-readings of historical nationalism in its
+ light.[20]
+ Most liberal nationalist authors accept various weakened versions of
+the arguments we list below, taking them to support moderate or
+ultra-moderate nationalist claims.
+Here are then the main weakenings of classical ethno-nationalism that
+liberal, limited-liberal, and cosmopolitan nationalists propose.
+First, ethno-national claims have only prima facie strength
+and cannot trump individual rights. Second, legitimate ethno-national
+claims do not in themselves automatically amount to the right to a
+state, but rather to the right to a certain level of cultural
+autonomy. The main models of autonomy are either territorial or
+non-territorial: the first involves territorial devolution; the
+second, cultural autonomy granted to individuals regardless of their
+domicile within the
+ state.[21]
+ Third, ethno-nationalism is subordinate to civic patriotism, which
+has little or nothing to do with ethnic criteria. Fourth,
+ethno-national mythologies and similar “important
+falsehoods” are to be tolerated only if benign and inoffensive,
+in which case they are morally permissible despite their falsity.
+Finally, any legitimacy that ethno-national claims may have is to be
+derived from choices the concerned individuals are free to make.
+Consider now the particular pro-nationalist arguments from the first
+set. The first argument depends on assumptions that also appear in the
+subsequent ones, but it further ascribes to the community an intrinsic
+value. The later arguments point more towards an instrumental value of
+nation, derived from the value of individual flourishing, moral
+understanding, firm identity and the like.
+The Canadian liberal nationalists Seymour (1999), Taylor, and Kymlicka
+pointed out that “divergences of value between different regions
+of Canada” that aspire to separate nationhood are
+“minimal”. Taylor (1993: 155) concluded that it is not
+separateness of value that matters.
+The ‘physiognomies’ of cultures are unique: each presents
+a wonderful exfoliation of human potentialities in its own time and
+place and environment. We are forbidden to make judgments of
+comparative value, for that is measuring the incommensurable. (1976:
+206)
+Assuming that the (ethno-)nation is the natural unit of culture, the
+preservation of cultural diversity amounts to institutionally
+protecting the purity of (ethno-)national culture. The plurality of
+cultural styles can be preserved and enhanced by tying them to
+ethno-national “forms of life”.
+ David Miller has developed an interesting and sophisticated
+liberal pro-national stance over the course of decades from his work
+in 1990 to the most recent work in 2013. He accepts multicultural
+diversity within a society but stresses an overarching national
+identity, taking as his prime example British national identity, which
+encompasses the English, Scottish, and other ethnic identities. He
+demands an “inclusive identity, accessible to members of all
+cultural groups” (2013: 91). miller claims such identity is
+necessary for basic social solidarity, and it goes far beyond simple
+constitutional patriotism. A skeptic could note the following. The
+problem with multicultural society is that national identity has
+historically been a matter of ethno-national ties and has required
+sameness in the weighted majority of cultural traits (common language,
+common “history-as-remembered”, customs, religion and so
+on). However, multi-cultural states typically bring together groups
+with very different histories, languages, religions, and even quite
+contrasting appearances. Now, how is the overarching “national
+identity” to be achieved starting from the very thin identity of
+common belonging to a state? One seems to have a dilemma. Grounding
+social solidarity in national identity requires the latter to be
+rather thin and seems likely to end up as full-on, unitary cultural
+identity. Thick constitutional patriotism may be one interesting
+possible attitude that can ground such solidarity while preserving the
+original cultural diversity.
+The arguments in the second set concern political justice and do not
+rely on metaphysical claims about identity, flourishing, and cultural
+values. They appeal to (actual or alleged) circumstances that would
+make nationalist policies reasonable (or permissible or even
+mandatory), such as (a) the fact that a large part of the world is
+organized into nation-states (so that each new group aspiring to
+create a nation-state just follows an established pattern), or (b) the
+circumstances of group self-defense or of redressing past injustice
+that might justify nationalist policies (to take a special case). Some
+of the arguments also present nationhood as conducive to important
+political goods, such as equality.
+Andreas Wimmer (2018) presents an interesting discussion of the
+historical success of nation-state (discussed in Knott, Tolz, Green,
+& Wimmer 2019).
+These political arguments can be combined with deep communitarian
+ones. However, taken in isolation, their perspectives offer a
+“liberal culturalism” that is more suitable for
+ethno-culturally plural societies. More remote from classical
+nationalism than the liberal one of Tamir and Nielsen, it eschews any
+communitarian philosophical
+ underpinning.[23]
+ The idea of moderate nation-building points to an open
+multi-culturalism in which every group receives its share of remedial
+rights but, instead of walling itself off from others, participates in
+a common, overlapping civic culture in open communication with other
+sub-communities. Given the variety of pluralistic societies and
+intensity of trans-national interactions, such openness seems to many
+to be the only guarantee of stable social and political life (see the
+debate in Shapiro and Kymlicka 1997).
+In general, the liberal nationalist stance is mild and civil, and
+there is much to be said in favor of it. It tries to reconcile our
+intuitions in favor of some sort of political protection of cultural
+communities with a liberal political morality. Of course, this raises
+issues of compatibility between liberal universal principles and the
+particular attachments to one’s ethno-cultural nation. Very
+liberal nationalists such as Tamir divorce ethno-cultural nationhood
+from statehood. Also, the kind of love for country they suggest is
+tempered by all kinds of universalist considerations, which in the
+last instance trump national interest (Tamir 1993: 115; 2019: passim,
+see also Moore 2001 and Gans 2003). There is an ongoing debate among
+philosophical nationalists about how much weakening and compromising
+is still compatible with a stance’s being nationalist at
+ all.[24]
+ There is also a streak of cosmopolitan interest present in the work
+of some liberal nationalists (Nielsen
+ 1998–99).[25]
+In the last two decades, the issues of nationalism have been
+increasingly integrated into the debate about the international order
+(see the entries on
+ globalization
+ and
+ cosmopolitanism).
+ The main conceptual link is the claim that nation-states are natural,
+stable, and suitable units of the international order. A related
+debate concerns the role of minorities in the processes of
+globalization (see Kaldor 2004). Moreover, the two approaches might
+ultimately converge: a multiculturalist liberal nationalism and a
+moderate, difference-respecting cosmopolitanism have a lot in
+ common.[26]
+“Populism” is an umbrella term, covering both right-wing
+and left-wing varieties. This section will pay attention to right-wing
+populist movements, very close to their traditional nationalist
+predecessors. This corresponds to the situation in the biggest part of
+Europe, and in the US, where nationalist topics are being put forward
+by the right-wing
+ populist.[27]
+However, it has become quite clear that nationalism is only one of the
+political “isms” attracting the right-wing populists. The
+migration crisis has brought to the forefront populist
+self-identification with linguistic-cultural communities (“we,
+French speaking people” for the former, “we
+Christians” for the later) that goes beyond nationalism.
+Jan-Werner Müller (2016) and Cas Mudde (2007) note that the form
+common to all sorts of populism is quite simple and describe it as
+“thin”. Mudde explains: “Populism is understood as a
+thin-centered ideology that considers society to be ultimately
+separated into two homogeneous and antagonistic groups, ‘the
+pure people’ versus ‘the corrupt elite’, and which
+argues that politics should be an expression of the volonté
+générale (general will) of the People” (2007:
+23). Populism, so defined, has two opposites: elitism and pluralism.
+First, there is the elite vs. people (“underdog”)
+contrast. Second, it is possible to distinguish two ways of
+characterizing “the people”: either in terms of social
+status (class, income-level, etc.) or in terms of ethnic and/or
+cultural belonging (see also de Cleen 2017).
+The second, horizontal dimension distinguishes the predominantly
+left-wing from the predominantly right-wing populisms and leaves a
+place for a centrist populist option. Take classical strong ethnic
+nationalism. The relation between right-wing populism and such a
+nationalism is very tight. This has led some theoreticians (Taguieff
+2015) to present “nationalist populism” as the only kind
+of populism. The term captures exactly the synthesis of populism and
+the strong ethnic nationalism or nativism. From populism, it takes the
+general schema of anti-elitism: the leader is addressing directly the
+people and is allegedly following the people’s interest.  From
+nationalism, it takes the characterization of the people: it is the
+ethnic community, in most cases the state-owing ethnic community, or
+the ethno-nation. In his work, Mudde documents the claim that purely
+right-wing populists claim to represent the true people who form the
+true nation and whose purity is being muddied by new entrants. In the
+United States, one can talk about populist and reactionary movements,
+like the Tea Party, that have emerged through the recent experience of
+immigration, terrorist attacks, and growing economic polarization. We
+have to set aside here, for reasons of space, the main populist
+alternative (or quasi-alternative) to national populism. In some
+countries, like Germany, some populist groups-parties (e.g., German
+AfD party (Alternative for Germany)), appeal to properties much wider
+in their reach than ethno-national belonging, typically to religious
+affiliations. Others combine this appeal with the ethno-national
+one. This yields what Riva Kastoryano (2006) calls “transnational
+nationalism”.
+Interestingly, liberal nationalism is not very attractive to the
+populists. On the theoretical side one can note that Tamir (2019) sees
+her liberal nationalism as a good recipe against the threat of
+demagogues like Trump and Boris Johnson (she avoids the use of the
+label “populist”, e.g., 2019: 31).
+The rise of populism is changing the political playfield one must work
+with. The tolerant (liberal nationalist or anti-nationalist) views are
+confronting new problems in the populist age marked by migration
+crisis, etc. The dangers traditionally associated with military
+presence are gone; the national populists have to invent and construct
+a presumed danger that comes into the country together with foreign
+families, including those with children. In short, if these
+conjectures hold, the politicians and theoreticians are faced with a
+change. The traditional issue of the contrast between
+patriotism/nationalism and cosmopolitanism has changed its profile:
+the current drastic contrast is between the populist aversion to the
+foreigners-migrants and a more generous attitude of acceptance and
+Samaritan help. Finally, the populist understanding of “our
+people” (“we-community”) encompasses not only
+nationalist options but also goes way beyond it. The important element
+is the promiscuous character of the populist choices. It is probable
+that the future scholarship on nationalism will mainly focus on this
+new and challenging playfield, with an aim to address the new contrast
+and locate kinds of nationalism in relation to
+ it.[28]
+The migration crisis has made the nation-state in global context the
+central political topic concerning nationality. Before moving on to
+current events, the state of art before the crisis should be
+summarized. First, consider the debates on territory and nation and
+issues of global justice.
+Liberal nationalists try to preserve the traditional nationalist link
+between ethnic “ownership” of the state and sovereignty
+and territorial control, but in a much more flexible and sophisticated
+setting. Tamar Meisels thus argues in favor of “taking existing
+national settlements into account as a central factor in demarcating
+territorial boundaries” since this line “has both liberal
+foundations” (i.e., in the work of John Locke) and
+liberal-national appeal (2009: 159) grounded in its affinity with the
+liberal doctrine of national self-determination. She combines it with
+Chaim Gans’ (2003: Ch. 4) interpretation of “historical
+right” claims as “the right to formative
+territories”. She thus combines “historical arguments,
+understood as claims to formative territories”, with her
+argument from settlement and insists on their interplay and mutual
+reinforcement, presenting them as being “most closely related
+to, and based on, liberal nationalist assumptions and underlying
+ideas” (Meisels 2009: 160). She nevertheless stresses that more
+than one ethnic group can have formative ties to a given territory,
+and that there might be competing claims based on
+ settlement.[29]
+ But, given the ethno-national conflicts of the twentieth century, one
+can safely assume that culturally plural states divided into isolated
+and closed sub-communities glued together merely by arrangements of
+modus vivendi are inherently unstable. Stability might
+therefore require that the pluralist society envisioned by liberal
+culturalists promote quite intense intra-state interaction between
+cultural groups in order to forestall mistrust, reduce prejudice, and
+create a solid basis for cohabitation.
+But where should one stop? The question arises since there are many
+geographically open, interacting territories of various sizes.
+Consider first the geographical openness of big continental planes,
+then add the modern ease of interaction (“No island is an island
+any more”, one could say), and, finally and dramatically, the
+substantial ecological interconnectedness of land and climate. Here,
+the tough nationalistic line is no longer proposed seriously in
+ethical debates, so the furthest pro-national extreme is in fact a
+relatively moderate stance, exemplified by Miller in the works listed.
+Here is a typical proposal of his concerning global justice based on
+nation-states: it might become a matter of national pride to have set
+aside a certain percentage of GDP for developmental
+goals—perhaps for projects in one particular country or group of
+countries (2013: 182).
+This brings us to the topic of migrations, and the heated debate on
+the present
+ scene.[30]
+ In Europe immigration is probably the main topic of the present day
+populist uproar, and in the United States it is one of the main
+topics. So, immigration plus the nationalist-populist reactions to it
+are in the current decade the main testing ground for nationalist and
+cosmopolitan views.
+Let’s look at the pro-national side in the debate. Liberal
+nationalists, in particular Miller, have put forward some thoughtful
+pro-nationalist proposal concerning immigration. Miller’s
+proposal allows refugees to seek asylum temporarily until the
+situation in their country of origin improves; it also limits economic
+migration. Miller argues against the defensibility of a global
+standard for equality, opportunity, welfare, etc., because measures of
+just equality are context-bound. People do have the right to a minimum
+standard of living, but the right to migrate only activates as a last
+resort after all other measures within a candidate-migrant’s
+country of origin have been tried. However, he also (particularly in
+his book on “Strangers in our midst”, 2016), claims that
+national responsibility to accept immigrant refugees is balanced by
+considerations of the interest of would-be immigrants and the
+interests that national communities have in maintaining control over
+their own composition and character.
+If we agree with the liberal nationalists on the positive side, we can
+ask about the dynamics of the help required for the immigrants.
+Distinguish at least three stages, first, the immediate emergency
+(starvation, freezing, urgent medical problems) and catering to it,
+second, settlement and learning (on the host and the immigrant
+newcomer side), and third, the stage of (some kind of) citizenship, of
+relatively stable life in the host country.
+In the first phase, the immediate help comes first, both normatively
+and causally: just accept the would-be refugees (indeed, the would-be
+refugees should be helped in leaving their countries and travelling to
+the host country). In longer term, staying should involve opportunity
+for work and training.
+But there is more. The Samaritan obligation can and should function as
+a preparation for wider global
+ activity.[31]
+ So, we have two theoretical steps, first, accepting Samaritanism and
+second, agreeing with deeper trans-national measure of blocking
+distant causes, like poverty and wars in the Third world. Let us call
+this “Samaritan-to-deeper-measures model”. The model is
+geared to the dramatically changed playground in which the nationalism
+issues are played out in the context of populism and refugee crisis,
+raising issues that were not around two decades ago.
+In presenting the claims that the pro-nationalists defend, we have
+proceeded from the more radical towards more liberal nationalist
+alternatives. In examining the arguments for these claims, we have
+presented metaphysically demanding communitarian arguments resting
+upon deep communitarian assumptions about culture, such as the premise
+that the ethno-cultural nation is the most important community for all
+individuals. This is an interesting and respectable claim, but its
+plausibility has not been established. The moral debate about
+nationalism has resulted in various weakenings of culture-based
+arguments, typically proposed by liberal nationalists, which render
+the arguments less ambitious but much more plausible. Having abandoned
+the old nationalist ideal of a state owned by a single dominant
+ethno-cultural group, liberal nationalists have become receptive to
+the idea that identification with a plurality of cultures and
+communities is important for a person’s social identity. They
+have equally become sensitive to trans-national issues and more
+willing to embrace a partly cosmopolitan perspective. Liberal
+nationalism has also brought to the fore more modest, less
+philosophically or metaphysically charged arguments grounded in
+concerns about justice. These stress the practical importance of
+ethno-cultural membership, ethno-cultural groups’ rights to have
+injustices redressed, democratic rights of political association, and
+the role that ethno-cultural ties and associations can play in
+promoting just social arrangements.
+The events in the current decade, the refugee crisis and the rise of
+right-wing populism, have dramatically changed the relevant practical
+and theoretical playground. The traditional nationalism is still
+relevant, but populist nationalism attracts much more attention: new
+theories are being produced and debated, coming to occupy the center
+stage. On the other hand, migration crisis has replaced the typical
+cosmopolitan issue of solidarity-with-distant-strangers with burning
+issues of helping refugees present at our doors. Of course, the causes
+of the crisis are still the same ones that cosmopolitans have been
+worrying about much earlier: wars and dramatically unequal global
+distribution of goods, and of threats, like illnesses and climate
+disasters. The task of the theory is now to connect these deeper
+issues with the new problems occupying the center-stage of the new
+playground; it is a challenge now formulated in somewhat different
+vocabulary and within different political conceptual frameworks than
+before.

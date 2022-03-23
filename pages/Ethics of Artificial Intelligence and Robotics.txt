@@ -1,0 +1,1232 @@
+The ethics of AI and robotics is often focused on
+“concerns” of various sorts, which is a typical response
+to new technologies. Many such concerns turn out to be rather quaint
+(trains are too fast for souls); some are predictably wrong when they
+suggest that the technology will fundamentally change humans
+(telephones will destroy personal communication, writing will destroy
+memory, video cassettes will make going out redundant); some are
+broadly correct but moderately relevant (digital technology will
+destroy industries that make photographic film, cassette tapes, or
+vinyl records); but some are broadly correct and deeply relevant (cars
+will kill children and fundamentally change the landscape). The task
+of an article such as this is to analyse the issues and to deflate the
+non-issues.
+Some technologies, like nuclear power, cars, or plastics, have caused
+ethical and political discussion and significant policy efforts to
+control the trajectory these technologies, usually only once some
+damage is done. In addition to such “ethical concerns”,
+new technologies challenge current norms and conceptual systems, which
+is of particular interest to philosophy. Finally, once we have
+understood a technology in its context, we need to shape our societal
+response, including regulation and law. All these features also exist
+in the case of new AI and Robotics technologies—plus the more
+fundamental fear that they may end the era of human control on
+Earth.
+The ethics of AI and robotics has seen significant press coverage in
+recent years, which supports related research, but also may end up
+undermining it: the press often talks as if the issues under
+discussion were just predictions of what future technology will bring,
+and as though we already know what would be most ethical and how to
+achieve that. Press coverage thus focuses on risk, security (Brundage
+et al. 2018, in the Other Internet Resources section
+below, hereafter [OIR]),
+ and prediction of impact (e.g., on the job market). The
+result is a discussion of essentially technical problems that focus on
+how to achieve a desired outcome. Current discussions in policy and
+industry are also motivated by image and public relations, where the
+label “ethical” is really not much more than the new
+“green”, perhaps used for “ethics washing”.
+For a problem to qualify as a problem for AI ethics would require that
+we do not readily know what the right thing to do is. In this
+sense, job loss, theft, or killing with AI is not a problem in ethics,
+but whether these are permissible under certain circumstances
+is a problem. This article focuses on the genuine problems of
+ethics where we do not readily know what the answers are.
+A last caveat: The ethics of AI and robotics is a very young field
+within applied ethics, with significant dynamics, but few
+well-established issues and no authoritative overviews—though
+there is a promising outline (European Group on Ethics in Science and
+New Technologies 2018) and there are beginnings on societal impact
+(Floridi et al. 2018; Taddeo and Floridi 2018; S. Taylor et al. 2018;
+Walsh 2018; Bryson 2019; Gibert 2019; 
+ 
+Whittlestone et al.  2019), and policy recommendations (AI HLEG 2019
+[OIR]; IEEE 2019). So this article cannot merely reproduce what the
+community has achieved thus far, but must propose an ordering where
+little order exists.
+The notion of “artificial intelligence” (AI) is understood
+broadly as any kind of artificial computational system that shows
+intelligent behaviour, i.e., complex behaviour that is conducive to
+reaching goals. In particular, we do not wish to restrict
+“intelligence” to what would require intelligence if done
+by humans, as Minsky had suggested (1985). This means we
+incorporate a range of machines, including those in “technical
+AI”, that show only limited abilities in learning or reasoning
+but excel at the automation of particular tasks, as well as machines
+in “general AI” that aim to create a generally intelligent
+agent.
+AI somehow gets closer to our skin than other technologies—thus
+the field of “philosophy of AI”. Perhaps this is because
+the project of AI is to create machines that have a feature central to
+how we humans see ourselves, namely as feeling, thinking, intelligent
+beings. The main purposes of an artificially intelligent agent
+probably involve sensing, modelling, planning and action, but current
+AI applications also include perception, text analysis, natural
+language processing (NLP), logical reasoning, game-playing, decision
+support systems, data analytics, predictive analytics, as well as
+autonomous vehicles and other forms of robotics (P. Stone et al.
+2016). AI may involve any number of computational techniques to
+achieve these aims, be that classical symbol-manipulating AI, inspired
+by natural cognition, or machine learning via neural networks
+(Goodfellow, Bengio, and Courville 2016; Silver et al. 2018).
+Historically, it is worth noting that the term “AI” was
+used as above ca. 1950–1975, then came into disrepute during the
+“AI winter”, ca. 1975–1995, and narrowed. As a
+result, areas such as “machine learning”, “natural
+language processing” and “data science” were often
+not labelled as “AI”. Since ca. 2010, the use has
+broadened again, and at times almost all of computer science and even
+high-tech is lumped under “AI”. Now it is a name to be
+proud of, a booming industry with massive capital investment (Shoham
+et al. 2018), and on the edge of hype again. As Erik Brynjolfsson
+noted, it may allow us to
+virtually eliminate global poverty, massively reduce disease
+and provide better education to almost everyone on the planet.
+(quoted in Anderson, Rainie, and Luchsinger 2018)
+While AI can be entirely software, robots are physical machines that
+move. Robots are subject to physical impact, typically through
+“sensors”, and they exert physical force onto the world,
+typically through “actuators”, like a gripper or a turning
+wheel. Accordingly, autonomous cars or planes are robots, and only a
+minuscule portion of robots is “humanoid” (human-shaped),
+like in the movies. Some robots use AI, and some do not: Typical
+industrial robots blindly follow completely defined scripts with
+minimal sensory input and no learning or reasoning (around 500,000
+such new industrial robots are installed each year (IFR 2019 [OIR])). It is
+probably fair to say that while robotics systems cause more concerns
+in the general public, AI systems are more likely to have a greater
+impact on humanity. Also, AI or robotics systems for a narrow set of
+tasks are less likely to cause new issues than systems that are more
+flexible and autonomous.
+Robotics and AI can thus be seen as covering two overlapping sets of
+systems: systems that are only AI, systems that are only robotics, and
+systems that are both. We are interested in all three; the scope of
+this article is thus not only the intersection, but the union, of both
+sets.
+Policy is only one of the concerns of this article. There is
+significant public discussion about AI ethics, and there are frequent
+pronouncements from politicians that the matter requires new policy,
+which is easier said than done: Actual technology policy is difficult
+to plan and enforce. It can take many forms, from incentives and
+funding, infrastructure, taxation, or good-will statements, to
+regulation by various actors, and the law. Policy for AI will possibly
+come into conflict with other aims of technology policy or general
+policy. Governments, parliaments, associations, and industry circles
+in industrialised countries have produced reports and white papers in
+recent years, and some have generated good-will slogans
+(“trusted/responsible/humane/human-centred/good/beneficial
+AI”), but is that what is needed? For a survey, see Jobin,
+Ienca, and Vayena (2019) and V. Müller’s list of
+ PT-AI Policy Documents and Institutions.
+For people who work in ethics and policy, there might be a tendency to
+overestimate the impact and threats from a new technology, and to
+underestimate how far current regulation can reach (e.g., for product
+liability). On the other hand, there is a tendency for businesses, the
+military, and some public administrations to “just talk”
+and do some “ethics washing” in order to preserve a good
+public image and continue as before. Actually implementing legally
+binding regulation would challenge existing business models and
+practices. Actual policy is not just an implementation of ethical
+theory, but subject to societal power structures—and the agents
+that do have the power will push against anything that restricts them.
+There is thus a significant risk that regulation will remain toothless
+in the face of economical and political power.
+Though very little actual policy has been produced, there are some
+notable beginnings: The latest EU policy document suggests
+“trustworthy AI” should be lawful, ethical, and
+technically robust, and then spells this out as seven requirements:
+human oversight, technical robustness, privacy and data governance,
+transparency, fairness, well-being, and accountability (AI HLEG 2019 [OIR]).
+Much European research now runs under the slogan of “responsible
+research and innovation” (RRI), and “technology
+assessment” has been a standard field since the advent of
+nuclear power. Professional ethics is also a standard field in
+information technology, and this includes issues that are relevant in
+this article. Perhaps a “code of ethics” for AI engineers,
+analogous to the codes of ethics for medical doctors, is an option
+here (Véliz 2019). What data science itself should do is
+addressed in (L. Taylor and Purtova 2019). We also expect that much
+policy will eventually cover specific uses or technologies of AI and
+robotics, rather than the field as a whole. A useful summary of an
+ethical framework for AI is given in (European Group on Ethics in
+Science and New Technologies 2018: 13ff). On general AI policy, see
+Calo (2018) as well as Crawford and Calo (2016); Stahl, Timmermans,
+and Mittelstadt (2016); Johnson and Verdicchio (2017); and Giubilini
+and Savulescu (2018). A more political angle of technology is often
+discussed in the field of “Science and Technology Studies” (STS). As
+books like The Ethics of Invention (Jasanoff 2016) show,
+concerns in STS are often quite similar to those in ethics (Jacobs et
+al. 2019 [OIR]). In this article, we discuss the policy for each type of
+issue separately rather than for AI or robotics in general.
+In this section we outline the ethical issues of human use of AI and
+robotics systems that can be more or less autonomous—which means
+we look at issues that arise with certain uses of the technologies
+which would not arise with others. It must be kept in mind, however,
+that technologies will always cause some uses to be easier, and thus
+more frequent, and hinder other uses. The design of technical
+artefacts thus has ethical relevance for their use (Houkes and Vermaas
+2010; Verbeek 2011), so beyond “responsible use”, we also
+need “responsible design” in this field. The focus on use
+does not presuppose which ethical approaches are best suited for
+tackling these issues; they might well be virtue ethics (Vallor 2017)
+rather than consequentialist or value-based (Floridi et al. 2018).
+This section is also neutral with respect to the question whether AI
+systems truly have “intelligence” or other mental
+properties: It would apply equally well if AI and robotics are merely
+seen as the current face of automation (cf. Müller
+forthcoming-b).
+There is a general discussion about privacy and surveillance in
+information technology (e.g., Macnish 2017; Roessler 2017), which
+mainly concerns the access to private data and data that is personally
+identifiable. Privacy has several well recognised aspects, e.g.,
+“the right to be let alone”, information privacy, privacy
+as an aspect of personhood, control over information about oneself,
+and the right to secrecy (Bennett and Raab 2006). Privacy studies have
+historically focused on state surveillance by secret services but now
+include surveillance by other state agents, businesses, and even
+individuals. The technology has changed significantly in the last
+decades while regulation has been slow to respond (though there is the
+Regulation (EU) 2016/679)—the result is a certain anarchy that
+is exploited by the most powerful players, sometimes in plain sight,
+sometimes in hiding.
+The digital sphere has widened greatly: All data collection and
+storage is now digital, our lives are increasingly digital, most
+digital data is connected to a single Internet, and there is more and
+more sensor technology in use that generates data about non-digital
+aspects of our lives. AI increases both the possibilities of
+intelligent data collection and the possibilities for data analysis.
+This applies to blanket surveillance of whole populations as well as
+to classic targeted surveillance. In addition, much of the data is
+traded between agents, usually for a fee.
+At the same time, controlling who collects which data, and who has
+access, is much harder in the digital world than it was in the
+analogue world of paper and telephone calls. Many new AI technologies
+amplify the known issues. For example, face recognition in photos and
+videos allows identification and thus profiling and searching for
+individuals (Whittaker et al. 2018: 15ff). This continues using other
+techniques for identification, e.g., “device
+fingerprinting”, which are commonplace on the Internet
+(sometimes revealed in the “privacy policy”). The result
+is that “In this vast ocean of data, there is a frighteningly
+complete picture of us” (Smolan 2016: 1:01). The result is
+arguably a scandal that still has not received due public
+attention.
+The data trail we leave behind is how our “free” services
+are paid for—but we are not told about that data collection and
+the value of this new raw material, and we are manipulated into
+leaving ever more such data. For the “big 5” companies
+(Amazon, Google/Alphabet, Microsoft, Apple, Facebook), the main
+data-collection part of their business appears to be based on
+deception, exploiting human weaknesses, furthering procrastination,
+generating addiction, and manipulation (Harris 2016 [OIR]). The
+primary focus of social media, gaming, and most of the Internet in
+this “surveillance economy” is to gain, maintain, and
+direct attention—and thus data supply. “Surveillance is
+the business model of the Internet” (Schneier 2015). This
+surveillance and attention economy is sometimes called
+“surveillance capitalism” (Zuboff 2019). It has caused
+many attempts to escape from the grasp of these corporations, e.g., in
+exercises of “minimalism” (Newport 2019), sometimes
+through the open source movement, but it appears that present-day
+citizens have lost the degree of autonomy needed to escape while fully
+continuing with their life and work. We have lost ownership of our
+data, if “ownership” is the right relation here. Arguably,
+we have lost control of our data.
+These systems will often reveal facts about us that we ourselves wish
+to suppress or are not aware of: they know more about us than we know
+ourselves. Even just observing online behaviour allows insights into
+our mental states (Burr and Christianini 2019) and manipulation (see
+below
+ section 2.2).
+ This has led to calls for the protection of “derived
+data” (Wachter and Mittelstadt 2019). With the last sentence of
+his bestselling book, Homo Deus, Harari asks about the
+long-term consequences of AI: 
+What will happen to society, politics and daily life when
+non-conscious but highly intelligent algorithms know us better than we
+know ourselves? (2016: 462)
+Robotic devices have not yet played a major role in this area, except
+for security patrolling, but this will change once they are more
+common outside of industry environments. Together with the
+“Internet of things”, the so-called “smart”
+systems (phone, TV, oven, lamp, virtual assistant, home,…),
+“smart city” (Sennett 2018), and “smart
+governance”, they are set to become part of the data-gathering
+machinery that offers more detailed data, of different types, in real
+time, with ever more information.
+Privacy-preserving techniques that can largely conceal the identity of
+persons or groups are now a standard staple in data science; they
+include (relative) anonymisation , access control (plus encryption),
+and other models where computation is carried out with fully or
+partially encrypted input data (Stahl and Wright 2018); in the case of
+“differential privacy”, this is done by adding calibrated
+noise to encrypt the output of queries (Dwork et al. 2006; Abowd
+2017). While requiring more effort and cost, such techniques can avoid
+many of the privacy issues. Some companies have also seen better
+privacy as a competitive advantage that can be leveraged and sold at a
+price.
+One of the major practical difficulties is to actually enforce
+regulation, both on the level of the state and on the level of the
+individual who has a claim. They must identify the responsible legal
+entity, prove the action, perhaps prove intent, find a court that
+declares itself competent … and eventually get the court to
+actually enforce its decision. Well-established legal protection of
+rights such as consumer rights, product liability, and other civil
+liability or protection of intellectual property rights is often
+missing in digital products, or hard to enforce. This means that
+companies with a “digital” background are used to testing
+their products on the consumers without fear of liability while
+heavily defending their intellectual property rights. This
+“Internet Libertarianism” is sometimes taken to assume
+that technical solutions will take care of societal problems by
+themselves (Mozorov 2013).
+The ethical issues of AI in surveillance go beyond the mere
+accumulation of data and direction of attention: They include
+the use of information to manipulate behaviour, online and
+offline, in a way that undermines autonomous rational choice. Of
+course, efforts to manipulate behaviour are ancient, but they may gain
+a new quality when they use AI systems. Given users’ intense
+interaction with data systems and the deep knowledge about individuals
+this provides, they are vulnerable to “nudges”,
+manipulation, and deception. With sufficient prior data, algorithms
+can be used to target individuals or small groups with just the kind
+of input that is likely to influence these particular individuals. A
+’nudge‘ changes the environment such that it influences
+behaviour in a predictable way that is positive for the individual,
+but easy and cheap to avoid (Thaler & Sunstein 2008). There is a
+slippery slope from here to paternalism and manipulation.
+Many advertisers, marketers, and online sellers will use any legal
+means at their disposal to maximise profit, including exploitation of
+behavioural biases, deception, and addiction generation (Costa and
+Halpern 2019 [OIR]). Such manipulation is the
+business model in much of the gambling and gaming industries, but it
+is spreading, e.g., to low-cost airlines.  In interface design on web
+pages or in games, this manipulation uses what is called “dark
+patterns” (Mathur et al. 2019). At this moment, gambling and the
+sale of addictive substances are highly regulated, but online
+manipulation and addiction are not—even though manipulation of
+online behaviour is becoming a core business model of the
+Internet.
+Furthermore, social media is now the prime location for political
+propaganda. This influence can be used to steer voting behaviour, as
+in the Facebook-Cambridge Analytica “scandal” (Woolley and
+Howard 2017; Bradshaw, Neudert, and Howard 2019) and—if
+successful—it may harm the autonomy of individuals (Susser,
+Roessler, and Nissenbaum 2019).
+Improved AI “faking” technologies make what once was
+reliable evidence into unreliable evidence—this has already
+happened to digital photos, sound recordings, and video. It will soon
+be quite easy to create (rather than alter) “deep fake”
+text, photos, and video material with any desired content. Soon,
+sophisticated real-time interaction with persons over text, phone, or
+video will be faked, too. So we cannot trust digital interactions
+while we are at the same time increasingly dependent on such
+interactions.
+One more specific issue is that machine learning techniques in AI rely
+on training with vast amounts of data. This means there will often be
+a trade-off between privacy and rights to data vs. technical quality
+of the product. This influences the consequentialist evaluation of
+privacy-violating practices.
+The policy in this field has its ups and downs: Civil liberties and
+the protection of individual rights are under intense pressure from
+businesses’ lobbying, secret services, and other state agencies
+that depend on surveillance. Privacy protection has diminished
+massively compared to the pre-digital age when communication was based
+on letters, analogue telephone communications, and personal
+conversation and when surveillance operated under significant legal
+constraints.
+While the EU General Data Protection Regulation (Regulation (EU)
+2016/679) has strengthened privacy protection, the US and China prefer
+growth with less regulation (Thompson and Bremmer 2018), likely in the
+hope that this provides a competitive advantage. It is clear that
+state and business actors have increased their ability to invade
+privacy and manipulate people with the help of AI technology and will
+continue to do so to further their particular interests—unless
+reined in by policy in the interest of general society.
+Opacity and bias are central issues in what is now sometimes called
+“data ethics” or “big data ethics” (Floridi
+and Taddeo 2016; Mittelstadt and Floridi 2016). AI systems for
+automated decision support and “predictive analytics”
+raise “significant concerns about lack of due process,
+accountability, community engagement, and auditing” (Whittaker
+et al. 2018: 18ff). They are part of a power structure in which
+“we are creating decision-making processes that constrain and
+limit opportunities for human participation” (Danaher 2016b:
+245). At the same time, it will often be impossible for the affected
+person to know how the system came to this output, i.e., the system is
+“opaque” to that person. If the system involves machine
+learning, it will typically be opaque even to the expert, who will not
+know how a particular pattern was identified, or even what the pattern
+is. Bias in decision systems and data sets is exacerbated by this
+opacity. So, at least in cases where there is a desire to remove bias,
+the analysis of opacity and bias go hand in hand, and political
+response has to tackle both issues together.
+Many AI systems rely on machine learning techniques in (simulated)
+neural networks that will extract patterns from a given dataset, with
+or without “correct” solutions provided; i.e., supervised,
+semi-supervised or unsupervised. With these techniques, the
+“learning” captures patterns in the data and these are
+labelled in a way that appears useful to the decision the system
+makes, while the programmer does not really know which
+patterns in the data the system has used. In fact, the programs are
+evolving, so when new data comes in, or new feedback is given
+(“this was correct”, “this was incorrect”),
+the patterns used by the learning system change. What this means is
+that the outcome is not transparent to the user or programmers: it is
+opaque. Furthermore, the quality of the program depends heavily on the
+quality of the data provided, following the old slogan “garbage
+in, garbage out”. So, if the data already involved a bias (e.g.,
+police data about the skin colour of suspects), then the program will
+reproduce that bias. There are proposals for a standard description of
+datasets in a “datasheet” that would make the
+identification of such bias more feasible (Gebru et al. 2018 [OIR]). There
+is also significant recent literature about the limitations of machine
+learning systems that are essentially sophisticated data filters
+(Marcus 2018 [OIR]). Some have argued that the ethical problems of today are
+the result of technical “shortcuts” AI has taken
+(Cristianini forthcoming).
+There are several technical activities that aim at “explainable
+AI”, starting with (Van Lent, Fisher, and Mancuso 1999; Lomas et
+al. 2012) and, more recently, a DARPA programme (Gunning 2017 [OIR]).
+
+More broadly, the demand for 
+a mechanism for elucidating and articulating the power structures,
+biases, and influences that computational artefacts exercise in
+society (Diakopoulos 2015: 398)
+is sometimes called “algorithmic accountability
+reporting”. This does not mean that we expect an AI to
+“explain its reasoning”—doing so would require far
+more serious moral autonomy than we currently attribute to AI systems
+(see below
+ §2.10).
+The politician Henry Kissinger pointed out that there is a fundamental
+problem for democratic decision-making if we rely on a system that is
+supposedly superior to humans, but cannot explain its decisions. He
+says we may have “generated a potentially dominating technology
+in search of a guiding philosophy” (Kissinger 2018).  Danaher
+(2016b) calls this problem “the threat of algocracy”
+(adopting the previous use of ‘algocracy’ from Aneesh 2002
+[OIR], 2006).  In a similar vein, Cave (2019)
+stresses that we need a broader societal move towards more
+“democratic” decision-making to avoid AI being a force
+that leads to a Kafka-style impenetrable suppression system in public
+administration and elsewhere. The political angle of this discussion
+has been stressed by O’Neil in her influential book Weapons
+of Math Destruction (2016), and by Yeung and Lodge (2019).
+In the EU, some of these issues have been taken into account with the
+(Regulation (EU) 2016/679), which foresees that consumers, when faced
+with a decision based on data processing, will have a legal
+“right to explanation”—how far this goes and to what
+extent it can be enforced is disputed (Goodman and Flaxman 2017;
+Wachter, Mittelstadt, and Floridi 2016; Wachter, Mittelstadt, and
+Russell 2017). Zerilli et al. (2019) argue that there may be a double
+standard here, where we demand a high level of explanation for
+machine-based decisions despite humans sometimes not reaching that
+standard themselves.
+Automated AI decision support systems and “predictive
+analytics” operate on data and produce a decision as
+“output”. This output may range from the relatively
+trivial to the highly significant: “this restaurant matches your
+preferences”, “the patient in this X-ray has completed
+bone growth”, “application to credit card declined”,
+“donor organ will be given to another patient”,
+“bail is denied”, or “target identified and
+engaged”. Data analysis is often used in “predictive
+analytics” in business, healthcare, and other fields, to foresee
+future developments—since prediction is easier, it will also
+become a cheaper commodity. One use of prediction is in
+“predictive policing” (NIJ 2014 [OIR]), which many fear might
+lead to an erosion of public liberties (Ferguson 2017) because it can
+take away power from the people whose behaviour is predicted. It
+appears, however, that many of the worries about policing depend on
+futuristic scenarios where law enforcement foresees and punishes
+planned actions, rather than waiting until a crime has been committed
+(like in the 2002 film “Minority Report”). One concern is
+that these systems might perpetuate bias that was already in the data
+used to set up the system, e.g., by increasing police patrols in an
+area and discovering more crime in that area. Actual “predictive
+policing” or “intelligence led policing” techniques
+mainly concern the question of where and when police forces will be
+needed most. Also, police officers can be provided with more data, offering
+them more control and facilitating better decisions, in workflow
+support software (e.g., “ArcGIS”). Whether this is
+problematic depends on the appropriate level of trust in the technical
+quality of these systems, and on the evaluation of aims of the police
+work itself. Perhaps a recent paper title points in the right
+direction here: “AI ethics in predictive policing: From models
+of threat to an ethics of care” (Asaro 2019).
+Bias typically surfaces when unfair judgments are made because the
+individual making the judgment is influenced by a characteristic that
+is actually irrelevant to the matter at hand, typically a
+discriminatory preconception about members of a group. So, one form of
+bias is a learned cognitive feature of a person, often not made
+explicit. The person concerned may not be aware of having that
+bias—they may even be honestly and explicitly opposed to a bias
+they are found to have (e.g., through priming, cf. Graham and Lowery
+2004). On fairness vs. bias in machine learning, see Binns (2018).
+Apart from the social phenomenon of learned bias, the human cognitive
+system is generally prone to have various kinds of “cognitive
+biases”, e.g., the “confirmation bias”: humans tend
+to interpret information as confirming what they already believe. This
+second form of bias is often said to impede performance in rational
+judgment (Kahnemann 2011)—though at least some cognitive biases
+generate an evolutionary advantage, e.g., economical use of resources
+for intuitive judgment. There is a question whether AI systems could
+or should have such cognitive bias.
+A third form of bias is present in data when it exhibits systematic
+error, e.g., “statistical bias”. Strictly, any given
+dataset will only be unbiased for a single kind of issue, so the mere
+creation of a dataset involves the danger that it may be used for a
+different kind of issue, and then turn out to be biased for that kind.
+Machine learning on the basis of such data would then not only fail to
+recognise the bias, but codify and automate the “historical
+bias”. Such historical bias was discovered in an automated
+recruitment screening system at Amazon (discontinued early 2017) that
+discriminated against women—presumably because the company had a
+history of discriminating against women in the hiring process. The
+“Correctional Offender Management Profiling for Alternative
+Sanctions” (COMPAS), a system to predict whether a defendant
+would re-offend, was found to be as successful (65.2% accuracy) as a
+group of random humans (Dressel and Farid 2018) and to produce more
+false positives and less false negatives for black defendants. The
+problem with such systems is thus bias plus humans placing excessive
+trust in the systems. The political dimensions of such automated
+systems in the USA are investigated in Eubanks (2018).
+There are significant technical efforts to detect and remove bias from
+AI systems, but it is fair to say that these are in early stages: see
+UK Institute for Ethical AI & Machine Learning (Brownsword,
+Scotford, and Yeung 2017; Yeung and Lodge 2019). It appears that
+technological fixes have their limits in that they need a mathematical
+notion of fairness, which is hard to come by (Whittaker et al. 2018:
+24ff; Selbst et al. 2019), as is a formal notion of “race”
+(see Benthall and Haynes 2019). An institutional proposal is in (Veale
+and Binns 2017).
+Human-robot interaction (HRI) is an academic fields in its own right,
+which now pays significant attention to ethical matters, the dynamics
+of perception from both sides, and both the different interests
+present in and the intricacy of the social context, including
+co-working (e.g., Arnold and Scheutz 2017). Useful surveys for the
+ethics of robotics include Calo, Froomkin, and Kerr (2016); Royakkers
+and van Est (2016); Tzafestas (2016); a standard collection of papers
+is Lin, Abney, and Jenkins (2017).
+While AI can be used to manipulate humans into believing and doing
+things (see section 2.2), it can also be used
+to drive robots that are problematic if their processes or appearance
+involve deception, threaten human dignity, or violate the Kantian
+requirement of “respect for humanity”. Humans very easily
+attribute mental properties to objects, and empathise with them,
+especially when the outer appearance of these objects is similar to
+that of living beings. This can be used to deceive humans (or animals)
+into attributing more intellectual or even emotional significance to
+robots or AI systems than they deserve.  Some parts of humanoid
+robotics are problematic in this regard (e.g., Hiroshi
+Ishiguro’s remote-controlled Geminoids), and there are cases
+that have been clearly deceptive for public-relations purposes (e.g. on the abilities of
+Hanson Robotics’ “Sophia”). Of course, some fairly
+basic constraints of business ethics and law apply to robots, too:
+product safety and liability, or non-deception in advertisement.  It
+appears that these existing constraints take care of many concerns
+that are raised. There are cases, however, where human-human
+interaction has aspects that appear specifically human in ways that
+can perhaps not be replaced by robots: care, love, and sex.
+The use of robots in health care for humans is currently at the level
+of concept studies in real environments, but it may become a usable
+technology in a few years, and has raised a number of concerns for a
+dystopian future of de-humanised care (A. Sharkey and N. Sharkey 2011;
+Robert Sparrow 2016). Current systems include robots that support
+human carers/caregivers (e.g., in lifting patients, or transporting
+material), robots that enable patients to do certain things by
+themselves (e.g., eat with a robotic arm), but also robots that are
+given to patients as company and comfort (e.g., the “Paro”
+robot seal). For an overview, see van Wynsberghe (2016);
+Nørskov (2017); Fosch-Villaronga and Albo-Canals (2019), for a
+survey of users Draper et al. (2014).
+One reason why the issue of care has come to the fore is that people
+have argued that we will need robots in ageing societies. This
+argument makes problematic assumptions, namely that with longer
+lifespan people will need more care, and that it will not be possible
+to attract more humans to caring professions. It may also show a bias
+about age (Jecker forthcoming). Most importantly, it ignores the
+nature of automation, which is not simply about replacing humans, but
+about allowing humans to work more efficiently. It is not very clear
+that there really is an issue here since the discussion mostly focuses
+on the fear of robots de-humanising care, but the actual and
+foreseeable robots in care are assistive robots for classic automation
+of technical tasks. They are thus “care robots” only in a
+behavioural sense of performing tasks in care environments, not in the
+sense that a human “cares” for the patients. It appears
+that the success of “being cared for” relies on this
+intentional sense of “care”, which foreseeable robots
+cannot provide. If anything, the risk of robots in care is the
+absence of such intentional care—because less human
+carers may be needed. Interestingly, caring for something, even a
+virtual agent, can be good for the carer themselves (Lee et al. 2019).
+A system that pretends to care would be deceptive and thus
+problematic—unless the deception is countered by sufficiently
+large utility gain (Coeckelbergh 2016). Some robots that pretend to
+“care” on a basic level are available (Paro seal) and
+others are in the making. Perhaps feeling cared for by a machine, to
+some extent, is progress for come patients.
+It has been argued by several tech optimists that humans will likely
+be interested in sex and companionship with robots and be comfortable
+with the idea (Levy 2007). Given the variation of human sexual
+preferences, including sex toys and sex dolls, this seems very likely:
+The question is whether such devices should be manufactured and
+promoted, and whether there should be limits in this touchy area.
+It seems to have moved into the mainstream of “robot
+philosophy” in recent times (Sullins 2012; Danaher and McArthur
+2017; N. Sharkey et al. 2017 [OIR]; Bendel 2018; Devlin 2018).
+Humans have long had deep emotional attachments to objects, so perhaps
+companionship or even love with a predictable android is attractive,
+especially to people who struggle with actual humans, and already
+prefer dogs, cats, birds, a computer or a tamagotchi. Danaher
+(2019b) argues against (Nyholm and Frank 2017) that these can be true
+friendships, and is thus a valuable goal. It certainly looks like such
+friendship might increase overall utility, even if lacking in depth.
+In these discussions there is an issue of deception, since a robot
+cannot (at present) mean what it says, or have feelings for a human.
+It is well known that humans are prone to attribute feelings and
+thoughts to entities that behave as if they had sentience,even to
+clearly inanimate objects that show no behaviour at all. Also, paying
+for deception seems to be an elementary part of the traditional sex
+industry.
+Finally, there are concerns that have often accompanied matters of
+sex, namely consent (Frank and Nyholm 2017), aesthetic concerns, and
+the worry that humans may be “corrupted” by certain
+experiences. Old fashioned though this may seem, human behaviour is
+influenced by experience, and it is likely that pornography or sex
+robots support the perception of other humans as mere objects of
+desire, or even recipients of abuse, and thus ruin a deeper sexual and
+erotic experience. In this vein, the “Campaign Against Sex Robots”
+argues that these devices are a continuation of slavery and
+prostitution (Richardson 2016).
+ It seems clear that AI and robotics will lead to significant gains
+in productivity and thus overall wealth. The attempt to increase
+productivity has often been a feature of the economy, though the
+emphasis on “growth” is a modern phenomenon (Harari 2016:
+240). However, productivity gains through automation typically mean
+that fewer humans are required for the same output. This does not
+necessarily imply a loss of overall employment, however, because
+available wealth increases and that can increase demand sufficiently
+to counteract the productivity gain. In the long run, higher
+productivity in industrial societies has led to more wealth overall.
+Major labour market disruptions have occurred in the past, e.g.,
+farming employed over 60% of the workforce in Europe and North-America
+in 1800, while by 2010 it employed ca. 5% in the EU, and even less in
+the wealthiest countries (European Commission 2013). In the 20 years
+between 1950 and 1970 the number of hired agricultural workers in the
+UK was reduced by 50% (Zayed and Loft 2019). Some of these disruptions
+lead to more labour-intensive industries moving to places with lower
+labour cost. This is an ongoing process.
+Classic automation replaced human muscle, whereas digital automation
+replaces human thought or information-processing—and unlike
+physical machines, digital automation is very cheap to duplicate
+(Bostrom and Yudkowsky 2014). It may thus mean a more radical change
+on the labour market. So, the main question is: will the effects be
+different this time? Will the creation of new jobs and wealth keep up
+with the destruction of jobs? And even if it is not
+different, what are the transition costs, and who bears them? Do we
+need to make societal adjustments for a fair distribution of costs and
+benefits of digital automation?
+Responses to the issue of unemployment from AI have ranged from the
+alarmed (Frey and Osborne 2013; Westlake 2014) to the neutral
+(Metcalf, Keller, and Boyd 2016 [OIR]; Calo 2018; Frey 2019) to the
+optimistic (Brynjolfsson and McAfee 2016; Harari 2016; Danaher 2019a).
+In principle, the labour market effect of automation seems to be
+fairly well understood as involving two channels: 
+(i) the nature of interactions between differently skilled workers and
+new technologies affecting labour demand and (ii) the equilibrium
+effects of technological progress through consequent changes in labour
+supply and product markets. (Goos 2018: 362) 
+What currently seems to happen in the labour market as a result of AI
+and robotics automation is “job polarisation” or the
+“dumbbell” shape (Goos, Manning, and Salomons 2009): The
+highly skilled technical jobs are in demand and highly paid, the low
+skilled service jobs are in demand and badly paid, but the
+mid-qualification jobs in factories and offices, i.e., the majority of
+jobs, are under pressure and reduced because they are relatively
+predictable, and most likely to be automated (Baldwin 2019).
+Perhaps enormous productivity gains will allow the “age of
+leisure” to be realised, something (Keynes 1930) had predicted
+to occur around 2030, assuming a growth rate of 1% per annum.
+Actually, we have already reached the level he anticipated for 2030,
+but we are still working—consuming more and inventing ever more
+levels of organisation. Harari explains how this economic development
+allowed humanity to overcome hunger, disease, and war—and now we
+aim for immortality and eternal bliss through AI, thus his title
+Homo Deus (Harari 2016: 75).
+In general terms, the issue of unemployment is an issue of how goods
+in a society should be justly distributed. A standard view is that
+distributive justice should be rationally decided from behind a
+“veil of ignorance” (Rawls 1971), i.e., as if one does not
+know what position in a society one would actually be taking (labourer
+or industrialist, etc.). Rawls thought the chosen principles would
+then support basic liberties and a distribution that is of greatest
+benefit to the least-advantaged members of society. It would appear
+that the AI economy has three features that make such justice
+unlikely: First, it operates in a largely unregulated environment
+where responsibility is often hard to allocate. Second, it operates in
+markets that have a “winner takes all” feature where
+monopolies develop quickly. Third, the “new economy” of
+the digital service industries is based on intangible assets, also
+called “capitalism without capital” (Haskel and Westlake
+2017). This means that it is difficult to control multinational
+digital corporations that do not rely on a physical plant in a
+particular location. These three features seem to suggest that if we
+leave the distribution of wealth to free market forces, the result
+would be a heavily unjust distribution: And this is indeed a
+development that we can already see.
+One interesting question that has not received too much attention is
+whether the development of AI is environmentally sustainable: Like all
+computing systems, AI systems produce waste that is very hard to
+recycle and they consume vast amounts of energy, especially for the
+training of machine learning systems (and even for the
+“mining” of cryptocurrency). Again, it appears that some
+actors in this space offload such costs to the general society.
+There are several notions of autonomy in the discussion of autonomous
+systems. A stronger notion is involved in philosophical debates where
+autonomy is the basis for responsibility and personhood (Christman
+2003 [2018]). In this context, responsibility implies autonomy, but
+not inversely, so there can be systems that have degrees of technical
+autonomy without raising issues of responsibility. The weaker, more
+technical, notion of autonomy in robotics is relative and gradual: A
+system is said to be autonomous with respect to human control to a
+certain degree (Müller 2012). There is a parallel here to the
+issues of bias and opacity in AI since autonomy also concerns a
+power-relation: who is in control, and who is responsible?
+Generally speaking, one question is the degree to which autonomous
+robots raise issues our present conceptual schemes must adapt to, or
+whether they just require technical adjustments. In most
+jurisdictions, there is a sophisticated system of civil and criminal
+liability to resolve such issues. Technical standards, e.g., for the
+safe use of machinery in medical environments, will likely need to be
+adjusted. There is already a field of “verifiable AI” for
+such safety-critical systems and for “security
+applications”. Bodies like the IEEE (The Institute of Electrical
+and Electronics Engineers) and the BSI (British Standards Institution)
+have produced “standards”, particularly on more technical
+sub-problems, such as data security and transparency. Among the many
+autonomous systems on land, on water, under water, in air or space, we
+discuss two samples: autonomous vehicles and autonomous weapons.
+Autonomous vehicles hold the promise to reduce the very significant
+damage that human driving currently causes—approximately 1
+million humans being killed per year, many more injured, the
+environment polluted, earth sealed with concrete and tarmac, cities
+full of parked cars, etc. However, there seem to be questions on how
+autonomous vehicles should behave, and how responsibility and risk
+should be distributed in the complicated system the vehicles operates
+in. (There is also significant disagreement over how long the
+development of fully autonomous, or “level 5” cars (SAE
+International 2018) will actually take.)
+There is some discussion of “trolley problems” in this
+context. In the classic “trolley problems” (Thomson 1976;
+Woollard and Howard-Snyder 2016: section 2) various dilemmas are
+presented. The simplest version is that of a trolley train on a track
+that is heading towards five people and will kill them, unless the
+train is diverted onto a side track, but on that track there is one
+person, who will be killed if the train takes that side track. The
+example goes back to a remark in (Foot 1967: 6), who discusses a
+number of dilemma cases where tolerated and intended consequences of
+an action differ. “Trolley problems” are not supposed to
+describe actual ethical problems or to be solved with a
+“right” choice. Rather, they are thought-experiments where
+choice is artificially constrained to a small finite number of
+distinct one-off options and where the agent has perfect knowledge.
+These problems are used as a theoretical tool to investigate ethical
+intuitions and theories—especially the difference between
+actively doing vs. allowing something to happen, intended vs.
+tolerated consequences, and consequentialist vs. other normative
+approaches (Kamm 2016). This type of problem has reminded many of the
+problems encountered in actual driving and in autonomous driving (Lin
+2016). It is doubtful, however, that an actual driver or autonomous
+car will ever have to solve trolley problems (but see Keeling 2020).
+While autonomous car trolley problems have received a lot of media
+attention (Awad et al. 2018), they do not seem to offer anything new
+to either ethical theory or to the programming of autonomous
+vehicles.
+The more common ethical problems in driving, such as speeding, risky
+overtaking, not keeping a safe distance, etc. are classic problems of
+pursuing personal interest vs. the common good. The vast majority of
+these are covered by legal regulations on driving. Programming the car
+to drive “by the rules” rather than “by the interest
+of the passengers” or “to achieve maximum utility”
+is thus deflated to a standard problem of programming ethical machines
+(see
+ section 2.9).
+ There are probably additional discretionary rules of politeness and
+interesting questions on when to break the rules (Lin 2016), but again
+this seems to be more a case of applying standard considerations
+(rules vs. utility) to the case of autonomous vehicles.
+Notable policy efforts in this field include the report (German
+Federal Ministry of Transport and Digital Infrastructure 2017), which
+stresses that safety is the primary objective. Rule 10 states
+In the case of automated and connected driving systems, the
+accountability that was previously the sole preserve of the individual
+shifts from the motorist to the manufacturers and operators of the
+technological systems and to the bodies responsible for taking
+infrastructure, policy and legal decisions. 
+(See
+ section 2.10.1
+ below). The resulting German and EU laws on licensing automated
+driving are much more restrictive than their US counterparts where
+“testing on consumers” is a strategy used by some
+companies—without informed consent of the consumers or their
+possible victims.
+The notion of automated weapons is fairly old: 
+For example, instead of fielding simple guided missiles or remotely
+piloted vehicles, we might launch completely autonomous land, sea, and
+air vehicles capable of complex, far-ranging reconnaissance and attack
+missions. (DARPA 1983: 1) 
+This proposal was ridiculed as “fantasy” at the time
+(Dreyfus, Dreyfus, and Athanasiou 1986: ix), but it is now a reality,
+at least for more easily identifiable targets (missiles, planes,
+ships, tanks, etc.), but not for human combatants. The main arguments
+against (lethal) autonomous weapon systems (AWS or LAWS), are that
+they support extrajudicial killings, take responsibility away from
+humans, and make wars or killings more likely—for a detailed
+list of issues see Lin, Bekey, and Abney (2008: 73–86).
+It appears that lowering the hurdle to use such systems (autonomous
+vehicles, “fire-and-forget” missiles, or drones loaded
+with explosives) and reducing the probability of being held
+accountable would increase the probability of their use. The crucial
+asymmetry where one side can kill with impunity, and thus has few
+reasons not to do so, already exists in conventional drone wars with
+remote controlled weapons (e.g., US in Pakistan). It is easy to
+imagine a small drone that searches, identifies, and kills an
+individual human—or perhaps a type of human. These are the kinds
+of cases brought forward by the Campaign to Stop Killer
+Robots and other activist groups. Some seem to be equivalent to
+saying that autonomous weapons are indeed weapons …, and
+weapons kill, but we still make them in gigantic numbers. On the
+matter of accountability, autonomous weapons might make identification
+and prosecution of the responsible agents more difficult—but
+this is not clear, given the digital records that one can keep, at
+least in a conventional war. The difficulty of allocating punishment
+is sometimes called the “retribution gap” (Danaher
+2016a).
+Another question is whether using autonomous weapons in war would make
+wars worse, or make wars less bad. If robots reduce war crimes and
+crimes in war, the answer may well be positive and has been used as an
+argument in favour of these weapons (Arkin 2009; Müller 2016a)
+but also as an argument against them (Amoroso and Tamburrini 2018).
+Arguably the main threat is not the use of such weapons in
+conventional warfare, but in asymmetric conflicts or by non-state
+agents, including criminals.
+It has also been said that autonomous weapons cannot conform to
+International Humanitarian Law, which requires observance of the
+principles of distinction (between combatants and civilians),
+proportionality (of force), and military necessity (of force) in
+military conflict (A. Sharkey 2019). It is true that the distinction
+between combatants and non-combatants is hard, but the distinction
+between civilian and military ships is easy—so all this says is
+that we should not construct and use such weapons if they do violate
+Humanitarian Law. Additional concerns have been raised that being
+killed by an autonomous weapon threatens human dignity, but even the
+defenders of a ban on these weapons seem to say that these are not
+good arguments: 
+There are other weapons, and other technologies, that also compromise
+human dignity. Given this, and the ambiguities inherent in the
+concept, it is wiser to draw on several types of objections in
+arguments against AWS, and not to rely exclusively on human dignity.
+(A. Sharkey 2019)
+A lot has been made of keeping humans “in the loop” or
+“on the loop” in the military guidance on
+weapons—these ways of spelling out “meaningful
+control” are discussed in (Santoni de Sio and van den Hoven
+2018). There have been discussions about the difficulties of
+allocating responsibility for the killings of an autonomous weapon,
+and a “responsibility gap” has been suggested (esp. Rob
+Sparrow 2007), meaning that neither the human nor the machine may be
+responsible. On the other hand, we do not assume that for every event
+there is someone responsible for that event, and the real issue may
+well be the distribution of risk (Simpson and Müller 2016). Risk
+analysis (Hansson 2013) indicates it is crucial to identify who is
+exposed to risk, who is a potential beneficiary, and
+who makes the decisions (Hansson 2018: 1822–1824).
+Machine ethics is ethics for machines, for “ethical
+machines”, for machines as subjects, rather than for
+the human use of machines as objects. It is often not very
+clear whether this is supposed to cover all of AI ethics or to be a
+part of it (Floridi and Saunders 2004; Moor 2006; Anderson and
+Anderson 2011; Wallach and Asaro 2017). Sometimes it looks as though
+there is the (dubious) inference at play here that if machines act in
+ethically relevant ways, then we need a machine ethics. Accordingly,
+some use a broader notion: 
+machine ethics is concerned with ensuring that the behavior of
+machines toward human users, and perhaps other machines as well, is
+ethically acceptable. (Anderson and Anderson 2007: 15) 
+This might include mere matters of product safety, for example. Other
+authors sound rather ambitious but use a narrower notion: 
+AI reasoning should be able to take into account societal values,
+moral and ethical considerations; weigh the respective priorities of
+values held by different stakeholders in various multicultural
+contexts; explain its reasoning; and guarantee transparency. (Dignum
+2018: 1, 2) 
+Some of the discussion in machine ethics makes the very substantial
+assumption that machines can, in some sense, be ethical agents
+responsible for their actions, or “autonomous moral
+agents” (see van Wynsberghe and Robbins 2019). The basic idea of
+machine ethics is now finding its way into actual robotics where the
+assumption that these machines are artificial moral agents in any
+substantial sense is usually not made (Winfield et al. 2019). It is
+sometimes observed that a robot that is programmed to follow ethical
+rules can very easily be modified to follow unethical rules
+(Vanderelst and Winfield 2018).
+The idea that machine ethics might take the form of “laws”
+has famously been investigated by Isaac Asimov, who proposed
+“three laws of robotics” (Asimov 1942): 
+First Law—A robot may not injure a human being or, through
+inaction, allow a human being to come to harm. Second Law—A
+robot must obey the orders given it by human beings except where such
+orders would conflict with the First Law. Third Law—A robot must
+protect its own existence as long as such protection does not conflict
+with the First or Second Laws. 
+Asimov then showed in a number of stories how conflicts between these
+three laws will make it problematic to use them despite their
+hierarchical organisation.
+It is not clear that there is a consistent notion of “machine
+ethics” since weaker versions are in danger of reducing
+“having an ethics” to notions that would not normally be
+considered sufficient (e.g., without “reflection” or even
+without “action”); stronger notions that move towards
+artificial moral agents may describe a—currently—empty
+set.
+If
+ one takes machine ethics to concern moral agents, in some substantial
+sense, then these agents can be called “artificial moral
+agents”, having rights and responsibilities. However, the
+discussion about artificial entities challenges a number of common
+notions in ethics and it can be very useful to understand these in
+abstraction from the human case (cf. Misselhorn 2020; Powers and
+Ganascia forthcoming).
+Several authors use “artificial moral agent” in a less
+demanding sense, borrowing from the use of “agent” in
+software engineering in which case matters of responsibility and
+rights will not arise (Allen, Varner, and Zinser 2000). James Moor
+(2006) distinguishes four types of machine agents: ethical impact
+agents (e.g., robot jockeys), implicit ethical agents (e.g., safe
+autopilot), explicit ethical agents (e.g., using formal methods to
+estimate utility), and full ethical agents (who “can make
+explicit ethical judgments and generally is competent to reasonably
+justify them. An average adult human is a full ethical agent”.)
+Several ways to achieve “explicit” or “full”
+ethical agents have been proposed, via programming it in (operational
+morality), via “developing” the ethics itself (functional
+morality), and finally full-blown morality with full intelligence and
+sentience (Allen, Smit, and Wallach 2005; Moor 2006). Programmed
+agents are sometimes not considered “full” agents because
+they are “competent without comprehension”, just like the
+neurons in a brain (Dennett 2017; Hakli and Mäkelä
+2019).
+In some discussions, the notion of “moral patient” plays a
+role: Ethical agents have responsibilities while ethical
+patients have rights because harm to them matters. It seems
+clear that some entities are patients without being agents, e.g.,
+simple animals that can feel pain but cannot make justified choices.
+On the other hand, it is normally understood that all agents will also
+be patients (e.g., in a Kantian framework). Usually, being a person is
+supposed to be what makes an entity a responsible agent, someone who
+can have duties and be the object of ethical concerns. Such
+personhood is typically a deep notion associated with phenomenal consciousness, intention and free will (Frankfurt 1971; Strawson 1998). Torrance (2011) suggests “artificial (or machine)
+ethics could be defined as designing machines that do things that,
+when done by humans, are indicative of the possession of
+‘ethical status’ in those humans” (2011:
+116)—which he takes to be “ethical productivity
+and ethical receptivity” (2011: 117)—his
+expressions for moral agents and patients.
+There is broad consensus that accountability, liability, and the rule
+of law are basic requirements that must be upheld in the face of new
+technologies (European Group on Ethics in Science and New Technologies
+2018, 18), but the issue in the case of robots is how this can be done
+and how responsibility can be allocated. If the robots act, will they
+themselves be responsible, liable, or accountable for their actions?
+Or should the distribution of risk perhaps take precedence over
+discussions of responsibility?
+Traditional distribution of responsibility already occurs: A car maker
+is responsible for the technical safety of the car, a driver is
+responsible for driving, a mechanic is responsible for proper
+maintenance, the public authorities are responsible for the technical
+conditions of the roads, etc. In general 
+The effects of decisions or actions based on AI are often the result
+of countless interactions among many actors, including designers,
+developers, users, software, and hardware.… With distributed
+agency comes distributed responsibility. (Taddeo and Floridi 2018:
+751). 
+How this distribution might occur is not a problem that is specific to
+AI, but it gains particular urgency in this context (Nyholm 2018a,
+2018b). In classical control engineering, distributed control is often
+achieved through a control hierarchy plus control loops across these
+hierarchies.
+Some authors have indicated that it should be seriously considered
+whether current robots must be allocated rights (Gunkel 2018a, 2018b;
+Danaher forthcoming; Turner 2019). This position seems to rely largely
+on criticism of the opponents and on the empirical observation that
+robots and other non-persons are sometimes treated as having rights.
+In this vein, a “relational turn” has been proposed: If we
+relate to robots as though they had rights, then we might be
+well-advised not to search whether they “really” do have
+such rights (Coeckelbergh 2010, 2012, 2018). This raises the question
+how far such anti-realism or quasi-realism can go, and what it means
+then to say that “robots have rights” in a human-centred
+approach (Gerdes 2016). On the other side of the debate, Bryson has
+insisted that robots should not enjoy rights (Bryson 2010), though she
+considers it a possibility (Gunkel and Bryson 2014).
+There is a wholly separate issue whether robots (or other AI systems)
+should be given the status of “legal entities” or
+“legal persons” in a sense natural persons, but also
+states, businesses, or organisations are “entities”,
+namely they can have legal rights and duties. The European Parliament
+has considered allocating such status to robots in order to deal with
+civil liability (EU Parliament 2016; Bertolini and Aiello 2018), but
+not criminal liability—which is reserved for natural persons. It
+would also be possible to assign only a certain subset of rights and
+duties to robots. It has been said that “such legislative action
+would be morally unnecessary and legally troublesome” because it
+would not serve the interest of humans (Bryson, Diamantis, and Grant
+2017: 273). In environmental ethics there is a long-standing
+discussion about the legal rights for natural objects like trees (C.
+D. Stone 1972).
+It has also been said that the reasons for developing robots with
+rights, or artificial moral patients, in the future are ethically
+doubtful (van Wynsberghe and Robbins 2019). In the community of
+“artificial consciousness” researchers there is a
+significant concern whether it would be ethical to create such
+consciousness since creating it would presumably imply ethical
+obligations to a sentient being, e.g., not to harm it and not to end
+its existence by switching it off—some authors have called for a
+“moratorium on synthetic phenomenology” (Bentley et al.
+2018: 28f).
+In some quarters, the aim of current AI is thought to be an
+“artificial general intelligence” (AGI), contrasted to a
+technical or “narrow” AI. AGI is usually distinguished
+from traditional notions of AI as a general purpose system, and from
+Searle’s notion of “strong AI”: 
+computers given the right programs can be literally said to
+understand and have other cognitive states. (Searle 1980:
+417)
+The idea of singularity is that if the trajectory of
+artificial intelligence reaches up to systems that have a human level
+of intelligence, then these systems would themselves have the ability
+to develop AI systems that surpass the human level of intelligence,
+i.e., they are “superintelligent” (see below). Such
+superintelligent AI systems would quickly self-improve or develop even
+more intelligent systems. This sharp turn of events after reaching
+superintelligent AI is the “singularity” from which the
+development of AI is out of human control and hard to predict
+(Kurzweil 2005: 487).
+The fear that “the robots we created will take over the
+world” had captured human imagination even before there were
+computers (e.g., Butler 1863) and is the central theme in
+Čapek’s famous play that introduced the word
+“robot” (Čapek 1920). This fear was first formulated
+as a possible trajectory of existing AI into an “intelligence
+explosion” by Irvin Good: 
+Let an ultraintelligent machine be defined as a machine that can far
+surpass all the intellectual activities of any man however clever.
+Since the design of machines is one of these intellectual activities,
+an ultraintelligent machine could design even better machines; there
+would then unquestionably be an “intelligence explosion”,
+and the intelligence of man would be left far behind. Thus the first
+ultraintelligent machine is the last invention that man need ever
+make, provided that the machine is docile enough to tell us how to
+keep it under control. (Good 1965: 33)
+The optimistic argument from acceleration to singularity is spelled
+out by Kurzweil (1999, 2005, 2012) who essentially points out that
+computing power has been increasing exponentially, i.e., doubling ca.
+every 2 years since 1970 in accordance with “Moore’s
+Law” on the number of transistors, and will continue to do so
+for some time in the future. He predicted in (Kurzweil 1999) that by
+2010 supercomputers will reach human computation capacity, by 2030
+“mind uploading” will be possible, and by 2045 the
+“singularity” will occur. Kurzweil talks about an increase
+in computing power that can be purchased at a given cost—but of
+course in recent years the funds available to AI companies have also
+increased enormously: Amodei and Hernandez (2018 [OIR]) thus estimate that
+in the years 2012–2018 the actual computing power available to
+train a particular AI system doubled every 3.4 months, resulting in an
+300,000x increase—not the 7x increase that doubling every two
+years would have created.
+A common version of this argument (Chalmers 2010) talks about an
+increase in “intelligence” of the AI system (rather than
+raw computing power), but the crucial point of
+“singularity” remains the one where further development of
+AI is taken over by AI systems and accelerates beyond human level.
+Bostrom (2014) explains in some detail what would happen at that point
+and what the risks for humanity are. The discussion is summarised in
+Eden et al. (2012); Armstrong (2014); Shanahan (2015). There are
+possible paths to superintelligence other than computing power
+increase, e.g., the complete emulation of the human brain on a
+computer (Kurzweil 2012; Sandberg 2013), biological paths, or networks
+and organisations (Bostrom 2014: 22–51).
+Despite obvious weaknesses in the identification of
+“intelligence” with processing power, Kurzweil seems right
+that humans tend to underestimate the power of exponential growth.
+Mini-test: If you walked in steps in such a way that each step is
+double the previous, starting with a step of one metre, how far would
+you get with 30 steps? (answer: almost 3 times further than the
+Earth’s only permanent natural satellite.) Indeed, most progress
+in AI is readily attributable to the availability of processors that
+are faster by degrees of magnitude, larger storage, and higher
+investment (Müller 2018). The actual acceleration and its speeds
+are discussed in (Müller and Bostrom 2016; Bostrom, Dafoe, and
+Flynn forthcoming); Sandberg (2019) argues that progress will continue
+for some time.
+The participants in this debate are united by being technophiles in
+the sense that they expect technology to develop rapidly and bring
+broadly welcome changes—but beyond that, they divide into those
+who focus on benefits (e.g., Kurzweil) and those who focus on risks
+(e.g., Bostrom). Both camps sympathise with “transhuman”
+views of survival for humankind in a different physical form, e.g.,
+uploaded on a computer (Moravec 1990, 1998; Bostrom 2003a, 2003c).
+They also consider the prospects of “human enhancement” in
+various respects, including intelligence—often called
+“IA” (intelligence augmentation). It may be that future AI
+will be used for human enhancement, or will contribute further to the
+dissolution of the neatly defined human single person. Robin Hanson
+provides detailed speculation about what will happen economically in
+case human “brain emulation” enables truly intelligent
+robots or “ems” (Hanson 2016).
+The argument from superintelligence to risk requires the assumption
+that superintelligence does not imply benevolence—contrary to
+Kantian traditions in ethics that have argued higher levels of
+rationality or intelligence would go along with a better understanding
+of what is moral and better ability to act morally (Gewirth 1978;
+Chalmers 2010: 36f). Arguments for risk from superintelligence say
+that rationality and morality are entirely independent
+dimensions—this is sometimes explicitly argued for as an
+“orthogonality thesis” (Bostrom 2012; Armstrong 2013;
+Bostrom 2014: 105–109).
+Criticism of the singularity narrative has been raised from various
+angles. Kurzweil and Bostrom seem to assume that intelligence is a
+one-dimensional property and that the set of intelligent agents is
+totally-ordered in the mathematical sense—but neither discusses
+intelligence at any length in their books. Generally, it is fair to
+say that despite some efforts, the assumptions made in the powerful
+narrative of superintelligence and singularity have not been
+investigated in detail. One question is whether such a singularity
+will ever occur—it may be conceptually impossible, practically
+impossible or may just not happen because of contingent events,
+including people actively preventing it. Philosophically, the
+interesting question is whether singularity is just a
+“myth” (Floridi 2016; Ganascia 2017), and not on the
+trajectory of actual AI research. This is something that practitioners
+often assume (e.g., Brooks 2017 [OIR]). They may do so because they fear the
+public relations backlash, because they overestimate the practical
+problems, or because they have good reasons to think that
+superintelligence is an unlikely outcome of current AI research
+(Müller forthcoming-a). This discussion raises the question
+whether the concern about “singularity” is just a
+narrative about fictional AI based on human fears. But even if one
+does find negative reasons compelling and the singularity not
+likely to occur, there is still a significant possibility that one may
+turn out to be wrong. Philosophy is not on the “secure path of a
+science” (Kant 1791: B15), and maybe AI and robotics
+aren’t either (Müller 2020). So, it appears that discussing
+the very high-impact risk of singularity has justification even
+if one thinks the probability of such singularity ever occurring
+is very low.
+Thinking about superintelligence in the long term raises the question
+whether superintelligence may lead to the extinction of the human
+species, which is called an “existential risk” (or XRisk):
+The superintelligent systems may well have preferences that conflict
+with the existence of humans on Earth, and may thus decide to end that
+existence—and given their superior intelligence, they will have
+the power to do so (or they may happen to end it because they do not
+really care).
+Thinking in the long term is the crucial feature of this literature.
+Whether the singularity (or another catastrophic event) occurs in 30
+or 300 or 3000 years does not really matter (Baum et al. 2019).
+Perhaps there is even an astronomical pattern such that an intelligent
+species is bound to discover AI at some point, and thus bring about
+its own demise. Such a “great filter” would contribute to
+the explanation of the “Fermi paradox” why there is no
+sign of life in the known universe despite the high probability of it
+emerging. It would be bad news if we found out that the “great
+filter” is ahead of us, rather than an obstacle that Earth has
+already passed. These issues are sometimes taken more narrowly to be
+about human extinction (Bostrom 2013), or more broadly as concerning
+any large risk for the species (Rees 2018)—of which AI is only
+one (Häggström 2016; Ord 2020). Bostrom also uses the
+category of “global catastrophic risk” for risks that are
+sufficiently high up the two dimensions of “scope” and
+“severity” (Bostrom and Ćirković 2011; Bostrom
+2013).
+These discussions of risk are usually not connected to the general
+problem of ethics under risk (e.g., Hansson 2013, 2018). The long-term
+view has its own methodological challenges but has produced a wide
+discussion: (Tegmark 2017) focuses on AI and human life
+“3.0” after singularity while Russell, Dewey, and Tegmark
+(2015) and Bostrom, Dafoe, and Flynn (forthcoming) survey longer-term
+policy issues in ethical AI. Several collections of papers have
+investigated the risks of artificial general intelligence (AGI) and
+the factors that might make this development more or less risk-laden
+(Müller 2016b; Callaghan et al. 2017; Yampolskiy 2018), including
+the development of non-agent AI (Drexler 2019).
+In a narrow sense, the “control problem” is how we humans
+can remain in control of an AI system once it is superintelligent
+(Bostrom 2014: 127ff). In a wider sense, it is the problem of how we
+can make sure an AI system will turn out to be positive according to
+human perception (Russell 2019); this is sometimes called “value
+alignment”. How easy or hard it is to control a
+superintelligence depends significantly on the speed of
+“take-off” to a superintelligent system. This has led to
+particular attention to systems with self-improvement, such as
+AlphaZero (Silver et al. 2018).
+One aspect of this problem is that we might decide a certain feature
+is desirable, but then find out that it has unforeseen consequences
+that are so negative that we would not desire that feature after all.
+This is the ancient problem of King Midas who wished that all he
+touched would turn into gold. This problem has been discussed on the
+occasion of various examples, such as the “paperclip
+maximiser” (Bostrom 2003b), or the program to optimise chess
+performance (Omohundro 2014).
+Discussions about superintelligence include speculation about
+omniscient beings, the radical changes on a “latter day”,
+and the promise of immortality through transcendence of our current
+bodily form—so sometimes they have clear religious undertones
+(Capurro 1993; Geraci 2008, 2010; O’Connell 2017: 160ff). These
+issues also pose a well-known problem of epistemology: Can we know the
+ways of the omniscient (Danaher 2015)? The usual opponents have
+already shown up: A characteristic response of an atheist is 
+People worry that computers will get too smart and take over the
+world, but the real problem is that they’re too stupid and
+they’ve already taken over the world (Domingos 2015) 
+The new nihilists explain that a “techno-hypnosis” through
+information technologies has now become our main method of distraction
+from the loss of meaning (Gertz 2018). Both opponents would thus say
+we need an ethics for the “small” problems that occur with
+actual AI and robotics 
+ (sections 2.1 through 2.9 above), 
+ and that there is less need for the “big ethics” of
+existential risk from AI (section 2.10).
+The singularity thus raises the problem of the concept of AI again. It
+is remarkable how imagination or “vision” has played a
+central role since the very beginning of the discipline at the
+“Dartmouth Summer Research Project” (McCarthy et al. 1955 [OIR];
+Simon and Newell 1958). And the evaluation of this vision is subject
+to dramatic change: In a few decades, we went from the slogans
+“AI is impossible” (Dreyfus 1972) and “AI is just
+automation” (Lighthill 1973) to “AI will solve all
+problems” (Kurzweil 1999) and “AI may kill us all”
+(Bostrom 2014). This created media attention and public relations
+efforts, but it also raises the problem of how much of this
+“philosophy and ethics of AI” is really about AI rather
+than about an imagined technology. As we said at the outset, AI and
+robotics have raised fundamental questions about what we should do
+with these systems, what the systems themselves should do, and what
+risks they have in the long term. They also challenge the human view
+of humanity as the intelligent and dominant species on Earth. We have
+seen issues that have been raised and will have to watch technological
+and social developments closely to catch the new issues early on,
+develop a philosophical analysis, and learn for traditional problems
+of philosophy.
