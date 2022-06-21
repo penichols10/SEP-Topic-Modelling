@@ -1,0 +1,1 @@
+In this notebook, a random sample of documents are analyzed to find topics within the corpus. Topics are found using latent Dirichlet allocation. The number of topics to find is determined by calculating coherence metrics and using the elbow method. TOpics are labeled by hand. The data was obtained using a web scraping algorithm contained in the repository.

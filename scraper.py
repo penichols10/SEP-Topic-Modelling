@@ -11,6 +11,11 @@ directory = 'pages//'
 docs = []
 
 def clean_filename(filename):
+    '''
+    Removes problematic characters from the filename.
+    Parameters: filename
+    Returns: filename with non-unicode characters,  "‘" and "/" removed.
+    '''
     filename = unidecode(filename)
     bad_chars = ['‘', '\'']
     for char in bad_chars:
